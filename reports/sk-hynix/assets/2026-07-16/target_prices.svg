@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="424" viewBox="0 0 760 424" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
+<rect width="760" height="424" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+<text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">증권사 목표주가 vs 현재가</text>
+<text x="24" y="54" font-size="12" fill="#52514e">2026년 7월 제시 기준, 원.</text>
+<text x="120" y="101.0" font-size="12" fill="#0b0b0b" text-anchor="end">KB증권</text>
+<path d="M130,84 h499.7735849056603 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-499.7735849056603 z" fill="#2a78d6" opacity="1.0"/>
+<text x="641.8" y="101.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">420만</text>
+<text x="120" y="139.0" font-size="12" fill="#0b0b0b" text-anchor="end">NH투자증권</text>
+<path d="M130,122 h487.77897574123995 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-487.77897574123995 z" fill="#2a78d6" opacity="1.0"/>
+<text x="629.8" y="139.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">410만</text>
+<text x="120" y="177.0" font-size="12" fill="#0b0b0b" text-anchor="end">IBK투자증권</text>
+<path d="M130,160 h475.78436657681937 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-475.78436657681937 z" fill="#2a78d6" opacity="1.0"/>
+<text x="617.8" y="177.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">400만</text>
+<text x="120" y="215.0" font-size="12" fill="#0b0b0b" text-anchor="end">교보증권</text>
+<path d="M130,198 h475.78436657681937 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-475.78436657681937 z" fill="#2a78d6" opacity="1.0"/>
+<text x="617.8" y="215.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">400만</text>
+<text x="120" y="253.0" font-size="12" fill="#0b0b0b" text-anchor="end">신한투자증권</text>
+<path d="M130,236 h451.79514824797843 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-451.79514824797843 z" fill="#2a78d6" opacity="1.0"/>
+<text x="593.8" y="253.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">380만</text>
+<text x="120" y="291.0" font-size="12" fill="#0b0b0b" text-anchor="end">한국투자증권</text>
+<path d="M130,274 h451.79514824797843 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-451.79514824797843 z" fill="#2a78d6" opacity="1.0"/>
+<text x="593.8" y="291.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">380만</text>
+<text x="120" y="329.0" font-size="12" fill="#0b0b0b" text-anchor="end">BNK투자증권</text>
+<path d="M130,312 h217.90026954177898 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-217.90026954177898 z" fill="#2a78d6" opacity="1.0"/>
+<text x="359.9" y="329.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">185만 (보유)</text>
+<line x1="130" y1="78" x2="130" y2="348" stroke="#c3c2b7" stroke-width="1"/>
+<line x1="379.7" y1="78" x2="379.7" y2="348" stroke="#0b0b0b" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="379.7" y="366" font-size="11" font-weight="600" fill="#0b0b0b" text-anchor="middle">현재가 208만</text>
+<line x1="510.9" y1="78" x2="510.9" y2="348" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="510.9" y="366" font-size="11" font-weight="600" fill="#898781" text-anchor="middle">컨센서스 318만</text>
+<text x="24" y="410" font-size="10.5" fill="#898781">출처: 뉴스핌(KB)·다음뉴스(NH/IBK/교보/신한/한투)·인베스트조선(BNK)·Investing.com(컨센서스)</text>
+</svg>

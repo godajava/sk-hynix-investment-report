@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
+<rect width="760" height="400" fill="#1a1a19" stroke="rgba(11,11,11,0.10)"/>
+<text x="24" y="34" font-size="17" font-weight="700" fill="#ffffff">3개월 주가 추세 (4/23 ~ 7/14)</text>
+<text x="24" y="54" font-size="12" fill="#c3c2b7">보도 확인 종가 앵커 기준, 원. 흰 마커는 역산치. 점선은 선형 추세선.</text>
+<line x1="88" y1="312.5" x2="724" y2="312.5" stroke="#2c2c2a" stroke-width="1"/>
+<text x="80" y="316.5" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">160만</text>
+<line x1="88" y1="259.4" x2="724" y2="259.4" stroke="#2c2c2a" stroke-width="1"/>
+<text x="80" y="263.4" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">180만</text>
+<line x1="88" y1="206.2" x2="724" y2="206.2" stroke="#2c2c2a" stroke-width="1"/>
+<text x="80" y="210.2" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">200만</text>
+<line x1="88" y1="153.1" x2="724" y2="153.1" stroke="#2c2c2a" stroke-width="1"/>
+<text x="80" y="157.1" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">220만</text>
+<line x1="88" y1="100.0" x2="724" y2="100.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="80" y="104.0" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">240만</text>
+<line x1="88" y1="336" x2="724" y2="336" stroke="#383835" stroke-width="1"/>
+<path d="M88.0,289.0 L724.0,168.3" fill="none" stroke="#008300" stroke-width="2" stroke-dasharray="7 5"/>
+<path d="M88.0,314.9 L196.6,298.1 L227.6,238.1 L421.5,187.6 L630.9,176.2 L638.7,115.1 L669.7,152.0 L677.5,186.0 L685.2,156.8 L693.0,158.4 L716.2,247.4 L724.0,229.3" fill="none" stroke="#3987e5" stroke-width="2"/>
+<circle cx="88.0" cy="314.9" r="4.5" fill="#1a1a19" stroke="#3987e5" stroke-width="2"/>
+<text x="88.0" y="356" font-size="11" fill="#898781" text-anchor="middle">4/23</text>
+<text x="88.0" y="336.9" font-size="11.5" font-weight="600" fill="#c3c2b7" text-anchor="middle" style="font-variant-numeric:tabular-nums">159만</text>
+<circle cx="196.6" cy="298.1" r="4.5" fill="#3987e5" stroke="#3987e5" stroke-width="2"/>
+<text x="196.6" y="356" font-size="11" fill="#898781" text-anchor="middle">5/7</text>
+<circle cx="227.6" cy="238.1" r="4.5" fill="#3987e5" stroke="#3987e5" stroke-width="2"/>
+<circle cx="421.5" cy="187.6" r="4.5" fill="#3987e5" stroke="#3987e5" stroke-width="2"/>
+<text x="421.5" y="356" font-size="11" fill="#898781" text-anchor="middle">6/5</text>
+<circle cx="630.9" cy="176.2" r="4.5" fill="#1a1a19" stroke="#3987e5" stroke-width="2"/>
+<text x="630.9" y="356" font-size="11" fill="#898781" text-anchor="middle">7/2</text>
+<circle cx="638.7" cy="115.1" r="4.5" fill="#1a1a19" stroke="#3987e5" stroke-width="2"/>
+<text x="638.7" y="103.1" font-size="11.5" font-weight="600" fill="#c3c2b7" text-anchor="middle" style="font-variant-numeric:tabular-nums">234만</text>
+<circle cx="669.7" cy="152.0" r="4.5" fill="#3987e5" stroke="#3987e5" stroke-width="2"/>
+<circle cx="677.5" cy="186.0" r="4.5" fill="#3987e5" stroke="#3987e5" stroke-width="2"/>
+<circle cx="685.2" cy="156.8" r="4.5" fill="#3987e5" stroke="#3987e5" stroke-width="2"/>
+<circle cx="693.0" cy="158.4" r="4.5" fill="#1a1a19" stroke="#3987e5" stroke-width="2"/>
+<circle cx="716.2" cy="247.4" r="4.5" fill="#3987e5" stroke="#3987e5" stroke-width="2"/>
+<circle cx="724.0" cy="229.3" r="4.5" fill="#3987e5" stroke="#3987e5" stroke-width="2"/>
+<text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/14</text>
+<text x="724.0" y="217.3" font-size="11.5" font-weight="600" fill="#c3c2b7" text-anchor="middle" style="font-variant-numeric:tabular-nums">191만</text>
+<line x1="424" y1="66" x2="446" y2="66" stroke="#3987e5" stroke-width="2"/>
+<text x="452" y="70" font-size="11" fill="#c3c2b7">종가(앵커)</text>
+<line x1="524" y1="66" x2="546" y2="66" stroke="#008300" stroke-width="2" stroke-dasharray="7 5"/>
+<text x="552" y="70" font-size="11" fill="#c3c2b7">추세선 기울기: 일 +0.6만 원</text>
+<text x="24" y="386" font-size="10.5" fill="#898781">출처: TradersUnion(4/23)·Investing(5/7)·토큰포스트(5/11)·파이낸셜투데이(6/5)·7월 보도 종합</text>
+</svg>

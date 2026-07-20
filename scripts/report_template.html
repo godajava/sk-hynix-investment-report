@@ -1,0 +1,383 @@
+<title>SK하이닉스 투자 리포트</title>
+<style>
+/* 다크 전용 테마 (사용자 지정) — 아티팩트 테마 토글과 무관하게 다크 유지 */
+:root {
+  color-scheme: dark;
+  --bg: #101114;
+  --paper: #1a1c20;
+  --ink: #e9e7e2;
+  --ink-2: #b8b7b2;
+  --muted: #8e8d90;
+  --hairline: #2d2f34;
+  --hairline-strong: #43454b;
+  --accent: #74a9e8;
+  --up: #e0716b;
+  --up-bg: rgba(224,113,107,0.13);
+  --down: #6ea3e2;
+  --down-bg: rgba(110,163,226,0.13);
+  --neutral-bg: rgba(142,141,144,0.16);
+  --chart-card: #1a1a19;
+}
+body {
+  background: var(--bg); color: var(--ink);
+  font-family: "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", system-ui, sans-serif;
+  font-size: 15px; line-height: 1.7; margin: 0;
+}
+.sheet { max-width: 880px; margin: 0 auto; padding: 40px 20px 72px; }
+.paper {
+  background: var(--paper); border: 1px solid var(--hairline);
+  border-top: 3px solid var(--accent); padding: 44px 48px 56px;
+}
+@media (max-width: 640px) { .paper { padding: 28px 20px 40px; } }
+
+/* ── 마스트헤드 ── */
+.eyebrow {
+  display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: baseline;
+  font-size: 12px; letter-spacing: 0.08em; color: var(--muted);
+  padding-bottom: 14px; border-bottom: 1px solid var(--hairline-strong);
+}
+.eyebrow b { color: var(--accent); font-weight: 700; }
+h1 {
+  font-size: 26px; font-weight: 800; letter-spacing: -0.01em;
+  line-height: 1.35; margin: 22px 0 6px; text-wrap: balance;
+}
+.ticker { font-size: 14px; color: var(--ink-2); margin: 0 0 26px; }
+.ticker span { color: var(--muted); }
+
+/* ── 핵심 스탯 스트립 ── */
+.stats {
+  display: grid; grid-template-columns: repeat(5, 1fr);
+  border: 1px solid var(--hairline-strong); margin-bottom: 8px;
+}
+.stats > div { padding: 14px 16px 12px; border-left: 1px solid var(--hairline); }
+.stats > div:first-child { border-left: none; }
+.stats .k { font-size: 11px; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 4px; }
+.stats .v { font-size: 19px; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1.3; }
+.stats .v small { font-size: 12px; font-weight: 500; color: var(--ink-2); }
+.rating { color: var(--up); }
+@media (max-width: 640px) {
+  .stats { grid-template-columns: repeat(2, 1fr); }
+  .stats > div { border-top: 1px solid var(--hairline); }
+  .stats > div:nth-child(-n+2) { border-top: none; }
+  .stats > div:nth-child(odd) { border-left: none; }
+}
+.asof { font-size: 12px; color: var(--muted); margin-bottom: 40px; }
+
+/* ── 섹션 ── */
+section { margin-bottom: 44px; }
+h2 {
+  display: flex; align-items: baseline; gap: 10px;
+  font-size: 19px; font-weight: 800; letter-spacing: -0.01em;
+  margin: 0 0 16px; padding-bottom: 10px; border-bottom: 1px solid var(--hairline-strong);
+}
+h2 .no { font-size: 12px; font-weight: 700; color: var(--accent); letter-spacing: 0.1em; }
+p { margin: 0 0 12px; max-width: 66ch; }
+ul { margin: 0 0 12px; padding-left: 20px; }
+li { margin-bottom: 8px; }
+li::marker { color: var(--accent); }
+strong { font-weight: 700; }
+a { color: var(--accent); text-decoration: none; }
+a:hover, a:focus-visible { text-decoration: underline; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* ── 차트 카드 ── */
+.chart {
+  background: var(--chart-card); border: 1px solid var(--hairline-strong);
+  padding: 6px; margin: 18px 0; overflow-x: auto;
+}
+.chart + .chart { margin-top: 14px; }
+.chart svg { display: block; max-width: 100%; height: auto; }
+
+/* ── 테이블 ── */
+.tablewrap { overflow-x: auto; margin: 14px 0; }
+table { border-collapse: collapse; width: 100%; font-size: 13.5px; }
+th {
+  text-align: left; font-size: 12px; letter-spacing: 0.04em; color: var(--muted);
+  font-weight: 600; padding: 8px 12px; border-bottom: 1px solid var(--hairline-strong);
+  white-space: nowrap;
+}
+td { padding: 9px 12px; border-bottom: 1px solid var(--hairline); vertical-align: top; }
+td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+.bullbear td:first-child { border-right: 1px solid var(--hairline); }
+
+/* ── 뉴스 리스트 ── */
+ol.news { list-style: none; margin: 0; padding: 0; counter-reset: n; }
+ol.news li {
+  counter-increment: n; display: grid; grid-template-columns: 28px 1fr;
+  gap: 12px; padding: 14px 0; border-bottom: 1px solid var(--hairline); margin: 0;
+}
+ol.news li::before {
+  content: counter(n, decimal-leading-zero);
+  font-size: 12px; font-weight: 700; color: var(--accent);
+  font-variant-numeric: tabular-nums; padding-top: 3px;
+}
+.news h3 { font-size: 15px; font-weight: 700; margin: 0 0 4px; display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
+.news p { font-size: 14px; color: var(--ink-2); margin: 0; }
+.chip {
+  font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 3px; white-space: nowrap;
+}
+.chip.up { color: var(--up); background: var(--up-bg); }
+.chip.down { color: var(--down); background: var(--down-bg); }
+.chip.flat { color: var(--muted); background: var(--neutral-bg); }
+
+/* ── 투자 판단 ── */
+.verdict {
+  border: 1px solid var(--hairline-strong); border-left: 4px solid var(--up);
+  padding: 20px 24px; margin-top: 4px;
+}
+.verdict .head { font-size: 21px; font-weight: 800; margin-bottom: 12px; }
+.verdict .head em { font-style: normal; color: var(--up); }
+.verdict .head small { font-size: 13px; font-weight: 500; color: var(--ink-2); }
+
+footer {
+  margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--hairline-strong);
+  font-size: 12px; color: var(--muted); line-height: 1.8;
+}
+
+/* ── 툴바 (새로고침·실시간 시세) ── */
+.toolbar {
+  display: flex; flex-wrap: wrap; align-items: center; gap: 10px;
+  margin: 0 0 26px; padding: 12px 14px;
+  border: 1px solid var(--hairline); background: rgba(116,169,232,0.05);
+}
+.toolbar .note { font-size: 12px; color: var(--muted); margin-left: auto; }
+button.refresh {
+  font: inherit; font-size: 13px; font-weight: 700; color: var(--accent);
+  background: none; border: 1px solid var(--accent); border-radius: 3px;
+  padding: 6px 14px; cursor: pointer;
+}
+button.refresh:hover { background: rgba(116,169,232,0.12); }
+button.refresh:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.livelink {
+  font-size: 12.5px; font-weight: 600; padding: 6px 12px;
+  border: 1px solid var(--hairline-strong); border-radius: 3px; color: var(--ink-2);
+}
+.livelink:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+@media (prefers-reduced-motion: no-preference) {
+  button.refresh:active { transform: scale(0.97); }
+}
+</style>
+
+<div class="sheet"><div class="paper">
+
+<div class="eyebrow">
+  <b>Company Report</b><span>반도체 / 메모리</span><span>2026-07-20 (월)</span>
+  <span style="margin-left:auto">sk-hynix-analyst · 매일 09:00 KST 갱신</span>
+</div>
+
+<h1>ADR 프리미엄 25%와 7/29 상호전환 — 갭 재료 위에서 여는 한 주</h1>
+<p class="ticker"><strong>SK하이닉스</strong> <span>KRX 000660 · NASDAQ 상장(7/10)</span></p>
+
+<div class="stats">
+  <div><div class="k">투자의견</div><div class="v">중립 <small>(유지)</small></div></div>
+  <div><div class="k">현재가 <small id="live-when">(7/16 종가)</small></div><div class="v"><span id="live-price">184.2</span><small>만 원</small> <span id="live-chg" style="font-size:12.5px;font-weight:700"></span></div></div>
+  <div><div class="k">컨센서스 목표가 <small>(37개사)</small></div><div class="v">317.6<small>만 원</small></div></div>
+  <div><div class="k">상승여력</div><div class="v">+72.4%</div></div>
+  <div><div class="k">차기 촉매</div><div class="v" style="font-size:15px">7/29 실적+ADR 전환</div></div>
+</div>
+<p class="asof">작성 2026-07-20 09:15 KST · 정적 수치는 7/16 종가 기준, 개장 후 현재가는 장중 자동 갱신 · 본 자료는 정보 제공 목적이며 투자 권유가 아닙니다</p>
+
+<div class="toolbar">
+  <button class="refresh" type="button" onclick="location.reload()">↻ 새로고침</button>
+  <a class="livelink" href="https://finance.naver.com/item/main.naver?code=000660" target="_blank" rel="noopener">네이버 금융 실시간 시세 ↗</a>
+  <a class="livelink" href="https://www.tossinvest.com/stocks/A000660/order" target="_blank" rel="noopener">토스증권 ↗</a>
+  <span class="note" id="live-note">리포트는 매일 09:00 KST 자동 갱신 · 장중에는 현재가가 10분 간격으로 자동 반영됩니다</span>
+</div>
+
+<section>
+<h2><span class="no">CHART</span>기술적 분석 차트 <small style="font-size:12px;font-weight:500;color:var(--muted)">장중 10분 간격 자동 갱신 · 장 마감 후 확정 봉 반영</small></h2>
+__TECH_CHARTS__
+</section>
+
+<section>
+<h2><span class="no">01</span>투자 요약</h2>
+<ul>
+  <li><strong>ADR이 본주 대비 25% 프리미엄.</strong> 미국 반도체 약세 속에서도 ADR(7/17 현지 $154.03)은 본주(184.2만 원) 대비 <strong>+24.6% 프리미엄</strong> — 거꾸로 읽으면 본주가 상대적으로 싸다는 신호로, 외국인의 본주 매수 유인입니다.</li>
+  <li><strong>7/29부터 본주↔ADR 상호전환 개시.</strong> 실적 발표와 같은 날 괴리 축소 메커니즘이 가동됩니다. 단 추가 공모 없이는 전환 한도가 2.5% 수준이라 완전 수렴은 어렵다는 반론도 있습니다.</li>
+  <li><strong>ADR 절대가는 이틀 연속 하락.</strong> $176.46(7/15) → $154.03(7/17 현지), −12.7%. 프리미엄 확대는 본주가 더 크게 빠진 결과이기도 합니다.</li>
+  <li><strong>결론: 중립 유지.</strong> 갭업 재료(프리미엄 수렴 압력·ETF 편입)와 부담 재료(ADR 절대가 하락·AI 캐펙스 논쟁)가 병존 — 7/29 이중 이벤트 전까지 관망 기조를 유지합니다.</li>
+</ul>
+</section>
+
+<section>
+<h2><span class="no">02</span>주가 동향</h2>
+<p>3개월 큰 그림(위 일봉 캔들차트)은 4월 이후 상승 사이클이 6월 말 고점(298만 원 부근)에서 꺾인 뒤 <strong>고점 대비 −38% 조정</strong> 구간입니다. 7월 들어 급락(7/13)-반등(7/14~15)-재급락(7/16)의 톱니 장세가 이어지며 방향성을 잃었고, 7/29 실적 발표가 1차 분기점입니다.</p>
+<div class="chart">__PRICE_TREND__</div>
+
+<div class="tablewrap">
+<table>
+  <tr><th colspan="6">전일 상세 시세 — 7/16 (목) · 출처: 야후 파이낸스</th></tr>
+  <tr><th>시가</th><th>고가</th><th>저가</th><th>종가</th><th>등락</th><th>거래량</th></tr>
+  <tr>
+    <td class="num">₩1,902,000</td><td class="num">₩1,919,000</td><td class="num">₩1,821,000</td>
+    <td class="num">₩1,842,000</td><td class="num" style="color:var(--down)">−11.53%</td>
+    <td class="num">6,380,544주</td>
+  </tr>
+</table>
+</div>
+<p>갭 하락 출발(−8.6%) 후 반등 시도 없이 저가권에서 마감 — 전일 "위꼬리(차익 매물)" 경고가 하루 만에 현실화됐습니다. <strong>장중 저가 182.1만은 7월 조정의 새 저점</strong>이며, 종가 기준으로도 7/13 저점(184.5만)을 이탈했습니다.</p>
+
+<div class="tablewrap">
+<table>
+  <tr><th colspan="3">기술적 지표 — 일봉 기준 <span id="ti-when" style="font-weight:400">· 2026-07-16 종가 기준</span></th></tr>
+  <tr><th style="width:170px">지표</th><th style="width:220px">값</th><th>해석</th></tr>
+  <tr><td>MACD (12,26,9)</td><td class="num" id="ti-macd">-8.3만 / 시그널 0.1만 / 히스토그램 -8.4만</td><td id="ti-macd-read">하락 모멘텀 확대 (MACD &lt; 시그널)</td></tr>
+  <tr><td>ATR (14)</td><td class="num" id="ti-atr">24.0만 (13.0%)</td><td id="ti-atr-read">일 평균 변동폭 13.0% — 조사 이래 최고</td></tr>
+  <tr><td>ADX / DMI (14)</td><td class="num" id="ti-adx">ADX 27.5 · +DI 19.3 · -DI 37.6</td><td id="ti-adx-read">하락 추세 강화 · -DI 우위 확대</td></tr>
+  <tr><td>KDJ (9,3,3)</td><td class="num" id="ti-kdj">K 25.8 · D 23.8 · J 29.9</td><td id="ti-kdj-read">과매도 접근 · K &gt; D 유지</td></tr>
+  <tr><td>거래량 / 20일 이평</td><td class="num" id="ti-vol">638만 주 / 평균 659만 주</td><td id="ti-vol-read">20일 평균 대비 1.0배 — 투매 급증은 아님</td></tr>
+</table>
+</div>
+
+<p>7월 장세는 <strong>급락과 급반등의 V자</strong>로 요약됩니다. 나스닥 상장(7/10) 전후 수급 부담으로 7/13 하루 −15.4% 급락(184.5만 원)했으나, 바클레이스 리포트발 ADR 급등(+27.3%)을 따라 7/14 +3.7%, 7/15 +8.83%(208.2만 원)로 이틀 연속 반등하며 낙폭 대부분을 회복했습니다.</p>
+</section>
+
+<section>
+<h2><span class="no">03</span>최신 뉴스 Top 5</h2>
+<ol class="news">
+  <li><div>
+    <h3>ADR, 미 반도체 약세에도 본주 대비 +24.6% 프리미엄 <span class="chip up">호재</span></h3>
+    <p>7/17(현지) $154.03 마감. 증권가 "본주 투자 매력 부각, 외국인 유입 요인" · <a href="https://www.fnnews.com/news/202607190603462484">파이낸셜뉴스</a> · <a href="https://www.segye.com/newsView/20260719510455">세계일보</a></p>
+  </div></li>
+  <li><div>
+    <h3>7/29부터 본주↔ADR 상호전환 신청 개시 <span class="chip flat">중립</span></h3>
+    <p>예탁결제원, 실적 발표와 같은 날 가동. 괴리 축소 메커니즘 vs "추가 공모 없이는 2.5%가 한계" 반론 병존 · <a href="https://m.joseilbo.com/news/view.htm?newsid=572137">조세일보</a> · <a href="https://www.sedaily.com/article/20069178">서울경제</a></p>
+  </div></li>
+  <li><div>
+    <h3>국내 액티브 ETF, ADR 편입 확산 <span class="chip up">호재</span></h3>
+    <p>프리미엄에도 편입 수요 지속 — 수급 저변 확대 · <a href="https://www.ajunews.com/view/20260719140836467">아주경제</a></p>
+  </div></li>
+  <li><div>
+    <h3>ADR 절대가는 이틀 연속 하락 ($176.46 → $154.03) <span class="chip down">악재</span></h3>
+    <p>7/16~17(현지) 누적 −12.7% — 미 반도체 약세 여파, 상장 후 변동성 지속 · <a href="https://www.news1.kr/world/international-economy/6229654">뉴스1</a> · <a href="https://www.segye.com/newsView/20260719510455">세계일보</a></p>
+  </div></li>
+  <li><div>
+    <h3>7/29 2분기 실적 발표 (D-9) — "이중 이벤트 데이" <span class="chip flat">중립</span></h3>
+    <p>하향된 눈높이(60조 초반) 방어 + 수주·LTA 코멘트 관건. 같은 날 ADR 상호전환도 개시 · <a href="https://www.jbnews.com/news/articleView.html?idxno=1507136">중부매일</a></p>
+  </div></li>
+</ol>
+</section>
+
+<section>
+<h2><span class="no">04</span>실적 분석</h2>
+<div class="chart">__QUARTERLY__</div>
+<p>실적 축은 변한 게 없습니다 — 세 분기 연속 사상 최대, 2분기 눈높이는 60조 초반으로 하향 진행. 달라진 것은 <strong>시장이 실적이 아니라 2027년 이후 AI 수요의 지속성을 의심하기 시작했다</strong>는 점입니다. 모건스탠리의 데이터센터 취소·지연 분석이 맞다면 "공급 부족 2028년까지"라는 강세 논거의 수요 전제가 흔들립니다.</p>
+<p>7/29 실적 발표에서 회사의 <strong>수주·장기공급계약(LTA) 코멘트가 이 논쟁의 1차 판정</strong>이 됩니다. 하향된 눈높이(60조 초반) 방어 + 수요 우려 반박이 확인되면 "우려 해소" 랠리, 실패하면 조정 연장의 갈림길입니다.</p>
+</section>
+
+<section>
+<h2><span class="no">05</span>산업 동향 — HBM·NAND</h2>
+<div class="chart">__HBM__</div>
+<p style="margin-top:16px"><strong>HBM / DRAM</strong></p>
+<ul>
+  <li><strong>강세 논거 vs 새 리스크</strong> — 바클레이스(공급 부족 2027년 심화)와 모건스탠리(AI 데이터센터 취소·지연 확대)가 정면 충돌 — 수요측 논쟁 개시</li>
+  <li><strong>가격</strong> — 6월 D램 모듈 단가 +11%, HBM 단가 +12% 상승 흐름 유지</li>
+  <li><strong>경쟁</strong> — SK하이닉스 점유율 25.1Q 69% → 26.1Q 58%, 2026년 연간 50% 전망(삼성 28%, 마이크론 22%) — 독주 프리미엄은 점진적 축소</li>
+  <li><strong>차세대</strong> — 하반기 HBM4 납품 가시화, HBM3E 12단 대비 10%대 중반 가격 프리미엄 추정</li>
+</ul>
+<p style="margin-top:16px"><strong>NAND</strong></p>
+<ul>
+  <li><strong>시장 급팽창</strong> — 26년 1분기 낸드 시장 매출 전년 동기 대비 <strong>3.5배</strong>(전분기 +90%) 성장. AI 수요발 가격 상승이 견인 (<a href="https://korea.counterpointresearch.com/global-nand-memory-market-share-quarterly/">카운터포인트</a>)</li>
+  <li><strong>eSSD가 성장 축</strong> — AI 데이터센터 수요로 eSSD가 26.1Q 낸드 시장의 43% 차지, 연말 60% 이상으로 확대 전망. 공급 부족 지속</li>
+  <li><strong>가격 전망</strong> — UBS: 낸드 계약가 3분기 전분기 대비 +30%, 4분기 +12%, 인상 사이클 2027년까지 지속 (UBS 산업 조사, 7/4)</li>
+  <li><strong>점유율</strong> — 26.1Q 삼성 29% 1위, <strong>SK하이닉스 18% 2위</strong>, 키옥시아 14%. eSSD(솔리다임 포함) 라인업으로 낸드 상승 사이클의 수혜권</li>
+</ul>
+</section>
+
+<section>
+<h2><span class="no">06</span>밸류에이션 — 증권사 목표주가</h2>
+<div class="chart">__TARGETS__</div>
+<p>컨센서스(317.6만 원) 대비 괴리 <strong>+72.4%</strong>에 더해, 같은 회사 주식이 미국(ADR)에서 <strong>25% 비싸게</strong> 거래되는 이중 괴리 상태입니다. 7/29 상호전환 개시가 이 괴리의 시험대이며, 전환 한도(2.5%) 논쟁의 결론에 따라 수렴 속도가 갈립니다. BNK의 보유 의견 목표가(185만)가 현재가와 거의 일치한다는 점도 여전히 상징적입니다.</p>
+</section>
+
+<section>
+<h2><span class="no">07</span>Bull vs Bear</h2>
+<div class="tablewrap">
+<table class="bullbear">
+  <tr><th style="color:var(--up)">투자 포인트 (Bull)</th><th style="color:var(--down)">리스크 요인 (Bear)</th></tr>
+  <tr><td>HBM·NAND 가격 실측치는 여전히 상승 중</td><td>AI 캐펙스 둔화 — 수요 전제에 첫 균열 (모건스탠리)</td></tr>
+  <tr><td>컨센서스 대비 +72.4% 괴리, KDJ 과매도 접근</td><td>7/13 저점 이탈 — 하락 추세 강화 (−DI 37.6)</td></tr>
+  <tr><td>2Q 눈높이 하향으로 실적 서프라이즈 문턱 낮아짐</td><td>레버리지 ETF발 변동성 구조화 (ATR 13%)</td></tr>
+  <tr><td>NAND 사이클 수혜 (점유율 2위, eSSD 60%+ 전망)</td><td>신주 발행·차익 실현 수급 부담 지속</td></tr>
+</table>
+</div>
+</section>
+
+<section>
+<h2><span class="no">08</span>투자 판단</h2>
+<div class="verdict" style="border-left-color:var(--muted)">
+  <div class="head">의견: <em style="color:var(--ink)">중립</em> <small>· 7/17 하향 후 유지 · 7/29 이중 이벤트(실적+ADR 전환) 확인까지 관망</small></div>
+  <ul>
+    <li><strong>자체 조건 발동</strong> — 직전 리포트의 재평가 조건 ③(7/13 저점 184.5만 이탈)이 종가 기준 발동됐습니다(184.2만). 규칙을 세웠으면 따르는 것이 원칙입니다.</li>
+    <li><strong>수요측 리스크 부상</strong> — 지금까지의 조정은 수급 요인이었으나, 모건스탠리의 AI 데이터센터 취소·지연 분석은 펀더멘털 전제(AI 수요)에 대한 의심입니다. 공급 부족 논거와 정면 충돌하는 첫 메이저 반론입니다.</li>
+    <li><strong>방향성 상실</strong> — 급락-반등-재급락의 톱니 장세, MACD 하락 확대, −DI 37.6. 변동성(ATR 13%)만 남고 추세가 사라진 구간에서는 관망의 기대손실이 가장 작습니다.</li>
+    <li><strong>매수 복귀 조건</strong> — ① 7/29 실적이 하향 눈높이(60조 초반)를 방어하고 수주·LTA 코멘트로 수요 우려를 반박할 때. ② 종가 200만 회복과 함께 −DI 우위가 해소될 때. ③ ADR 상호전환 개시 후 프리미엄 수렴이 본주 상승 방향으로 진행될 때.</li>
+    <li><strong>추가 하향(매도 검토) 조건</strong> — AI 데이터센터 취소가 하이퍼스케일러 실적·가이던스에서 실측되거나, HBM/NAND 가격이 하락 전환할 때.</li>
+    <li><strong>직전(7/16) 대비 변화</strong> — <strong>매수 → 중립 하향</strong>. 트리거: 저점 이탈(기술) + AI 캐펙스 둔화 우려(수요). 공급 부족·NAND 사이클 등 강세 논거 자체는 폐기하지 않습니다.</li>
+  </ul>
+</div>
+</section>
+
+<footer>
+  본 자료는 공개 보도·자료를 종합해 작성한 정보 제공 목적의 리포트이며 투자 권유가 아닙니다. 수치는 조사 시점 기준이며 오류가 있을 수 있습니다. 투자 판단과 책임은 투자자 본인에게 있습니다.<br>
+  과거 리포트 아카이브: <a href="https://github.com/godajava/sk-hynix-investment-report/tree/main/reports/sk-hynix">GitHub reports/sk-hynix</a>
+</footer>
+
+</div></div>
+
+<script>
+(function () {
+  // GitHub Pages에서만 동작: quote.yml이 장중 10분 간격으로 갱신하는
+  // 같은 출처의 quote.json을 읽어 헤더 현재가를 갱신한다.
+  // Artifact 페이지에서는 CSP로 fetch가 막혀 조용히 정적 값을 유지한다.
+  async function loadQuote() {
+    try {
+      var r = await fetch("quote.json?ts=" + Date.now(), { cache: "no-store" });
+      if (!r.ok) return;
+      var q = await r.json();
+      var p = document.getElementById("live-price");
+      var c = document.getElementById("live-chg");
+      var w = document.getElementById("live-when");
+      var n = document.getElementById("live-note");
+      if (p && q.price) p.textContent = (q.price / 10000).toFixed(1);
+      if (c && q.changePercent != null) {
+        var up = q.changePercent >= 0;
+        c.textContent = (up ? "▲" : "▼") + Math.abs(q.changePercent).toFixed(2) + "%";
+        c.style.color = up ? "var(--up)" : "var(--down)";
+      }
+      if (w && q.marketTime) w.textContent = "(" + q.marketTime + ")";
+      if (n && q.fetchedAt) n.textContent = "리포트는 매일 09:00 KST 자동 갱신 · 시세 마지막 수집 " + q.fetchedAt;
+
+      var ind = q.indicators || {};
+      var man = function (v) { return (v / 10000).toFixed(1) + "만"; };
+      var set = function (id, txt) {
+        var el = document.getElementById(id);
+        if (el && txt != null) el.textContent = txt;
+      };
+      if (ind.macd) {
+        set("ti-macd", man(ind.macd.macd) + " / 시그널 " + man(ind.macd.signal) + " / 히스토그램 " + man(ind.macd.hist));
+        set("ti-macd-read", ind.macd.read);
+      }
+      if (ind.atr) { set("ti-atr", man(ind.atr.value) + " (" + ind.atr.pct + "%)"); set("ti-atr-read", ind.atr.read); }
+      if (ind.adx) { set("ti-adx", "ADX " + ind.adx.adx + " · +DI " + ind.adx.pdi + " · -DI " + ind.adx.ndi); set("ti-adx-read", ind.adx.read); }
+      if (ind.kdj) { set("ti-kdj", "K " + ind.kdj.k + " · D " + ind.kdj.d + " · J " + ind.kdj.j); set("ti-kdj-read", ind.kdj.read); }
+      if (ind.volume) {
+        set("ti-vol", (ind.volume.today / 10000).toFixed(0) + "만 주 / 평균 " + (ind.volume.ma20 / 10000).toFixed(0) + "만 주");
+        set("ti-vol-read", ind.volume.read);
+      }
+      if (q.marketTime) set("ti-when", "· " + q.marketTime + " 기준");
+
+      // 기술 차트 이미지 새로고침 (Pages 버전에서만 존재)
+      if (!loadQuote.chartBusted) {
+        loadQuote.chartBusted = true;
+      } else {
+        document.querySelectorAll("img.tech").forEach(function (im) {
+          im.src = im.src.split("?")[0] + "?t=" + Date.now();
+        });
+      }
+    } catch (e) { /* Artifact 등 fetch 불가 환경: 정적 값 유지 */ }
+  }
+  loadQuote();
+  setInterval(loadQuote, 60000);
+})();
+</script>

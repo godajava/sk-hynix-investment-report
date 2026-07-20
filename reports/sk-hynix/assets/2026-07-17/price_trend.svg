@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
+<rect width="760" height="400" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+<text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">SK하이닉스 주가 흐름 (7/3 ~ 7/16)</text>
+<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 흰 마커는 등락률 기사 기반 역산치.</text>
+<line x1="88" y1="330.7" x2="724" y2="330.7" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="334.7" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">180만</text>
+<line x1="88" y1="290.4" x2="724" y2="290.4" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="294.4" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">190만</text>
+<line x1="88" y1="250.2" x2="724" y2="250.2" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="254.2" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">200만</text>
+<line x1="88" y1="210.0" x2="724" y2="210.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="214.0" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">210만</text>
+<line x1="88" y1="169.8" x2="724" y2="169.8" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="173.8" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">220만</text>
+<line x1="88" y1="129.6" x2="724" y2="129.6" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="133.6" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">230만</text>
+<line x1="88" y1="89.3" x2="724" y2="89.3" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="93.3" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">240만</text>
+<line x1="88" y1="336" x2="724" y2="336" stroke="#c3c2b7" stroke-width="1"/>
+<path d="M88.0,112.3 L167.5,168.2 L247.0,219.7 L326.5,175.4 L406.0,177.8 L485.5,312.6 L565.0,285.2 L644.5,217.2 L724.0,313.8" fill="none" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="88.0" cy="112.3" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
+<text x="88.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/3</text>
+<text x="88.0" y="100.3" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">234만</text>
+<circle cx="167.5" cy="168.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="167.5" y="356" font-size="11" fill="#898781" text-anchor="middle">7/7</text>
+<circle cx="247.0" cy="219.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="247.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/8</text>
+<circle cx="326.5" cy="175.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="326.5" y="356" font-size="11" fill="#898781" text-anchor="middle">7/9</text>
+<circle cx="406.0" cy="177.8" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
+<text x="406.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/10</text>
+<circle cx="485.5" cy="312.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="485.5" y="356" font-size="11" fill="#898781" text-anchor="middle">7/13</text>
+<circle cx="565.0" cy="285.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="565.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/14</text>
+<circle cx="644.5" cy="217.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="644.5" y="356" font-size="11" fill="#898781" text-anchor="middle">7/15</text>
+<circle cx="724.0" cy="313.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/16</text>
+<text x="724.0" y="335.8" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">184만</text>
+<circle cx="484" cy="66" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="494" y="70" font-size="11" fill="#52514e">확인 종가</text>
+<circle cx="564" cy="66" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
+<text x="574" y="70" font-size="11" fill="#52514e">역산·장중(점선)</text>
+<text x="24" y="386" font-size="10.5" fill="#898781">출처: 뉴스핌·톱스타뉴스·야후 파이낸스 종합 (2026-07-17 조사)</text>
+</svg>

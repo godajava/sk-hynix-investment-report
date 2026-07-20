@@ -1,0 +1,75 @@
+{
+  "price_trend": {
+    "title": "SK하이닉스 주가 흐름 (7/2 ~ 7/15)",
+    "subtitle": "종가 기준, 원. 흰 마커는 등락률 기사 기반 역산치, 점선은 7/15 장중.",
+    "source": "출처: 아주경제·머니투데이·톱스타뉴스·서울경제 보도 종합 (2026-07-15 조사)",
+    "points": [
+      {"date": "7/2", "close": 2113000, "derived": true},
+      {"date": "7/3", "close": 2343000, "derived": true},
+      {"date": "7/7", "close": 2204000},
+      {"date": "7/8", "close": 2076000},
+      {"date": "7/9", "close": 2186000},
+      {"date": "7/10", "close": 2180000, "derived": true},
+      {"date": "7/13", "close": 1845000},
+      {"date": "7/14", "close": 1913000},
+      {"date": "7/15", "close": 2093000, "intraday": true}
+    ]
+  },
+  "three_month_trend": {
+    "title": "3개월 주가 추세 (4/23 ~ 7/14)",
+    "subtitle": "보도 확인 종가 앵커 기준, 원. 흰 마커는 역산치. 점선은 선형 추세선.",
+    "source": "출처: TradersUnion(4/23)·Investing(5/7)·토큰포스트(5/11)·파이낸셜투데이(6/5)·7월 보도 종합",
+    "points": [
+      {"date": "4/23", "day": 0, "close": 1591000, "derived": true, "axis": true},
+      {"date": "5/7", "day": 14, "close": 1654000, "axis": true},
+      {"date": "5/11", "day": 18, "close": 1880000},
+      {"date": "6/5", "day": 43, "close": 2070000, "axis": true},
+      {"date": "7/2", "day": 70, "close": 2113000, "derived": true, "axis": true},
+      {"date": "7/3", "day": 71, "close": 2343000, "derived": true},
+      {"date": "7/7", "day": 75, "close": 2204000},
+      {"date": "7/8", "day": 76, "close": 2076000},
+      {"date": "7/9", "day": 77, "close": 2186000},
+      {"date": "7/10", "day": 78, "close": 2180000, "derived": true},
+      {"date": "7/13", "day": 81, "close": 1845000},
+      {"date": "7/14", "day": 82, "close": 1913000, "axis": true}
+    ]
+  },
+  "target_prices": {
+    "title": "증권사 목표주가 vs 현재가",
+    "subtitle": "2026년 7월 제시 기준, 원.",
+    "source": "출처: 뉴스핌(KB)·다음뉴스(NH/IBK/교보/신한/한투)·인베스트조선(BNK)·Investing.com(컨센서스)",
+    "current": 1913000,
+    "consensus": 3175529,
+    "rows": [
+      {"name": "KB증권", "value": 4200000},
+      {"name": "NH투자증권", "value": 4100000},
+      {"name": "IBK투자증권", "value": 4000000},
+      {"name": "교보증권", "value": 4000000},
+      {"name": "신한투자증권", "value": 3800000},
+      {"name": "한국투자증권", "value": 3800000},
+      {"name": "BNK투자증권", "value": 1850000, "note": "보유"}
+    ]
+  },
+  "quarterly_earnings": {
+    "title": "분기 실적 추이",
+    "subtitle": "매출·영업이익, 조 원. 26.2Q는 증권가 컨센서스 전망치.",
+    "source": "출처: SK하이닉스 실적 발표(25.3Q~26.1Q)·중부매일(26.2Q 컨센서스)",
+    "rows": [
+      {"label": "25.3Q", "revenue": 24.4, "op": 11.4, "margin": "47%"},
+      {"label": "25.4Q", "revenue": 32.8, "op": 19.2, "margin": "58%"},
+      {"label": "26.1Q", "revenue": 52.6, "op": 37.6, "margin": "72%"},
+      {"label": "26.2Q", "revenue": 84.6, "op": 64.8, "margin": "77%", "estimate": true}
+    ]
+  },
+  "hbm_share": {
+    "title": "글로벌 HBM 시장 점유율 추이",
+    "subtitle": "매출 기준, %. 26년(E)는 카운터포인트 연간 전망.",
+    "source": "출처: 카운터포인트리서치·포쓰저널 (2026-07 조사)",
+    "rows": [
+      {"label": "25.1Q", "sk": 69, "samsung": 13, "micron": 18},
+      {"label": "25.4Q", "sk": 57, "samsung": 22, "micron": 21},
+      {"label": "26.1Q", "sk": 58, "samsung": 21, "micron": 21},
+      {"label": "26년(E)", "sk": 50, "samsung": 28, "micron": 22}
+    ]
+  }
+}

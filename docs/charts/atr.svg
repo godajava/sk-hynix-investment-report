@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
+<rect width="760" height="250" fill="#1a1a19"/>
+<text x="20" y="28" font-size="14.5" font-weight="700" fill="#ffffff">ATR (14)</text>
+<text x="20" y="46" font-size="11" fill="#c3c2b7">원. 일 평균 변동폭 — 높을수록 변동성 큼.</text>
+<line x1="677" y1="24" x2="695" y2="24" stroke="#d55181" stroke-width="2"/>
+<text x="700" y="28" font-size="10.5" fill="#c3c2b7">ATR</text>
+<line x1="64" y1="220.0" x2="740" y2="220.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="58" y="223.5" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">4만</text>
+<line x1="64" y1="168.0" x2="740" y2="168.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="58" y="171.5" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">11만</text>
+<line x1="64" y1="116.0" x2="740" y2="116.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="58" y="119.5" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">18만</text>
+<line x1="64" y1="64.0" x2="740" y2="64.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="58" y="67.5" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">25만</text>
+<path d="M69.1,203.5 L79.4,204.5 L89.6,203.2 L99.8,203.0 L110.1,204.8 L120.3,206.3 L130.6,207.1 L140.8,207.0 L151.1,208.1 L161.3,206.8 L171.5,207.4 L181.8,205.6 L192.0,206.9 L202.3,208.2 L212.5,209.2 L222.8,203.6 L233.0,198.2 L243.2,196.9 L253.5,195.6 L263.7,185.8 L274.0,181.9 L284.2,175.8 L294.5,178.2 L304.7,172.6 L314.9,169.5 L325.2,170.1 L335.4,171.3 L345.7,166.0 L355.9,170.0 L366.2,168.1 L376.4,158.0 L386.6,156.5 L396.9,158.6 L407.1,159.8 L417.4,158.6 L427.6,160.1 L437.8,154.6 L448.1,150.1 L458.3,140.7 L468.6,136.9 L478.8,134.4 L489.1,132.1 L499.3,131.5 L509.5,134.1 L519.8,132.5 L530.0,129.6 L540.3,127.5 L550.5,124.9 L560.8,112.5 L571.0,109.3 L581.2,100.2 L591.5,94.3 L601.7,96.5 L612.0,97.0 L622.2,96.4 L632.5,87.8 L642.7,78.0 L652.9,79.6 L663.2,78.0 L673.4,77.1 L683.7,79.3 L693.9,84.3 L704.2,78.3 L714.4,77.1 L724.6,76.0 L734.9,74.8" fill="none" stroke="#d55181" stroke-width="1.8"/>
+<text x="69.1" y="238" font-size="10" fill="#898781" text-anchor="middle">04/10</text>
+<text x="181.8" y="238" font-size="10" fill="#898781" text-anchor="middle">04/27</text>
+<text x="294.5" y="238" font-size="10" fill="#898781" text-anchor="middle">05/14</text>
+<text x="407.1" y="238" font-size="10" fill="#898781" text-anchor="middle">06/01</text>
+<text x="519.8" y="238" font-size="10" fill="#898781" text-anchor="middle">06/17</text>
+<text x="632.5" y="238" font-size="10" fill="#898781" text-anchor="middle">07/02</text>
+</svg>

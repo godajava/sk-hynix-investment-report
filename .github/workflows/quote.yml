@@ -1,0 +1,39 @@
+name: Update live quote
+
+on:
+  schedule:
+    # 평일 09:00~15:59 KST (00~06 UTC), 10분 간격 — KRX 장중
+    - cron: "*/10 0-6 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  quote:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Fetch quote
+        run: python3 scripts/fetch_quote.py docs/quote.json /tmp/history.json
+      - name: Generate tech charts
+        run: python3 scripts/tech_charts.py /tmp/history.json docs/charts
+      - name: Show quote (for report backfill)
+        run: cat docs/quote.json
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
