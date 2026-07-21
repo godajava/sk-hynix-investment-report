@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
+<rect width="760" height="420" fill="#1a1a19" stroke="rgba(11,11,11,0.10)"/>
+<text x="24" y="34" font-size="17" font-weight="700" fill="#ffffff">분기 실적 추이</text>
+<text x="24" y="54" font-size="12" fill="#c3c2b7">매출·영업이익, 조 원. 26.2Q는 컨센서스(에프앤가이드 매출 84.7조·영업이익 64.9조) — 7/29 발표.</text>
+<line x1="64" y1="340.0" x2="724" y2="340.0" stroke="#2c2c2a" stroke-width="1"/>
+<text x="56" y="344.0" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">0조</text>
+<line x1="64" y1="288.6" x2="724" y2="288.6" stroke="#2c2c2a" stroke-width="1"/>
+<text x="56" y="292.6" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">20조</text>
+<line x1="64" y1="237.1" x2="724" y2="237.1" stroke="#2c2c2a" stroke-width="1"/>
+<text x="56" y="241.1" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">40조</text>
+<line x1="64" y1="185.7" x2="724" y2="185.7" stroke="#2c2c2a" stroke-width="1"/>
+<text x="56" y="189.7" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">60조</text>
+<line x1="64" y1="134.2" x2="724" y2="134.2" stroke="#2c2c2a" stroke-width="1"/>
+<text x="56" y="138.2" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">80조</text>
+<path d="M89.5,340.0 v-58.759318603474426 a4,4 0 0 1 4,-4 h48 a4,4 0 0 1 4,4 v58.759318603474426 z" fill="#3987e5" />
+<text x="117.5" y="270.2" font-size="11" font-weight="600" fill="#c3c2b7" text-anchor="middle" style="font-variant-numeric:tabular-nums">24.4</text>
+<path d="M147.5,340.0 v-25.32197672457412 a4,4 0 0 1 4,-4 h48 a4,4 0 0 1 4,4 v25.32197672457412 z" fill="#008300" />
+<text x="175.5" y="303.7" font-size="11" font-weight="600" fill="#c3c2b7" text-anchor="middle" style="font-variant-numeric:tabular-nums">11.4</text>
+<text x="146.5" y="362" font-size="12" fill="#ffffff" text-anchor="middle">25.3Q</text>
+<text x="146.5" y="380" font-size="11" fill="#898781" text-anchor="middle">이익률 47%</text>
+<path d="M254.5,340.0 v-80.36498566368694 a4,4 0 0 1 4,-4 h48 a4,4 0 0 1 4,4 v80.36498566368694 z" fill="#3987e5" />
+<text x="282.5" y="248.6" font-size="11" font-weight="600" fill="#c3c2b7" text-anchor="middle" style="font-variant-numeric:tabular-nums">32.8</text>
+<path d="M312.5,340.0 v-45.38438185191431 a4,4 0 0 1 4,-4 h48 a4,4 0 0 1 4,4 v45.38438185191431 z" fill="#008300" />
+<text x="340.5" y="283.6" font-size="11" font-weight="600" fill="#c3c2b7" text-anchor="middle" style="font-variant-numeric:tabular-nums">19.2</text>
+<text x="311.5" y="362" font-size="12" fill="#ffffff" text-anchor="middle">25.4Q</text>
+<text x="311.5" y="380" font-size="11" fill="#898781" text-anchor="middle">이익률 58%</text>
+<path d="M419.5,340.0 v-131.29262944847358 a4,4 0 0 1 4,-4 h48 a4,4 0 0 1 4,4 v131.29262944847358 z" fill="#3987e5" />
+<text x="447.5" y="197.7" font-size="11" font-weight="600" fill="#c3c2b7" text-anchor="middle" style="font-variant-numeric:tabular-nums">52.6</text>
+<path d="M477.5,340.0 v-92.71108112666552 a4,4 0 0 1 4,-4 h48 a4,4 0 0 1 4,4 v92.71108112666552 z" fill="#008300" />
+<text x="505.5" y="236.3" font-size="11" font-weight="600" fill="#c3c2b7" text-anchor="middle" style="font-variant-numeric:tabular-nums">37.6</text>
+<text x="476.5" y="362" font-size="12" fill="#ffffff" text-anchor="middle">26.1Q</text>
+<text x="476.5" y="380" font-size="11" fill="#898781" text-anchor="middle">이익률 72%</text>
+<path d="M584.5,340.0 v-213.8571428571428 a4,4 0 0 1 4,-4 h48 a4,4 0 0 1 4,4 v213.8571428571428 z" fill="#3987e5" opacity="0.5"/>
+<path d="M584.5,340.0 v-213.8571428571428 a4,4 0 0 1 4,-4 h48 a4,4 0 0 1 4,4 v213.8571428571428 z" fill="none" stroke="#3987e5" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="612.5" y="115.1" font-size="11" font-weight="600" fill="#c3c2b7" text-anchor="middle" style="font-variant-numeric:tabular-nums">84.7</text>
+<path d="M642.5,340.0 v-162.9294990723562 a4,4 0 0 1 4,-4 h48 a4,4 0 0 1 4,4 v162.9294990723562 z" fill="#008300" opacity="0.5"/>
+<path d="M642.5,340.0 v-162.9294990723562 a4,4 0 0 1 4,-4 h48 a4,4 0 0 1 4,4 v162.9294990723562 z" fill="none" stroke="#008300" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="670.5" y="166.1" font-size="11" font-weight="600" fill="#c3c2b7" text-anchor="middle" style="font-variant-numeric:tabular-nums">64.9</text>
+<text x="641.5" y="362" font-size="12" fill="#ffffff" text-anchor="middle">26.2Q(E)</text>
+<text x="641.5" y="380" font-size="11" fill="#898781" text-anchor="middle">이익률 77%</text>
+<line x1="64" y1="340" x2="724" y2="340" stroke="#383835" stroke-width="1"/>
+<rect x="494" y="60" width="12" height="12" rx="3" fill="#3987e5"/>
+<text x="512" y="70" font-size="11" fill="#c3c2b7">매출(조 원)</text>
+<rect x="586" y="60" width="12" height="12" rx="3" fill="#008300"/>
+<text x="604" y="70" font-size="11" fill="#c3c2b7">영업이익 · 점선=전망</text>
+<text x="24" y="406" font-size="10.5" fill="#898781">출처: SK하이닉스 실적 발표(25.3Q~26.1Q)·에프앤가이드(26.2Q 컨센서스)</text>
+</svg>

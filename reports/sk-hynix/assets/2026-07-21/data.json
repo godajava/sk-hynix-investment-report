@@ -1,0 +1,55 @@
+{
+  "price_trend": {
+    "title": "SK하이닉스 주가 흐름 (7/8 ~ 7/20)",
+    "subtitle": "종가 기준, 원. 흰 마커는 등락률 기사 기반 역산치. 7/17 휴장(제헌절).",
+    "source": "출처: 야후 파이낸스(quote.yml)·과거 리포트 종합 (2026-07-21 조사)",
+    "points": [
+      { "date": "7/8", "close": 2076000 },
+      { "date": "7/9", "close": 2186000 },
+      { "date": "7/10", "close": 2180000, "derived": true },
+      { "date": "7/13", "close": 1845000 },
+      { "date": "7/14", "close": 1913000 },
+      { "date": "7/15", "close": 2082000 },
+      { "date": "7/16", "close": 1842000 },
+      { "date": "7/20", "close": 1764000 }
+    ]
+  },
+  "target_prices": {
+    "title": "증권사 목표주가 vs 현재가",
+    "subtitle": "2026년 7월 제시 기준, 원. 현재가는 7/20 종가.",
+    "source": "출처: 다음뉴스·뉴스핌·Investing.com(37개사 컨센서스) 종합 (2026-07-21 조사)",
+    "current": 1764000,
+    "consensus": 3175529,
+    "rows": [
+      { "name": "KB증권", "value": 4200000 },
+      { "name": "NH투자증권", "value": 4100000 },
+      { "name": "IBK투자증권", "value": 4000000 },
+      { "name": "교보증권", "value": 4000000 },
+      { "name": "신한투자증권", "value": 3800000 },
+      { "name": "미래에셋증권", "value": 3800000 },
+      { "name": "흥국증권", "value": 1400000, "note": "최저" }
+    ]
+  },
+  "quarterly_earnings": {
+    "title": "분기 실적 추이",
+    "subtitle": "매출·영업이익, 조 원. 26.2Q는 컨센서스(에프앤가이드 매출 84.7조·영업이익 64.9조) — 7/29 발표.",
+    "source": "출처: SK하이닉스 실적 발표(25.3Q~26.1Q)·에프앤가이드(26.2Q 컨센서스)",
+    "rows": [
+      { "label": "25.3Q", "revenue": 24.4, "op": 11.4, "margin": "47%" },
+      { "label": "25.4Q", "revenue": 32.8, "op": 19.2, "margin": "58%" },
+      { "label": "26.1Q", "revenue": 52.6, "op": 37.6, "margin": "72%" },
+      { "label": "26.2Q", "revenue": 84.7, "op": 64.9, "margin": "77%", "estimate": true }
+    ]
+  },
+  "hbm_share": {
+    "title": "글로벌 HBM 시장 점유율 추이",
+    "subtitle": "매출 기준, %. 26년(E)는 카운터포인트 연간 전망.",
+    "source": "출처: 카운터포인트리서치·포쓰저널 (2026-07 조사)",
+    "rows": [
+      { "label": "25.1Q", "sk": 69, "samsung": 13, "micron": 18 },
+      { "label": "25.4Q", "sk": 57, "samsung": 22, "micron": 21 },
+      { "label": "26.1Q", "sk": 58, "samsung": 21, "micron": 21 },
+      { "label": "26년(E)", "sk": 50, "samsung": 28, "micron": 22 }
+    ]
+  }
+}
