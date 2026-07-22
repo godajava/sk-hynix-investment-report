@@ -30,6 +30,7 @@ SK하이닉스(KRX: 000660)의 주가·뉴스·산업 동향을 조사해 차트
     python3 scripts/build_web.py YYYY-MM-DD
     ```
     - `reports/sk-hynix/latest.html` (Artifact용, TradingView 위젯 제외) → Artifact 도구로 **같은 파일 경로**를 재발행하면 고정 URL이 유지됩니다.
+    - ⚠️ **Artifact 도구는 반드시 단독으로 호출**합니다(같은 응답 블록에 Bash·github 조회 등 다른 도구를 병렬 배치 금지). 병렬 배치 시 권한 흐름이 꼬여 발행이 중단(rejected/interrupted)됩니다. 배포(pages.yml) 확인은 재발행이 끝난 뒤 별도 단계로 수행합니다.
     - `docs/index.html` (GitHub Pages용, TradingView 실시간 시세 위젯 포함) → 커밋·푸시하면 `.github/workflows/pages.yml`이 자동 배포합니다. Pages URL: https://godajava.github.io/sk-hynix-investment-report/
     - 고정 URL: https://claude.ai/code/artifact/e9f34125-bb5e-4888-8185-3fc8e3d343fa (다른 세션에서 발행할 때는 이 URL을 Artifact의 `url` 파라미터로 전달)
     - favicon은 📊로 고정, label은 당일 날짜(YYYY-MM-DD)로 지정합니다.
