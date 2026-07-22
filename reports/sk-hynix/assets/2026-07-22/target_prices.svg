@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="386" viewBox="0 0 760 386" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
+<rect width="760" height="386" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+<text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">증권사 목표주가 vs 현재가</text>
+<text x="24" y="54" font-size="12" fill="#52514e">2026년 6~7월 제시 기준, 원. 현재가는 7/21 종가.</text>
+<text x="120" y="101.0" font-size="12" fill="#0b0b0b" text-anchor="end">KB증권</text>
+<path d="M130,84 h499.7735849056603 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-499.7735849056603 z" fill="#2a78d6" opacity="1.0"/>
+<text x="641.8" y="101.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">420만</text>
+<text x="120" y="139.0" font-size="12" fill="#0b0b0b" text-anchor="end">교보증권</text>
+<path d="M130,122 h475.78436657681937 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-475.78436657681937 z" fill="#2a78d6" opacity="1.0"/>
+<text x="617.8" y="139.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">400만</text>
+<text x="120" y="177.0" font-size="12" fill="#0b0b0b" text-anchor="end">신한투자증권</text>
+<path d="M130,160 h451.79514824797843 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-451.79514824797843 z" fill="#2a78d6" opacity="1.0"/>
+<text x="593.8" y="177.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">380만</text>
+<text x="120" y="215.0" font-size="12" fill="#0b0b0b" text-anchor="end">LS증권</text>
+<path d="M130,198 h391.822102425876 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-391.822102425876 z" fill="#2a78d6" opacity="1.0"/>
+<text x="533.8" y="215.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">330만</text>
+<text x="120" y="253.0" font-size="12" fill="#0b0b0b" text-anchor="end">맥쿼리</text>
+<path d="M130,236 h343.84366576819406 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-343.84366576819406 z" fill="#2a78d6" opacity="1.0"/>
+<text x="485.8" y="253.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">290만</text>
+<text x="120" y="291.0" font-size="12" fill="#0b0b0b" text-anchor="end">흥국증권</text>
+<path d="M130,274 h163.92452830188677 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-163.92452830188677 z" fill="#2a78d6" opacity="1.0"/>
+<text x="305.9" y="291.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">140만 (최저)</text>
+<line x1="130" y1="78" x2="130" y2="310" stroke="#c3c2b7" stroke-width="1"/>
+<line x1="350.2" y1="78" x2="350.2" y2="310" stroke="#0b0b0b" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="350.2" y="328" font-size="11" font-weight="600" fill="#0b0b0b" text-anchor="middle">현재가 184만</text>
+<line x1="510.9" y1="78" x2="510.9" y2="310" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="510.9" y="328" font-size="11" font-weight="600" fill="#898781" text-anchor="middle">컨센서스 318만</text>
+<text x="24" y="372" font-size="10.5" fill="#898781">출처: 뉴스핌(교보)·newsspace(맥쿼리)·Investing.com(37개사 컨센서스) 종합 (2026-07-22 조사)</text>
+</svg>
