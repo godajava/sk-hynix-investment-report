@@ -5,7 +5,7 @@
  "change": -6000,
  "changePercent": -0.33,
  "marketTime": "2026-07-22 15:30 KST",
- "fetchedAt": "2026-07-22 21:48 KST",
+ "fetchedAt": "2026-07-23 09:07 KST",
  "days": [
   {
    "date": "2026-07-21",
@@ -26,13 +26,13 @@
  ],
  "indicators": {
   "macd": {
-   "macd": -125434,
-   "signal": -57129,
+   "macd": -125436,
+   "signal": -57131,
    "hist": -68305,
    "read": "하락 모멘텀 (MACD < 시그널)"
   },
   "atr": {
-   "value": 224615,
+   "value": 224616,
    "pct": 12.3,
    "read": "일 평균 변동폭 12.3% — 변동성 매우 큼"
   },
