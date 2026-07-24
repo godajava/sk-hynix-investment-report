@@ -29,12 +29,14 @@ SK하이닉스(KRX: 000660)의 주가·뉴스·산업 동향을 조사해 차트
     ```
     python3 scripts/build_web.py YYYY-MM-DD
     ```
-    - `reports/sk-hynix/latest.html` (Artifact용, TradingView 위젯 제외) → Artifact 도구로 **같은 파일 경로**를 재발행하면 고정 URL이 유지됩니다.
-    - ⚠️ **Artifact 도구는 반드시 단독으로 호출**합니다(같은 응답 블록에 Bash·github 조회 등 다른 도구를 병렬 배치 금지). 병렬 배치 시 권한 흐름이 꼬여 발행이 중단(rejected/interrupted)됩니다. 배포(pages.yml) 확인은 재발행이 끝난 뒤 별도 단계로 수행합니다.
     - `docs/index.html` (GitHub Pages용, TradingView 실시간 시세 위젯 포함) → 커밋·푸시하면 `.github/workflows/pages.yml`이 자동 배포합니다. Pages URL: https://godajava.github.io/sk-hynix-investment-report/
-    - 고정 URL: https://claude.ai/code/artifact/e9f34125-bb5e-4888-8185-3fc8e3d343fa (다른 세션에서 발행할 때는 이 URL을 Artifact의 `url` 파라미터로 전달)
-    - favicon은 📊로 고정, label은 당일 날짜(YYYY-MM-DD)로 지정합니다.
-12. 저장 경로, 아티팩트 URL, 핵심 요약(뉴스 Top 5, 투자 판단 포함)을 사용자에게 보고합니다.
+    - **웹(Pages)·GitHub 아카이브가 기본 배포 채널**입니다. 커밋·푸시 후 pages.yml success까지 확인합니다.
+    - ⚠️ **Artifact 고정 URL 재발행은 기본적으로 하지 않습니다** — 정기(아침·장중·마감) 자동 리포트에서는 웹·아카이브만 갱신하고, Artifact는 **사용자가 명시적으로 "발행해줘"라고 요청할 때만** 재발행합니다(2026-07-24 사용자 결정). 자동 실행에서 매번 발행을 시도하지 않습니다.
+    - Artifact를 발행할 때(사용자 요청 시): `reports/sk-hynix/latest.html`(TradingView 위젯 제외)을 **같은 파일 경로·같은 고정 URL**로 재발행하면 URL이 유지됩니다.
+      - ⚠️ **Artifact 도구는 반드시 단독으로 호출**합니다(같은 응답 블록에 Bash·github 조회 등 다른 도구를 병렬 배치 금지). 병렬 배치 시 권한 흐름이 꼬여 발행이 중단(rejected/interrupted)됩니다.
+      - 고정 URL: https://claude.ai/code/artifact/e9f34125-bb5e-4888-8185-3fc8e3d343fa (다른 세션에서 발행할 때는 이 URL을 Artifact의 `url` 파라미터로 전달)
+      - favicon은 📊로 고정, label은 당일 날짜(YYYY-MM-DD)로 지정합니다.
+12. 저장 경로, (발행했다면) 아티팩트 URL, 핵심 요약(뉴스 Top 5, 투자 판단 포함)을 사용자에게 보고합니다.
 
 ## 리포트 형식 (애널리스트 스타일)
 
