@@ -1,47 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="400" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-<text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">SK하이닉스 주가 흐름 (7/10 ~ 7/27 종가)</text>
-<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 7/28은 실적 발표(7/29) D-1. 흰 마커는 역산치. 7/17 휴장.</text>
-<line x1="88" y1="292.2" x2="724" y2="292.2" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="296.2" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">180만</text>
-<line x1="88" y1="245.4" x2="724" y2="245.4" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="249.4" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">190만</text>
-<line x1="88" y1="198.7" x2="724" y2="198.7" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="202.7" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">200만</text>
-<line x1="88" y1="152.0" x2="724" y2="152.0" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="156.0" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">210만</text>
-<line x1="88" y1="105.2" x2="724" y2="105.2" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="109.2" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">220만</text>
+<text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">SK하이닉스 주가 흐름 (7/10 ~ 7/28 장중)</text>
+<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 7/28은 09:43 KST 장중가(−10%). 흰 마커는 역산치. 7/17 휴장.</text>
+<line x1="88" y1="330.3" x2="724" y2="330.3" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="334.3" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">160만</text>
+<line x1="88" y1="292.1" x2="724" y2="292.1" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="296.1" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">170만</text>
+<line x1="88" y1="254.0" x2="724" y2="254.0" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="258.0" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">180만</text>
+<line x1="88" y1="215.8" x2="724" y2="215.8" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="219.8" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">190만</text>
+<line x1="88" y1="177.6" x2="724" y2="177.6" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="181.6" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">200만</text>
+<line x1="88" y1="139.5" x2="724" y2="139.5" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="143.5" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">210만</text>
+<line x1="88" y1="101.3" x2="724" y2="101.3" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="105.3" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">220만</text>
 <line x1="88" y1="336" x2="724" y2="336" stroke="#c3c2b7" stroke-width="1"/>
-<path d="M88.0,114.6 L151.6,271.1 L215.2,239.4 L278.8,160.4 L342.4,272.5 L406.0,309.0 L469.6,275.3 L533.2,278.2 L596.8,236.6 L660.4,311.3 L724.0,284.7" fill="none" stroke="#2a78d6" stroke-width="2"/>
-<circle cx="88.0" cy="114.6" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
+<path d="M88.0,109.0 L145.8,236.8 L203.6,210.8 L261.5,146.3 L319.3,237.9 L377.1,267.7 L434.9,240.2 L492.7,242.5 L550.5,208.5 L608.4,269.6 L666.2,247.8 L724.0,317.3" fill="none" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="88.0" cy="109.0" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="88.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/10</text>
-<text x="88.0" y="102.6" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">218만</text>
-<circle cx="151.6" cy="271.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="151.6" y="356" font-size="11" fill="#898781" text-anchor="middle">7/13</text>
-<circle cx="215.2" cy="239.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="215.2" y="356" font-size="11" fill="#898781" text-anchor="middle">7/14</text>
-<circle cx="278.8" cy="160.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="278.8" y="356" font-size="11" fill="#898781" text-anchor="middle">7/15</text>
-<circle cx="342.4" cy="272.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="342.4" y="356" font-size="11" fill="#898781" text-anchor="middle">7/16</text>
-<circle cx="406.0" cy="309.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="406.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/20</text>
-<circle cx="469.6" cy="275.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="469.6" y="356" font-size="11" fill="#898781" text-anchor="middle">7/21</text>
-<circle cx="533.2" cy="278.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="533.2" y="356" font-size="11" fill="#898781" text-anchor="middle">7/22</text>
-<circle cx="596.8" cy="236.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="596.8" y="356" font-size="11" fill="#898781" text-anchor="middle">7/23</text>
-<circle cx="660.4" cy="311.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="660.4" y="356" font-size="11" fill="#898781" text-anchor="middle">7/24</text>
-<text x="660.4" y="333.3" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">176만</text>
-<circle cx="724.0" cy="284.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/27</text>
-<text x="724.0" y="272.7" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">182만</text>
+<text x="88.0" y="97.0" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">218만</text>
+<circle cx="145.8" cy="236.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="145.8" y="356" font-size="11" fill="#898781" text-anchor="middle">7/13</text>
+<circle cx="203.6" cy="210.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="203.6" y="356" font-size="11" fill="#898781" text-anchor="middle">7/14</text>
+<circle cx="261.5" cy="146.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="261.5" y="356" font-size="11" fill="#898781" text-anchor="middle">7/15</text>
+<circle cx="319.3" cy="237.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="319.3" y="356" font-size="11" fill="#898781" text-anchor="middle">7/16</text>
+<circle cx="377.1" cy="267.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="377.1" y="356" font-size="11" fill="#898781" text-anchor="middle">7/20</text>
+<circle cx="434.9" cy="240.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="434.9" y="356" font-size="11" fill="#898781" text-anchor="middle">7/21</text>
+<circle cx="492.7" cy="242.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="492.7" y="356" font-size="11" fill="#898781" text-anchor="middle">7/22</text>
+<circle cx="550.5" cy="208.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="550.5" y="356" font-size="11" fill="#898781" text-anchor="middle">7/23</text>
+<circle cx="608.4" cy="269.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="608.4" y="356" font-size="11" fill="#898781" text-anchor="middle">7/24</text>
+<circle cx="666.2" cy="247.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="666.2" y="356" font-size="11" fill="#898781" text-anchor="middle">7/27</text>
+<circle cx="724.0" cy="317.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/28*</text>
+<text x="724.0" y="339.3" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">163만</text>
 <circle cx="484" cy="66" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="494" y="70" font-size="11" fill="#52514e">확인 종가</text>
 <circle cx="564" cy="66" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="574" y="70" font-size="11" fill="#52514e">역산·장중(점선)</text>
-<text x="24" y="386" font-size="10.5" fill="#898781">출처: 야후 파이낸스(7/27 종가 확정)·과거 리포트 종합</text>
+<text x="24" y="386" font-size="10.5" fill="#898781">출처: 야후 파이낸스(7/28 09:43 장중)·과거 리포트 종합</text>
 </svg>
