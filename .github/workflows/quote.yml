@@ -5,9 +5,14 @@ on:
     # 평일 09:00~15:59 KST (00~06 UTC), 10분 간격 — KRX 장중
     - cron: "*/10 0-6 * * 1-5"
   workflow_dispatch:
+    inputs:
+      commit_charts:
+        description: "docs/quote.json + docs/charts를 main에 커밋(리포트 발행 주기 갱신). 미체크 시 배포만."
+        type: boolean
+        default: false
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -31,9 +36,27 @@ jobs:
         run: python3 scripts/tech_charts.py /tmp/history.json docs/charts
       - name: Show quote (for report backfill)
         run: cat docs/quote.json
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+
+      # ── 리포트 발행 경로: 최신 시세·기술차트를 커밋해 리포트가 같은 주기로 반영 ──
+      # (커밋 → pages.yml이 배포하므로 이 잡에서는 직접 배포하지 않음)
+      - name: Commit quote + tech charts (report cadence)
+        if: ${{ inputs.commit_charts }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/quote.json docs/charts
+          git diff --cached --quiet || { git commit -m "기술 차트·시세 갱신 (리포트 주기 자동)"; git push; }
+
+      # ── 라이브 경로(10분 크론): 커밋 없이 배포만 ──
+      - name: Setup Pages
+        if: ${{ ! inputs.commit_charts }}
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        if: ${{ ! inputs.commit_charts }}
+        uses: actions/upload-pages-artifact@v3
         with:
           path: docs
-      - id: deployment
+      - name: Deploy
+        id: deployment
+        if: ${{ ! inputs.commit_charts }}
         uses: actions/deploy-pages@v4
