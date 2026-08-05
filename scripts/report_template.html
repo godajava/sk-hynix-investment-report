@@ -16,6 +16,11 @@
   --down: #6ea3e2;
   --down-bg: rgba(110,163,226,0.13);
   --neutral-bg: rgba(142,141,144,0.16);
+  /* 뉴스 신호등(호재=녹색 / 악재=빨강) — 시세 등락색(상승=적/하락=청)과 별개 */
+  --news-pos: #4fb783;
+  --news-pos-bg: rgba(79,183,131,0.15);
+  --news-neg: #e0716b;
+  --news-neg-bg: rgba(224,113,107,0.13);
   --chart-card: #1a1a19;
 }
 body {
@@ -116,8 +121,8 @@ ol.news li::before {
 .chip {
   font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 3px; white-space: nowrap;
 }
-.chip.up { color: var(--up); background: var(--up-bg); }
-.chip.down { color: var(--down); background: var(--down-bg); }
+.chip.up { color: var(--news-pos); background: var(--news-pos-bg); }
+.chip.down { color: var(--news-neg); background: var(--news-neg-bg); }
 .chip.flat { color: var(--muted); background: var(--neutral-bg); }
 
 /* ── 투자 판단 ── */
@@ -263,15 +268,15 @@ __TECH_CHARTS__
 <h2><span class="no">03</span>최신 뉴스 Top 10</h2>
 <ol class="news">
   <li><div>
-    <h3>🔵 8/5 장중 갭업 급등·눌림 딛고 강세 재개 +7.36%(169.3만) — 고가 170.1만 재접근, 저항 돌파 굳히기 <span class="chip up">호재</span></h3>
+    <h3>🟢 8/5 장중 갭업 급등·눌림 딛고 강세 재개 +7.36%(169.3만) — 고가 170.1만 재접근, 저항 돌파 굳히기 <span class="chip up">호재</span></h3>
     <p>간밤 SOX +6% 랠리 반영, 1,693,000 갭업 후 오전 165.5만 눌림을 딛고 오후 169.3만으로 고점권 재접근. 158.6만·164.2만 저항 위 고가권 유지, 8/4 저가 대비 +14% 반등. 종가 안착 여부가 관건 · <a href="https://finance.naver.com/item/main.naver?code=000660">네이버 금융</a></p>
   </div></li>
   <li><div>
-    <h3>🔵 간밤 미 반도체 랠리 — SOX +6%·나스닥100 +2.8%·S&amp;P·다우 사상 최고, SK하이닉스 ADR이 랠리 주도 <span class="chip up">호재</span></h3>
+    <h3>🟢 간밤 미 반도체 랠리 — SOX +6%·나스닥100 +2.8%·S&amp;P·다우 사상 최고, SK하이닉스 ADR이 랠리 주도 <span class="chip up">호재</span></h3>
     <p>현지 8/4(월) 리스크온 랠리로 인텔 +10%·AMD +8%·브로드컴 +6%·엔비디아 +2%, SK하이닉스 ADR이 마벨·샌디스크와 함께 반도체 상승 견인(단 AMD 시간외 −7%·엔비디아 실적 대기) · <a href="https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html">야후 파이낸스</a></p>
   </div></li>
   <li><div>
-    <h3>🔵 8/4 저가 148.3만서 반등해 반전 마감 — 종가 157.7만(+0.64%), 152만·8/3 종가 회복하며 매도 트리거 회피 <span class="chip up">호재</span></h3>
+    <h3>🟢 8/4 저가 148.3만서 반등해 반전 마감 — 종가 157.7만(+0.64%), 152만·8/3 종가 회복하며 매도 트리거 회피 <span class="chip up">호재</span></h3>
     <p>162.0만 갭업 후 급반전해 장중 저가 148.3만(−8.5%)까지 밀렸으나, 오후 +6.3% 되돌려 종가 157.7만으로 반전 마감. KOSPI +1.62%(6,358.95) · <a href="https://www.fnnews.com/news/202608041631169275">파이낸셜뉴스</a></p>
   </div></li>
   <li><div>
@@ -279,7 +284,7 @@ __TECH_CHARTS__
     <p>미 반도체 −4.49% 반락 여파로 7/31 상한가 갭업을 하루 만에 대부분 반납. 종가 7/31 저가(158.6만) 이탈, 거래량 0.80배 · <a href="https://www.kmib.co.kr/article/view.asp?arcid=0030175786">국민일보</a></p>
   </div></li>
   <li><div>
-    <h3>🔵 SK하이닉스 7/31 상한가 마감(+29.95%·171.8만) — 나흘 급락분 하루 만에 전액 회복 <span class="chip up">호재</span></h3>
+    <h3>🟢 SK하이닉스 7/31 상한가 마감(+29.95%·171.8만) — 나흘 급락분 하루 만에 전액 회복 <span class="chip up">호재</span></h3>
     <p>목요일(현지) 미 반도체 랠리(SOX +8.2%·마이크론 +18.4%)에 동반 급등, 종가=고가 상한가로 마감. 거래량 1.51배 대량 매수 · <a href="https://www.newspim.com/news/view/20260731000065">뉴스핌</a> · <a href="https://www.etoday.co.kr/news/view/2609554">이투데이</a></p>
   </div></li>
   <li><div>
@@ -287,15 +292,15 @@ __TECH_CHARTS__
     <p>분기 역대 최대(YoY 매출 +257%·영업익 +557%)이나 컨센(매출 ~84조·영업익 ~64조)엔 미달. 실적 미스는 유효한 하방 요인으로 잔존 · <a href="https://www.insight.co.kr/news/565222">인사이트</a> · <a href="https://news.nate.com/view/20260729n05031">네이트</a></p>
   </div></li>
   <li><div>
-    <h3>🔵 [컨콜] 하반기 실적 개선 강화 — HBM4 하반기 양산 본격화·연 40조원대 후반 투자 <span class="chip up">호재</span></h3>
+    <h3>🟢 [컨콜] 하반기 실적 개선 강화 — HBM4 하반기 양산 본격화·연 40조원대 후반 투자 <span class="chip up">호재</span></h3>
     <p>2Q HBM4 양산 출하 개시·하반기 본격 확대, 1c D램 출하 확대, 하반기 비트그로스 상반기 상회. 올해 40조원대 후반 설비투자 · <a href="https://www.fnnews.com/news/202607290942012790">파이낸셜뉴스</a> · <a href="https://www.newspim.com/news/view/20260729000286">뉴스핌</a></p>
   </div></li>
   <li><div>
-    <h3>🔵 HBM4·321단 낸드·LTA — AI 메모리 주도권 굳히기 <span class="chip up">호재</span></h3>
+    <h3>🟢 HBM4·321단 낸드·LTA — AI 메모리 주도권 굳히기 <span class="chip up">호재</span></h3>
     <p>HBM4 업계 최고 전력효율·원가경쟁력, 321단 낸드 등 차세대 제품 양산 본격화, 핵심 고객 포함 10여 곳 LTA(장기공급계약) 마무리 · <a href="https://www.etoday.co.kr/news/view/2608742">이투데이</a></p>
   </div></li>
   <li><div>
-    <h3>🔵 한국투자증권, 목표주가 380만→470만 +23.7% 상향 — HBM4·D램 가격 상승 본격화 <span class="chip up">호재</span></h3>
+    <h3>🟢 한국투자증권, 목표주가 380만→470만 +23.7% 상향 — HBM4·D램 가격 상승 본격화 <span class="chip up">호재</span></h3>
     <p>3Q D램 가격 상승과 HBM4 양산 효과 동시 반영으로 실적 개선폭 확대 전망. 급락 前 산정치 · <a href="https://www.ajunews.com/view/20260730085044364">아주경제</a></p>
   </div></li>
   <li><div>
