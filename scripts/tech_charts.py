@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""SK하이닉스 기술적 분석 SVG 차트 생성기 (다크 전용, 의존성 없음).
+"""SK하이닉스 기술적 분석 SVG 차트 생성기 (라이트/다크, 의존성 없음).
 
 사용법:
-    python3 scripts/tech_charts.py <history.json> <출력_디렉터리>
+    python3 scripts/tech_charts.py <history.json> <출력_디렉터리> [--light]
 
+--light를 주면 흰 배경(라이트) 팔레트로, 없으면 다크 팔레트로 생성한다.
 history.json은 fetch_quote.py의 두 번째 인자로 저장한 일봉 배열.
 생성 차트 (최근 3개월 표시):
   candle_volume.svg — 일봉 캔들 + 거래량(20일 이평선)
@@ -12,24 +13,41 @@ history.json은 fetch_quote.py의 두 번째 인자로 저장한 일봉 배열.
   adx_atr.svg       — ADX/DMI(14) + ATR(14)
 
 캔들 색은 국내 관례(상승 빨강 / 하락 파랑)를 따르며, 두 색과 보조선
-색은 다크 서피스 기준 dataviz 검증을 통과한 팔레트 값이다.
+색은 각 서피스(라이트/다크) 기준 dataviz 검증을 통과한 팔레트 값이다.
 """
 import json
 import sys
 import os
 from fetch_quote import ema, wilder_sum
 
-# 다크 팔레트 (validate_palette.js --mode dark 통과 값)
-SURFACE = "#1a1a19"
-INK = "#ffffff"
-INK2 = "#c3c2b7"
-MUTED = "#898781"
-GRID = "#2c2c2a"
-BASELINE = "#383835"
-UP = "#e66767"      # 상승(국내 관례 빨강, 다크 슬롯8)
-DOWN = "#3987e5"    # 하락(파랑, 다크 슬롯1)
-GREEN = "#008300"
-MAGENTA = "#d55181"
+# 팔레트 (validate_palette.js 통과 값) — 라이트/다크 선택
+DARK = {  # --mode dark 통과
+    "SURFACE": "#1a1a19", "INK": "#ffffff", "INK2": "#c3c2b7", "MUTED": "#898781",
+    "GRID": "#2c2c2a", "BASELINE": "#383835",
+    "UP": "#e66767",    # 상승(국내 관례 빨강, 다크 슬롯8)
+    "DOWN": "#3987e5",  # 하락(파랑, 다크 슬롯1)
+    "GREEN": "#008300", "MAGENTA": "#d55181",
+}
+LIGHT = {  # --mode light 통과 (hynix_charts.py 라이트 팔레트와 정합)
+    "SURFACE": "#fcfcfb", "INK": "#0b0b0b", "INK2": "#52514e", "MUTED": "#898781",
+    "GRID": "#e1e0d9", "BASELINE": "#c3c2b7",
+    "UP": "#d64545",    # 상승(국내 관례 빨강, 라이트)
+    "DOWN": "#2a78d6",  # 하락(파랑, 라이트 검증값)
+    "GREEN": "#008300", "MAGENTA": "#e87ba4",
+}
+# 기본은 다크. main()에서 --light 시 set_palette(LIGHT)로 교체.
+SURFACE = DARK["SURFACE"]; INK = DARK["INK"]; INK2 = DARK["INK2"]; MUTED = DARK["MUTED"]
+GRID = DARK["GRID"]; BASELINE = DARK["BASELINE"]; UP = DARK["UP"]; DOWN = DARK["DOWN"]
+GREEN = DARK["GREEN"]; MAGENTA = DARK["MAGENTA"]
+
+
+def set_palette(pal):
+    global SURFACE, INK, INK2, MUTED, GRID, BASELINE, UP, DOWN, GREEN, MAGENTA
+    SURFACE, INK, INK2, MUTED = pal["SURFACE"], pal["INK"], pal["INK2"], pal["MUTED"]
+    GRID, BASELINE = pal["GRID"], pal["BASELINE"]
+    UP, DOWN, GREEN, MAGENTA = pal["UP"], pal["DOWN"], pal["GREEN"], pal["MAGENTA"]
+
+
 FONT = 'system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'
 W = 760
 SHOW = 66  # 표시 봉 수 (약 3개월)
@@ -261,11 +279,14 @@ def adx_atr_chart(days, out):
 
 
 def main():
-    if len(sys.argv) != 3:
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    if len(args) != 2:
         sys.exit(__doc__)
-    with open(sys.argv[1]) as f:
+    if "--light" in sys.argv:
+        set_palette(LIGHT)
+    with open(args[0]) as f:
         days = json.load(f)
-    out = sys.argv[2]
+    out = args[1]
     os.makedirs(out, exist_ok=True)
     shown = days[-SHOW:]
     candle_volume(shown, out)

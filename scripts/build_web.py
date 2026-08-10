@@ -27,12 +27,13 @@ TECH_CHARTS = ["candle_volume", "macd", "kdj", "adx_atr", "atr"]
 
 def build(date):
     tpl = open("scripts/report_template.html").read()
-    dark_dir = f"reports/sk-hynix/assets/{date}/dark/"
+    # 라이트 테마: 마커 차트는 라이트 세트(assets/{date}/)를 인라인
+    chart_dir = f"reports/sk-hynix/assets/{date}/"
     for marker, fn in MARKERS.items():
-        path = dark_dir + fn
+        path = chart_dir + fn
         if marker in tpl:
             if not os.path.exists(path):
-                sys.exit(f"오류: {path} 없음 — 먼저 hynix_charts.py --dark 실행 필요")
+                sys.exit(f"오류: {path} 없음 — 먼저 hynix_charts.py 실행 필요")
             tpl = tpl.replace(marker, open(path).read())
 
     # 아티팩트: 커밋된 SVG를 인라인 (발행 시점 스냅샷)

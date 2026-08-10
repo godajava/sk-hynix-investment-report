@@ -19,7 +19,7 @@ jobs:
       - name: Fetch quote and history
         run: python3 scripts/fetch_quote.py docs/quote.json /tmp/history.json
       - name: Generate tech charts
-        run: python3 scripts/tech_charts.py /tmp/history.json docs/charts
+        run: python3 scripts/tech_charts.py /tmp/history.json docs/charts --light
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
