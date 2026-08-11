@@ -34,12 +34,18 @@ UA = "Mozilla/5.0 (compatible; sk-hynix-report/1.0; +https://godajava.github.io/
 
 
 def clean_title(title):
-    """구글 뉴스 제목 끝의 ' - 언론사'를 떼어 순수 제목을 얻는다."""
-    # 마지막 ' - ' 기준으로 언론사 접미어 제거
-    parts = title.rsplit(" - ", 1)
-    if len(parts) == 2 and 0 < len(parts[1]) <= 20:
-        return parts[0].strip(), parts[1].strip()
-    return title.strip(), ""
+    """구글 뉴스 제목 끝의 ' - 언론사'(또는 ' | 언론사')를 떼어 순수 제목을 얻는다."""
+    src = ""
+    # 마지막 ' - ' 또는 ' | ' 기준으로 언론사 접미어 분리
+    for sep in (" - ", " | "):
+        if sep in title:
+            head, tail = title.rsplit(sep, 1)
+            if 0 < len(tail) <= 20:
+                title, src = head, tail
+                break
+    # 남은 꼬리 구분자(- | · – 등) 제거
+    title = re.sub(r"\s*[|\-–·]+\s*$", "", title).strip()
+    return title, src.strip()
 
 
 def parse_rss(xml_bytes):
