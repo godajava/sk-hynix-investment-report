@@ -153,6 +153,14 @@ button.refresh {
 }
 button.refresh:hover { background: rgba(116,169,232,0.12); }
 button.refresh:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+button.refresh[disabled] { opacity: 0.6; cursor: progress; }
+/* 갱신된 값 잠깐 강조 */
+.flash { animation: flashbg 1.1s ease-out 1; }
+@keyframes flashbg {
+  0% { background: rgba(116,169,232,0.35); }
+  100% { background: transparent; }
+}
+@media (prefers-reduced-motion: reduce) { .flash { animation: none; } }
 .livelink {
   font-size: 12.5px; font-weight: 600; padding: 6px 12px;
   border: 1px solid var(--hairline-strong); border-radius: 3px; color: var(--ink-2);
@@ -183,7 +191,7 @@ button.refresh:focus-visible { outline: 2px solid var(--accent); outline-offset:
 <p class="asof">작성 2026-08-11 15:33 KST · <strong>장 마감(종가 확정)</strong>(8/11 확정 종가 143.5만·+1.06%·매도 유지·저가 137.3만서 V반등해 상승 마감·145.9만 하회) · 다음 거래일 장중엔 현재가가 자동 갱신됩니다(야후 지연) · 본 자료는 정보 제공 목적이며 투자 권유가 아닙니다</p>
 
 <div class="toolbar">
-  <button class="refresh" type="button" onclick="location.reload()">↻ 새로고침</button>
+  <button class="refresh" type="button" title="시세·지표·뉴스를 즉시 다시 불러옵니다(장중 10분 간격 수집분 기준)" onclick="window.refreshNow ? window.refreshNow(this) : location.reload()">↻ 새로고침</button>
   <a class="livelink" href="https://finance.naver.com/item/main.naver?code=000660" target="_blank" rel="noopener">네이버 금융 실시간 시세 ↗</a>
   <a class="livelink" href="https://www.tossinvest.com/stocks/A000660/order" target="_blank" rel="noopener">토스증권 ↗</a>
   <span class="note" id="live-note">8/11 장 마감(종가 확정·매도 유지·종가 143.5만·+1.06%·저가 137.3만서 V반등해 상승 마감·145.9만 하회·낙폭과대 반발) · 다음 거래일 장중엔 현재가가 자동 갱신됩니다</span>
@@ -566,7 +574,7 @@ button.refresh:focus-visible { outline: 2px solid var(--accent); outline-offset:
   async function loadQuote() {
     try {
       var r = await fetch("quote.json?ts=" + Date.now(), { cache: "no-store" });
-      if (!r.ok) return;
+      if (!r.ok) return false;
       var q = await r.json();
       var p = document.getElementById("live-price");
       var c = document.getElementById("live-chg");
@@ -608,7 +616,9 @@ button.refresh:focus-visible { outline: 2px solid var(--accent); outline-offset:
           im.src = im.src.split("?")[0] + "?t=" + Date.now();
         });
       }
+      return true;
     } catch (e) { /* Artifact 등 fetch 불가 환경: 정적 값 유지 */ }
+    return false;
   }
 
   // 최신 뉴스 Top 10: news.json(구글 뉴스 자동 수집)을 읽어 신호등·날짜·
@@ -622,12 +632,12 @@ button.refresh:focus-visible { outline: 2px solid var(--accent); outline-offset:
   async function loadNews() {
     try {
       var r = await fetch("news.json?ts=" + Date.now(), { cache: "no-store" });
-      if (!r.ok) return;
+      if (!r.ok) return false;
       var d = await r.json();
       var items = (d && d.items) || [];
-      if (!items.length) return;
+      if (!items.length) return false;
       var ol = document.getElementById("news-feed");
-      if (!ol) return;
+      if (!ol) return false;
       ol.innerHTML = items.map(function (it) {
         var s = it.signal || { cls: "flat", label: "중립", emoji: "⚪" };
         var sig = '<span class="chip ' + esc(s.cls) + '">' + esc(s.emoji) + " " + esc(s.label) + "</span> ";
@@ -641,8 +651,42 @@ button.refresh:focus-visible { outline: 2px solid var(--accent); outline-offset:
       }).join("");
       var w = document.getElementById("news-feed-when");
       if (w && d.fetchedAt) w.textContent = "수집 " + d.fetchedAt;
-    } catch (e) { /* Artifact 등 fetch 불가 환경: 섹션 숨김 유지 */ }
+      return true;
+    } catch (e) { /* Artifact 등 fetch 불가 환경: 정적 스냅샷 유지 */ }
+    return false;
   }
+
+  // ── 새로고침 버튼: 페이지를 다시 열지 않고 시세·지표·뉴스만 즉시 다시 불러온다 ──
+  // quote.json은 장중 10분 간격(quote.yml)으로 갱신되므로, 버튼은 '서버의 최신
+  // 수집분'을 바로 반영한다(브라우저에서 거래소를 직접 조회하지는 않는다).
+  var busy = false;
+  window.refreshNow = async function (btn) {
+    if (busy) return;
+    busy = true;
+    var before = document.getElementById("live-price");
+    var prev = before ? before.textContent : "";
+    var label = btn ? btn.textContent : "";
+    if (btn) { btn.disabled = true; btn.textContent = "↻ 갱신 중…"; }
+    var ok = await loadQuote();
+    await loadNews();
+    if (btn) {
+      btn.disabled = false;
+      btn.textContent = ok ? "✓ 갱신됨" : "↻ 새로고침";
+      if (ok) setTimeout(function () { btn.textContent = label || "↻ 새로고침"; }, 1600);
+    }
+    if (ok) {
+      // 값이 바뀌었으면 잠깐 강조해 눈에 띄게 한다
+      var after = document.getElementById("live-price");
+      if (after && after.textContent !== prev) {
+        var box = after.closest("div");
+        if (box) { box.classList.remove("flash"); void box.offsetWidth; box.classList.add("flash"); }
+      }
+    } else {
+      // 시세 파일을 못 읽는 환경(Artifact 등)에서는 기존 동작대로 페이지를 다시 연다
+      location.reload();
+    }
+    busy = false;
+  };
 
   loadQuote();
   loadNews();
