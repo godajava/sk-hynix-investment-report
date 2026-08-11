@@ -12,6 +12,8 @@ scripts/report_template.html에 당일 다크 차트 SVG를 인라인하고 두 
 """
 import sys
 import os
+import json
+import html
 
 MARKERS = {
     "__PRICE_TREND__": "price_trend.svg",
@@ -25,8 +27,52 @@ MARKERS = {
 TECH_CHARTS = ["candle_volume", "macd", "kdj", "adx_atr", "atr"]
 
 
+def render_news(news_path="docs/news.json"):
+    """docs/news.json을 읽어 '최신 뉴스 Top 10'의 정적 <li> 스냅샷을 만든다.
+
+    웹 페이지는 loadNews() JS로 실시간 갱신되지만, Artifact(fetch 차단)에서는
+    이 빌드 시점 스냅샷이 그대로 노출된다. loadNews()와 동일한 마크업을 생성한다.
+    반환: (li들의 HTML, fetchedAt 문자열)
+    """
+    if not os.path.exists(news_path):
+        return "", ""
+    try:
+        data = json.load(open(news_path, encoding="utf-8"))
+    except Exception:
+        return "", ""
+    items = data.get("items") or []
+    e = html.escape
+    lis = []
+    for it in items:
+        sig = it.get("signal") or {"cls": "flat", "label": "중립", "emoji": "⚪"}
+        chip = (f'<span class="chip {e(sig.get("cls", "flat"))}">'
+                f'{e(sig.get("emoji", "⚪"))} {e(sig.get("label", "중립"))}</span> ')
+        date = (f'<span class="chip flat" style="font-variant-numeric:tabular-nums">'
+                f'{e(it.get("date", ""))}</span> ') if it.get("date") else ""
+        src = (f' <span style="color:var(--muted)">· {e(it.get("source", ""))}</span>'
+               if it.get("source") else "")
+        t = e(it.get("title", ""))
+        url = it.get("url", "")
+        title = (f'<a href="{e(url)}" target="_blank" rel="noopener">{t}</a>'
+                 if url else t)
+        lis.append(f"<li><div><h3>{chip}{date}{title}{src}</h3></div></li>")
+    return "".join(lis), data.get("fetchedAt", "")
+
+
 def build(date):
     tpl = open("scripts/report_template.html").read()
+
+    # 최신 뉴스 Top 10: 빌드 시점 스냅샷을 새겨 넣는다(Artifact fetch 차단 대비).
+    news_html, news_when = render_news()
+    if "__NEWS_TOP10__" in tpl:
+        placeholder = ('<li><div><h3><span class="chip flat">뉴스 로딩 중…</span> '
+                       '구글 뉴스에서 SK하이닉스 최신 기사를 불러옵니다.</h3></div></li>')
+        tpl = tpl.replace("__NEWS_TOP10__", news_html or placeholder)
+    if news_when:
+        tpl = tpl.replace(
+            '<span id="news-feed-when"></span>',
+            f'<span id="news-feed-when">수집 {html.escape(news_when)}</span>')
+
     # 라이트 테마: 마커 차트는 라이트 세트(assets/{date}/)를 인라인
     chart_dir = f"reports/sk-hynix/assets/{date}/"
     for marker, fn in MARKERS.items():

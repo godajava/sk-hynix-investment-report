@@ -2,7 +2,7 @@
 """SK하이닉스 최신 뉴스 수집기 (의존성 없음, 구글 뉴스 RSS).
 
 사용법:
-    python3 scripts/fetch_news.py [출력경로=docs/news.json] [개수=8]
+    python3 scripts/fetch_news.py [출력경로=docs/news.json] [개수=10]
 
 구글 뉴스 RSS 검색(SK하이닉스, 최근 7일)에서 최신 기사를 수집해
 제목·링크·언론사·발행일(KST)을 docs/news.json으로 저장한다.
@@ -83,6 +83,7 @@ def parse_rss(xml_bytes):
             "source": source,
             "date": date_str,
             "datetime": dt_str,
+            "signal": classify(title),
             "_sort": sort_key,
         })
     return items
@@ -99,9 +100,35 @@ def dedup(items):
     return out
 
 
+# 제목 키워드 기반 신호등 자동 분류(참고용) — 호재🟢 / 악재🔴 / 중립⚪
+POS_KEYWORDS = (
+    "상승", "급등", "강세", "신고가", "최고가", "돌파", "반등", "회복", "호재",
+    "목표가 상향", "상향", "매수", "수주", "역대 최대", "최대 실적", "사상 최대",
+    "흑자", "개선", "성장", "수혜", "공급", "양산", "낙관", "기대", "톱", "1위",
+    "1대주주", "최대주주", "인수", "확대", "증가", "훈풍", "질주", "랠리",
+)
+NEG_KEYWORDS = (
+    "하락", "급락", "약세", "신저가", "최저가", "이탈", "붕괴", "악재", "우려",
+    "목표가 하향", "하향", "매도", "손실", "적자", "감소", "축소", "부진", "경쟁",
+    "리스크", "위기", "차질", "둔화", "경고", "규제", "제재", "소송", "조사",
+    "중단", "철수", "쇼크", "패닉", "폭락", "논란", "위험", "불안", "타격",
+)
+
+
+def classify(title):
+    """제목 키워드로 신호등(호재/악재/중립)을 자동 분류한다."""
+    pos = sum(1 for k in POS_KEYWORDS if k in title)
+    neg = sum(1 for k in NEG_KEYWORDS if k in title)
+    if pos > neg:
+        return {"cls": "up", "label": "호재", "emoji": "🟢"}
+    if neg > pos:
+        return {"cls": "down", "label": "악재", "emoji": "🔴"}
+    return {"cls": "flat", "label": "중립", "emoji": "⚪"}
+
+
 def main():
     out_path = sys.argv[1] if len(sys.argv) > 1 else "docs/news.json"
-    limit = int(sys.argv[2]) if len(sys.argv) > 2 else 8
+    limit = int(sys.argv[2]) if len(sys.argv) > 2 else 10
 
     req = urllib.request.Request(RSS_URL, headers={"User-Agent": UA})
     with urllib.request.urlopen(req, timeout=20) as r:
