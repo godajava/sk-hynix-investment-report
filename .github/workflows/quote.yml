@@ -34,6 +34,9 @@ jobs:
         run: python3 scripts/fetch_quote.py docs/quote.json /tmp/history.json
       - name: Generate tech charts
         run: python3 scripts/tech_charts.py /tmp/history.json docs/charts --light
+      - name: Fetch latest news (Google News RSS)
+        continue-on-error: true
+        run: python3 scripts/fetch_news.py docs/news.json 8
       - name: Show quote (for report backfill)
         run: cat docs/quote.json
 
@@ -44,8 +47,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/quote.json docs/charts
-          git diff --cached --quiet || { git commit -m "기술 차트·시세 갱신 (리포트 주기 자동)"; git push; }
+          git add docs/quote.json docs/charts docs/news.json
+          git diff --cached --quiet || { git commit -m "기술 차트·시세·뉴스 갱신 (리포트 주기 자동)"; git push; }
 
       # ── 라이브 경로(10분 크론): 커밋 없이 배포만 ──
       - name: Setup Pages

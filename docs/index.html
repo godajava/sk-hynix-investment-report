@@ -346,6 +346,12 @@ button.refresh:focus-visible { outline: 2px solid var(--accent); outline-offset:
 <p><strong>해석</strong> — 간밤 미 반도체 강세(엔비디아 +5.79%·마이크론 +9.87%·SOX +5.61%)에도 8/11 SK하이닉스는 개장 초 <strong>외국인 매도로 137.8만(−2.96%)까지 급락</strong>(140.1만 이탈)했으나, 저가 137.3만서 <strong>낙폭과대 반발 매수로 V반등해 144.4만·140.1만을 회복</strong>했습니다. 급락 배경(외국인 순매도·CXMT 우려)은 잔존하나 저가권 반발이 유효한 구도로, <strong>매도 판단을 유지</strong>하며 종가로 140.1만 방어·145.9만 회복 여부를 관찰합니다.</p>
 </section>
 
+<section id="news-feed-sec" style="display:none">
+<h2><span class="no">NEWS</span>실시간 최신 뉴스 <small style="font-size:12px;font-weight:500;color:var(--muted)">구글 뉴스 자동 수집 · 날짜순 · <span id="news-feed-when"></span></small></h2>
+<ol class="news" id="news-feed"></ol>
+<p style="color:var(--muted);font-size:12px;margin-top:6px">※ 자동 수집된 원문 헤드라인입니다. 아래 &lt;최신 뉴스 Top 10&gt;은 애널리스트가 중요도순으로 선별·해설한 목록입니다.</p>
+</section>
+
 <section>
 <h2><span class="no">03</span>최신 뉴스 Top 10</h2>
 <ol class="news">
@@ -650,8 +656,44 @@ button.refresh:focus-visible { outline: 2px solid var(--accent); outline-offset:
       }
     } catch (e) { /* Artifact 등 fetch 불가 환경: 정적 값 유지 */ }
   }
+
+  // 실시간 최신 뉴스: 같은 출처의 news.json(구글 뉴스 자동 수집)을 읽어
+  // 날짜·언론사·링크와 함께 표시한다. Artifact(CSP fetch 차단)에서는
+  // 섹션이 숨겨진 채 유지되고, 아래 큐레이션 뉴스 Top 10만 노출된다.
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+    });
+  }
+  async function loadNews() {
+    try {
+      var r = await fetch("news.json?ts=" + Date.now(), { cache: "no-store" });
+      if (!r.ok) return;
+      var d = await r.json();
+      var items = (d && d.items) || [];
+      if (!items.length) return;
+      var ol = document.getElementById("news-feed");
+      if (!ol) return;
+      ol.innerHTML = items.map(function (it) {
+        var date = it.date ? '<span class="chip flat" style="font-variant-numeric:tabular-nums">' + esc(it.date) + "</span> " : "";
+        var src = it.source ? ' <span style="color:var(--muted)">· ' + esc(it.source) + "</span>" : "";
+        var t = esc(it.title);
+        var title = it.url
+          ? '<a href="' + esc(it.url) + '" target="_blank" rel="noopener">' + t + "</a>"
+          : t;
+        return "<li><div><h3>" + date + title + src + "</h3></div></li>";
+      }).join("");
+      var w = document.getElementById("news-feed-when");
+      if (w && d.fetchedAt) w.textContent = "수집 " + d.fetchedAt;
+      var sec = document.getElementById("news-feed-sec");
+      if (sec) sec.style.display = "";
+    } catch (e) { /* Artifact 등 fetch 불가 환경: 섹션 숨김 유지 */ }
+  }
+
   loadQuote();
+  loadNews();
   setInterval(loadQuote, 60000);
+  setInterval(loadNews, 300000);
 })();
 </script>
 </body></html>

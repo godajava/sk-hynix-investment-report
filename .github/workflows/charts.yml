@@ -20,9 +20,12 @@ jobs:
         run: python3 scripts/fetch_quote.py docs/quote.json /tmp/history.json
       - name: Generate tech charts
         run: python3 scripts/tech_charts.py /tmp/history.json docs/charts --light
+      - name: Fetch latest news (Google News RSS)
+        continue-on-error: true
+        run: python3 scripts/fetch_news.py docs/news.json 8
       - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/quote.json docs/charts
-          git diff --cached --quiet || { git commit -m "차트·시세 일일 갱신 (자동)"; git push; }
+          git add docs/quote.json docs/charts docs/news.json
+          git diff --cached --quiet || { git commit -m "차트·시세·뉴스 일일 갱신 (자동)"; git push; }
