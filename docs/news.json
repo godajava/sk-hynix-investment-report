@@ -1,8 +1,56 @@
 {
- "fetchedAt": "2026-08-11 15:33 KST",
+ "fetchedAt": "2026-08-11 17:14 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[DD퇴근] 목표가 200만원 차이나는 SK하이닉스…누구말 믿어야 하나",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hcTZIWlVxYzlTSFozZ05FZzlOcHMyM0FWWEZqSmxacUEyYVRhLXQ5VVdWcW9uWXlRV3ctcVc1TThhejhVQXRfX2ZkWFBhMVc3ejF1NnFxSHBZSF95YWoxXzFSTHc?oc=5",
+   "source": "디지털데일리",
+   "date": "2026-08-11",
+   "datetime": "2026-08-11 17:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 日키옥시아 최대주주로…낸드 지형 바뀌나",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FaTJvb2JpTWtUZFlwZmdqdGp3OXZWckkwRm5wSU1pWFgzXzlDM1BYSTc1Znp4MGNoRUMwaTlONExSR0t3aFY5cUs1cGlaNFpOa2UyYWxSWGt5WkhvZzlmUkhZZG9fMFZlanBF?oc=5",
+   "source": "비즈워치",
+   "date": "2026-08-11",
+   "datetime": "2026-08-11 15:42 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, 日 키옥시아 사실상 최대 주주 등극…도시바 지분 축소 여파",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVllWl9TXzNJajNlczE5TVY2VEJLX3FaaHJMRWdoZ3RTRmNoSW5GRi1XU1ZYbk1EcFk1VklCVk1UM1pMTF9YV192ZGlsdTVKUmxkLUhLWUxTSXlhMzczcTAtQ1R0RmZ6S3kyclFHekNybG5Nb3V0ZWdUQ1VVVFVsaEoxSQ?oc=5",
+   "source": "조선일보",
+   "date": "2026-08-11",
+   "datetime": "2026-08-11 15:42 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스, 日 최대 반도체회사 '키옥시아' 최대주주로",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKTWw0ZFZhdHFKOXFTVEdGNzctVVNRT0ZuM2RxdGxoQ0FESERVWmlIOElJN1dJWnQweWxkOGN0TE1HVHlzaEhEemJBVjNXRGFCT0NCMTdnWHJOR2RsdDJ1cw?oc=5",
+   "source": "KBC광주방송",
+   "date": "2026-08-11",
+   "datetime": "2026-08-11 15:20 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "안에선 ‘성과급’, 밖에선 ‘배당’…역대급 돈 번 SK하이닉스의 고민",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mOTlNRVBxcUxEbTVSUE95OUlJQWlPbW12U3JaaklXVTE2dTdZTjE2aEE2bnpfb1ZPZXZCbU1DTk1qbWo0a3F4ai1VZFlVQUlnR0F3SWRZam83eExsbG93NjVpVQ?oc=5",
@@ -64,59 +112,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 日키옥시아 최대주주 지위 확보… 실질 지배력 확대",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrSDNTTDN3bE51MzFyOTlaQnotWl9ZZ3d0MHNWWWhZUHdBVVBZNjRUUEhJWTB4NGY3NzR3ZHdPM2VBMlczcnFBNlZGbVlLOV9QeW9nc2hYUmstUQ?oc=5",
-   "source": "한국경제",
+   "title": "미래에셋 “SK하이닉스, 주주환원 40조 전망...솔리다임 상장은 투자재원 확충”",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nRWdQRERJQTBoMUpOb1Q5dHFwU2dCRVZZTHhJYm9LRjNTakNWQk5LamtRWTB4bTNqZ1JNVV9XQ3RsSmdjTi1MdWlzX2d2S2M?oc=5",
+   "source": "v.daum.net",
    "date": "2026-08-11",
-   "datetime": "2026-08-11 10:50 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 채권시장 ‘큰 손’ 부상…한 달 새 한전채 2.7조 매입",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LZmp3SVBXVlI2RDJIdW9SNjE4dVhzQzVSclVwVkdoZFh3Z3dWTWJiS1FLX0lLTWk5UkF1SnJlRFZ0azlIcjQxVkFDdWs2OGdkaU1iUlB2TGhtV3c?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 10:35 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"주가 빠졌네? 오히려 좋아\"…美매체 추천한 SK하이닉스",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIa2J0NEVXWjl1V1lTME1obnZoazRPdXRzaVF6NjBWN1pwVGFLZE4zZmc1c0VtbVhERWJEajEtVnV6ZUdsbEFSa0pzNHZxNWNZcGFTV21PbUZPTDRJbmVRRw?oc=5",
-   "source": "아시아경제",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 10:18 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "미 투자지 “마이크론 말고 SK하이닉스 사라” 호평인데… 한국선 왜 주가 빠지나",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObnpDdmJlWDFMVkk0amprZldMbXlZeTg5b2Z2VFp2VmJTeTAwUlpiZnA1MU14ZzRSbUwwR3ZhN19GMFFJbXVTWk9oMmNmVmlITmxFSEY0NWtvR2RRQ0JMRGhuTlBTMEtZam5vNjQxd3kzbl9GOWVWa2pfOXBhNEsyRw?oc=5",
-   "source": "조선일보",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 09:42 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"하이닉스 지금 줍줍하면 돈 번다\"…美서 극찬 쏟아진 이유 [종목+]",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKQ2JTMTlEZm5JTUp5Ul9kUGd2Zkh5NTZnNnNxRDdpV05xMTRYd0xSTGJRcUdSTTFYVENEeUZBN0dJTFdLMHVqTk1Na3V2d3JLdmFJNENEc0Rodw?oc=5",
-   "source": "한국경제",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 08:48 KST",
+   "datetime": "2026-08-11 10:52 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
