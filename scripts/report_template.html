@@ -154,6 +154,14 @@ button.refresh {
 button.refresh:hover { background: rgba(116,169,232,0.12); }
 button.refresh:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 button.refresh[disabled] { opacity: 0.6; cursor: progress; }
+/* 장중 실시간 표시 점 */
+.livedot {
+  display: inline-block; width: 6px; height: 6px; border-radius: 50%;
+  background: var(--up); margin-right: 5px; vertical-align: middle;
+  animation: livepulse 1.6s ease-in-out infinite;
+}
+@keyframes livepulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+@media (prefers-reduced-motion: reduce) { .livedot { animation: none; } }
 /* 갱신된 값 잠깐 강조 */
 .flash { animation: flashbg 1.1s ease-out 1; }
 @keyframes flashbg {
@@ -183,7 +191,7 @@ button.refresh[disabled] { opacity: 0.6; cursor: progress; }
 
 <div class="stats">
   <div><div class="k">투자의견</div><div class="v" style="color:var(--down)">매도 <small style="color:var(--ink-2)">(유지)</small></div></div>
-  <div><div class="k">직전 종가 <small id="live-when">(8/11 확정)</small></div><div class="v"><span id="live-price">142.5</span><small>만 원</small> <span id="live-chg" style="font-size:12.5px;font-weight:700;color:var(--up)">▲0.35%</span></div></div>
+  <div><div class="k"><span id="live-label">직전 종가</span> <small id="live-when">(8/11 확정)</small></div><div class="v"><span id="live-price">142.5</span><small>만 원</small> <span id="live-chg" style="font-size:12.5px;font-weight:700;color:var(--up)">▲0.35%</span></div></div>
   <div><div class="k">2Q 영업이익 <small>(확정)</small></div><div class="v">60.5<small>조 원</small></div></div>
   <div><div class="k">상승여력 <small>(종가 기준)</small></div><div class="v">+122.8%</div></div>
   <div><div class="k">차기 촉매</div><div class="v" style="font-size:15px">미 7월 CPI(현지 8/12)·주주환원 발표(100조+α)</div></div>
@@ -381,13 +389,36 @@ __TECH_CHARTS__
       var c = document.getElementById("live-chg");
       var w = document.getElementById("live-when");
       var n = document.getElementById("live-note");
+      var lab = document.getElementById("live-label");
+      var up = q.changePercent >= 0;
       if (p && q.price) p.textContent = (q.price / 10000).toFixed(1);
       if (c && q.changePercent != null) {
-        var up = q.changePercent >= 0;
         c.textContent = (up ? "▲" : "▼") + Math.abs(q.changePercent).toFixed(2) + "%";
         c.style.color = up ? "var(--up)" : "var(--down)";
       }
-      if (w && q.marketTime) w.textContent = "(" + q.marketTime + ")";
+
+      // 헤더 라벨은 시세 시각에 맞춰 자동 전환한다:
+      //   KRX 장중(오늘 09:00~15:30) → '현재가'(실시간 점 표시)
+      //   오늘 마감 뒤                → '오늘 종가'
+      //   그 밖(개장 전·휴장일)       → '직전 종가'
+      var mt = String(q.marketTime || "");
+      var m = mt.match(/^(\d{4}-\d{2}-\d{2})\s+(\d{2}):(\d{2})/);
+      if (m) {
+        // 브라우저 시간대와 무관하게 KST 기준 오늘 날짜를 구한다
+        var kst = new Date(Date.now() + new Date().getTimezoneOffset() * 60000 + 9 * 3600000);
+        var pad = function (v) { return (v < 10 ? "0" : "") + v; };
+        var today = kst.getFullYear() + "-" + pad(kst.getMonth() + 1) + "-" + pad(kst.getDate());
+        var mins = parseInt(m[2], 10) * 60 + parseInt(m[3], 10);
+        var live = m[1] === today && mins < 15 * 60 + 30;
+        if (lab) {
+          lab.innerHTML = live
+            ? '<span class="livedot" style="background:' + (up ? "var(--up)" : "var(--down)") + '"></span>현재가'
+            : (m[1] === today ? "오늘 종가" : "직전 종가");
+        }
+        if (w) w.textContent = live ? "(" + m[2] + ":" + m[3] + " 실시간)" : "(" + m[1] + " 확정)";
+      } else if (w && q.marketTime) {
+        w.textContent = "(" + q.marketTime + ")";
+      }
       if (n && q.fetchedAt) n.textContent = "리포트는 매일 14:00 KST 자동 갱신 · 시세 마지막 수집 " + q.fetchedAt;
 
       var ind = q.indicators || {};
