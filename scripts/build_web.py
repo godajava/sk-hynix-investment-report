@@ -26,51 +26,34 @@ MARKERS = {
 # 기술 차트 (tech_charts.py 생성, docs/charts/에 커밋·배포됨)
 TECH_CHARTS = ["candle_volume", "macd", "kdj", "adx_atr", "atr"]
 
-# 실시간 시세 위젯(TradingView) — GitHub Pages 전용.
-# Artifact는 CSP로 외부 스크립트가 차단되므로 정적 안내로 대체한다.
+# 실시간 시세 안내 패널.
+# 2026-08-12 실측: TradingView는 KRX 시세를 익명 사용자에게 주지 않고
+# (scanner API가 lp/ch/chp = null, update_mode=delayed_streaming_1200),
+# 야후 chart API는 CORS 헤더가 없어 브라우저 직접 조회가 불가하다.
+# 따라서 페이지 내 실시간 표시는 포기하고, 실시간은 외부 링크로 안내한다.
+# 외부 스크립트가 없으므로 Pages·Artifact 동일 마크업을 쓴다.
 NAVER_URL = "https://finance.naver.com/item/main.naver?code=000660"
 TOSS_URL = "https://www.tossinvest.com/stocks/A000660/order"
 
-LIVE_WIDGET_PAGES = """<div class="tv-wrap">
-  <div class="tradingview-widget-container" id="tv-widget">
-    <div class="tradingview-widget-container__widget"></div>
-    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
-    {"symbol":"KRX:000660","width":"100%","locale":"kr","colorTheme":"light","isTransparent":true}
-    </script>
+LIVE_QUOTE_PANEL = """<div class="tv-wrap">
+  <p class="tv-lead">
+    이 리포트의 시세는 <strong>야후 파이낸스 수집분(약 20분 지연)</strong>입니다.
+    체결 기준 <strong>실시간 시세</strong>는 아래에서 바로 확인하세요.
+  </p>
+  <div class="tv-links">
+    <a class="tv-btn primary" href="__NAVER__" target="_blank" rel="noopener">네이버 금융 실시간 ↗</a>
+    <a class="tv-btn" href="__TOSS__" target="_blank" rel="noopener">토스증권 ↗</a>
+    <a class="tv-btn" href="https://m.stock.naver.com/domestic/stock/000660/total" target="_blank" rel="noopener">네이버 모바일 ↗</a>
   </div>
-  <p class="tv-fallback" id="tv-fallback">
-    <strong>실시간 위젯을 불러오지 못했습니다</strong>
-    네트워크나 브라우저 확장으로 차단됐을 수 있습니다 —
-    <a href="__NAVER__" target="_blank" rel="noopener">네이버 금융</a> ·
-    <a href="__TOSS__" target="_blank" rel="noopener">토스증권</a>에서 확인하세요.
+  <p class="tv-note">
+    ※ TradingView·야후 등 무료 임베드 위젯은 KRX 시세를 익명 사용자에게 제공하지 않아
+    (TradingView는 <code>delayed_streaming_1200</code>으로 값이 비어 옴) 페이지 내 실시간 표시는 불가능합니다.
+    상단 헤더 수치는 수집 시각과 함께 표시되며, 새로고침으로 최신 수집분을 다시 불러옵니다.
   </p>
-</div>
-<p class="tv-note">
-  위 위젯은 TradingView가 직접 제공하는 시세로, 위젯 안에 표시되는 시각·지연 여부가 기준입니다.
-  아래 리포트 본문의 수치는 야후 파이낸스 수집분(약 20분 지연)이라 두 값이 다를 수 있습니다.
-  <a href="https://kr.tradingview.com/symbols/KRX-000660/" target="_blank" rel="noopener nofollow">TradingView에서 보기</a>
-</p>
-<script>
-  // 위젯이 4초 안에 렌더되지 않으면(차단·오프라인) 대체 안내를 노출한다.
-  (function () {
-    var box = document.getElementById("tv-widget");
-    var fb = document.getElementById("tv-fallback");
-    if (!box || !fb) return;
-    setTimeout(function () {
-      if (!box.querySelector("iframe")) fb.style.display = "block";
-    }, 4000);
-  })();
-</script>""".replace("__NAVER__", NAVER_URL).replace("__TOSS__", TOSS_URL)
+</div>"""
 
-LIVE_WIDGET_ARTIFACT = """<div class="tv-wrap">
-  <p class="tv-fallback" style="display:block">
-    <strong>실시간 시세는 웹 페이지에서 제공됩니다</strong>
-    이 문서(Artifact)는 보안 정책상 외부 시세 위젯을 표시할 수 없습니다 —
-    <a href="https://godajava.github.io/sk-hynix-investment-report/" target="_blank" rel="noopener">웹 리포트</a> ·
-    <a href="__NAVER__" target="_blank" rel="noopener">네이버 금융</a> ·
-    <a href="__TOSS__" target="_blank" rel="noopener">토스증권</a>에서 확인하세요.
-  </p>
-</div>""".replace("__NAVER__", NAVER_URL).replace("__TOSS__", TOSS_URL)
+LIVE_WIDGET_PAGES = LIVE_QUOTE_PANEL.replace("__NAVER__", NAVER_URL).replace("__TOSS__", TOSS_URL)
+LIVE_WIDGET_ARTIFACT = LIVE_WIDGET_PAGES
 
 
 def render_news(news_path="docs/news.json"):
