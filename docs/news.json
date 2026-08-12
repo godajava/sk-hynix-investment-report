@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-08-12 12:02 KST",
+ "fetchedAt": "2026-08-12 14:03 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "코스피, 1% 상승하며 6,400 회복‥삼성전자 4%, SK하이닉스 2% 상승",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11WWNGVWd4c0lKM1A1dWhPRkZyb0xWRzUycGN1cnJhN1lhd2dLWDFaQTMwVVFuUWw2aE8xUGVPd3JKX09CQkpQYTJ1b3RBbndwNmRodkFJZEwzQ3lfWnNUczRSTURBbzBYa3JwOE9MQXlxQ3Mw0gF0QVVfeXFMTVk4dkhrZklSelphbEZQUlZxcXVZN1pPdFBoSmpsRVV1MzFlZU9FWlNfYlRhNHBHX3NaSFpFMjZoM3E0LV85aFFtaWh3MUlTdmIxc3BmREc5UnlnN04tci1DWTNsSmx4SHFQVmE4a05YdE9Hb3g?oc=5",
-   "source": "MBC 뉴스",
+   "title": "SK하이닉스 주가 오늘 급등... 그 이유는?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aWGtGY0lWckpENDRzMC12c1BTY1U2MW1oY0pobFhRTmlxc3RPZmpLZHRaZ1BkdGFxeEFyb0ZtQ2NBYnpPcFZaNjdkZExuVTBiLWVzcWpMd0EzX2xHOUJnVDJWYndVTU13cndPQy1DM052ZWxMMTVF?oc=5",
+   "source": "Investing.com 한국어",
    "date": "2026-08-12",
-   "datetime": "2026-08-12 09:27 KST",
+   "datetime": "2026-08-12 13:28 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -16,11 +16,71 @@
    }
   },
   {
-   "title": "[특징주] 삼성전자, 4%대 급등…하이닉스도 3%↑",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRQ1BGSWNDTy1wY2dHZkdWYWRvU0VxTnhTajB6REY4M0FRUTAyUWVBQmt3QUlSYlg2SjVHSDNabVlaVDcyZW80eWJhQnNyNFhCelE3NUJuN091YTRiMDV5UdIBYEFVX3lxTFBRQ1BGSWNDTy1wY2dHZkdWYWRvU0VxTnhTajB6REY4M0FRUTAyUWVBQmt3QUlSYlg2SjVHSDNabVlaVDcyZW80eWJhQnNyNFhCelE3NUJuN091YTRiMDV5UQ?oc=5",
-   "source": "연합뉴스",
+   "title": "테마섹의 투자 보도에 삼성전자·SK하이닉스 주가 급등",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tVDUzQVRPbmVuZl90TmM4UndUMzZPdjA2QzgxbTk0UGFFQ1lOSFF4OUhwNF9NMm44MkFpNXZGOVdDUnpSLU9iNTdrUzdPS1pia01JN0x2ZU16YjI2dER2b1JaVzlqQmU5aHloS3Q1U1o?oc=5",
+   "source": "Investing.com 한국어",
    "date": "2026-08-12",
-   "datetime": "2026-08-12 09:25 KST",
+   "datetime": "2026-08-12 12:56 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "코스피 급등에 매수 사이드카 발동...삼성전자·SK하이닉스 7% 상승세",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZENLMjJ3RDhXQ2RZV20wYjBmMzhWdWw0NHZTWlA4ZDdza3R2OGx0ZG9hSXd4TVRLNkJjTVdjM29EWThnY0U1cDJ2WEI5am91Xy1wVHNzbE5tbExIMWQ0MlRiSzNHVFB2akp6QXZNNW91YTZyVjRpUXpFcV95dURwSw?oc=5",
+   "source": "조선일보",
+   "date": "2026-08-12",
+   "datetime": "2026-08-12 12:50 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "직장인 행복도 SK하이닉스 상위 3%…1위는 가스공사",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PNUpfcXk4VlZYNmhJcFE1VDhYUkt2cW90SkZodGc1YTBxYjRmZzJDX3A2S3oxdVlTYVZOWHlpVEptYmNiOVZSaC01eERvTGpyY2ItXzFGN3NoLWpXTTRrVDAyQ0JrNUU?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-08-12",
+   "datetime": "2026-08-12 11:16 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 생산·사무직 아우른 ‘통합노조’ 출범 임박 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY0M5Yk1nRzhFYWVYaXhjT0ZZTjlLcGV6SFNENE5jMHRNOTlnSlhCQWcyY3I4WUZYeG5FSUJXMklCNXlieXJWb1djUWp3Ym9POHA2TFI3STFYcnVKZElIbHE2R0h6ZlVZbUJKRS10dExkaWRkR2pobHZhSzZFSk5faW1R0gGWAUFVX3lxTE1wMjRiV1JvNWphTXNHNk4xZFMwdkhMeFFlTFMyQkVQUm04UTBHeEF2MUY0RUVKLXJiRlFqRGFpMWJzX2NjSVRnbDBUVjdsV3c2OTdKRUFUWXRTNXp4elQyOUZKWGVyX1pxa2N3UEdLblRPZDl4Yy0zWENlVlQzT3ZMMFh2VndKZU9ZS2Y0TnFDRm9aaXhVQQ?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-08-12",
+   "datetime": "2026-08-12 11:02 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[논단]SK하이닉스 1주가 쏘아올린 830억원짜리 나비효과",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYbkxFRlVaVFFLRjM5bExvVno5TEVTOGlvbUVnUDRjT0NsMU9JTXNRczZUMWdqdGVTU2x0SU8zR1pKaEZlRXdIZkxOTmtTaFg3V0hMcm5tVzBSWnlId2xqWQ?oc=5",
+   "source": "asiae.co.kr",
+   "date": "2026-08-12",
+   "datetime": "2026-08-12 11:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "코스피, 1% 상승하며 6,400 회복‥삼성전자 4%, SK하이닉스 2% 상승",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11WWNGVWd4c0lKM1A1dWhPRkZyb0xWRzUycGN1cnJhN1lhd2dLWDFaQTMwVVFuUWw2aE8xUGVPd3JKX09CQkpQYTJ1b3RBbndwNmRodkFJZEwzQ3lfWnNUczRSTURBbzBYa3JwOE9MQXlxQ3Mw0gF0QVVfeXFMTVk4dkhrZklSelphbEZQUlZxcXVZN1pPdFBoSmpsRVV1MzFlZU9FWlNfYlRhNHBHX3NaSFpFMjZoM3E0LV85aFFtaWh3MUlTdmIxc3BmREc5UnlnN04tci1DWTNsSmx4SHFQVmE4a05YdE9Hb3g?oc=5",
+   "source": "imnews.imbc.com",
+   "date": "2026-08-12",
+   "datetime": "2026-08-12 09:27 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -42,7 +102,7 @@
   {
    "title": "SK하이닉스 자회사 솔리다임, 中 다롄 2공장 투자 재개",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVRNaTlhQi1EMmtneGVNUUtDYVhwUjhjTmYwYmxWZ0FMODNYWVlHLTlTLXRHUEFqY2poZVQteEZwR2VUYTM0bHZMejZET2ZDNE9nOXJLeU1qZ0dDYVlDVTAwR2RjMkdpV2l0UV9QMlJnb2JQTHBBbEtBeGh0aEtrSEY2UTVYT0dy?oc=5",
-   "source": "g-enews.com",
+   "source": "글로벌이코노믹",
    "date": "2026-08-12",
    "datetime": "2026-08-12 07:35 KST",
    "signal": {
@@ -61,66 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 日 키옥시아 사실상 최대주주로",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12Vzd1T0RJbjZTNGhiVmhiX0pmTXR0Vl9nSENWUExxMEpubFpGVWNrTU9KV0l0UHU3a3RMSDNYZ3p1bEhzUU43WDVlNnk0STQ?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-12",
-   "datetime": "2026-08-12 04:39 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 ADR, 5일만에 반등…엔비디아發 인프라 투자 기대 속 유가↓",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TTFUyRXZCZ0VYWXFKdS15QUVDTUVjYjIzaDV1bnZPcnBrU19xckl6VGVETmRIeGMxWm1mRFNvTl94X1N0cjdqbHBiRGRSTFN6U0tCY191MlU0V3l5UlJ6LTNEOHBOWTQ5Z0JTSThJazI?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 23:01 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[단독] SK하이닉스, 中 낸드 생산 50% 늘린다",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qeHhoVjB3TG9fcGl4TnBMZ1JISWtJTE9uMVFheEJlVVZjVW5aOHNIX0gwc3ZoTUJ2a0JmaTZmcERkYTZNdGlvQTUzSDJJNDVzS0HSAVNBVV95cUxNZEpsR3R5LTRybS1YbENqY1JXVG42N3BLUy04MFBpbmhzdEZwUHBHYkxLd3dDUWNjX3Z1Y3d4Z1ZlLW5sdE0zenFRNkRBQVFVZ2lodw?oc=5",
-   "source": "서울경제",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 17:49 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 사실상 日 키옥시아 최대 주주로… 도시바 지분 매각에 순위 역전 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0ZzRXYzQVRrT2s3OE9UbHNQSGx1WFFYc2hfLS1kUkNLemtINWQ2MnlyV1hEWFhVbzJ6T1p6R3dJM1BUZDRPbGlHUkZtQkxWS05wakFBV3FlZ09aQjdiQjhFenBoT0V1a0lDcGR6eGNxYUdTRDluQ0ZUeG5ZMW9STGln0gGWAUFVX3lxTE9BdnhDTkF6cWpEXzdrUU9VM2JWZHI0Y2E4ZDhxMW83XzJCQXpVTTctMGFHZGc1RTg5SmVjZHRBb0lLZ3hlQ2l0YUdNZGd2dmhtakw4ZHpsM1pfcjZxMlljQXVFdFBmSFNmTC1vc19oMkdRUTlITUV5MTRGTlZVc29EdGRNRF9xVnRZb3NwMDN4MHRuakRRZw?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 16:23 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "인사말 하는 곽노정 SK하이닉스 CEO",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wanlELXhQQlQxVjJtTzZQWV96OHdodnJwaWlMQXh2MkxnWkhfWnNIU3FfMHZBbEJJOXRUWGxiX2pPV0EtU1FWc1EyRjVKZUdlcEdZZlBWdGNDZ0duMloxSNIBYEFVX3lxTE9wanlELXhQQlQxVjJtTzZQWV96OHdodnJwaWlMQXh2MkxnWkhfWnNIU3FfMHZBbEJJOXRUWGxiX2pPV0EtU1FWc1EyRjVKZUdlcEdZZlBWdGNDZ0duMloxSA?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 16:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
