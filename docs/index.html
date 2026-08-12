@@ -174,6 +174,18 @@ button.refresh[disabled] { opacity: 0.6; cursor: progress; }
   border: 1px solid var(--hairline-strong); border-radius: 3px; color: var(--ink-2);
 }
 .livelink:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+
+/* ── 실시간 시세 위젯(웹 전용) ── */
+.tv-wrap {
+  border: 1px solid var(--hairline-strong); background: var(--chart-card);
+  padding: 6px; min-height: 220px;
+}
+.tv-note { font-size: 12px; color: var(--muted); margin: 8px 0 0; }
+.tv-fallback {
+  display: none; margin: 0; padding: 24px 16px; text-align: center;
+  font-size: 13.5px; color: var(--ink-2);
+}
+.tv-fallback strong { display: block; margin-bottom: 6px; color: var(--ink); }
 @media (prefers-reduced-motion: no-preference) {
   button.refresh:active { transform: scale(0.97); }
 }
@@ -204,6 +216,40 @@ button.refresh[disabled] { opacity: 0.6; cursor: progress; }
   <a class="livelink" href="https://www.tossinvest.com/stocks/A000660/order" target="_blank" rel="noopener">토스증권 ↗</a>
   <span class="note" id="live-note">8/12 장중 업데이트 12:00(매도 유지·중립 복귀 임박·11:42 151.5만·+6.32%·145.9만·148.3만 돌파·MACD 골든크로스) · 현재가는 8/12 장중 자동 갱신됩니다</span>
 </div>
+
+<section>
+<h2><span class="no">LIVE</span>실시간 시세 <small style="font-size:12px;font-weight:500;color:var(--muted)">TradingView 제공 · 아래 리포트 수치와 기준 시점이 다를 수 있습니다</small></h2>
+<div class="tv-wrap">
+  <div class="tradingview-widget-container" id="tv-widget">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-info.js" async>
+    {"symbol":"KRX:000660","width":"100%","locale":"kr","colorTheme":"light","isTransparent":true}
+    </script>
+  </div>
+  <p class="tv-fallback" id="tv-fallback">
+    <strong>실시간 위젯을 불러오지 못했습니다</strong>
+    네트워크나 브라우저 확장으로 차단됐을 수 있습니다 —
+    <a href="https://finance.naver.com/item/main.naver?code=000660" target="_blank" rel="noopener">네이버 금융</a> ·
+    <a href="https://www.tossinvest.com/stocks/A000660/order" target="_blank" rel="noopener">토스증권</a>에서 확인하세요.
+  </p>
+</div>
+<p class="tv-note">
+  위 위젯은 TradingView가 직접 제공하는 시세로, 위젯 안에 표시되는 시각·지연 여부가 기준입니다.
+  아래 리포트 본문의 수치는 야후 파이낸스 수집분(약 20분 지연)이라 두 값이 다를 수 있습니다.
+  <a href="https://kr.tradingview.com/symbols/KRX-000660/" target="_blank" rel="noopener nofollow">TradingView에서 보기</a>
+</p>
+<script>
+  // 위젯이 4초 안에 렌더되지 않으면(차단·오프라인) 대체 안내를 노출한다.
+  (function () {
+    var box = document.getElementById("tv-widget");
+    var fb = document.getElementById("tv-fallback");
+    if (!box || !fb) return;
+    setTimeout(function () {
+      if (!box.querySelector("iframe")) fb.style.display = "block";
+    }, 4000);
+  })();
+</script>
+</section>
 
 <section>
 <h2><span class="no">CHART</span>기술적 분석 차트 <small style="font-size:12px;font-weight:500;color:var(--muted)">8/12 11:42 장중 기준 · 장중 자동 갱신</small></h2>
