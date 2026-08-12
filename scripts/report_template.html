@@ -378,14 +378,42 @@ __TECH_CHARTS__
 
 <script>
 (function () {
-  // GitHub Pages에서만 동작: quote.yml이 장중 10분 간격으로 갱신하는
-  // 같은 출처의 quote.json을 읽어 헤더 현재가를 갱신한다.
-  // Artifact 페이지에서는 CSP로 fetch가 막혀 조용히 정적 값을 유지한다.
+  // 시세 출처: 저장소의 docs/quote.json.
+  //  1순위 raw.githubusercontent — 커밋 즉시 반영(CORS 허용·캐시 5분)이라
+  //        Pages 재배포를 기다리지 않는다. live.yml이 장중 10분마다 커밋한다.
+  //  2순위 같은 출처의 quote.json — raw가 막히거나 실패할 때(배포 시점 스냅샷).
+  // Artifact 페이지에서는 CSP로 둘 다 막혀 조용히 정적 값을 유지한다.
+  var QUOTE_URLS = [
+    "https://raw.githubusercontent.com/godajava/sk-hynix-investment-report/main/docs/quote.json",
+    "quote.json"
+  ];
+  // 후보를 순서대로 시도하되 각 시도에 3초 상한을 둔다. 상한이 없으면
+  // 1순위가 느리게 실패할 때 새로고침이 멈춘 것처럼 보인다.
+  async function fetchJSON(url, ms) {
+    var ctl = typeof AbortController !== "undefined" ? new AbortController() : null;
+    var timer = ctl ? setTimeout(function () { ctl.abort(); }, ms) : null;
+    try {
+      var r = await fetch(url + "?ts=" + Date.now(),
+        ctl ? { cache: "no-store", signal: ctl.signal } : { cache: "no-store" });
+      if (!r.ok) return null;
+      return await r.json();
+    } catch (e) {
+      return null;
+    } finally {
+      if (timer) clearTimeout(timer);
+    }
+  }
+  async function fetchQuote() {
+    for (var i = 0; i < QUOTE_URLS.length; i++) {
+      var q = await fetchJSON(QUOTE_URLS[i], 3000);
+      if (q) return q;
+    }
+    return null;
+  }
   async function loadQuote() {
     try {
-      var r = await fetch("quote.json?ts=" + Date.now(), { cache: "no-store" });
-      if (!r.ok) return false;
-      var q = await r.json();
+      var q = await fetchQuote();
+      if (!q) return false;
       var p = document.getElementById("live-price");
       var c = document.getElementById("live-chg");
       var w = document.getElementById("live-when");

@@ -1,0 +1,88 @@
+name: Live quote loop (market session)
+
+# 장중 시세 수집 주기 단축(A안).
+#
+# 배경: GitHub의 schedule은 심하게 스로틀링돼 `*/10` 크론이 실제로는 1시간에
+# 한 번꼴로만 실행됐다(2026-08-12 실측: 하루 42회여야 할 것이 5~6회).
+# 그래서 크론을 여러 번 도는 대신, 장 시작에 한 번만 떠서 세션 내내 살아 있는
+# 잡이 10분마다 시세를 받아 커밋한다. 시작 1회만 성공하면 되므로 훨씬 견고하다.
+#
+# 페이지는 docs/quote.json을 raw.githubusercontent에서 읽는다(CORS 허용·캐시 5분).
+# 따라서 커밋만으로 즉시 반영되고 Pages 재배포가 필요 없다 — 한 잡 안에서
+# Pages 아티팩트를 반복 업로드할 수 없는 제약도 자연히 피한다.
+
+on:
+  schedule:
+    # 평일 08:58 KST (23:58 UTC 전일) — 개장 직전 1회 기동
+    - cron: "58 23 * * 0-4"
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: "루프를 돌 시간(분). 기본 340분 ≈ 09:00~14:40"
+        type: string
+        default: "340"
+      interval:
+        description: "수집 간격(초). 기본 600초 = 10분"
+        type: string
+        default: "600"
+
+permissions:
+  contents: write
+
+concurrency:
+  # 같은 세션에 두 개가 겹치지 않도록. 진행 중인 루프를 새 실행이 대체한다.
+  group: live-quote
+  cancel-in-progress: true
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    # 잡 최대 6시간 제한 — 여유를 두고 350분에서 스스로 종료
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Collect quote every N seconds until session ends
+        env:
+          RUN_MINUTES: ${{ inputs.minutes || '340' }}
+          INTERVAL: ${{ inputs.interval || '600' }}
+        run: |
+          set -u
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          end=$(( $(date +%s) + RUN_MINUTES * 60 ))
+          n=0
+          while [ "$(date +%s)" -lt "$end" ]; do
+            n=$((n + 1))
+            kst=$(TZ=Asia/Seoul date +"%H:%M")
+            dow=$(TZ=Asia/Seoul date +%u)
+
+            # KRX 정규장(평일 09:00~15:30) 밖이면 수집을 건너뛴다
+            hm=$(TZ=Asia/Seoul date +"%H%M")
+            if [ "$dow" -le 5 ] && [ "$hm" -ge "0900" ] && [ "$hm" -le "1535" ]; then
+              if python3 scripts/fetch_quote.py docs/quote.json /tmp/history.json >/dev/null 2>&1; then
+                # 커밋 경합 대비: 리베이스 후 푸시, 실패해도 루프는 계속
+                git add docs/quote.json
+                if ! git diff --cached --quiet; then
+                  git commit -q -m "장중 시세 갱신 ${kst} KST (자동)" || true
+                  git pull --rebase -q origin main || true
+                  git push -q || echo "  push 실패(다음 회차에 재시도)"
+                  echo "[$n] $kst KST — 커밋·푸시"
+                else
+                  echo "[$n] $kst KST — 변화 없음"
+                fi
+              else
+                echo "[$n] $kst KST — 시세 조회 실패(건너뜀)"
+              fi
+            else
+              echo "[$n] $kst KST — 장외, 건너뜀"
+            fi
+
+            # 남은 시간이 간격보다 짧으면 종료
+            [ $(( $(date +%s) + INTERVAL )) -ge "$end" ] && break
+            sleep "$INTERVAL"
+          done
+          echo "루프 종료 — 총 ${n}회"
