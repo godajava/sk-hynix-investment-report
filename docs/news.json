@@ -1,12 +1,84 @@
 {
- "fetchedAt": "2026-08-11 17:14 KST",
+ "fetchedAt": "2026-08-12 09:09 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[DD퇴근] 목표가 200만원 차이나는 SK하이닉스…누구말 믿어야 하나",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hcTZIWlVxYzlTSFozZ05FZzlOcHMyM0FWWEZqSmxacUEyYVRhLXQ5VVdWcW9uWXlRV3ctcVc1TThhejhVQXRfX2ZkWFBhMVc3ejF1NnFxSHBZSF95YWoxXzFSTHc?oc=5",
-   "source": "디지털데일리",
+   "title": "삼성·SK하이닉스, 이르면 이달 주주환원 공개…'100조원+α' 기대감",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rcHRyYV8yRXBtRW5xeDVMX1BseXZBbzNQMkdhT3hBZXFiTmxWN2I1dzc3WFRsYU5jSXRUMUhFQkJuVFFuRXE0dm41QlozeVRxY1B0RVluYlZyY2lzbFl6S21BYk0xQ2lxemNCNVl0V2k?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-08-12",
+   "datetime": "2026-08-12 08:38 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "지금 줍는게 맞다?…\"SK하이닉스, 40조 '통 큰 주주환원' 기대\"[클릭e종목]",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42V2JtUzh0UDZWZGI2Wkl6UnNzOHlPUm11eWo0eEtWN2k3bGFiaUFpSmtqY3ZTRU9DZnpqX1lhWUdLYVhTSWlVd3RtbWdpQkQ0LUR4UnF4VHctcmlBdXROVQ?oc=5",
+   "source": "아시아경제",
+   "date": "2026-08-12",
+   "datetime": "2026-08-12 07:15 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[글로벌 비즈 브리핑] SK하이닉스, 日 키옥시아 사실상 최대주주로 外",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15WWJWQWdJYVZPVFFxRDNydWpGRHFRbGE0Qmx4b19xMERIWnFCUjNFMTBTZzNsNTRPa2ZzdDZjTGhDeUdaR1hTejRVYkdjYmM?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-12",
+   "datetime": "2026-08-12 04:54 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, 日 키옥시아 사실상 최대주주로",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12Vzd1T0RJbjZTNGhiVmhiX0pmTXR0Vl9nSENWUExxMEpubFpGVWNrTU9KV0l0UHU3a3RMSDNYZ3p1bEhzUU43WDVlNnk0STQ?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-12",
+   "datetime": "2026-08-12 04:39 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 ADR, 5일만에 반등…엔비디아發 인프라 투자 기대 속 유가↓",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TTFUyRXZCZ0VYWXFKdS15QUVDTUVjYjIzaDV1bnZPcnBrU19xckl6VGVETmRIeGMxWm1mRFNvTl94X1N0cjdqbHBiRGRSTFN6U0tCY191MlU0V3l5UlJ6LTNEOHBOWTQ5Z0JTSThJazI?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-08-11",
+   "datetime": "2026-08-11 23:01 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[단독] SK하이닉스, 中 낸드 생산 50% 늘린다",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qeHhoVjB3TG9fcGl4TnBMZ1JISWtJTE9uMVFheEJlVVZjVW5aOHNIX0gwc3ZoTUJ2a0JmaTZmcERkYTZNdGlvQTUzSDJJNDVzS0HSAVNBVV95cUxNZEpsR3R5LTRybS1YbENqY1JXVG42N3BLUy04MFBpbmhzdEZwUHBHYkxLd3dDUWNjX3Z1Y3d4Z1ZlLW5sdE0zenFRNkRBQVFVZ2lodw?oc=5",
+   "source": "서울경제",
+   "date": "2026-08-11",
+   "datetime": "2026-08-11 17:49 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[단독] “HBM은 형편없다” 전 인텔 CEO 도발하자…SK하이닉스 임원 대답이",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Oc1ZrUnFlbjBCQVdHbWhpYnRSTFFGQ0xlSkpuZ2JsUEdlRzhjb0Nud2pHSnBqQnJ3WWxzaTZIRlJBTkE2bzRfajI4QUgtTms?oc=5",
+   "source": "v.daum.net",
    "date": "2026-08-11",
    "datetime": "2026-08-11 17:00 KST",
    "signal": {
@@ -16,47 +88,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 日키옥시아 최대주주로…낸드 지형 바뀌나",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FaTJvb2JpTWtUZFlwZmdqdGp3OXZWckkwRm5wSU1pWFgzXzlDM1BYSTc1Znp4MGNoRUMwaTlONExSR0t3aFY5cUs1cGlaNFpOa2UyYWxSWGt5WkhvZzlmUkhZZG9fMFZlanBF?oc=5",
-   "source": "비즈워치",
+   "title": "SK하이닉스, 사실상 日 키옥시아 최대 주주로… 도시바 지분 매각에 순위 역전 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN0ZzRXYzQVRrT2s3OE9UbHNQSGx1WFFYc2hfLS1kUkNLemtINWQ2MnlyV1hEWFhVbzJ6T1p6R3dJM1BUZDRPbGlHUkZtQkxWS05wakFBV3FlZ09aQjdiQjhFenBoT0V1a0lDcGR6eGNxYUdTRDluQ0ZUeG5ZMW9STGln0gGWAUFVX3lxTE9BdnhDTkF6cWpEXzdrUU9VM2JWZHI0Y2E4ZDhxMW83XzJCQXpVTTctMGFHZGc1RTg5SmVjZHRBb0lLZ3hlQ2l0YUdNZGd2dmhtakw4ZHpsM1pfcjZxMlljQXVFdFBmSFNmTC1vc19oMkdRUTlITUV5MTRGTlZVc29EdGRNRF9xVnRZb3NwMDN4MHRuakRRZw?oc=5",
+   "source": "Chosunbiz",
    "date": "2026-08-11",
-   "datetime": "2026-08-11 15:42 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 日 키옥시아 사실상 최대 주주 등극…도시바 지분 축소 여파",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVllWl9TXzNJajNlczE5TVY2VEJLX3FaaHJMRWdoZ3RTRmNoSW5GRi1XU1ZYbk1EcFk1VklCVk1UM1pMTF9YV192ZGlsdTVKUmxkLUhLWUxTSXlhMzczcTAtQ1R0RmZ6S3kyclFHekNybG5Nb3V0ZWdUQ1VVVFVsaEoxSQ?oc=5",
-   "source": "조선일보",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 15:42 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스, 日 최대 반도체회사 '키옥시아' 최대주주로",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKTWw0ZFZhdHFKOXFTVEdGNzctVVNRT0ZuM2RxdGxoQ0FESERVWmlIOElJN1dJWnQweWxkOGN0TE1HVHlzaEhEemJBVjNXRGFCT0NCMTdnWHJOR2RsdDJ1cw?oc=5",
-   "source": "KBC광주방송",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 15:20 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "안에선 ‘성과급’, 밖에선 ‘배당’…역대급 돈 번 SK하이닉스의 고민",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mOTlNRVBxcUxEbTVSUE95OUlJQWlPbW12U3JaaklXVTE2dTdZTjE2aEE2bnpfb1ZPZXZCbU1DTk1qbWo0a3F4ai1VZFlVQUlnR0F3SWRZam83eExsbG93NjVpVQ?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 14:33 KST",
+   "datetime": "2026-08-11 16:23 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -64,23 +100,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 日 낸드 기업 키옥시아 최대주주로 등극",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9haGVWdGNlMmZSODA3cklZVllqUG1rMHFXNUExRnVsOUlZZUFFNXlWS2dkS2JYRm1EbnE5OHQtVGxZdzQ4MnBPYkNXdmFYZnc?oc=5",
-   "source": "v.daum.net",
+   "title": "인사말 하는 곽노정 SK하이닉스 CEO",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wanlELXhQQlQxVjJtTzZQWV96OHdodnJwaWlMQXh2MkxnWkhfWnNIU3FfMHZBbEJJOXRUWGxiX2pPV0EtU1FWc1EyRjVKZUdlcEdZZlBWdGNDZ0duMloxSNIBYEFVX3lxTE9wanlELXhQQlQxVjJtTzZQWV96OHdodnJwaWlMQXh2MkxnWkhfWnNIU3FfMHZBbEJJOXRUWGxiX2pPV0EtU1FWc1EyRjVKZUdlcEdZZlBWdGNDZ0duMloxSA?oc=5",
+   "source": "연합뉴스",
    "date": "2026-08-11",
-   "datetime": "2026-08-11 11:21 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "“마이크론 말고 SK하이닉스 사라” 美 투자지 추천에도…한국선 주가 빠지는 이유",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11b29ldjlXTE9aRTVpSF9vYWFNTXZsWFdVR181Y2M2ek8wVTR5anQ0bkpGei1yWXRUOHc4bkVXTnJURFkzdks5ZDRFT2t1dw?oc=5",
-   "source": "전자신문",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 11:12 KST",
+   "datetime": "2026-08-11 16:03 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -88,35 +112,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 일본 낸드 업체 키옥시아 1대주주 등극",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fU3otb1E4MkNSTnJib19HbjFUYUx1Ymppd3RfRmZqUjd6Z211c3FPV2xoM2g4dnZkVDhoNk9JUHp6cEM0QzU2aWdHazNWeGVZRmIyeWplMXhCdDIyaC1TNzNvREwyTkZGdGFxbjBDMzY?oc=5",
-   "source": "연합인포맥스",
+   "title": "간담회 참석한 김용관 삼성전자 사장-곽노정 SK하이닉스 CEO",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCTVlnczNRUU4tcGwwQ1JLalFkZHR4Y3NGdXhUQXpqV3lGT1E3NTlQV1VGMmNFNmZtYktOWE11N1Z5Y1JnSlRjUHNqb3BwNHlfa0czc1N3Y01aNUxUMzF4QtIBYEFVX3lxTFBCTVlnczNRUU4tcGwwQ1JLalFkZHR4Y3NGdXhUQXpqV3lGT1E3NTlQV1VGMmNFNmZtYktOWE11N1Z5Y1JnSlRjUHNqb3BwNHlfa0czc1N3Y01aNUxUMzF4Qg?oc=5",
+   "source": "연합뉴스",
    "date": "2026-08-11",
-   "datetime": "2026-08-11 11:07 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 채권 투자 전격 중단…발행 하루 전 통보",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4bVYwYlZ6OEJXUk5GYzZ2Z1BOcVROWlp3Vzd2TVZRNWd5dnNHMVkxdjRBMDlqX0QzZVJyX1V4VUYzNEJKdDRuVFh0TFZrdzl0aHlJeGxiMk9RU2ZObTJmNHRVMERFdzVDWnk5ZDI3SnA?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 10:58 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "미래에셋 “SK하이닉스, 주주환원 40조 전망...솔리다임 상장은 투자재원 확충”",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nRWdQRERJQTBoMUpOb1Q5dHFwU2dCRVZZTHhJYm9LRjNTakNWQk5LamtRWTB4bTNqZ1JNVV9XQ3RsSmdjTi1MdWlzX2d2S2M?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-11",
-   "datetime": "2026-08-11 10:52 KST",
+   "datetime": "2026-08-11 15:57 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
