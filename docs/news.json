@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-08-12 14:03 KST",
+ "fetchedAt": "2026-08-12 15:34 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[차이나 칩] 中 반도체 돈줄 '빅펀드'…SK하이닉스 공장 인수 나설까",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DVzZycXRpenp2TXNTWTc5YWVBMm9zSnhVLU54cjkxdFkxM1JHS3pCOHdGYVVUQW5Mc1d5SnI1LXB4NTV5Y0hxaWVmOHktR0gwQ2g4MlJFMG9KLXZhYmh4U0tJNDJ2dnlEeE9ZM2xsaWw?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-08-12",
+   "datetime": "2026-08-12 14:22 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "SK하이닉스 주가 오늘 급등... 그 이유는?",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aWGtGY0lWckpENDRzMC12c1BTY1U2MW1oY0pobFhRTmlxc3RPZmpLZHRaZ1BkdGFxeEFyb0ZtQ2NBYnpPcFZaNjdkZExuVTBiLWVzcWpMd0EzX2xHOUJnVDJWYndVTU13cndPQy1DM052ZWxMMTVF?oc=5",
@@ -42,7 +54,7 @@
   {
    "title": "직장인 행복도 SK하이닉스 상위 3%…1위는 가스공사",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PNUpfcXk4VlZYNmhJcFE1VDhYUkt2cW90SkZodGc1YTBxYjRmZzJDX3A2S3oxdVlTYVZOWHlpVEptYmNiOVZSaC01eERvTGpyY2ItXzFGN3NoLWpXTTRrVDAyQ0JrNUU?oc=5",
-   "source": "연합뉴스TV",
+   "source": "yonhapnewstv.co.kr",
    "date": "2026-08-12",
    "datetime": "2026-08-12 11:16 KST",
    "signal": {
@@ -64,21 +76,9 @@
    }
   },
   {
-   "title": "[논단]SK하이닉스 1주가 쏘아올린 830억원짜리 나비효과",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYbkxFRlVaVFFLRjM5bExvVno5TEVTOGlvbUVnUDRjT0NsMU9JTXNRczZUMWdqdGVTU2x0SU8zR1pKaEZlRXdIZkxOTmtTaFg3V0hMcm5tVzBSWnlId2xqWQ?oc=5",
-   "source": "asiae.co.kr",
-   "date": "2026-08-12",
-   "datetime": "2026-08-12 11:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "코스피, 1% 상승하며 6,400 회복‥삼성전자 4%, SK하이닉스 2% 상승",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11WWNGVWd4c0lKM1A1dWhPRkZyb0xWRzUycGN1cnJhN1lhd2dLWDFaQTMwVVFuUWw2aE8xUGVPd3JKX09CQkpQYTJ1b3RBbndwNmRodkFJZEwzQ3lfWnNUczRSTURBbzBYa3JwOE9MQXlxQ3Mw0gF0QVVfeXFMTVk4dkhrZklSelphbEZQUlZxcXVZN1pPdFBoSmpsRVV1MzFlZU9FWlNfYlRhNHBHX3NaSFpFMjZoM3E0LV85aFFtaWh3MUlTdmIxc3BmREc5UnlnN04tci1DWTNsSmx4SHFQVmE4a05YdE9Hb3g?oc=5",
-   "source": "imnews.imbc.com",
+   "source": "MBC 뉴스",
    "date": "2026-08-12",
    "datetime": "2026-08-12 09:27 KST",
    "signal": {
