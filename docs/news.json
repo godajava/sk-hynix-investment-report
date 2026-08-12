@@ -1,26 +1,26 @@
 {
- "fetchedAt": "2026-08-12 09:09 KST",
+ "fetchedAt": "2026-08-12 10:03 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "삼성·SK하이닉스, 이르면 이달 주주환원 공개…'100조원+α' 기대감",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rcHRyYV8yRXBtRW5xeDVMX1BseXZBbzNQMkdhT3hBZXFiTmxWN2I1dzc3WFRsYU5jSXRUMUhFQkJuVFFuRXE0dm41QlozeVRxY1B0RVluYlZyY2lzbFl6S21BYk0xQ2lxemNCNVl0V2k?oc=5",
-   "source": "연합인포맥스",
+   "title": "SK하이닉스 통합노조 출범 임박…\"과반노조 만들어 교섭력 강화\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPYlp2ZWhISlF4aENHVVppNl9ZdEdGeExoalpBbnVyN1VWVzhYWVpxUkZLMFJPeEh1WDFfeTNmTldLYVFqSmhvcm1SVkZpRmtkSzY2NDc3TDZOUTTSAWBBVV95cUxOUERmYWhMZEQ0M2R6ajR4MDhJbERaX2dlWDJkaE1tc0JTUXhWc0dvalpTOERxVk56MDIwUnhUNWxzUnRkazlCZ0QxOW81T3F1QWs5aW55dnZkams1U29GRzM?oc=5",
+   "source": "연합뉴스",
    "date": "2026-08-12",
-   "datetime": "2026-08-12 08:38 KST",
+   "datetime": "2026-08-12 09:26 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
-   "title": "지금 줍는게 맞다?…\"SK하이닉스, 40조 '통 큰 주주환원' 기대\"[클릭e종목]",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42V2JtUzh0UDZWZGI2Wkl6UnNzOHlPUm11eWo0eEtWN2k3bGFiaUFpSmtqY3ZTRU9DZnpqX1lhWUdLYVhTSWlVd3RtbWdpQkQ0LUR4UnF4VHctcmlBdXROVQ?oc=5",
-   "source": "아시아경제",
+   "title": "삼성·SK하이닉스, 이르면 이달 주주환원 공개…'100조원+α' 기대감",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA2M0daeDZ2dzE5RUMxZ2JoT1BkV29nVnRmVFBJMTVKblduZ0pVUHhkMVdEVEc2Ykp1MmVNb2NYX2kwYlBpMjREUFFnMlR2Q2lnZWhxbDhfZ0hpM3BzNWRteFZ0ZXNuSTlHN3U0SnpQN1NxN3U1?oc=5",
+   "source": "연합인포맥스",
    "date": "2026-08-12",
-   "datetime": "2026-08-12 07:15 KST",
+   "datetime": "2026-08-12 08:44 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
