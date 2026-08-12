@@ -1,0 +1,49 @@
+name: Probe data hosting (temporary)
+
+# A안(장중 수집 주기 단축)을 위한 진단.
+# 커밋만으로 즉시 갱신되면서 브라우저에서 읽을 수 있는(CORS) 데이터 경로를 찾는다.
+# 확인이 끝나면 이 워크플로는 삭제한다.
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: raw.githubusercontent (CORS·캐시 정책)
+        continue-on-error: true
+        run: |
+          echo "=== raw.githubusercontent ==="
+          curl -sS -D - -o /tmp/raw.json --max-time 25 \
+            -H "Origin: https://godajava.github.io" \
+            "https://raw.githubusercontent.com/godajava/sk-hynix-investment-report/main/docs/quote.json" \
+            | grep -iE "^HTTP/|access-control-allow-origin|cache-control|etag|age" || true
+          echo "--- body(앞부분) ---"; head -c 200 /tmp/raw.json; echo
+
+      - name: raw + 쿼리스트링 캐시버스터
+        continue-on-error: true
+        run: |
+          echo "=== raw + ?ts= ==="
+          curl -sS -D - -o /dev/null --max-time 25 \
+            -H "Origin: https://godajava.github.io" \
+            "https://raw.githubusercontent.com/godajava/sk-hynix-investment-report/main/docs/quote.json?ts=$(date +%s)" \
+            | grep -iE "^HTTP/|access-control-allow-origin|cache-control|age" || true
+
+      - name: GitHub Pages 현재 배포본(비교용)
+        continue-on-error: true
+        run: |
+          echo "=== Pages ==="
+          curl -sS -D - -o /tmp/pages.json --max-time 25 \
+            "https://godajava.github.io/sk-hynix-investment-report/quote.json?ts=$(date +%s)" \
+            | grep -iE "^HTTP/|cache-control|age" || true
+          echo "--- marketTime 비교 ---"
+          python3 - <<'PY'
+          import json
+          for name, p in (("raw", "/tmp/raw.json"), ("pages", "/tmp/pages.json")):
+              try:
+                  d = json.load(open(p))
+                  print(f"{name:6s} marketTime={d.get('marketTime')}  fetchedAt={d.get('fetchedAt')}  price={d.get('price')}")
+              except Exception as e:
+                  print(f"{name:6s} 읽기 실패: {e}")
+          PY
