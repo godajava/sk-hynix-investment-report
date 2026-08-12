@@ -26,35 +26,6 @@ MARKERS = {
 # 기술 차트 (tech_charts.py 생성, docs/charts/에 커밋·배포됨)
 TECH_CHARTS = ["candle_volume", "macd", "kdj", "adx_atr", "atr"]
 
-# 실시간 시세 안내 패널.
-# 2026-08-12 실측: TradingView는 KRX 시세를 익명 사용자에게 주지 않고
-# (scanner API가 lp/ch/chp = null, update_mode=delayed_streaming_1200),
-# 야후 chart API는 CORS 헤더가 없어 브라우저 직접 조회가 불가하다.
-# 따라서 페이지 내 실시간 표시는 포기하고, 실시간은 외부 링크로 안내한다.
-# 외부 스크립트가 없으므로 Pages·Artifact 동일 마크업을 쓴다.
-NAVER_URL = "https://finance.naver.com/item/main.naver?code=000660"
-TOSS_URL = "https://www.tossinvest.com/stocks/A000660/order"
-
-LIVE_QUOTE_PANEL = """<div class="tv-wrap">
-  <p class="tv-lead">
-    이 리포트의 시세는 <strong>야후 파이낸스 수집분(약 20분 지연)</strong>입니다.
-    체결 기준 <strong>실시간 시세</strong>는 아래에서 바로 확인하세요.
-  </p>
-  <div class="tv-links">
-    <a class="tv-btn primary" href="__NAVER__" target="_blank" rel="noopener">네이버 금융 실시간 ↗</a>
-    <a class="tv-btn" href="__TOSS__" target="_blank" rel="noopener">토스증권 ↗</a>
-    <a class="tv-btn" href="https://m.stock.naver.com/domestic/stock/000660/total" target="_blank" rel="noopener">네이버 모바일 ↗</a>
-  </div>
-  <p class="tv-note">
-    ※ TradingView·야후 등 무료 임베드 위젯은 KRX 시세를 익명 사용자에게 제공하지 않아
-    (TradingView는 <code>delayed_streaming_1200</code>으로 값이 비어 옴) 페이지 내 실시간 표시는 불가능합니다.
-    상단 헤더 수치는 수집 시각과 함께 표시되며, 새로고침으로 최신 수집분을 다시 불러옵니다.
-  </p>
-</div>"""
-
-LIVE_WIDGET_PAGES = LIVE_QUOTE_PANEL.replace("__NAVER__", NAVER_URL).replace("__TOSS__", TOSS_URL)
-LIVE_WIDGET_ARTIFACT = LIVE_WIDGET_PAGES
-
 
 def render_news(news_path="docs/news.json"):
     """docs/news.json을 읽어 '최신 뉴스 Top 10'의 정적 <li> 스냅샷을 만든다.
@@ -119,8 +90,7 @@ def build(date):
             inline_parts.append(f'<div class="chart">{open(path).read()}</div>')
     inline = "\n".join(inline_parts) if inline_parts else \
         '<p style="color:var(--muted)">차트 준비 중 — 다음 장중 갱신 때 표시됩니다.</p>'
-    artifact = tpl.replace("__TECH_CHARTS__", inline) \
-                  .replace("__LIVE_WIDGET__", LIVE_WIDGET_ARTIFACT)
+    artifact = tpl.replace("__TECH_CHARTS__", inline)
     open("reports/sk-hynix/latest.html", "w").write(artifact)
     print(f"생성: reports/sk-hynix/latest.html ({len(artifact):,} bytes, 기술차트 {len(inline_parts)}개 인라인)")
 
@@ -128,8 +98,7 @@ def build(date):
     imgs = "\n".join(
         f'<div class="chart"><img class="tech" src="charts/{name}.svg" alt="{name}" '
         f'style="display:block;width:100%"></div>' for name in TECH_CHARTS)
-    pages = tpl.replace("__TECH_CHARTS__", imgs) \
-               .replace("__LIVE_WIDGET__", LIVE_WIDGET_PAGES)
+    pages = tpl.replace("__TECH_CHARTS__", imgs)
     open("docs/index.html", "w").write(
         "<!doctype html><html lang=\"ko\"><head><meta charset=\"utf-8\">"
         "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"

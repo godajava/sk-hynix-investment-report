@@ -175,22 +175,6 @@ button.refresh[disabled] { opacity: 0.6; cursor: progress; }
 }
 .livelink:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
 
-/* ── 실시간 시세 안내 패널 ── */
-.tv-wrap {
-  border: 1px solid var(--hairline-strong); background: var(--chart-card);
-  padding: 18px 20px;
-}
-.tv-lead { font-size: 14px; margin: 0 0 14px; max-width: none; }
-.tv-links { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 14px; }
-.tv-btn {
-  font-size: 13px; font-weight: 700; padding: 9px 16px; border-radius: 3px;
-  border: 1px solid var(--hairline-strong); color: var(--ink-2); background: var(--paper);
-}
-.tv-btn:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
-.tv-btn.primary { border-color: var(--accent); color: var(--accent); }
-.tv-btn.primary:hover { background: rgba(42,111,208,0.08); }
-.tv-note { font-size: 12px; color: var(--muted); margin: 0; max-width: none; }
-.tv-note code { font-size: 11px; background: var(--neutral-bg); padding: 1px 5px; border-radius: 3px; }
 @media (prefers-reduced-motion: no-preference) {
   button.refresh:active { transform: scale(0.97); }
 }
@@ -221,26 +205,6 @@ button.refresh[disabled] { opacity: 0.6; cursor: progress; }
   <a class="livelink" href="https://www.tossinvest.com/stocks/A000660/order" target="_blank" rel="noopener">토스증권 ↗</a>
   <span class="note" id="live-note">8/12 장중 업데이트 14:00(매도 유지·중립 복귀 임박·13:43 151.2만·+6.11%·고가 154.9만으로 152만 장중 돌파·테마섹 투자 보도) · 현재가는 8/12 장중 자동 갱신됩니다</span>
 </div>
-
-<section>
-<h2><span class="no">LIVE</span>실시간 시세 확인 <small style="font-size:12px;font-weight:500;color:var(--muted)">체결 기준 실시간은 아래 링크에서 · 본문 수치는 야후 수집분(약 20분 지연)</small></h2>
-<div class="tv-wrap">
-  <p class="tv-lead">
-    이 리포트의 시세는 <strong>야후 파이낸스 수집분(약 20분 지연)</strong>입니다.
-    체결 기준 <strong>실시간 시세</strong>는 아래에서 바로 확인하세요.
-  </p>
-  <div class="tv-links">
-    <a class="tv-btn primary" href="https://finance.naver.com/item/main.naver?code=000660" target="_blank" rel="noopener">네이버 금융 실시간 ↗</a>
-    <a class="tv-btn" href="https://www.tossinvest.com/stocks/A000660/order" target="_blank" rel="noopener">토스증권 ↗</a>
-    <a class="tv-btn" href="https://m.stock.naver.com/domestic/stock/000660/total" target="_blank" rel="noopener">네이버 모바일 ↗</a>
-  </div>
-  <p class="tv-note">
-    ※ TradingView·야후 등 무료 임베드 위젯은 KRX 시세를 익명 사용자에게 제공하지 않아
-    (TradingView는 <code>delayed_streaming_1200</code>으로 값이 비어 옴) 페이지 내 실시간 표시는 불가능합니다.
-    상단 헤더 수치는 수집 시각과 함께 표시되며, 새로고침으로 최신 수집분을 다시 불러옵니다.
-  </p>
-</div>
-</section>
 
 <section>
 <h2><span class="no">CHART</span>기술적 분석 차트 <small style="font-size:12px;font-weight:500;color:var(--muted)">8/12 13:43 장중 기준 · 장중 자동 갱신</small></h2>
