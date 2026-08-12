@@ -64,13 +64,21 @@ jobs:
             hm=$(TZ=Asia/Seoul date +"%H%M")
             if [ "$dow" -le 5 ] && [ "$hm" -ge "0900" ] && [ "$hm" -le "1535" ]; then
               if python3 scripts/fetch_quote.py docs/quote.json /tmp/history.json >/dev/null 2>&1; then
-                # 커밋 경합 대비: 리베이스 후 푸시, 실패해도 루프는 계속
                 git add docs/quote.json
                 if ! git diff --cached --quiet; then
                   git commit -q -m "장중 시세 갱신 ${kst} KST (자동)" || true
-                  git pull --rebase -q origin main || true
-                  git push -q || echo "  push 실패(다음 회차에 재시도)"
-                  echo "[$n] $kst KST — 커밋·푸시"
+                  # 다른 워크플로가 먼저 푸시했을 수 있으니 리베이스 후 푸시.
+                  # 충돌 시 리베이스를 반드시 중단해야 다음 회차가 깨지지 않는다
+                  # (quote.json은 생성물이라 다음 회차가 어차피 새로 덮어쓴다).
+                  if ! git pull --rebase -q origin main; then
+                    git rebase --abort 2>/dev/null || true
+                    git reset --hard -q origin/main 2>/dev/null || true
+                    echo "[$n] $kst KST — 원격과 충돌, 이번 회차 건너뜀"
+                  elif git push -q; then
+                    echo "[$n] $kst KST — 커밋·푸시"
+                  else
+                    echo "[$n] $kst KST — push 실패(다음 회차에 재시도)"
+                  fi
                 else
                   echo "[$n] $kst KST — 변화 없음"
                 fi
