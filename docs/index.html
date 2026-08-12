@@ -618,11 +618,27 @@ button.refresh[disabled] { opacity: 0.6; cursor: progress; }
             ? '<span class="livedot" style="background:' + (up ? "var(--up)" : "var(--down)") + '"></span>현재가'
             : (m[1] === today ? "오늘 종가" : "직전 종가");
         }
-        if (w) w.textContent = live ? "(" + m[2] + ":" + m[3] + " 실시간)" : "(" + m[1] + " 확정)";
+        if (w) w.textContent = live ? "(" + m[2] + ":" + m[3] + " 기준)" : "(" + m[1] + " 확정)";
       } else if (w && q.marketTime) {
         w.textContent = "(" + q.marketTime + ")";
       }
-      if (n && q.fetchedAt) n.textContent = "리포트는 매일 14:00 KST 자동 갱신 · 시세 마지막 수집 " + q.fetchedAt;
+
+      // 툴바 안내: 시세가 '언제 것'이고 '몇 분 전에 수집'됐는지 그대로 보여준다.
+      // (거래소를 브라우저에서 직접 조회하지 않으므로, 새로고침은 서버에 수집된
+      //  최신분을 다시 읽어오는 동작이다. 야후 시세 자체도 약 20분 지연된다.)
+      var fa = String(q.fetchedAt || "").match(/^(\d{4}-\d{2}-\d{2})\s+(\d{2}):(\d{2})/);
+      if (n && fa) {
+        var kst2 = new Date(Date.now() + new Date().getTimezoneOffset() * 60000 + 9 * 3600000);
+        var wall = function (y, mo, d, h, mi) { return Date.UTC(y, mo, d, h, mi) / 60000; };
+        var dp = fa[1].split("-");
+        var age = Math.max(0, Math.round(
+          wall(kst2.getFullYear(), kst2.getMonth(), kst2.getDate(), kst2.getHours(), kst2.getMinutes())
+          - wall(+dp[0], +dp[1] - 1, +dp[2], +fa[2], +fa[3])));
+        var ageTxt = age < 1 ? "방금 전" : age + "분 전";
+        n.textContent = fa[2] + ":" + fa[3] + " 수집(" + ageTxt + ") · 야후 시세는 약 20분 지연"
+          + (age > 15 ? " · 수집 지연" : "");
+        n.style.color = age > 15 ? "var(--news-neg)" : "";
+      }
 
       var ind = q.indicators || {};
       var man = function (v) { return (v / 10000).toFixed(1) + "만"; };
