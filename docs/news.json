@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-08-12 15:47 KST",
+ "fetchedAt": "2026-08-12 16:03 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -76,6 +76,18 @@
    }
   },
   {
+   "title": "직장인 행복도 SK하이닉스 상위 3%…삼성전자는 60%에 그쳐",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pVWhIMXcySzhiaHdSaUJ4S280d0pYRG1fR1NkLUg4Mmc4RzFMQzVONThJUENWQ3h3S0dGdXhjZXFlQXNnVVJoRFl2OEdIUEhucUFVNzduTXZ5SGNYVmxfTdIBYEFVX3lxTE9pVWhIMXcySzhiaHdSaUJ4S280d0pYRG1fR1NkLUg4Mmc4RzFMQzVONThJUENWQ3h3S0dGdXhjZXFlQXNnVVJoRFl2OEdIUEhucUFVNzduTXZ5SGNYVmxfTQ?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-08-12",
+   "datetime": "2026-08-12 11:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "코스피, 1% 상승하며 6,400 회복‥삼성전자 4%, SK하이닉스 2% 상승",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11WWNGVWd4c0lKM1A1dWhPRkZyb0xWRzUycGN1cnJhN1lhd2dLWDFaQTMwVVFuUWw2aE8xUGVPd3JKX09CQkpQYTJ1b3RBbndwNmRodkFJZEwzQ3lfWnNUczRSTURBbzBYa3JwOE9MQXlxQ3Mw0gF0QVVfeXFMTVk4dkhrZklSelphbEZQUlZxcXVZN1pPdFBoSmpsRVV1MzFlZU9FWlNfYlRhNHBHX3NaSFpFMjZoM3E0LV85aFFtaWh3MUlTdmIxc3BmREc5UnlnN04tci1DWTNsSmx4SHFQVmE4a05YdE9Hb3g?oc=5",
    "source": "MBC 뉴스",
@@ -88,11 +100,11 @@
    }
   },
   {
-   "title": "삼성·SK하이닉스, 이르면 이달 주주환원 공개…'100조원+α' 기대감",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rcHRyYV8yRXBtRW5xeDVMX1BseXZBbzNQMkdhT3hBZXFiTmxWN2I1dzc3WFRsYU5jSXRUMUhFQkJuVFFuRXE0dm41QlozeVRxY1B0RVluYlZyY2lzbFl6S21BYk0xQ2lxemNCNVl0V2k?oc=5",
-   "source": "연합인포맥스",
+   "title": "[특징주] 삼성전자, 4%대 급등…하이닉스도 3%↑",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRQ1BGSWNDTy1wY2dHZkdWYWRvU0VxTnhTajB6REY4M0FRUTAyUWVBQmt3QUlSYlg2SjVHSDNabVlaVDcyZW80eWJhQnNyNFhCelE3NUJuN091YTRiMDV5UdIBYEFVX3lxTFBRQ1BGSWNDTy1wY2dHZkdWYWRvU0VxTnhTajB6REY4M0FRUTAyUWVBQmt3QUlSYlg2SjVHSDNabVlaVDcyZW80eWJhQnNyNFhCelE3NUJuN091YTRiMDV5UQ?oc=5",
+   "source": "연합뉴스",
    "date": "2026-08-12",
-   "datetime": "2026-08-12 08:38 KST",
+   "datetime": "2026-08-12 09:25 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -100,23 +112,11 @@
    }
   },
   {
-   "title": "SK하이닉스 자회사 솔리다임, 中 다롄 2공장 투자 재개",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVRNaTlhQi1EMmtneGVNUUtDYVhwUjhjTmYwYmxWZ0FMODNYWVlHLTlTLXRHUEFqY2poZVQteEZwR2VUYTM0bHZMejZET2ZDNE9nOXJLeU1qZ0dDYVlDVTAwR2RjMkdpV2l0UV9QMlJnb2JQTHBBbEtBeGh0aEtrSEY2UTVYT0dy?oc=5",
-   "source": "글로벌이코노믹",
+   "title": "삼성·SK하이닉스, 이르면 이달 주주환원 공개…'100조원+α' 기대감",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rcHRyYV8yRXBtRW5xeDVMX1BseXZBbzNQMkdhT3hBZXFiTmxWN2I1dzc3WFRsYU5jSXRUMUhFQkJuVFFuRXE0dm41QlozeVRxY1B0RVluYlZyY2lzbFl6S21BYk0xQ2lxemNCNVl0V2k?oc=5",
+   "source": "연합인포맥스",
    "date": "2026-08-12",
-   "datetime": "2026-08-12 07:35 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[글로벌 비즈 브리핑] SK하이닉스, 日 키옥시아 사실상 최대주주로 外",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE15WWJWQWdJYVZPVFFxRDNydWpGRHFRbGE0Qmx4b19xMERIWnFCUjNFMTBTZzNsNTRPa2ZzdDZjTGhDeUdaR1hTejRVYkdjYmM?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-12",
-   "datetime": "2026-08-12 04:54 KST",
+   "datetime": "2026-08-12 08:38 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
