@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-08-13 15:40 KST",
+ "fetchedAt": "2026-08-13 15:46 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "솔리다임 상장 우려에 흔들린 SK하이닉스…주주 달랠 '당근' 나올까",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WX3JsUTktSFlEZUkyTlBFcnZEOXlfLVdjdC1nV3pZQlp4UUd5QzRZRkQ3Qm0weTZoQ1FldDdmRUpjdUpYdkN5anRFendJS0c1Zmd4Q3ZHLVdqUjFRMzZVeERYMC1rLU5i?oc=5",
+   "source": "ebn.co.kr",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 14:51 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "SK하이닉스, 이번주 크레디트 2천억 집행 그쳐…채권투자 재정비",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwbUVaNGd5cVlmajJqMUE2MThYcUcyMWdhX3RNZm9LbTFlRVk3Skp4SVdqZXQyVi10T0RXR3NyemprN21XN2thWktYWEx6NnFNZUJxbk1HSmpZd1VtTnNRSUxiTlJucF9IVVZDNmlrZTM?oc=5",
@@ -64,6 +76,18 @@
    }
   },
   {
+   "title": "[속보]삼성전자 5%·SK하이닉스 8% 급등…외국인 5천200억원, 기관 3천억원 순매수",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zVVFJY2F2dU9KRUtZaExOUlltamJaM244VUZGcGE0MXVTeHgwVkdtamc0dHdLdC1mYjYwdTNkN1pJWXVIRXFkLXduRlVOVHFXZ0tyQ0RET2E?oc=5",
+   "source": "강원일보",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 10:23 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
    "title": "[특징주] 삼성전자·SK하이닉스, 美 AI 기술주 훈풍…동반 강세",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Rc3pHTUZKU281T1RZZjB6ODZ4empKb1NORUdYQjJUa0t2R19abzJueXZvVU5WaFVqSHpJaWVrMW9vU3Z0SXg0SjI1ZG5sc010VUhCOE5vbndvX3M?oc=5",
    "source": "에너지경제신문",
@@ -97,30 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 무기한 선물 222조 거래 새로운 수급 변수가 생겼다",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lZ1hQYXRwb0UzRUVNVk5Bc2szSGg3YnBVa3lGNXpZVGdyanE4SkZCbVdCLXZKMHdGaE5pY18yaElGRU4zWTJYbjJlZi1wV0FCRFQwY3ZqbDNOV0o0a1o0WkdYaHFpVDVSS0dQbU1FNEfSAXRBVV95cUxQX2VQc0w3OFBlLVc2Slc3SkN4dnJUVnRpZnM3MURDM1d0MnZMYnIxLWsxMWI1SU9RV01jUVJRS2RNVDE2QmhoU0ktYTZXdHVrQU4wdWwySmtpMk5tRVJ1ckpEWUtEd1hkYXFBVkptLWRCSmhOcQ?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 09:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스, HBM4 경쟁 본격화…변수는 평균판매가",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETTd2bi15bHJFb09JTTIzN3R6NkZqZ19Ma2NuREJJbU5MYm9ITnFGbmdJOHVWNFpwb0JXeVRHdFRrN1libFRkMm4wdHNIWG1lSkVYWnBiY21BS0E5NF9CT042Sko?oc=5",
-   "source": "MTN 머니투데이방송",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 08:00 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
