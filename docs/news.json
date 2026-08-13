@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-08-13 15:49 KST",
+ "fetchedAt": "2026-08-13 17:42 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[단독] '혁신 지휘자' 윤풍영 수펙스 사장, SK하이닉스 글로벌 성장 TF장으로… \"AI 글로벌 확장 이끈다\"",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblVqcFhnYTZtbUZlRWFiMmdiNmxaRWZGYTNkYXdVbWVhZ1J1MlpPZUUtdzl6YkZ2b1FueU80YW11cmZMREpKYldKeHpZdG55dUxHQW1GVHh6cDdCMG1PLXM0b3VyWWVHaFlFeDdhVThmWWp0VUJLbjVheVdEaDlLTUxXSFI?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 16:32 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "곳간 채운 삼성전자·SK하이닉스, '통큰' 주주환원 기대감",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qZWVXX0VZUVBoeF9McnlwdUd2b3B6Z0ZLVC1LdXAyMkRCc0tJRnZVLU1lWi12RmpGcFRaeTJ3RFRfQmJZd2lEeVFGdVNWMngzcWVsRTZSZ2J1c00xRVRyU3lKQTRkTzI0QUo1RGFFY9IBc0FVX3lxTFBVc0pjYjZZSThiWFVFRnBWeUdJaWFjb0hIYVBPaE1ZRDNvZXloRDd3aXpMRzJuVmVtVlRxemNNbVVlWGFDaUpJRkNfdWpNdXN0ekx5ZmhGM2dFQzBVeXhDSHJEeHM0NkdKR0NwVDd5SVFKMlk?oc=5",
+   "source": "데일리한국",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 15:48 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "솔리다임 상장 우려에 흔들린 SK하이닉스…주주 달랠 '당근' 나올까",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WX3JsUTktSFlEZUkyTlBFcnZEOXlfLVdjdC1nV3pZQlp4UUd5QzRZRkQ3Qm0weTZoQ1FldDdmRUpjdUpYdkN5anRFendJS0c1Zmd4Q3ZHLVdqUjFRMzZVeERYMC1rLU5i?oc=5",
@@ -76,18 +100,6 @@
    }
   },
   {
-   "title": "[속보]삼성전자 5%·SK하이닉스 8% 급등…외국인 5천200억원, 기관 3천억원 순매수",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zVVFJY2F2dU9KRUtZaExOUlltamJaM244VUZGcGE0MXVTeHgwVkdtamc0dHdLdC1mYjYwdTNkN1pJWXVIRXFkLXduRlVOVHFXZ0tyQ0RET2E?oc=5",
-   "source": "강원일보",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 10:23 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
    "title": "[특징주] 삼성전자·SK하이닉스, 美 AI 기술주 훈풍…동반 강세",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Rc3pHTUZKU281T1RZZjB6ODZ4empKb1NORUdYQjJUa0t2R19abzJueXZvVU5WaFVqSHpJaWVrMW9vU3Z0SXg0SjI1ZG5sc010VUhCOE5vbndvX3M?oc=5",
    "source": "에너지경제신문",
@@ -100,27 +112,15 @@
    }
   },
   {
-   "title": "코스피 급등 출발… 삼성전자·SK하이닉스 동반 강세",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU1Izazh0UmdYbXZHakFXYWdiVzJBQjdZRzdoZFNfMWJPOFZRblVNT0w2dnFvTmFKakFPM0VyMDBJR0hnMzAwY0pLcnUtaWFwb0ZwUVlhQURGZTNNd1RTZ0J0Qm82WDhtSS01elBtMlU0NDlzNG9lTmZITV9fdE1DSmk2bC1XelY0R1VV?oc=5",
-   "source": "조선일보",
+   "title": "[특징주] SK하이닉스 7%대 '급등'.. 삼성전자 5%대 '강세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjFheTJSX3BzSnUxRTRNQmVfWG0yc3pfM1FYbEl3VjZtdlBJMi1CWEVfVFF6SWp5NlpFZTU1dG43WGdnUnFjV3o5bEwxR2lYZTVDUklscHNmRnRxeVAzODRtTmkyMmJpdXBudmwtZm52cWJvMm93VlAxUVRzN2ZWTGV5UWRDek9u?oc=5",
+   "source": "글로벌이코노믹",
    "date": "2026-08-13",
-   "datetime": "2026-08-13 09:06 KST",
+   "datetime": "2026-08-13 09:22 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 무기한 선물 222조 거래 새로운 수급 변수가 생겼다",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lZ1hQYXRwb0UzRUVNVk5Bc2szSGg3YnBVa3lGNXpZVGdyanE4SkZCbVdCLXZKMHdGaE5pY18yaElGRU4zWTJYbjJlZi1wV0FCRFQwY3ZqbDNOV0o0a1o0WkdYaHFpVDVSS0dQbU1FNEfSAXRBVV95cUxQX2VQc0w3OFBlLVc2Slc3SkN4dnJUVnRpZnM3MURDM1d0MnZMYnIxLWsxMWI1SU9RV01jUVJRS2RNVDE2QmhoU0ktYTZXdHVrQU4wdWwySmtpMk5tRVJ1ckpEWUtEd1hkYXFBVkptLWRCSmhOcQ?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 09:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
