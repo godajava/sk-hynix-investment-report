@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-08-13 14:14 KST",
+ "fetchedAt": "2026-08-13 15:34 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -64,15 +64,39 @@
    }
   },
   {
-   "title": "[특징주] 삼성전자·SK하이닉스, 美 AI 기술주 훈풍…동반 강세",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Rc3pHTUZKU281T1RZZjB6ODZ4empKb1NORUdYQjJUa0t2R19abzJueXZvVU5WaFVqSHpJaWVrMW9vU3Z0SXg0SjI1ZG5sc010VUhCOE5vbndvX3M?oc=5",
-   "source": "에너지경제신문",
+   "title": "[특징주] SK하이닉스 7%대 '급등'.. 삼성전자 5%대 '강세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjFheTJSX3BzSnUxRTRNQmVfWG0yc3pfM1FYbEl3VjZtdlBJMi1CWEVfVFF6SWp5NlpFZTU1dG43WGdnUnFjV3o5bEwxR2lYZTVDUklscHNmRnRxeVAzODRtTmkyMmJpdXBudmwtZm52cWJvMm93VlAxUVRzN2ZWTGV5UWRDek9u?oc=5",
+   "source": "글로벌이코노믹",
    "date": "2026-08-13",
-   "datetime": "2026-08-13 10:08 KST",
+   "datetime": "2026-08-13 09:22 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[개장시황] 코스피, 장초반 4%대 급등…SK하이닉스 7%·삼성전기 12%↑",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TdnBwMjRqc0pRSDBaWUZFLUdRNWcwcTMzeHpVVXVxY25VblpELV9Db0ZtU2E3Qkt1ZFJmNG5kNzUxZUo2dGUxUkpvV2ZNQUJ3UE54SlNJWmZuZ9IBWEFVX3lxTE1tQS04UkZzUVZzSVlrSWl2Z3N6UEtNN3VnVVRWMF9BR2g0MXZDNnZIT3pwUFRrVks3ZTRURTdtRl9uLXV0enRVbW02SGs2N3JuVTdzdnk1SFU?oc=5",
+   "source": "아주경제",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 09:22 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 무기한 선물 222조 거래 새로운 수급 변수가 생겼다",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfZVBzTDc4UGUtVzZKVzdKQ3h2clRWdGlmczcxREMzV3QydkxicjEtazExYjVJT1FXTWNRUlFLZE1UMTZCaGhTSS1hNld0dWtBTjB1bDJKa2kyTm1FUnVySkRZS0R3WGRhcUFWSm0tZEJKaE5x0gF0QVVfeXFMUF9lUHNMNzhQZS1XNkpXN0pDeHZyVFZ0aWZzNzFEQzNXdDJ2TGJyMS1rMTFiNUlPUVdNY1FSUUtkTVQxNkJoaFNJLWE2V3R1a0FOMHVsMkpraTJObUVSdXJKRFlLRHdYZGFxQVZKbS1kQkpoTnE?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 09:08 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -88,18 +112,6 @@
    }
   },
   {
-   "title": "SK하이닉스 무기한 선물 222조 거래 새로운 수급 변수가 생겼다",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lZ1hQYXRwb0UzRUVNVk5Bc2szSGg3YnBVa3lGNXpZVGdyanE4SkZCbVdCLXZKMHdGaE5pY18yaElGRU4zWTJYbjJlZi1wV0FCRFQwY3ZqbDNOV0o0a1o0WkdYaHFpVDVSS0dQbU1FNEfSAXRBVV95cUxQX2VQc0w3OFBlLVc2Slc3SkN4dnJUVnRpZnM3MURDM1d0MnZMYnIxLWsxMWI1SU9RV01jUVJRS2RNVDE2QmhoU0ktYTZXdHVrQU4wdWwySmtpMk5tRVJ1ckpEWUtEd1hkYXFBVkptLWRCSmhOcQ?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 09:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "삼성·SK하이닉스, HBM4 경쟁 본격화…변수는 평균판매가",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETTd2bi15bHJFb09JTTIzN3R6NkZqZ19Ma2NuREJJbU5MYm9ITnFGbmdJOHVWNFpwb0JXeVRHdFRrN1libFRkMm4wdHNIWG1lSkVYWnBiY21BS0E5NF9CT042Sko?oc=5",
    "source": "MTN 머니투데이방송",
@@ -109,18 +121,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[뉴욕증시 마감] AI 투자 기대에 나스닥 0.54%↑…SK하이닉스 ADR 9% 급등",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiMG5DTDJmVkEzaGhySG16NHdPZDZsenFsSV9kOVpLWktCYkJGelZSUFh2cnJvaTRqbDd1LS1sRFJwQW5ITWNjZ0VtUUhMeEJjRWNtT3RtYTVlUdIBWEFVX3lxTE9tckx5dG1VMVNhZE9IODBMRlBYTlFkTy1Fb2toSE5CeEtVUmJaRXhiVTZzNm9HN2JpT1JxT3hYX1pFaWZBaGo3TGZCV2c2Wnc0WGdieWQzYXo?oc=5",
-   "source": "아주경제",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 07:13 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
