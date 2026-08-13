@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-08-13 09:10 KST",
+ "fetchedAt": "2026-08-13 10:03 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[속보] SK하이닉스 7%대 급등…코스피 6800선 회복",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53MVlGd2xES3RxcUFEMjFDQmRUZWZ6Z0MzUGVwOGdSbV9HeGwwR2tuaFVBQkNiNE93czBZcmNqV05FYnVOSTVES2p2RmlUUmR5TlV6aUZ5anZRS09NUzVVeTJ2cVF3WTdUcnRnSFdIRFJ6MEhwUVdUSWRXdFFuUQ?oc=5",
+   "source": "서울신문",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 09:08 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "SK하이닉스 무기한 선물 222조 거래 새로운 수급 변수가 생겼다",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5lZ1hQYXRwb0UzRUVNVk5Bc2szSGg3YnBVa3lGNXpZVGdyanE4SkZCbVdCLXZKMHdGaE5pY18yaElGRU4zWTJYbjJlZi1wV0FCRFQwY3ZqbDNOV0o0a1o0WkdYaHFpVDVSS0dQbU1FNEfSAXRBVV95cUxQX2VQc0w3OFBlLVc2Slc3SkN4dnJUVnRpZnM3MURDM1d0MnZMYnIxLWsxMWI1SU9RV01jUVJRS2RNVDE2QmhoU0ktYTZXdHVrQU4wdWwySmtpMk5tRVJ1ckpEWUtEd1hkYXFBVkptLWRCSmhOcQ?oc=5",
@@ -37,6 +49,18 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, 27일 인디애나 팹 착공식…최태원·젠슨 황 참석 가능성 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSkttdXVCLVlfcm9jTW9oSWdYUmloWVVZNThGWUktM0Fram1IME4yMmFodWxaWGNTckZ1MmpGZzZuRXd1aG1tLVF0dU16ZG9POVk4elgxaVdCVkZIdmI0LS01djh3UG5FbUJlU19pZFRwekwzWkJwalhQeVdCR3NZY0Zn0gGWAUFVX3lxTE9hSXJMZEV0RWtXRGRwSWdhcXRsZFFxNjQ1d1NVazFqLWZTLVB4dzFHMEJ6OWZjZy1VYk5vUERLV0RMSXcwaEFnZ0l3VjVfTDJxRjhKRFNJSmFIazdZeWpJdm9MNmV2SkQtWVFlQ3N0YkdYekRJODN0UU9SUnR5VjNXbUFrY0NCZHZ6Q2ZyRS1odTlIR2VuQQ?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-08-12",
+   "datetime": "2026-08-12 19:38 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -97,30 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 ‘통합노조’ 곧 출범…‘성과급 100% 현금 지급’ 요구",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IV21Uc2lEd2o3V3RGLWZfWlZZUmh4Z2NMUTRQa1FUVG16SmZTWWU4dG5BRnRORzFFejF6NWJzLVlaS0p5TzFzZ3RhRXJySU1MVFphMTBDRjhNd9IBX0FVX3lxTE1pSEhPaHV0dWFPTDAtN0ZibERzOG83MjNKQ2lTOHZEMTQzTGxFamhYTWIwSVFTQ0dzWi1oRk5JclhwX3hHSnhScXlqTlU1a1FnaUpfY3A3OWdCUFl6MEZv?oc=5",
-   "source": "경향신문",
-   "date": "2026-08-12",
-   "datetime": "2026-08-12 16:20 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자, SK하이닉스 급등",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wUU1HWkhKdXFYU3hBRWplOVRMZEYtRUhabnpRM2lVaGV4YWNiTkhaTm1wS1VMNE5UOV9icTFueFJwUzhpU2ZzaWRxaFprSjFtVDJLeFpScXRhNVF1RGp0UtIBYEFVX3lxTE4wUU1HWkhKdXFYU3hBRWplOVRMZEYtRUhabnpRM2lVaGV4YWNiTkhaTm1wS1VMNE5UOV9icTFueFJwUzhpU2ZzaWRxaFprSjFtVDJLeFpScXRhNVF1RGp0Ug?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-08-12",
-   "datetime": "2026-08-12 15:58 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
