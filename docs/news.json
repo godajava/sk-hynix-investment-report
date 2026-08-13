@@ -1,14 +1,86 @@
 {
- "fetchedAt": "2026-08-13 10:03 KST",
+ "fetchedAt": "2026-08-13 14:07 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[속보] SK하이닉스 7%대 급등…코스피 6800선 회복",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53MVlGd2xES3RxcUFEMjFDQmRUZWZ6Z0MzUGVwOGdSbV9HeGwwR2tuaFVBQkNiNE93czBZcmNqV05FYnVOSTVES2p2RmlUUmR5TlV6aUZ5anZRS09NUzVVeTJ2cVF3WTdUcnRnSFdIRFJ6MEhwUVdUSWRXdFFuUQ?oc=5",
-   "source": "서울신문",
+   "title": "SK하이닉스, 이번주 크레디트 2천억 집행 그쳐…채권투자 재정비",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwbUVaNGd5cVlmajJqMUE2MThYcUcyMWdhX3RNZm9LbTFlRVk3Skp4SVdqZXQyVi10T0RXR3NyemprN21XN2thWktYWEx6NnFNZUJxbk1HSmpZd1VtTnNRSUxiTlJucF9IVVZDNmlrZTM?oc=5",
+   "source": "연합인포맥스",
    "date": "2026-08-13",
-   "datetime": "2026-08-13 09:08 KST",
+   "datetime": "2026-08-13 12:38 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 美 인디애나팹 27일 착공식…최태원·젠슨 황 회동 주목",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZbkxEeEdBVFdtcHpNdW5WMW95MmxsU1d3NTFXYlI1cDNHSDZRWjNWVjB5dVZ3bEFQLVJxNVNkOW51dTNCT0p2N2pacmp0TF9FaVl2X0FGRUFoMFpKOG5DblFYNFJadw?oc=5",
+   "source": "디일렉",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 11:24 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성 이어 SK하이닉스도 노사 긴장…성과급 갈등에 하이닉스 통합노조 1800명 돌파[비즈360]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44VTg1T1hITkNqTllkUGYzUXZZbVh1LXdYZXJEMUszRFZJV0pkUW1CTmlxdHhmSG5hU2VqZzVPelN2MlFqeUZwb1VRUkVTRmx5ZmNSWEN3?oc=5",
+   "source": "헤럴드경제",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 10:41 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "삼성 초기업노조 \"SK하이닉스 통합노조와 공동성명 검토 단계 아냐\"",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LZkh2bnNLd19YNHBhWkw4X3pfRkY2RHY2WnRFRDBfYVJEWnptblQ1LVJZYnZYaGpiUEVsc3MzN0pwMmdaazBENm1sb3o3VFZnS0RjSE1obzNtYWxiSEpjTg?oc=5",
+   "source": "아시아경제",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 10:40 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "AI 투자 기대 여전…SK하이닉스 7%·삼성전기 11% 급등 [칩칩폭폭]",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TTzFFM01jcUJqOXVpQkZSbGc3aTNvTmlDeEVqQ1hGdW9Ib3dvV0FmVnh1YlpfNkFpWW9UeU5FS2FVU3hCeE9qOGhIMDFyOGdPMG9pa1BHNVV4S2pzSHpV?oc=5",
+   "source": "조세일보",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 10:39 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 美 AI 기술주 훈풍…동반 강세",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Rc3pHTUZKU281T1RZZjB6ODZ4empKb1NORUdYQjJUa0t2R19abzJueXZvVU5WaFVqSHpJaWVrMW9vU3Z0SXg0SjI1ZG5sc010VUhCOE5vbndvX3M?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 10:08 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "코스피 급등 출발… 삼성전자·SK하이닉스 동반 강세",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU1Izazh0UmdYbXZHakFXYWdiVzJBQjdZRzdoZFNfMWJPOFZRblVNT0w2dnFvTmFKakFPM0VyMDBJR0hnMzAwY0pLcnUtaWFwb0ZwUVlhQURGZTNNd1RTZ0J0Qm82WDhtSS01elBtMlU0NDlzNG9lTmZITV9fdE1DSmk2bC1XelY0R1VV?oc=5",
+   "source": "조선일보",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 09:06 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -28,6 +100,18 @@
    }
   },
   {
+   "title": "삼성·SK하이닉스, HBM4 경쟁 본격화…변수는 평균판매가",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBETTd2bi15bHJFb09JTTIzN3R6NkZqZ19Ma2NuREJJbU5MYm9ITnFGbmdJOHVWNFpwb0JXeVRHdFRrN1libFRkMm4wdHNIWG1lSkVYWnBiY21BS0E5NF9CT042Sko?oc=5",
+   "source": "MTN 머니투데이방송",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 08:00 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
    "title": "[뉴욕증시 마감] AI 투자 기대에 나스닥 0.54%↑…SK하이닉스 ADR 9% 급등",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiMG5DTDJmVkEzaGhySG16NHdPZDZsenFsSV9kOVpLWktCYkJGelZSUFh2cnJvaTRqbDd1LS1sRFJwQW5ITWNjZ0VtUUhMeEJjRWNtT3RtYTVlUdIBWEFVX3lxTE9tckx5dG1VMVNhZE9IODBMRlBYTlFkTy1Fb2toSE5CeEtVUmJaRXhiVTZzNm9HN2JpT1JxT3hYX1pFaWZBaGo3TGZCV2c2Wnc0WGdieWQzYXo?oc=5",
    "source": "아주경제",
@@ -37,90 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 ADR 이틀째 급등…싱가포르 국부펀드 투자 계획설",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83XzFEUFZNNWJlUVZINWtPTm1yM0xhbksxLXI4eXdEcF9WRVVVUTVfM29PM3FHMHczVzdYLTZMZG9hQXRBamdqN0YzaVQxV2hUY2hiUmpxWGtfTGM5NEZCN3Z3aDRoY3BRcmVvTWJvUVY?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-08-12",
-   "datetime": "2026-08-12 21:15 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 27일 인디애나 팹 착공식…최태원·젠슨 황 참석 가능성 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSkttdXVCLVlfcm9jTW9oSWdYUmloWVVZNThGWUktM0Fram1IME4yMmFodWxaWGNTckZ1MmpGZzZuRXd1aG1tLVF0dU16ZG9POVk4elgxaVdCVkZIdmI0LS01djh3UG5FbUJlU19pZFRwekwzWkJwalhQeVdCR3NZY0Zn0gGWAUFVX3lxTE9hSXJMZEV0RWtXRGRwSWdhcXRsZFFxNjQ1d1NVazFqLWZTLVB4dzFHMEJ6OWZjZy1VYk5vUERLV0RMSXcwaEFnZ0l3VjVfTDJxRjhKRFNJSmFIazdZeWpJdm9MNmV2SkQtWVFlQ3N0YkdYekRJODN0UU9SUnR5VjNXbUFrY0NCZHZ6Q2ZyRS1odTlIR2VuQQ?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-08-12",
-   "datetime": "2026-08-12 19:38 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 美 인디애나 27일 착공식...2028년 HBM 양산",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRGZCa2VaUEcycDZRYkNpU2gxdmItQTU2T3h2YjRianZ6Sy1HdFFEVjVpcV9RTEJZazRHUUFZal9DVkNLODNwNFlxVXNaZHJCdXJjLXZ3SVJKOHozNFRFMUUwVjhlZ09KSUZ6dHM1dmFIeEVFU3hVNW1RWjFrQ3dudVRUQQ?oc=5",
-   "source": "조선일보",
-   "date": "2026-08-12",
-   "datetime": "2026-08-12 19:14 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[포토] 인사말 하는 염성진 SK하이닉스 사장",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUcXdaN0phMUlZaUZhNjBQQUt0dnJZLU13cTd3SmcyVzh2RWY0TW9UeldrR0tOZUQwTk5SeHlZa2FuNHFFck1qdEoxdnRQdw?oc=5",
-   "source": "전자신문",
-   "date": "2026-08-12",
-   "datetime": "2026-08-12 17:58 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 27일 美 인디애나 HBM 공장 공식 착공",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92a295eU5HS2NBTjctU1pGSU1NMDZmV0ltczF0YlhNeFkzZXg5akR5eDkwNjNrVWo3OGtJRHJycUVoNV8ybmI1VTBtbHFtZXc?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-12",
-   "datetime": "2026-08-12 17:18 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 美 인디애나 팹 27일 착공식…최태원 참석 여부 관심",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Eby11X3gtWGxHWW5fQkQteVNhZ0UxTFJsVjBmRjJpOUlET2JXZnhjcHhCMmxhWlRJMmN0VmZucV92c0wzemhySEc1eDRXMHVGVTR0bWduUTVFQVFRNFpZQXRVdWJjcUZFbmVZdXJWZXRiNkZu?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-08-12",
-   "datetime": "2026-08-12 16:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 무기한 선물 222조 거래...정규장 수급변수 급부상",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Xc3hERy1XeUJLZHgwR0dsSTQ1ZVZfUlNtMjVkSU5EZ3JRVFdSYmRwUkplQjg3MExOLUFESmoyRXREMFd0RXQyOVBCTGtsVkE?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-12",
-   "datetime": "2026-08-12 16:46 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
