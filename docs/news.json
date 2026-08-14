@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-08-14 09:10 KST",
+ "fetchedAt": "2026-08-14 10:07 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -33,6 +33,18 @@
    "source": "조선일보",
    "date": "2026-08-13",
    "datetime": "2026-08-13 21:48 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"이건 아닙니다 회장님\"…SK하이닉스 '5단 중복상장' 추진에 쏟아진 비판",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ycnduYU5iYzBhbGpfaThjU25aRmwxdDFuUDd1c1hFZTBYcVBDUFdHa2UybGlhemFwSWljOGVSelpZcDl2RTVNSlRDZUMxTW8?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-13",
+   "datetime": "2026-08-13 21:11 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -109,18 +121,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "곳간 채운 삼성전자·SK하이닉스, '통큰' 주주환원 기대감",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qZWVXX0VZUVBoeF9McnlwdUd2b3B6Z0ZLVC1LdXAyMkRCc0tJRnZVLU1lWi12RmpGcFRaeTJ3RFRfQmJZd2lEeVFGdVNWMngzcWVsRTZSZ2J1c00xRVRyU3lKQTRkTzI0QUo1RGFFY9IBc0FVX3lxTFBVc0pjYjZZSThiWFVFRnBWeUdJaWFjb0hIYVBPaE1ZRDNvZXloRDd3aXpMRzJuVmVtVlRxemNNbVVlWGFDaUpJRkNfdWpNdXN0ekx5ZmhGM2dFQzBVeXhDSHJEeHM0NkdKR0NwVDd5SVFKMlk?oc=5",
-   "source": "데일리한국",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 15:48 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
