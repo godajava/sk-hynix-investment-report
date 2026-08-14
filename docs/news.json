@@ -1,18 +1,90 @@
 {
- "fetchedAt": "2026-08-14 10:07 KST",
+ "fetchedAt": "2026-08-14 15:46 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
+   "title": "[오늘의 삼전닉스] SK하이닉스가 미국에 메모리 전공정 공장도 지을까요",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vSUtXc3U2QnBmcVpWaG1fTE9lcklfV0RYeDdVcElwaWZ4Z2c1M2hKX1FVeTBaLUd6c1lKeDBfX3ZSWXFsM3g3ek5FWHZzYU1zTklzdlVac3BiMlMwVjNCM0hR?oc=5",
+   "source": "이코노미스트",
+   "date": "2026-08-14",
+   "datetime": "2026-08-14 13:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"HBM 다음은 AI\"…SK하이닉스, 윤풍영 수펙스 사장에 '성장 특명'",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GSEJYR05hSVBTOWZ5azg1clphQ01SWTNKcEV0LXEycGt1a2trUDdHOURWcFdYbHFMRzgtOTVyQkNyck1SUUNHTVJiOVJxQ2s?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-14",
+   "datetime": "2026-08-14 10:12 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 美 샌디스크 호재.. 동반 '강세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXVkSER1TmFBX0FoRTNjSjRFeFUzR0tueG1pY3dHZk1QUWR0QVdjQjFNQmZJQlJ3TTNTNmhhNmhZOEZUaGhJeENNTHpwLU1mQzFNeDFhOU4tNmt6cU1VV3dWWjBlck5aZVpubUxPUTl0SVRCZ1VOS2MxQThZal9WVjB6Vl9EQk8y?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-08-14",
+   "datetime": "2026-08-14 09:42 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "코스피, 2%대 상승 출발하며 개장 직후 7천 회복‥SK하이닉스 5% 급등",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXOC1iRjg4UEszNF9fQ0hZYUpZVFN1ZEsyZlpoYjk4clhLMGVERzFtY3NUSThTMFpqN1ZhTTJobkg0VURhckpORjU3RVJ4VWRHdlVOM19vSTR2TEJYdFhNNkk3QklQMEVuRXZZX0k2ZDBycWdU0gF0QVVfeXFMTWc5TEdWNFUzczl5NHAyQ2Jid196QlprRkpFRENtX0hOd2FrMzBCUWg0Q1RVckc3Wi1BS1hnYnplUGlBY0h3Ykw0SE14c21QRmxmSVJsZl83V3N5ZEJLZDRoOUwydUgxQ3h2QlJERUs3UGJaOHc?oc=5",
+   "source": "MBC 뉴스",
+   "date": "2026-08-14",
+   "datetime": "2026-08-14 09:29 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
    "title": "SK하이닉스, 내달 ‘세미콘 타이완’서 AI 시대 HBM 차세대 기술 방향 제시",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05b3c1blFyX2xTbVBWSFp4aTY1SXVLT0hMRjdVS1ZWTEFzeTdKdjd4eFY4SWJkZS1VeG0xRUdEQ2hjbHFZNGx5NDRGR1dCdzRQdFA4aTBYOWc2cC1kWGRvRTI2WFdOUQ?oc=5",
-   "source": "더구루",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SZ19pZDhJbklEcElaYVZ0ZUdNOEt3VVdyQllOTGY4VjZUUEhfa0FyYTVURUxxcXM1a1I4Ny1KSS14WWlIWUU4MXFwZGUyeDMzZlJSV3ctaFNKalBrLVdsZEZXQQ?oc=5",
+   "source": "theguru.co.kr",
    "date": "2026-08-14",
    "datetime": "2026-08-14 07:55 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 새 보따리 푼다…주주환원 추가 방안 이달 발표",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KMllhVmcxN3ZnZ3huRDhxSVcwT09NSVY0bXlXeWltdmV5QWpXbDllX0RCUVpPR0VKSy11UTBRR2tCdTJVNFh6TGRyX3JCdjRwNC1MbHZOYk1MZWFjWkgwVjBEUl_SAWpBVV95cUxPaldRUXJMQ1EyNEpRSTdLZGxsNDJ6YkdrRm9HakRnbnRocWcxWVlYc0pCOWQyUDN2QVZjME15N0JvMHFIUDc2ajB5R1FZWnJWY21oZ3Z6LUI1VzE0V3A1SVo3M3NQeHZZOFVn?oc=5",
+   "source": "뉴스1",
+   "date": "2026-08-14",
+   "datetime": "2026-08-14 07:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "솔리다임 나스닥 상장 추진 검토에…SK하이닉스 주가에 악재?",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IV0tBWUVCdmFCdlNmZUFwdm5nTTNHeDZmQk9WRnU5UVNrdEFCcnZDNmRFYmN5SWtFUk5mb0Exd3I5LVpnZ0FTWGp1aERvYXd5b0E?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-08-14",
+   "datetime": "2026-08-14 06:26 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   },
   {
@@ -28,20 +100,8 @@
    }
   },
   {
-   "title": "SK하이닉스 생산·사무직 통합노조도 출범... 노조 총 4개로",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0VIQTlPZkctTktiVnpoVTlLWE9wV2tFQXkyTlJBS2wxRDR1eWVJT1pGSXZLY3ZYQXMxZTI5SVpMZWhNaXQzS0pzblhlM081VHU3S05hYnNhZ09wVmNObEpwNFllZFVSeVYzdmpiMUQwa0psQlF1bkoxMTVWY3NQenhKTQ?oc=5",
-   "source": "조선일보",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 21:48 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "\"이건 아닙니다 회장님\"…SK하이닉스 '5단 중복상장' 추진에 쏟아진 비판",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ycnduYU5iYzBhbGpfaThjU25aRmwxdDFuUDd1c1hFZTBYcVBDUFdHa2UybGlhemFwSWljOGVSelpZcDl2RTVNSlRDZUMxTW8?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE54c0JfTHZRT1pJNGNqc2NqU1YyTGVjaFk3ZEF3RllDRWY1MF9acGZvenhBYXRfN2JIN1A2dFB6N0tkMHRyOGc?oc=5",
    "source": "v.daum.net",
    "date": "2026-08-13",
    "datetime": "2026-08-13 21:11 KST",
@@ -61,66 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 생산·사무직 통합노조 출범",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuNGIyVllPeHpST0JCdXJSbi1QVG1JeW1INWNOY2VZQXBtQVlvTHo0ZktfOS1mWFZEQ2NtVnc3YlVWdEJHZmEyQl9SelRVdw?oc=5",
-   "source": "전자신문",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 19:10 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스, \"극도로 저평가\" 상태—애널리스트",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3M3hHWFZxTEZZNHdfUEtoSVNadEREWTZZVHhQeUlTNlZBWkNwVmhXTV9CNVk4V0VTeWtldXBlUHZYMnd3X1ZwZDhncFFSSUZQX256S1JMNFlINWw4NUZhNHZQODhuZEFISUpLSVZ0N1I?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 18:57 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[단독] ‘혁신 지휘자’ 윤풍영 수펙스 사장, SK하이닉스 글로벌 성장 TF장으로… “AI 글로벌 확장 이끈다” - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblVqcFhnYTZtbUZlRWFiMmdiNmxaRWZGYTNkYXdVbWVhZ1J1MlpPZUUtdzl6YkZ2b1FueU80YW11cmZMREpKYldKeHpZdG55dUxHQW1GVHh6cDdCMG1PLXM0b3VyWWVHaFlFeDdhVThmWWp0VUJLbjVheVdEaDlLTUxXSFLSAZgBQVVfeXFMT0tra3QtV2hiTktqbG9ENHd0MHlnbWUya1Zfc2xELWVJWnIyTXRPcGJLYW90TFlvSlZLcElueXJQSmJRUEJtZldQWG45eS1MWDdobk91enZIWXRCdWdmMXFyOXEwZ3lZT1JCOGdoS3RnTE56MUFXNThfeE5qak9FVmNXMHEzZGpEYi1YaWx2TklnM0xQNE9hSVY?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 18:11 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "윤풍영 SK수펙스 사장, SK하이닉스 '글로벌 성장 TF장' 겸임 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaOHVUWEw2N3prd1oydVI5a2RQZFptb0VXa3REYloxckhGNUZOLUlKQThhNVh4djNfNmxFVTV5MzZkZGdqb09WWkdRQkwtR013MkVSZUtJeUp6YWNlOXNsWVFMNzNrRGRzWWxTY9IBckFVX3lxTFBkOVRNWGg3cDdyUWZseU4taW9wNWhlU0piRmViMjFFZ01pak1GZlpPZnNtXzB3ZEJQdi1Wd1ljNkVRTHVsdnZaOV9zQnZEVDlHUzNtVngxMXNsemdnOWNCUWUyZFZIN2twc2RCUmhrejhudw?oc=5",
-   "source": "머니투데이",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 17:49 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "하이닉스, 88조 쌓아두고 중복상장 논란…\"단순배당으론 주주반발 못막아\"",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EYW9tb3VGNUlOd2Y3dlg4QzJMeU5fSGQ4RV8yektnZUN1UVBTTzRLSTEwcEozaUMyTWp5X3Z1OVN1QmVRZzNNbTNFWk81NENEajlmc1NIaU5VSkN5NXpMWHFrWnN3WW1Oa0U0akpTOUU?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 17:41 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
