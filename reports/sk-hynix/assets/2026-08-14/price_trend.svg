@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="400" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
-<text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">SK하이닉스 주가 흐름 (7/10 ~ 8/14 장중)</text>
-<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 8/14* 10:00 장중가 168.2만(+5.59%). 매수 복귀선 173.5만에 근접(−3.1%). 7/17 휴장.</text>
+<text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">SK하이닉스 주가 흐름 (7/10 ~ 8/14 종가)</text>
+<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 8/14 확정 종가 164.5만(+3.26%). 152만·158.6만 큰 폭 상회, 매수 복귀선 173.5만과 −5.19% 거리. 7/17 휴장.</text>
 <line x1="88" y1="331.4" x2="724" y2="331.4" stroke="#e1e0d9" stroke-width="1"/>
 <text x="80" y="335.4" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">130만</text>
 <line x1="88" y1="305.2" x2="724" y2="305.2" stroke="#e1e0d9" stroke-width="1"/>
@@ -23,7 +23,7 @@
 <line x1="88" y1="95.9" x2="724" y2="95.9" stroke="#e1e0d9" stroke-width="1"/>
 <text x="80" y="99.9" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">220만</text>
 <line x1="88" y1="336" x2="724" y2="336" stroke="#c3c2b7" stroke-width="1"/>
-<path d="M88.0,101.1 L114.5,188.8 L141.0,171.0 L167.5,126.8 L194.0,189.6 L220.5,210.0 L247.0,191.1 L273.5,192.7 L300.0,169.4 L326.5,211.3 L353.0,196.4 L379.5,266.0 L406.0,305.0 L432.5,325.6 L459.0,222.0 L485.5,261.5 L512.0,258.9 L538.5,235.1 L565.0,280.4 L591.5,299.5 L618.0,300.0 L644.5,298.7 L671.0,278.0 L697.5,254.7 L724.0,231.4" fill="none" stroke="#2a78d6" stroke-width="2"/>
+<path d="M88.0,101.1 L114.5,188.8 L141.0,171.0 L167.5,126.8 L194.0,189.6 L220.5,210.0 L247.0,191.1 L273.5,192.7 L300.0,169.4 L326.5,211.3 L353.0,196.4 L379.5,266.0 L406.0,305.0 L432.5,325.6 L459.0,222.0 L485.5,261.5 L512.0,258.9 L538.5,235.1 L565.0,280.4 L591.5,299.5 L618.0,300.0 L644.5,298.7 L671.0,278.0 L697.5,254.7 L724.0,241.1" fill="none" stroke="#2a78d6" stroke-width="2"/>
 <circle cx="88.0" cy="101.1" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="88.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/10</text>
 <text x="88.0" y="89.1" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">218만</text>
@@ -74,12 +74,12 @@
 <text x="671.0" y="356" font-size="11" fill="#898781" text-anchor="middle">8/12</text>
 <circle cx="697.5" cy="254.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="697.5" y="356" font-size="11" fill="#898781" text-anchor="middle">8/13</text>
-<circle cx="724.0" cy="231.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">8/14*</text>
-<text x="724.0" y="219.4" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">168만</text>
+<circle cx="724.0" cy="241.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">8/14</text>
+<text x="724.0" y="229.1" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">164만</text>
 <circle cx="484" cy="66" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="494" y="70" font-size="11" fill="#52514e">확인 종가</text>
 <circle cx="564" cy="66" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="574" y="70" font-size="11" fill="#52514e">역산·장중(점선)</text>
-<text x="24" y="386" font-size="10.5" fill="#898781">출처: 야후 파이낸스(8/14 10:00 장중)·과거 리포트 종합</text>
+<text x="24" y="386" font-size="10.5" fill="#898781">출처: 야후 파이낸스(8/14 종가 확정)·과거 리포트 종합</text>
 </svg>
