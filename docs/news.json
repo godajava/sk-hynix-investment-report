@@ -1,12 +1,12 @@
 {
- "fetchedAt": "2026-08-14 15:46 KST",
+ "fetchedAt": "2026-08-14 15:50 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
    "title": "[오늘의 삼전닉스] SK하이닉스가 미국에 메모리 전공정 공장도 지을까요",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vSUtXc3U2QnBmcVpWaG1fTE9lcklfV0RYeDdVcElwaWZ4Z2c1M2hKX1FVeTBaLUd6c1lKeDBfX3ZSWXFsM3g3ek5FWHZzYU1zTklzdlVac3BiMlMwVjNCM0hR?oc=5",
-   "source": "이코노미스트",
+   "source": "economist.co.kr",
    "date": "2026-08-14",
    "datetime": "2026-08-14 13:00 KST",
    "signal": {
@@ -21,6 +21,18 @@
    "source": "v.daum.net",
    "date": "2026-08-14",
    "datetime": "2026-08-14 10:12 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 4~5%대 급등...반도체 상승세 지속",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qMkk5X1JNWFBpVGtsWWxqc3VIYVlCM2hOeDNGSG0tR0RYRzBBWU83WWhBV2x0ZmUxRmpIcjNQRzYzUjVXVUNrUEh5UDJCdEZLeGJUa3hJR3h1bjdwaGxpQTNERGo3UExpMlRz?oc=5",
+   "source": "BBS불교방송",
+   "date": "2026-08-14",
+   "datetime": "2026-08-14 09:42 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -109,18 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "'반도체 투심' 회복에 SK하이닉스 장중 8% 급등‥\"안심은 이르다\"",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkOEd4dzZxT2c2NG50bEQzLUZRcF9hWk5qWDNKdHJPTjQ5aDMzLUR6bDhGMGk4RVBXUWxCUVBraWhqMUNac1pkUnh6QXVGV1ZpTHFWTTQxX2lxT0d1NUZyb1JsYWM3bUtvOEg3VWZ4UE83UktDVTlzWg?oc=5",
-   "source": "MBC 뉴스",
-   "date": "2026-08-13",
-   "datetime": "2026-08-13 19:57 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
