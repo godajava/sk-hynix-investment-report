@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-08-14 17:36 KST",
+ "fetchedAt": "2026-08-17 09:10 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "수자원공사, 삼성전자·SK하이닉스에 ‘물요금 차등화’ 검토",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYR2F6cmRfcVJZMERqUUZCc3V0enV1R3dOM3JBNTkxZTN6ZEw3ZmJEWmZSMEJvRkl4Qlp0a3lqVE55Rm84LTVBUjFEUzdsWFA4Y1BZbWgtQjZ0NTNsdHc?oc=5",
-   "source": "기후에너지데이터뱅크",
-   "date": "2026-08-14",
-   "datetime": "2026-08-14 17:10 KST",
+   "title": "상반기 현금성 자산 삼성전자 190조·SK하이닉스 88조…6개월새 117조↑",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03SExJaW1UMmxrN0trYlQ5QjdWN2p3ZE1hRjA1UUJndnNPQ0FVTlVmQUp1ZTVlRGdtOHZZU05CcThxY2FoQ0IzVlI2V2xQVms?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 07:48 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,11 +16,11 @@
    }
   },
   {
-   "title": "SK하이닉스 美 전공정 팹 검토…최태원 \"내년 메모리 전쟁\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ySEhBUmNPT2NfSGlyMmoyaHpkaFBzSDFpS095V2RTRVdDbE9MSHVYLW9jc1pfZUF3d0FmSUtIUkpTZ1JRSXNpZ2pKT1BhVzBSM09veGhEWmxwRks0?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-08-14",
-   "datetime": "2026-08-14 14:19 KST",
+   "title": "\"반도체 우려 정점 지났다\"…3분기에 삼전닉스 주가 재평가 기대",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53OXVMNVBLVTlZYUU2enY3QWNXMm01a3IyT0ExRFB5QWZoLVRWeGV2VkNaTUFMVjhXb296QjIzLVhKSTJQUGdkUGlCUHRWbkF1TWROOHZVNXFMdUUyQlhqNm9PUGdacFExVGItUG40MUtRV0Qz?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 07:41 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -28,11 +28,11 @@
    }
   },
   {
-   "title": "\"보너스 쏟아부었는데…\" SK하이닉스 투자한 직장인 '피눈물'",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52SkRVRG5tbEdHTzdDWDUxSy0wOTE4d1pydndpa1lxTE9tYkxoUzRfOE9BcXJhRWZBdThNcDJJVm96RzkybU9kRjhTUVFlRnpHbEtKNWUyWEZJUQ?oc=5",
-   "source": "한국경제",
-   "date": "2026-08-14",
-   "datetime": "2026-08-14 13:52 KST",
+   "title": "SK하이닉스 솔리다임 IPO설 '모락모락'…주주에 득일까, 실일까",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qbENVYnRIU2FzZEU0eEF1ME1TVGVMVGk4TklNZWtMUUZRdTdhbkNGTlAwaVUtWTBTVkJyd2R3X3ktblB3YXM3RWJhSkVfM0E?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 07:05 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -40,11 +40,11 @@
    }
   },
   {
-   "title": "[오늘의 삼전닉스] SK하이닉스가 미국에 메모리 전공정 공장도 지을까요",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9vSUtXc3U2QnBmcVpWaG1fTE9lcklfV0RYeDdVcElwaWZ4Z2c1M2hKX1FVeTBaLUd6c1lKeDBfX3ZSWXFsM3g3ek5FWHZzYU1zTklzdlVac3BiMlMwVjNCM0hR?oc=5",
-   "source": "이코노미스트",
-   "date": "2026-08-14",
-   "datetime": "2026-08-14 13:00 KST",
+   "title": "하이닉스 '솔리다임' IPO설…증권가 \"지분희석\" vs \"실익있다\"",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45dXEwMjNRWVhsNUVKaWZtWEZqTG1rWnh0YUNzaHRjNGdtaEZFMUNSRDNwdHk0Zkt3bHAxUE5jS2lNOC1UdW1LMV9xZ00wcHUtMk1SYmZDaTNEOXNzOFdEV9IBYEFVX3lxTE45dXEwMjNRWVhsNUVKaWZtWEZqTG1rWnh0YUNzaHRjNGdtaEZFMUNSRDNwdHk0Zkt3bHAxUE5jS2lNOC1UdW1LMV9xZ00wcHUtMk1SYmZDaTNEOXNzOFdEVw?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 06:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -52,11 +52,59 @@
    }
   },
   {
-   "title": "\"HBM 다음은 AI\"…SK하이닉스, 윤풍영 수펙스 사장에 '성장 특명'",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nc3lCRG1DWTh5cTctV2ZjcHhZNHQyMkk2aWl4YWVEdmFXbzAwU3dfTWI1VGNyQWJlekl2a3cwWUdVNk51WGlWRU1TUXMwNEh1MUVBblFsVFlCZDVVVXYwQjBOd0U4blNud21KLQ?oc=5",
-   "source": "비즈워치",
-   "date": "2026-08-14",
-   "datetime": "2026-08-14 10:11 KST",
+   "title": "SK하이닉스 직원, 상반기에만 평균 1.4억…내년엔 달라질 수도",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BWXVUSm9vdmZYRVNXMkdsdk1kQndsTFA4VUNDemtVblpzR3Fxd1JIR2k4bENLYllvRGpKVVVLd0daUzF2MlJJUVczZw?oc=5",
+   "source": "아이뉴스24",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 06:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼전닉스 6개월새 현금곳간 117조↑…설비투자 대비 압도적 실탄",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zN1Q5R3dUbjhDUTRmMUtJTlZwSGZMaUxnamx6Q0JkSGt2aks4LTl0QXFjZ3djMVlYeUJLa1NjNHR3MjBzX25iSGVSRVByRnpWbV83Ym84QnVfMkEzS3Q3NdIBYEFVX3lxTE9zN1Q5R3dUbjhDUTRmMUtJTlZwSGZMaUxnamx6Q0JkSGt2aks4LTl0QXFjZ3djMVlYeUJLa1NjNHR3MjBzX25iSGVSRVByRnpWbV83Ym84QnVfMkEzS3Q3NQ?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 05:55 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "화요일 국장 비상?…삼성·SK하이닉스, 美 반도체주·ADR 보니",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtTXlGc2t2N29acXhBSi01enlhMm93dnNzLWhfVGU4enJoNDN0WTJfUXBiYWdQTzVuVTNPQ1F0RXN4REpWTlRoSzZjMXJzaE5SUWNpS3pzUjBLQdIBWEFVX3lxTFBNSFRQbDRGY2VFZWI4S29XUXVaMjM3Z2xNZm1Qek8wc0VuMGxQNXpMQVNScWVnR2ZTZ21xeTlwOThWWGZuTGM1YjR0TXN3RTV1VTNKdEduclI?oc=5",
+   "source": "아주경제",
+   "date": "2026-08-16",
+   "datetime": "2026-08-16 20:33 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성·SK하이닉스 환원 200조 검토…2분기 영업이익 합산 150조",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wSTRFSkRYVFc3NXNBT3VQM3JWWWZJeVV2WFNsSHhQbkN6NVNyTVptcEZBcmd1TjZWRlItWjlCU082Q282WFFGZjh3OExSZ2hrajZjeW51SkIxRDJZc2Rra2lONmxvTWM?oc=5",
+   "source": "jabon.co.kr",
+   "date": "2026-08-16",
+   "datetime": "2026-08-16 16:56 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[분석] 트럼프 \"中 CXMT 칩 안 된다\" 제동…삼성전자·SK하이닉스 반사이익 기대",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vWW1TSVMxNlVhSTFNRlhQRGpGQUFnMWhhT1hfSHN6SzNXYVc1SEx6Tno4bVdVQnlpakQ1bEJvQ3Vkb0kwQkxNMThaS2FoWExFVWt1dWlkWmtsellzUVZFVjdvR1ZPT1prZm5VUFpn?oc=5",
+   "source": "알파경제",
+   "date": "2026-08-16",
+   "datetime": "2026-08-16 16:26 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -64,59 +112,11 @@
    }
   },
   {
-   "title": "SK하이닉스 4~5%대 급등...반도체 상승세 지속",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qMkk5X1JNWFBpVGtsWWxqc3VIYVlCM2hOeDNGSG0tR0RYRzBBWU83WWhBV2x0ZmUxRmpIcjNQRzYzUjVXVUNrUEh5UDJCdEZLeGJUa3hJR3h1bjdwaGxpQTNERGo3UExpMlRz?oc=5",
-   "source": "BBS불교방송",
-   "date": "2026-08-14",
-   "datetime": "2026-08-14 09:42 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 美 샌디스크 호재.. 동반 '강세'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXVkSER1TmFBX0FoRTNjSjRFeFUzR0tueG1pY3dHZk1QUWR0QVdjQjFNQmZJQlJ3TTNTNmhhNmhZOEZUaGhJeENNTHpwLU1mQzFNeDFhOU4tNmt6cU1VV3dWWjBlck5aZVpubUxPUTl0SVRCZ1VOS2MxQThZal9WVjB6Vl9EQk8y?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-08-14",
-   "datetime": "2026-08-14 09:42 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "코스피, 2%대 상승 출발하며 개장 직후 7천 회복‥SK하이닉스 5% 급등",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXOC1iRjg4UEszNF9fQ0hZYUpZVFN1ZEsyZlpoYjk4clhLMGVERzFtY3NUSThTMFpqN1ZhTTJobkg0VURhckpORjU3RVJ4VWRHdlVOM19vSTR2TEJYdFhNNkk3QklQMEVuRXZZX0k2ZDBycWdU0gF0QVVfeXFMTWc5TEdWNFUzczl5NHAyQ2Jid196QlprRkpFRENtX0hOd2FrMzBCUWg0Q1RVckc3Wi1BS1hnYnplUGlBY0h3Ykw0SE14c21QRmxmSVJsZl83V3N5ZEJLZDRoOUwydUgxQ3h2QlJERUs3UGJaOHc?oc=5",
-   "source": "MBC 뉴스",
-   "date": "2026-08-14",
-   "datetime": "2026-08-14 09:29 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 내달 ‘세미콘 타이완’서 AI 시대 HBM 차세대 기술 방향 제시",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SZ19pZDhJbklEcElaYVZ0ZUdNOEt3VVdyQllOTGY4VjZUUEhfa0FyYTVURUxxcXM1a1I4Ny1KSS14WWlIWUU4MXFwZGUyeDMzZlJSV3ctaFNKalBrLVdsZEZXQQ?oc=5",
-   "source": "theguru.co.kr",
-   "date": "2026-08-14",
-   "datetime": "2026-08-14 07:55 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 새 보따리 푼다…주주환원 추가 방안 이달 발표",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KMllhVmcxN3ZnZ3huRDhxSVcwT09NSVY0bXlXeWltdmV5QWpXbDllX0RCUVpPR0VKSy11UTBRR2tCdTJVNFh6TGRyX3JCdjRwNC1MbHZOYk1MZWFjWkgwVjBEUl_SAWpBVV95cUxPaldRUXJMQ1EyNEpRSTdLZGxsNDJ6YkdrRm9HakRnbnRocWcxWVlYc0pCOWQyUDN2QVZjME15N0JvMHFIUDc2ajB5R1FZWnJWY21oZ3Z6LUI1VzE0V3A1SVo3M3NQeHZZOFVn?oc=5",
-   "source": "뉴스1",
-   "date": "2026-08-14",
-   "datetime": "2026-08-14 07:30 KST",
+   "title": "SK하이닉스 낸드 출하량 삼성전자 바짝 추격···中 YMTC도 3위 '급부상'",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jTWw3U25hQkZaeHVLN05CaVVibXA0aUJ3M3dWY0JSekgtSkZCVkxKTll4Si1uTjc2c3djVlJJQldkblhIcnU5bEs5dEtpTkRGT0xoWjBNTTVwd3U1aXI2V2ZJSFlPQkhxckVncHhtUm1JOVJDSFHSAXZBVV95cUxNY01sN1NuYUJGWnh1SzdOQmlVYm1wNGlCdzN3VmNCUnpILUpGQlZMSk5ZeEotbk43NnN3Y1ZSSUJXZG5YSHJ1OWxLOXRLaU5ERk9MaFowTU01cHd1NWlyNldmSUhZT0JIcXJFZ3B4bVJtSTlSQ0hR?oc=5",
+   "source": "sisajournal-e.com",
+   "date": "2026-08-16",
+   "datetime": "2026-08-16 14:28 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
