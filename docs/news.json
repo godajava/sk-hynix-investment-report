@@ -1,8 +1,104 @@
 {
- "fetchedAt": "2026-08-17 10:03 KST",
+ "fetchedAt": "2026-08-17 16:58 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[그래픽] 삼성전자·SK하이닉스 상반기 현금·현금성 자산",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91YVcwaDBOcm1uVThpdFU0bXlKckZLVFhDRmc3RU15X0JIX0lnTzBLM3JQU1lCbmtyQmxUR3dIaG1vUy1qTEVXQ3N1VDdCaUk?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 16:28 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 상반기 직원 1601명 급증… 삼성전자 5배",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rQ1U4cFBFaW9YREx1RWZWNkdDeEdWS0lPYm9LV2FQYksyYnFGZlpwTUtfQUhHekVKRG5JcTBCRkl6aXhWb0JlQ0R2MTVnQXJLSUVodTYzbEliWUNKbi1MVUpHSlRZUW1TdjBXV3dxMzExaXpW0gF0QVVfeXFMT2tDVThwUEVpb1hETHVFZlY2R0N4R1ZLSU9ib0tXYVBiSzJicUZmWnBNS19BSEd6RUpEbklxMEJGSXppeFZvQmVDRHYxNWdBcktJRWh1NjNsSWJZQ0puLUxVSkdKVFlRbVN2MFdXd3EzMTFpelY?oc=5",
+   "source": "IT조선",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 16:07 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스, 호실적에 상반기 현금 117조 증가",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX3NHYmlITFdsNTlUbzFzaWhET2JLdjVKaW9KQlFyZGVfNTI5ZDZsZnJMNjQ4RmZtcUdQRVNmQzN6RmZxYkhEU2t3N01wZ250NE44UWlWSUZJaXg3NDk1Mkt6U0UyaUFVcVhLd2k0TmJRa3ozYnpTYktHWkxtLTlyVWMxQQ?oc=5",
+   "source": "조선일보",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 14:01 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스 레버리지 ETF, 두 달 새 수수료 1172억원",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EeUxTY2FlRk81dmg0RHlEOU9aOW9xMTJtNXBHb0FpTFB3a3NNSVJMNFhnc2k0MTJRVUhzMXZ5Y0xiTll6YnZIZ1hzRWh4Qzg?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 11:54 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "KB금융 \"SK하이닉스 수처리시설 대출, 생물다양성 리스크 검토해야\" - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CWnJTOWh0UVBrTVF5VG9xUXU5V0Y2S1FNc3pPX1JmdmJQTGdxRzJucXJwb3JWSEN4QWN3VUc5djNuZTlpVTFpUS1aekdGRVhIb2VtcjFpemdpU3FkVmc0MlBvM25RNkVSUGZV0gFwQVVfeXFMTUxBYjNKV29rdi00Y1UxSUlpNjdmTExVc0diMFNQSzFLTGQ3NmVDcTM0Q2NaUi1hVTdPVzRBcDBtNmZVRFBrZ2IydEY2ZEdNS25KWTJUUGJqYTE5bkdyVGtlck51eFpJZXd2c0tlbDFmSw?oc=5",
+   "source": "머니투데이",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 11:14 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "[이슈&인사이트] 원화 강세는 진짜인가: SK하이닉스 착시와 재정의 그림자",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1OElaN2UxZzR6TGR3SXlwVHZNRTRhOXk5ZHVOcHhlQzJPWFFaWHlranA0amRXVjEtenJwZm85RjM5bmxRM3J1S1ctQUh3MzZZSk85Q3dabzVtYXM?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 11:01 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "삼전·SK하이닉스, 나란히 주주환원 확대···AI로 번 현금 어디까지 풀까",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qRVFUYjFVdlRtVWxXTlo4SEU5SmpGYmY5S1lFTUY4ZVlDaXBSVFg0S0k1UVJ6UDM3Wk14aVRoRUozS2dXdUZHX3Znek9NcnllaXN1dEhKYU90TTNoaDRsVk9iWTBENTFJT1pBLUgzUGhyd9IBdkFVX3lxTFA3TmlCS2NmOHFxMTUyU0o0SmllMGIwWlZldEpWcno1M190dk92UWhrbGk2OGplMk5UZlFCWmc4UGhTNFpKUXRvMkF6dThHWDQyTWgzRnU4SElVSWVkN3I4UnplRFk0a3R3TGk1NEZoalIxVG1sc3c?oc=5",
+   "source": "시사저널e",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 10:05 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스 현금성 자산 278조원…반년 새 117조 원↑",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JbW5POWc5MUVleDdTTDJMNFhMcXRhT2U1cmgxOXNTN0Z1bHpnLXRRR2lXNEVyN1pfRFdpTWhQQVdmUlRkMlVBa1E1RVVzMUhYWWJvS1VNclpVbGtfTmFnSk9scEdlREk?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 09:27 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "상반기 현금성 자산 삼성전자 190조·SK하이닉스 88조…6개월새 117조↑",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03SExJaW1UMmxrN0trYlQ5QjdWN2p3ZE1hRjA1UUJndnNPQ0FVTlVmQUp1ZTVlRGdtOHZZU05CcThxY2FoQ0IzVlI2V2xQVms?oc=5",
@@ -17,110 +113,14 @@
   },
   {
    "title": "\"반도체 우려 정점 지났다\"…3분기에 삼전닉스 주가 재평가 기대",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53OXVMNVBLVTlZYUU2enY3QWNXMm01a3IyT0ExRFB5QWZoLVRWeGV2VkNaTUFMVjhXb296QjIzLVhKSTJQUGdkUGlCUHRWbkF1TWROOHZVNXFMdUUyQlhqNm9PUGdacFExVGItUG40MUtRV0Qz?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JUGJiM3VYbHRDc0N0ZGxURnE4OF9WSUJ0aU5LR0pDYTloNEVacFFpeVpUN1RGVlBHLWRROEdveGU4T2Q1cEZNb2xFN2tOOWgxbFB3dDBtZkZVRE5ySVlhTFJkeThlN2tTR0QxTzQ4Z0k?oc=5",
    "source": "연합인포맥스",
    "date": "2026-08-17",
-   "datetime": "2026-08-17 07:41 KST",
+   "datetime": "2026-08-17 07:35 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "하이닉스 '솔리다임' IPO설…증권가 \"지분희석\" vs \"실익있다\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45dXEwMjNRWVhsNUVKaWZtWEZqTG1rWnh0YUNzaHRjNGdtaEZFMUNSRDNwdHk0Zkt3bHAxUE5jS2lNOC1UdW1LMV9xZ00wcHUtMk1SYmZDaTNEOXNzOFdEV9IBYEFVX3lxTE45dXEwMjNRWVhsNUVKaWZtWEZqTG1rWnh0YUNzaHRjNGdtaEZFMUNSRDNwdHk0Zkt3bHAxUE5jS2lNOC1UdW1LMV9xZ00wcHUtMk1SYmZDaTNEOXNzOFdEVw?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 06:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 직원, 상반기에만 평균 1.4억…내년엔 달라질 수도",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BWXVUSm9vdmZYRVNXMkdsdk1kQndsTFA4VUNDemtVblpzR3Fxd1JIR2k4bENLYllvRGpKVVVLd0daUzF2MlJJUVczZw?oc=5",
-   "source": "inews24.com",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 06:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼전닉스 6개월새 현금곳간 117조↑…설비투자 대비 압도적 실탄",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zN1Q5R3dUbjhDUTRmMUtJTlZwSGZMaUxnamx6Q0JkSGt2aks4LTl0QXFjZ3djMVlYeUJLa1NjNHR3MjBzX25iSGVSRVByRnpWbV83Ym84QnVfMkEzS3Q3NdIBYEFVX3lxTE9zN1Q5R3dUbjhDUTRmMUtJTlZwSGZMaUxnamx6Q0JkSGt2aks4LTl0QXFjZ3djMVlYeUJLa1NjNHR3MjBzX25iSGVSRVByRnpWbV83Ym84QnVfMkEzS3Q3NQ?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 05:55 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "화요일 국장 비상?…삼성·SK하이닉스, 美 반도체주·ADR 보니",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtTXlGc2t2N29acXhBSi01enlhMm93dnNzLWhfVGU4enJoNDN0WTJfUXBiYWdQTzVuVTNPQ1F0RXN4REpWTlRoSzZjMXJzaE5SUWNpS3pzUjBLQdIBWEFVX3lxTFBNSFRQbDRGY2VFZWI4S29XUXVaMjM3Z2xNZm1Qek8wc0VuMGxQNXpMQVNScWVnR2ZTZ21xeTlwOThWWGZuTGM1YjR0TXN3RTV1VTNKdEduclI?oc=5",
-   "source": "ajunews.com",
-   "date": "2026-08-16",
-   "datetime": "2026-08-16 20:33 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스 환원 200조 검토…2분기 영업이익 합산 150조",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wSTRFSkRYVFc3NXNBT3VQM3JWWWZJeVV2WFNsSHhQbkN6NVNyTVptcEZBcmd1TjZWRlItWjlCU082Q282WFFGZjh3OExSZ2hrajZjeW51SkIxRDJZc2Rra2lONmxvTWM?oc=5",
-   "source": "자본시장뉴스",
-   "date": "2026-08-16",
-   "datetime": "2026-08-16 16:56 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[분석] 트럼프 \"中 CXMT 칩 안 된다\" 제동…삼성전자·SK하이닉스 반사이익 기대",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vWW1TSVMxNlVhSTFNRlhQRGpGQUFnMWhhT1hfSHN6SzNXYVc1SEx6Tno4bVdVQnlpakQ1bEJvQ3Vkb0kwQkxNMThaS2FoWExFVWt1dWlkWmtsellzUVZFVjdvR1ZPT1prZm5VUFpn?oc=5",
-   "source": "알파경제",
-   "date": "2026-08-16",
-   "datetime": "2026-08-16 16:26 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 낸드 출하량 삼성전자 바짝 추격···中 YMTC도 3위 '급부상'",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jTWw3U25hQkZaeHVLN05CaVVibXA0aUJ3M3dWY0JSekgtSkZCVkxKTll4Si1uTjc2c3djVlJJQldkblhIcnU5bEs5dEtpTkRGT0xoWjBNTTVwd3U1aXI2V2ZJSFlPQkhxckVncHhtUm1JOVJDSFHSAXZBVV95cUxNY01sN1NuYUJGWnh1SzdOQmlVYm1wNGlCdzN3VmNCUnpILUpGQlZMSk5ZeEotbk43NnN3Y1ZSSUJXZG5YSHJ1OWxLOXRLaU5ERk9MaFowTU01cHd1NWlyNldmSUhZT0JIcXJFZ3B4bVJtSTlSQ0hR?oc=5",
-   "source": "시사저널e",
-   "date": "2026-08-16",
-   "datetime": "2026-08-16 14:28 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"SK하이닉스 청주 지방세가...\" 1위 역전한 박선원의 약속",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pYVgxVVZ1VFRwbDBVYkI5Z2VJbnlwaVlXTDBQOGxPVDR4cXliNHNQNGl4N2xjZjV6UGxLb0xIa3BjVGJUWUlwVEhQRVJBWU0?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-16",
-   "datetime": "2026-08-16 13:42 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
