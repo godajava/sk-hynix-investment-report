@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-08-17 09:10 KST",
+ "fetchedAt": "2026-08-17 10:03 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -28,18 +28,6 @@
    }
   },
   {
-   "title": "SK하이닉스 솔리다임 IPO설 '모락모락'…주주에 득일까, 실일까",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qbENVYnRIU2FzZEU0eEF1ME1TVGVMVGk4TklNZWtMUUZRdTdhbkNGTlAwaVUtWTBTVkJyd2R3X3ktblB3YXM3RWJhSkVfM0E?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 07:05 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "하이닉스 '솔리다임' IPO설…증권가 \"지분희석\" vs \"실익있다\"",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45dXEwMjNRWVhsNUVKaWZtWEZqTG1rWnh0YUNzaHRjNGdtaEZFMUNSRDNwdHk0Zkt3bHAxUE5jS2lNOC1UdW1LMV9xZ00wcHUtMk1SYmZDaTNEOXNzOFdEV9IBYEFVX3lxTE45dXEwMjNRWVhsNUVKaWZtWEZqTG1rWnh0YUNzaHRjNGdtaEZFMUNSRDNwdHk0Zkt3bHAxUE5jS2lNOC1UdW1LMV9xZ00wcHUtMk1SYmZDaTNEOXNzOFdEVw?oc=5",
    "source": "연합뉴스",
@@ -54,7 +42,7 @@
   {
    "title": "SK하이닉스 직원, 상반기에만 평균 1.4억…내년엔 달라질 수도",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BWXVUSm9vdmZYRVNXMkdsdk1kQndsTFA4VUNDemtVblpzR3Fxd1JIR2k4bENLYllvRGpKVVVLd0daUzF2MlJJUVczZw?oc=5",
-   "source": "아이뉴스24",
+   "source": "inews24.com",
    "date": "2026-08-17",
    "datetime": "2026-08-17 06:00 KST",
    "signal": {
@@ -78,7 +66,7 @@
   {
    "title": "화요일 국장 비상?…삼성·SK하이닉스, 美 반도체주·ADR 보니",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtTXlGc2t2N29acXhBSi01enlhMm93dnNzLWhfVGU4enJoNDN0WTJfUXBiYWdQTzVuVTNPQ1F0RXN4REpWTlRoSzZjMXJzaE5SUWNpS3pzUjBLQdIBWEFVX3lxTFBNSFRQbDRGY2VFZWI4S29XUXVaMjM3Z2xNZm1Qek8wc0VuMGxQNXpMQVNScWVnR2ZTZ21xeTlwOThWWGZuTGM1YjR0TXN3RTV1VTNKdEduclI?oc=5",
-   "source": "아주경제",
+   "source": "ajunews.com",
    "date": "2026-08-16",
    "datetime": "2026-08-16 20:33 KST",
    "signal": {
@@ -90,7 +78,7 @@
   {
    "title": "삼성·SK하이닉스 환원 200조 검토…2분기 영업이익 합산 150조",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wSTRFSkRYVFc3NXNBT3VQM3JWWWZJeVV2WFNsSHhQbkN6NVNyTVptcEZBcmd1TjZWRlItWjlCU082Q282WFFGZjh3OExSZ2hrajZjeW51SkIxRDJZc2Rra2lONmxvTWM?oc=5",
-   "source": "jabon.co.kr",
+   "source": "자본시장뉴스",
    "date": "2026-08-16",
    "datetime": "2026-08-16 16:56 KST",
    "signal": {
@@ -114,13 +102,25 @@
   {
    "title": "SK하이닉스 낸드 출하량 삼성전자 바짝 추격···中 YMTC도 3위 '급부상'",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jTWw3U25hQkZaeHVLN05CaVVibXA0aUJ3M3dWY0JSekgtSkZCVkxKTll4Si1uTjc2c3djVlJJQldkblhIcnU5bEs5dEtpTkRGT0xoWjBNTTVwd3U1aXI2V2ZJSFlPQkhxckVncHhtUm1JOVJDSFHSAXZBVV95cUxNY01sN1NuYUJGWnh1SzdOQmlVYm1wNGlCdzN3VmNCUnpILUpGQlZMSk5ZeEotbk43NnN3Y1ZSSUJXZG5YSHJ1OWxLOXRLaU5ERk9MaFowTU01cHd1NWlyNldmSUhZT0JIcXJFZ3B4bVJtSTlSQ0hR?oc=5",
-   "source": "sisajournal-e.com",
+   "source": "시사저널e",
    "date": "2026-08-16",
    "datetime": "2026-08-16 14:28 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"SK하이닉스 청주 지방세가...\" 1위 역전한 박선원의 약속",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pYVgxVVZ1VFRwbDBVYkI5Z2VJbnlwaVlXTDBQOGxPVDR4cXliNHNQNGl4N2xjZjV6UGxLb0xIa3BjVGJUWUlwVEhQRVJBWU0?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-16",
+   "datetime": "2026-08-16 13:42 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   }
  ]
