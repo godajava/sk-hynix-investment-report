@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-08-18 15:44 KST",
+ "fetchedAt": "2026-08-18 16:50 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -40,6 +40,18 @@
    }
   },
   {
+   "title": "SK하이닉스 임단협, 9부 능선 넘었다…노사 막판 줄다리기",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ROXVfdVVKRHJRTHVuSUR5RG5hLWdhNzhUQVpOZ2RqS09MZjFoMTlGbnljelI1QkF6dUE5elBGRmktUDZ2NFdyd1ZQZjRBMW8xUVZDdk13?oc=5",
+   "source": "중앙일보",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 11:53 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스 노사, 임단협 타결 '9부 능선' 도달…임직원 표심이 변수로",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jcnlxNmN6bHpEUUNWSEFQX1I1YndUTVhOM2x2cXFuU3ZhSzI5VS1paFBjd255TWRjdXVza3VlTVl3TThoTmozeDYxVTVpalM1X0dJanp2WGJSbnlkS1dQT3d5Wk5wVEoxbENZcS1aLUU?oc=5",
    "source": "오피니언뉴스",
@@ -64,9 +76,21 @@
    }
   },
   {
+   "title": "SK하이닉스 노사, 임단협 오늘 최종 담판",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94c1c5eWhXOTZteER5YVNQbHoyc01OeW1lVHV5T08temluUEFYZVZDMWtDbGxWbk94Q1hCdHlITHdiXzZoekYtWWFFUmM3SGpxdkVmUWN2UUJnTHlXSTVBRkFDUDA?oc=5",
+   "source": "매일일보",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 11:05 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스 임단협 막바지…‘성과급 자사주’가 타결 변수",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fbzEzOUhoMEJiNHh1T3BySlNOVVZkcFRSalB0Smh5NjBjQXNUOWZFT1luOEdadlh4T0x4UXQ0ZFNXZlN2MElYcURUMHdLVWtPMWpVR3IySGlSdjhwcGE5Uk1qSDl1clhkNUxub2tvclNFYknSAXNBVV95cUxOX28xMzlIaDBCYjR4dU9wckpTTlVWZHBUUmpQdEpoeTYwY0FzVDlmRU9ZbjhHWnZYeE9MeFF0NGRTV2ZTdjBJWHFEVDB3S1VrTzFqVUdyMkhpUnY4cHBhOVJNakg5dXJYZDVMbm9rb3JTRWJJ?oc=5",
-   "source": "시사저널",
+   "source": "sisajournal.com",
    "date": "2026-08-18",
    "datetime": "2026-08-18 10:48 KST",
    "signal": {
@@ -93,30 +117,6 @@
    "source": "IT조선",
    "date": "2026-08-18",
    "datetime": "2026-08-18 10:13 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 8%대 급등…美 앤트로픽 성장 기대감↑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wby1GNmhWN1p3ZkpiRWdnQ3d1N25yMG04N0RhWU9TWENLODZqdjJsdkxMQTV5bXNoZEVMSHlFSE5OejNCX2R2ZWNaQlVmT2hoTFVj0gFYQVVfeXFMTk5lVmdhcUxqVDhTREN6NWdydDBPUVRQOERtdzZ1aXFoWHB1Ml9scmJsdTNpd01ZY0lNdUF2MTdyODNGNXBYVFN4azJ2TGlPbEd4bF9zTUNyOQ?oc=5",
-   "source": "SBS Biz",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 10:05 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 노사, 임단협 ‘9부 능선’… 오늘 최종 담판",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DclJIdGpjS3Y0cnNDN2VEcWxheFBZVkpvWExsUXBZbHE2akptZl9sY1Y1MzFyV0owR2RBUmVicjVSSThVSUl4RjB1anF3dmVSMVdWZzhHamZMMXM4dUQ2QW5hLTU5SXRwcFE?oc=5",
-   "source": "천지일보",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 10:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
