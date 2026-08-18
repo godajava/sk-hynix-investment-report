@@ -106,6 +106,19 @@ td { padding: 9px 12px; border-bottom: 1px solid var(--hairline); vertical-align
 td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 .bullbear td:first-child { border-right: 1px solid var(--hairline); }
 
+/* 기술적 지표 테이블 — 지표/값/해석 3열, 모바일에서 폭이 좁아 가로 스크롤 없이 읽히도록 % 기반 폭 + 줄바꿈 허용 */
+.tech-indicators th:nth-child(1), .tech-indicators td:nth-child(1) { width: 26%; }
+.tech-indicators th:nth-child(2), .tech-indicators td:nth-child(2) { width: 30%; }
+.tech-indicators th:nth-child(3), .tech-indicators td:nth-child(3) { width: 44%; }
+@media (max-width: 640px) {
+  .tech-indicators { font-size: 12.5px; }
+  .tech-indicators th, .tech-indicators td { padding: 7px 8px; }
+  .tech-indicators th:nth-child(1), .tech-indicators td:nth-child(1) { width: 24%; }
+  .tech-indicators th:nth-child(2), .tech-indicators td:nth-child(2) { width: 34%; }
+  .tech-indicators th:nth-child(3), .tech-indicators td:nth-child(3) { width: 42%; }
+  .tech-indicators td.num { white-space: normal; word-break: keep-all; }
+}
+
 /* ── 뉴스 리스트 ── */
 ol.news { list-style: none; margin: 0; padding: 0; counter-reset: n; }
 ol.news li {
@@ -732,9 +745,9 @@ button.refresh[disabled] { opacity: 0.6; cursor: progress; }
 <p>직전 종가 1,645,000원 대비 <strong>+14,000원(+0.85%)</strong>입니다. 시가 173.6만 갭업 이후 고가 179.2만까지 올랐다가 저가 164.0만까지 되밀린 뒤 165.9만으로 마감했습니다. 거래량 485.4만 주(20일 평균 576만 주의 <strong>0.84배</strong>)로 평균에 근접해, 큰 변동성에 대응한 거래가 활발했습니다.</p>
 
 <div class="tablewrap">
-<table>
+<table class="tech-indicators">
   <tr><th colspan="3">기술적 지표 — 일봉 기준 <span id="ti-when" style="font-weight:400">· 2026-08-18 종가 확정</span></th></tr>
-  <tr><th style="width:170px">지표</th><th style="width:220px">값</th><th>해석</th></tr>
+  <tr><th>지표</th><th>값</th><th>해석</th></tr>
   <tr><td>MACD (12,26,9)</td><td class="num" id="ti-macd">-12.2만 / 시그널 -15.6만 / 히스토그램 <strong>+3.42만</strong></td><td id="ti-macd-read">골든크로스 유지(장중 고점 +4.19만에서 축소)</td></tr>
   <tr><td>ATR (14)</td><td class="num" id="ti-atr">17.4만 (10.5%)</td><td id="ti-atr-read">변동성 매우 큼</td></tr>
   <tr><td>ADX / DMI (14)</td><td class="num" id="ti-adx">ADX 29.0 · +DI 25.6 · -DI 29.8</td><td id="ti-adx-read">-DI 우위, 격차 4.2로 하루 종일 안정적</td></tr>
