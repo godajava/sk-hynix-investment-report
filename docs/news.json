@@ -1,20 +1,8 @@
 {
- "fetchedAt": "2026-08-18 09:15 KST",
+ "fetchedAt": "2026-08-18 09:22 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
-  {
-   "title": "SK하이닉스 노사, 임단협 막판 분수령…오늘 대표자 교섭",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16bEZ4NndHb0dNYXpGQmxXWUZqbG9tMXY4azNBM1NEYlh4WVNWaDltalJDemtxUHU1cUUyWkw4aGRoSDFGb19SRFNGanBEcEkzQW5za1VuSkw1MWc1OVJsNg?oc=5",
-   "source": "아시아경제",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 09:04 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
   {
    "title": "“SK하이닉스 배당 늘면 2조 유입”…NH證 “SK스퀘어, 주주환원·M&A 확대 기대” - 조선비즈",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXo3aEF0SjN6ODJnblRoZFBKYl9QcW1LQk9WRFRzNlE0LW96b1BkZHpsQnZ1UTA2VHhNYzUwYy1oTmxSaGxRbzhWRUlhWkZRNVZGN1dJOEZuUGtTWkFhTHlPRHRUaVF6Q3F3aXdTWGlSZzRJbTdrZGxJQk9CMk9TZzBhSnpocmRL0gGcAUFVX3lxTFBQQmpETVRpOWJzTE1JckFEWEk3aU5KVVJrUE83REdJcjhiWF9hNUpfYUhPVnZLZmxOcHpWcXNmajVYT19QTlhlSUJvNlpLU0tWMFpwYU9kSHdNYVBabGJTNnZxalc1TVQtb1F6enhwdi1OdDV0d2Z3VTZpUkw5Q2VBWjlfV2d6enhRMlotSUswMWJWYjlLRUwxVjFDRA?oc=5",
@@ -37,6 +25,18 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
+   }
+  },
+  {
+   "title": "NH證 SK스퀘어, SK하이닉스 주가 조정 반영…목표가↓",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UZy1RQWVPU2FGWlNMLTUtSmpqNWZESjMwS05mbVF5Tm1CZXQ2WW05Wnh1UGNuUXdfeTlQRnFycS1Yc3BfMlBVZ1hZSFk0WFh2VmNjMWlmRzTSAVhBVV95cUxPVGctUUFlT1NhRlpTTC01LUpqajVmREozMEtOZm1ReU5tQmV0NlltOVp4dVBjblF3X3k5UEZxcnEtWHNwXzJQVWdYWUhZNFhYdlZjYzFpZkc0?oc=5",
+   "source": "아주경제",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 08:21 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -114,7 +114,7 @@
   {
    "title": "[영상] SK하이닉스, 美 메모리 전공정 공장 검토",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fMWJGVVgzZkNZVlkyZVpid3U4eXczMUJCSzcyODRLMW4wOURtZVJ6d1g5RVZEY0xJdlR2ajRtZ08ycUlGTVAtX1hONVRlSDRSclE?oc=5",
-   "source": "sedaily.com",
+   "source": "서울경제",
    "date": "2026-08-17",
    "datetime": "2026-08-17 16:29 KST",
    "signal": {
