@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-08-18 14:03 KST",
+ "fetchedAt": "2026-08-18 15:33 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "나스닥 가도 못 지운 '코리아 디스카운트'…SK하이닉스의 숙제 [기자수첩]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HZU9jejFnZmZEeElyN2h6dFFYY0RKNEh6REpYd1pkVjBUYUo0UmhOVHlqNGRtYmZSYWFxbUlmSjVFalZvLVZMaFg1NlliRFk?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 14:23 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[오늘의 삼전닉스] 주가 회복했지만 SK하이닉스 '중복상장' 어떻게 해석할까요",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xa29mZ1ZVY3BUbFFoaTl3M3R6SGtTZy1reGNTMTNBZTVibldDemxHWFRXdnF3VU1YMWR0QWoyQ0pFelBKWkQ5VU5UcWotekJaWDJGeERwUEZydDk4MERoRTBR?oc=5",
@@ -28,21 +40,21 @@
    }
   },
   {
-   "title": "SK하이닉스 임단협 막바지…‘성과급 자사주’가 타결 변수",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fbzEzOUhoMEJiNHh1T3BySlNOVVZkcFRSalB0Smh5NjBjQXNUOWZFT1luOEdadlh4T0x4UXQ0ZFNXZlN2MElYcURUMHdLVWtPMWpVR3IySGlSdjhwcGE5Uk1qSDl1clhkNUxub2tvclNFYknSAXNBVV95cUxOX28xMzlIaDBCYjR4dU9wckpTTlVWZHBUUmpQdEpoeTYwY0FzVDlmRU9ZbjhHWnZYeE9MeFF0NGRTV2ZTdjBJWHFEVDB3S1VrTzFqVUdyMkhpUnY4cHBhOVJNakg5dXJYZDVMbm9rb3JTRWJJ?oc=5",
-   "source": "시사저널",
+   "title": "국민연금 리밸런싱 우려 재점화…삼성전자 팔고 SK하이닉스 샀다",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1USGpPYkEtM0dDNXlheFVxTkJyM0hDN29SOUszdmhOTTVaR1VaZ2ctU2NEZS13dERuYWZkVlljTlVMUFJRNDF1N25qeGtUTzQ?oc=5",
+   "source": "v.daum.net",
    "date": "2026-08-18",
-   "datetime": "2026-08-18 10:48 KST",
+   "datetime": "2026-08-18 11:28 KST",
    "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   },
   {
    "title": "[특징주] SK하이닉스, 美 앤트로픽 IPO 기대감.. 6%대 '강세'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdkx4Q09kVEVLbzNVTTI3bW5SQXh2NUJxRXpoU0NrTEF4bkMxT2l6SVZqRzlMUXFScnZMNjZ4SVJkQ2gyWGFaZ3RDNEtmNExscEMzRVhGdlZ6QXBONFVoaHNnZWRHS25fMkVzcEtsamd0bVp5UzEyQmtuWlM4X2pFTGRwcFJ4V0o0?oc=5",
-   "source": "g-enews.com",
+   "source": "글로벌이코노믹",
    "date": "2026-08-18",
    "datetime": "2026-08-18 10:30 KST",
    "signal": {
@@ -109,18 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "하이닉스·이노베이션 쌍끌…지주사 SK 몸값도 뛴다",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BWDJTYjlPVjdOZEtjQUs5cVhjR2pYaGszR3c0NE8zbE9iTTJ4RU1TVC04d245QnE4QjFKMlJMaXdyc1hJS2YwelhmUU10V1U5RE9WaTM1elBfc2o4OUxNTUN5R0t5Y3Fl?oc=5",
-   "source": "비즈워치",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 09:32 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
