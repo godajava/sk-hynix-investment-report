@@ -1,8 +1,56 @@
 {
- "fetchedAt": "2026-08-18 09:22 KST",
+ "fetchedAt": "2026-08-18 10:03 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 메모리 수요 확대 기대…동반 강세",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LVTdxdnE1V1lrV09JNENqXzhaZVJMLUk2Y1RiT0JvN2xEMFk2M2VmN3dhcW9zV3JhMEpCa1p1aHRaRWI0SzFETEZad0NqRTN0QVVOWnVsU3JWeFVJa2gzWFJOcw?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 09:26 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[특징주] 삼성 3.10%·SK하이닉스 5.90%…외국인 5142억 사들여",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkb2xLU0R5ZEVJTFVZNlRHZDk3SlJtWXUtNXk3ZElrUi1ab0lYQzY2UVN0RGFDSWEyUWlHazNXR0thVHR5Tl9rZW1DaWZQZmY5VEdaU3BxdzRBdUZjN0p2UWZTUV94amM?oc=5",
+   "source": "자본시장뉴스",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 09:25 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 노사, 임단협 막판 협상… 성과급 자사주 지급 ‘변수’ - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUFl3dFk3UTh0SnM0VElhenBGQVBwQmd1YVFQRHhISGZTOGVfZHJZMEQzNU1paWI2a2pzT1Z1RUpuNGpuQWpfa1M4UUVlbVJ5Q08zb2V2dkpCcmFQLUVjRk1OUlFGTkE2WGNKZnRDbTVSQk55MmYyVVVwNkFPNlh5eEJR0gGWAUFVX3lxTFBMQ21hVnhQSjdzTDJ4SFFwVkdRVkJjaGNvZ2h4QUpIaVdzajJ5bGNCYzJfdHRNaGpxUF9Dc1VjMFFOOUxNVzBYelZmdTI3R1JOYWJ5VGF6LVpOaG9zcGxvc1VJbmpUYWlvbUtLNjg2RHktZ1BmR3A3d254bFg2ZzZCVGZVLU9LY2ZvTldfWFNQTWM5bnBNQQ?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 09:14 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "다시 메모리의 시간…샌디스크 8%대 상승, SK하이닉스 5%대 상승",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORTVtNUpQbUpaelBfbjZNSl9NNjBmZmhxVzNoZWVQSXQ1X3FHY0NUSWM5UG84Z2xZbnFWcTluZ2Z4OEF4QlJxclJTdG84b1RtOXJZSUhpNGtvMk9Zb3JINm56alJLcUlxQXhBd3FWb293M3lNMlBvZGw2RXlRVl9kMA?oc=5",
+   "source": "조선일보",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 08:56 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "“SK하이닉스 배당 늘면 2조 유입”…NH證 “SK스퀘어, 주주환원·M&A 확대 기대” - 조선비즈",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXo3aEF0SjN6ODJnblRoZFBKYl9QcW1LQk9WRFRzNlE0LW96b1BkZHpsQnZ1UTA2VHhNYzUwYy1oTmxSaGxRbzhWRUlhWkZRNVZGN1dJOEZuUGtTWkFhTHlPRHRUaVF6Q3F3aXdTWGlSZzRJbTdrZGxJQk9CMk9TZzBhSnpocmRL0gGcAUFVX3lxTFBQQmpETVRpOWJzTE1JckFEWEk3aU5KVVJrUE83REdJcjhiWF9hNUpfYUhPVnZLZmxOcHpWcXNmajVYT19QTlhlSUJvNlpLU0tWMFpwYU9kSHdNYVBabGJTNnZxalc1TVQtb1F6enhwdi1OdDV0d2Z3VTZpUkw5Q2VBWjlfV2d6enhRMlotSUswMWJWYjlLRUwxVjFDRA?oc=5",
@@ -73,54 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 5일째↑…앤트로픽 호실적에 상장 시초가 '170달러' 넘겨",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55dDVoV3F4Zk52a0FJY1VnNUxIdjU2VFRzcGl6d1g4NXN0SjVLaUZLU1NTaUZtUXJNNVBteGFWVExHLUpfMGQ5S2lBMmNNMmN3MUY1MmVmNF85YzR2Y1d2bzZOdGxYanl4dm1NOTFNeVQ?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 20:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "만들기 무섭게 팔렸다···SK하이닉스, HBM 풀가동에 재고 회전속도 껑충",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSGJqTVNVSHVSTGdqZVVqWGlPUlFkajZNMXpKV0hKa0RpWFk1d3VOalh1ZExGVmN1bFRGaVlmMmtwcGNiOFVTMHdoTVVkcjR0S1dXYzgzQmYyd9IBWEFVX3lxTFBDbDZYZzZZQWZpRDVlMW1ORjhoOURFRU5VbVU2RFJFTXJZZmxRTXZnU3VNcW9sUkMtX3JmMV9rT3lLSGFRT2FXRTFYWUtOQ0NPNWkzYnZLeDE?oc=5",
-   "source": "아주경제",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 18:10 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "국민연금, 9600억 팔아치운 종목 뭐길래…'뜻밖의 결과'",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSQjNGYld2S0dOUlFSdUhNVE92M0hTWW1RNEdiTHNQaVVsUUdhd1hZUzdFSFVyYXN3bjdXcGRlRUs1dEF1Q0VTTjBkMlJudTRSSXVCdDctNGxBZw?oc=5",
-   "source": "한국경제",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 17:15 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[영상] SK하이닉스, 美 메모리 전공정 공장 검토",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fMWJGVVgzZkNZVlkyZVpid3U4eXczMUJCSzcyODRLMW4wOURtZVJ6d1g5RVZEY0xJdlR2ajRtZ08ycUlGTVAtX1hONVRlSDRSclE?oc=5",
-   "source": "서울경제",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 16:29 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
