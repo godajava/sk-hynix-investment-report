@@ -1,38 +1,14 @@
 {
- "fetchedAt": "2026-08-17 16:58 KST",
+ "fetchedAt": "2026-08-18 09:06 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[그래픽] 삼성전자·SK하이닉스 상반기 현금·현금성 자산",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91YVcwaDBOcm1uVThpdFU0bXlKckZLVFhDRmc3RU15X0JIX0lnTzBLM3JQU1lCbmtyQmxUR3dIaG1vUy1qTEVXQ3N1VDdCaUk?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 16:28 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 상반기 직원 1601명 급증… 삼성전자 5배",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rQ1U4cFBFaW9YREx1RWZWNkdDeEdWS0lPYm9LV2FQYksyYnFGZlpwTUtfQUhHekVKRG5JcTBCRkl6aXhWb0JlQ0R2MTVnQXJLSUVodTYzbEliWUNKbi1MVUpHSlRZUW1TdjBXV3dxMzExaXpW0gF0QVVfeXFMT2tDVThwUEVpb1hETHVFZlY2R0N4R1ZLSU9ib0tXYVBiSzJicUZmWnBNS19BSEd6RUpEbklxMEJGSXppeFZvQmVDRHYxNWdBcktJRWh1NjNsSWJZQ0puLUxVSkdKVFlRbVN2MFdXd3EzMTFpelY?oc=5",
-   "source": "IT조선",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 16:07 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스, 호실적에 상반기 현금 117조 증가",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX3NHYmlITFdsNTlUbzFzaWhET2JLdjVKaW9KQlFyZGVfNTI5ZDZsZnJMNjQ4RmZtcUdQRVNmQzN6RmZxYkhEU2t3N01wZ250NE44UWlWSUZJaXg3NDk1Mkt6U0UyaUFVcVhLd2k0TmJRa3ozYnpTYktHWkxtLTlyVWMxQQ?oc=5",
+   "title": "다시 메모리의 시간…샌디스크 8%대 상승, SK하이닉스 5%대 상승",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORTVtNUpQbUpaelBfbjZNSl9NNjBmZmhxVzNoZWVQSXQ1X3FHY0NUSWM5UG84Z2xZbnFWcTluZ2Z4OEF4QlJxclJTdG84b1RtOXJZSUhpNGtvMk9Zb3JINm56alJLcUlxQXhBd3FWb293M3lNMlBvZGw2RXlRVl9kMA?oc=5",
    "source": "조선일보",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 14:01 KST",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 08:56 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -40,23 +16,23 @@
    }
   },
   {
-   "title": "삼성전자·SK하이닉스 레버리지 ETF, 두 달 새 수수료 1172억원",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EeUxTY2FlRk81dmg0RHlEOU9aOW9xMTJtNXBHb0FpTFB3a3NNSVJMNFhnc2k0MTJRVUhzMXZ5Y0xiTll6YnZIZ1hzRWh4Qzg?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 11:54 KST",
+   "title": "“SK하이닉스 배당 늘면 2조 유입”…NH證 “SK스퀘어, 주주환원·M&A 확대 기대” - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXo3aEF0SjN6ODJnblRoZFBKYl9QcW1LQk9WRFRzNlE0LW96b1BkZHpsQnZ1UTA2VHhNYzUwYy1oTmxSaGxRbzhWRUlhWkZRNVZGN1dJOEZuUGtTWkFhTHlPRHRUaVF6Q3F3aXdTWGlSZzRJbTdrZGxJQk9CMk9TZzBhSnpocmRL0gGcAUFVX3lxTFBQQmpETVRpOWJzTE1JckFEWEk3aU5KVVJrUE83REdJcjhiWF9hNUpfYUhPVnZLZmxOcHpWcXNmajVYT19QTlhlSUJvNlpLU0tWMFpwYU9kSHdNYVBabGJTNnZxalc1TVQtb1F6enhwdi1OdDV0d2Z3VTZpUkw5Q2VBWjlfV2d6enhRMlotSUswMWJWYjlLRUwxVjFDRA?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 08:51 KST",
    "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
-   "title": "KB금융 \"SK하이닉스 수처리시설 대출, 생물다양성 리스크 검토해야\" - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CWnJTOWh0UVBrTVF5VG9xUXU5V0Y2S1FNc3pPX1JmdmJQTGdxRzJucXJwb3JWSEN4QWN3VUc5djNuZTlpVTFpUS1aekdGRVhIb2VtcjFpemdpU3FkVmc0MlBvM25RNkVSUGZV0gFwQVVfeXFMTUxBYjNKV29rdi00Y1UxSUlpNjdmTExVc0diMFNQSzFLTGQ3NmVDcTM0Q2NaUi1hVTdPVzRBcDBtNmZVRFBrZ2IydEY2ZEdNS25KWTJUUGJqYTE5bkdyVGtlck51eFpJZXd2c0tlbDFmSw?oc=5",
+   "title": "\"SK하이닉스 주가 하락 반영\" SK스퀘어 목표주가↓-NH - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVFBXOC1XWDBKUXhqcDJmb1J5dzZPSXp0UzZSUkFsb1E3dEV6YW5jTDRfUzk0dW9sZ20yS0FXREdfSDk0cGt1MEtRU3hLdkhUbFhhRkV5V3E1X283cHA5T1g5aHhxQ0dr0gFuQVVfeXFMUFdWNFc2V3ZEVTF1VkVvR3owd1g2Tl9UQUFUX244NE54dlhCWmFVRi1VUFNxbG9VeVJpZXpVRzlaaVVULUxQcUNjOW15S0FjQVZIV2RWYVhDdm43UkxERUJpN3hoYmlNQmdOOTdoVXc?oc=5",
    "source": "머니투데이",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 11:14 KST",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 08:50 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -64,35 +40,11 @@
    }
   },
   {
-   "title": "[이슈&인사이트] 원화 강세는 진짜인가: SK하이닉스 착시와 재정의 그림자",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1OElaN2UxZzR6TGR3SXlwVHZNRTRhOXk5ZHVOcHhlQzJPWFFaWHlranA0amRXVjEtenJwZm85RjM5bmxRM3J1S1ctQUh3MzZZSk85Q3dabzVtYXM?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 11:01 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "삼전·SK하이닉스, 나란히 주주환원 확대···AI로 번 현금 어디까지 풀까",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qRVFUYjFVdlRtVWxXTlo4SEU5SmpGYmY5S1lFTUY4ZVlDaXBSVFg0S0k1UVJ6UDM3Wk14aVRoRUozS2dXdUZHX3Znek9NcnllaXN1dEhKYU90TTNoaDRsVk9iWTBENTFJT1pBLUgzUGhyd9IBdkFVX3lxTFA3TmlCS2NmOHFxMTUyU0o0SmllMGIwWlZldEpWcno1M190dk92UWhrbGk2OGplMk5UZlFCWmc4UGhTNFpKUXRvMkF6dThHWDQyTWgzRnU4SElVSWVkN3I4UnplRFk0a3R3TGk1NEZoalIxVG1sc3c?oc=5",
-   "source": "시사저널e",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 10:05 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스 현금성 자산 278조원…반년 새 117조 원↑",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9JbW5POWc5MUVleDdTTDJMNFhMcXRhT2U1cmgxOXNTN0Z1bHpnLXRRR2lXNEVyN1pfRFdpTWhQQVdmUlRkMlVBa1E1RVVzMUhYWWJvS1VNclpVbGtfTmFnSk9scEdlREk?oc=5",
-   "source": "연합뉴스TV",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 09:27 KST",
+   "title": "삼성·SK하이닉스, 반년 만에 설비투자 45조…AI 메모리 '쩐의 전쟁'",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xZDVmeWFQWlRicU8yZjZwNmNVOVBkVWt2czRTWDUtVWhWaXRDdTNKNFY1RXNOWENCNXRRYm9veFpjN0VyNy1MRkFDNWR0NGd1cDNKYjJ2eUhJNjluOUVFSHJKeHpGNkhsRlBWaUR5azE?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 07:33 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -100,23 +52,71 @@
    }
   },
   {
-   "title": "상반기 현금성 자산 삼성전자 190조·SK하이닉스 88조…6개월새 117조↑",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03SExJaW1UMmxrN0trYlQ5QjdWN2p3ZE1hRjA1UUJndnNPQ0FVTlVmQUp1ZTVlRGdtOHZZU05CcThxY2FoQ0IzVlI2V2xQVms?oc=5",
-   "source": "v.daum.net",
+   "title": "SK하이닉스 주가, 오늘 왜 급등했나?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtdWlJS2pSMHpTblVGMEVQUGxXMmJCMDYxWW1aQXIxMURvbU91NXpMZ0xuSEZiZElSQ2k5bjRPUUNuZGNPTVNhcFVwTmZHR3dHOG01SjVBMndQQ05ZbTN0VzN0b2lYM1UxY2dMZEh0Zlk0dU5xeVJj?oc=5",
+   "source": "Investing.com 한국어",
    "date": "2026-08-17",
-   "datetime": "2026-08-17 07:48 KST",
+   "datetime": "2026-08-17 23:47 KST",
    "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
-   "title": "\"반도체 우려 정점 지났다\"…3분기에 삼전닉스 주가 재평가 기대",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JUGJiM3VYbHRDc0N0ZGxURnE4OF9WSUJ0aU5LR0pDYTloNEVacFFpeVpUN1RGVlBHLWRROEdveGU4T2Q1cEZNb2xFN2tOOWgxbFB3dDBtZkZVRE5ySVlhTFJkeThlN2tTR0QxTzQ4Z0k?oc=5",
+   "title": "SK하이닉스 5일째↑…앤트로픽 호실적에 상장 시초가 '170달러' 넘겨",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55dDVoV3F4Zk52a0FJY1VnNUxIdjU2VFRzcGl6d1g4NXN0SjVLaUZLU1NTaUZtUXJNNVBteGFWVExHLUpfMGQ5S2lBMmNNMmN3MUY1MmVmNF85YzR2Y1d2bzZOdGxYanl4dm1NOTFNeVQ?oc=5",
    "source": "연합인포맥스",
    "date": "2026-08-17",
-   "datetime": "2026-08-17 07:35 KST",
+   "datetime": "2026-08-17 20:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "만들기 무섭게 팔렸다···SK하이닉스, HBM 풀가동에 재고 회전속도 껑충",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uSGJqTVNVSHVSTGdqZVVqWGlPUlFkajZNMXpKV0hKa0RpWFk1d3VOalh1ZExGVmN1bFRGaVlmMmtwcGNiOFVTMHdoTVVkcjR0S1dXYzgzQmYyd9IBWEFVX3lxTFBDbDZYZzZZQWZpRDVlMW1ORjhoOURFRU5VbVU2RFJFTXJZZmxRTXZnU3VNcW9sUkMtX3JmMV9rT3lLSGFRT2FXRTFYWUtOQ0NPNWkzYnZLeDE?oc=5",
+   "source": "아주경제",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 18:10 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "국민연금, 9600억 팔아치운 종목 뭐길래…'뜻밖의 결과'",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSQjNGYld2S0dOUlFSdUhNVE92M0hTWW1RNEdiTHNQaVVsUUdhd1hZUzdFSFVyYXN3bjdXcGRlRUs1dEF1Q0VTTjBkMlJudTRSSXVCdDctNGxBZw?oc=5",
+   "source": "한국경제",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 17:15 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[영상] SK하이닉스, 美 메모리 전공정 공장 검토",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fMWJGVVgzZkNZVlkyZVpid3U4eXczMUJCSzcyODRLMW4wOURtZVJ6d1g5RVZEY0xJdlR2ajRtZ08ycUlGTVAtX1hONVRlSDRSclE?oc=5",
+   "source": "sedaily.com",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 16:29 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[그래픽] 삼성전자·SK하이닉스 상반기 현금·현금성 자산",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kdEltcHhiUllmRW15RF9KZmJNcmhWMi13WUkwWWpjWTRLTl9kSFFBNFd0VFJVY3pfd1JrblRpYlFscU1PR2t2VG1MQzJlT3c1Z0NTZlFMcnIxU1HSAWBBVV95cUxPYmpuSEY4SVlJVWVVM2NiOHlJd0lDOWl6QjByWTJWTnhpdmkzZTR2R1pkcjlGRG5ZNUxNTkZ2VmNLbmo4RkM0OE5jQlpoUks2TXFuLUlfMUJRODZWc0Rscno?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-08-17",
+   "datetime": "2026-08-17 16:25 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
