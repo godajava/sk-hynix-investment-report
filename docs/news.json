@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-08-18 15:33 KST",
+ "fetchedAt": "2026-08-18 15:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -28,6 +28,18 @@
    }
   },
   {
+   "title": "‘빚투’ 다시 30조원대…삼성전자·SK하이닉스로 31% 쏠렸다",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QMmRGZWZ1RFVWdmN5bmc3MGxXT0ZCWVJQU0QzWmk0WldmaHN3TlJIcUpyQS1Oc3NGNGNiNmw2NGpGQkozaTZVRGpXQzFudWo2cG9tVi1nbFpmQQ?oc=5",
+   "source": "브릿지경제",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 12:42 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스 노사, 임단협 타결 '9부 능선' 도달…임직원 표심이 변수로",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jcnlxNmN6bHpEUUNWSEFQX1I1YndUTVhOM2x2cXFuU3ZhSzI5VS1paFBjd255TWRjdXVza3VlTVl3TThoTmozeDYxVTVpalM1X0dJanp2WGJSbnlkS1dQT3d5Wk5wVEoxbENZcS1aLUU?oc=5",
    "source": "오피니언뉴스",
@@ -49,6 +61,18 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스 임단협 막바지…‘성과급 자사주’가 타결 변수",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fbzEzOUhoMEJiNHh1T3BySlNOVVZkcFRSalB0Smh5NjBjQXNUOWZFT1luOEdadlh4T0x4UXQ0ZFNXZlN2MElYcURUMHdLVWtPMWpVR3IySGlSdjhwcGE5Uk1qSDl1clhkNUxub2tvclNFYknSAXNBVV95cUxOX28xMzlIaDBCYjR4dU9wckpTTlVWZHBUUmpQdEpoeTYwY0FzVDlmRU9ZbjhHWnZYeE9MeFF0NGRTV2ZTdjBJWHFEVDB3S1VrTzFqVUdyMkhpUnY4cHBhOVJNakg5dXJYZDVMbm9rb3JTRWJJ?oc=5",
+   "source": "시사저널",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 10:48 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -97,30 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] SK하이닉스 8%·삼성전자 3%↑…美 반도체주 강세에 동반 상승",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kbzkwZW5wTVM4VkVNVXNKTmRtMlk0WHZlQzlpUTNIa0pGWWVSbWFsZ0luc2RKYlJ3cEIxckNONmVaVzJVYnNhNmY0R1c3N29TYUlXeENla0Rvc2p1?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 09:58 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[속보] 삼성전자·SK하이닉스 장 초반 급등…외국인 반도체주 집중 매수",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmRTVacm5MdDBIRUR2cEFsS25nT3M5SzVDeG5hMTNJakpLT2dPSUwtNWtpNU4zYURZRGxYYzlwcUNKRnRoUzFKWW10OURjazRLa05zS1RWNkprMGlrRkFPeWtTdGhhVVU?oc=5",
-   "source": "강원도민일보",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 09:37 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
