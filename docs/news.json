@@ -1,18 +1,18 @@
 {
- "fetchedAt": "2026-08-18 09:06 KST",
+ "fetchedAt": "2026-08-18 09:15 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "다시 메모리의 시간…샌디스크 8%대 상승, SK하이닉스 5%대 상승",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORTVtNUpQbUpaelBfbjZNSl9NNjBmZmhxVzNoZWVQSXQ1X3FHY0NUSWM5UG84Z2xZbnFWcTluZ2Z4OEF4QlJxclJTdG84b1RtOXJZSUhpNGtvMk9Zb3JINm56alJLcUlxQXhBd3FWb293M3lNMlBvZGw2RXlRVl9kMA?oc=5",
-   "source": "조선일보",
+   "title": "SK하이닉스 노사, 임단협 막판 분수령…오늘 대표자 교섭",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16bEZ4NndHb0dNYXpGQmxXWUZqbG9tMXY4azNBM1NEYlh4WVNWaDltalJDemtxUHU1cUUyWkw4aGRoSDFGb19SRFNGanBEcEkzQW5za1VuSkw1MWc1OVJsNg?oc=5",
+   "source": "아시아경제",
    "date": "2026-08-18",
-   "datetime": "2026-08-18 08:56 KST",
+   "datetime": "2026-08-18 09:04 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -37,6 +37,18 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스 노사, 임단협 막판 담판…오늘 최종 타결 시도",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYjZZREUzTWZLUDRFeV9paTd0X2tCd2Z5RlE4LUFKS0oyM0FQRFd6dkUwMHdLc016TXhMOWxkOVpPRVRWQ0pLUDJMX2kyOExQRnN4UnRGSmFRTWvSAWBBVV95cUxPMmh1VHZaUFo4SHJTbzlPTHQ4SUltYVZnVXpuV281UUdVRS1lR2t2cXRBUzVPSXJ4R0FZQVdvOVU2b05QNzJiLURZTFFvV2JNNG5Ebko1UWxJSDgyRFBFdm8?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 08:17 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -105,18 +117,6 @@
    "source": "sedaily.com",
    "date": "2026-08-17",
    "datetime": "2026-08-17 16:29 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[그래픽] 삼성전자·SK하이닉스 상반기 현금·현금성 자산",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kdEltcHhiUllmRW15RF9KZmJNcmhWMi13WUkwWWpjWTRLTl9kSFFBNFd0VFJVY3pfd1JrblRpYlFscU1PR2t2VG1MQzJlT3c1Z0NTZlFMcnIxU1HSAWBBVV95cUxPYmpuSEY4SVlJVWVVM2NiOHlJd0lDOWl6QjByWTJWTnhpdmkzZTR2R1pkcjlGRG5ZNUxNTkZ2VmNLbmo4RkM0OE5jQlpoUks2TXFuLUlfMUJRODZWc0Rscno?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 16:25 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
