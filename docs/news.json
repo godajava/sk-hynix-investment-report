@@ -1,11 +1,83 @@
 {
- "fetchedAt": "2026-08-18 10:03 KST",
+ "fetchedAt": "2026-08-18 12:02 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
+   "title": "[특징주] SK하이닉스, 美 앤트로픽 IPO 기대감.. 6%대 '강세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdkx4Q09kVEVLbzNVTTI3bW5SQXh2NUJxRXpoU0NrTEF4bkMxT2l6SVZqRzlMUXFScnZMNjZ4SVJkQ2gyWGFaZ3RDNEtmNExscEMzRVhGdlZ6QXBONFVoaHNnZWRHS25fMkVzcEtsamd0bVp5UzEyQmtuWlM4X2pFTGRwcFJ4V0o0?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 10:30 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 8%대 급등…美 앤트로픽 성장 기대감↑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wby1GNmhWN1p3ZkpiRWdnQ3d1N25yMG04N0RhWU9TWENLODZqdjJsdkxMQTV5bXNoZEVMSHlFSE5OejNCX2R2ZWNaQlVmT2hoTFVj0gFYQVVfeXFMTk5lVmdhcUxqVDhTREN6NWdydDBPUVRQOERtdzZ1aXFoWHB1Ml9scmJsdTNpd01ZY0lNdUF2MTdyODNGNXBYVFN4azJ2TGlPbEd4bF9zTUNyOQ?oc=5",
+   "source": "SBS Biz",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 10:05 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[특징주] SK하이닉스 8%·삼성전자 3%↑…美 반도체주 강세에 동반 상승",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1kbzkwZW5wTVM4VkVNVXNKTmRtMlk0WHZlQzlpUTNIa0pGWWVSbWFsZ0luc2RKYlJ3cEIxckNONmVaVzJVYnNhNmY0R1c3N29TYUlXeENla0Rvc2p1?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 09:58 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[속보] 삼성전자·SK하이닉스 장 초반 급등…외국인 반도체주 집중 매수",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmRTVacm5MdDBIRUR2cEFsS25nT3M5SzVDeG5hMTNJakpLT2dPSUwtNWtpNU4zYURZRGxYYzlwcUNKRnRoUzFKWW10OURjazRLa05zS1RWNkprMGlrRkFPeWtTdGhhVVU?oc=5",
+   "source": "강원도민일보",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 09:37 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "하이닉스·이노베이션 쌍끌…지주사 SK 몸값도 뛴다",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BWDJTYjlPVjdOZEtjQUs5cVhjR2pYaGszR3c0NE8zbE9iTTJ4RU1TVC04d245QnE4QjFKMlJMaXdyc1hJS2YwelhmUU10V1U5RE9WaTM1elBfc2o4OUxNTUN5R0t5Y3Fl?oc=5",
+   "source": "비즈워치",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 09:32 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "54조 쏟아붓는 SK하이닉스, 공급난 해소는 2028년 넘긴다",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVXB4RXFfYVJJTENKNG9RcEtvYnZ2NFZwTVFoeE91enM0VmhCRlM3TGhlVFlKRTg0blhXN2ppQWVPV2h5VlB1R0c4c2Vkd09uVGY3VzBSQlN2VWlYdUNUMk5VQzB1NHNsRDBjUlB1MWdvYkZDaW9JWThpTVpkRTdyaUtpMlN2VHhM?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-08-18",
+   "datetime": "2026-08-18 09:30 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
    "title": "[특징주] 삼성전자·SK하이닉스, 메모리 수요 확대 기대…동반 강세",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5LVTdxdnE1V1lrV09JNENqXzhaZVJMLUk2Y1RiT0JvN2xEMFk2M2VmN3dhcW9zV3JhMEpCa1p1aHRaRWI0SzFETEZad0NqRTN0QVVOWnVsU3JWeFVJa2gzWFJOcw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvdUsyeFU3c19nMU80enlKd1BJX0ZpcG4wR3pGTmpjUjhyZ1VDZWZabk10dm5tbUM0MWNMODVxX1JtMGdtOGo2b1RaX0hGZTUtcG9jVXJ4RTdLcUk?oc=5",
    "source": "에너지경제신문",
    "date": "2026-08-18",
    "datetime": "2026-08-18 09:26 KST",
@@ -40,87 +112,15 @@
    }
   },
   {
-   "title": "다시 메모리의 시간…샌디스크 8%대 상승, SK하이닉스 5%대 상승",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORTVtNUpQbUpaelBfbjZNSl9NNjBmZmhxVzNoZWVQSXQ1X3FHY0NUSWM5UG84Z2xZbnFWcTluZ2Z4OEF4QlJxclJTdG84b1RtOXJZSUhpNGtvMk9Zb3JINm56alJLcUlxQXhBd3FWb293M3lNMlBvZGw2RXlRVl9kMA?oc=5",
-   "source": "조선일보",
+   "title": "투자 초고수들의 판단은…SK하이닉스 '롱', 코스피200 '숏'",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CU3llZV9hWnRaWU91STlaeFB1SW1UbWxQcm9EU2dENzc2NW82cXhDZDBVeHcwOEY1RHQxbzVjOGozOWdxc1ZHM0s4cFRfSHV0a01xQVB6TDdUUQ?oc=5",
+   "source": "한국경제",
    "date": "2026-08-18",
-   "datetime": "2026-08-18 08:56 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "“SK하이닉스 배당 늘면 2조 유입”…NH證 “SK스퀘어, 주주환원·M&A 확대 기대” - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcXo3aEF0SjN6ODJnblRoZFBKYl9QcW1LQk9WRFRzNlE0LW96b1BkZHpsQnZ1UTA2VHhNYzUwYy1oTmxSaGxRbzhWRUlhWkZRNVZGN1dJOEZuUGtTWkFhTHlPRHRUaVF6Q3F3aXdTWGlSZzRJbTdrZGxJQk9CMk9TZzBhSnpocmRL0gGcAUFVX3lxTFBQQmpETVRpOWJzTE1JckFEWEk3aU5KVVJrUE83REdJcjhiWF9hNUpfYUhPVnZLZmxOcHpWcXNmajVYT19QTlhlSUJvNlpLU0tWMFpwYU9kSHdNYVBabGJTNnZxalc1TVQtb1F6enhwdi1OdDV0d2Z3VTZpUkw5Q2VBWjlfV2d6enhRMlotSUswMWJWYjlLRUwxVjFDRA?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 08:51 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "\"SK하이닉스 주가 하락 반영\" SK스퀘어 목표주가↓-NH - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVFBXOC1XWDBKUXhqcDJmb1J5dzZPSXp0UzZSUkFsb1E3dEV6YW5jTDRfUzk0dW9sZ20yS0FXREdfSDk0cGt1MEtRU3hLdkhUbFhhRkV5V3E1X283cHA5T1g5aHhxQ0dr0gFuQVVfeXFMUFdWNFc2V3ZEVTF1VkVvR3owd1g2Tl9UQUFUX244NE54dlhCWmFVRi1VUFNxbG9VeVJpZXpVRzlaaVVULUxQcUNjOW15S0FjQVZIV2RWYVhDdm43UkxERUJpN3hoYmlNQmdOOTdoVXc?oc=5",
-   "source": "머니투데이",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 08:50 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "NH證 SK스퀘어, SK하이닉스 주가 조정 반영…목표가↓",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UZy1RQWVPU2FGWlNMLTUtSmpqNWZESjMwS05mbVF5Tm1CZXQ2WW05Wnh1UGNuUXdfeTlQRnFycS1Yc3BfMlBVZ1hZSFk0WFh2VmNjMWlmRzTSAVhBVV95cUxPVGctUUFlT1NhRlpTTC01LUpqajVmREozMEtOZm1ReU5tQmV0NlltOVp4dVBjblF3X3k5UEZxcnEtWHNwXzJQVWdYWUhZNFhYdlZjYzFpZkc0?oc=5",
-   "source": "아주경제",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 08:21 KST",
+   "datetime": "2026-08-18 09:03 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 노사, 임단협 막판 담판…오늘 최종 타결 시도",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UYjZZREUzTWZLUDRFeV9paTd0X2tCd2Z5RlE4LUFKS0oyM0FQRFd6dkUwMHdLc016TXhMOWxkOVpPRVRWQ0pLUDJMX2kyOExQRnN4UnRGSmFRTWvSAWBBVV95cUxPMmh1VHZaUFo4SHJTbzlPTHQ4SUltYVZnVXpuV281UUdVRS1lR2t2cXRBUzVPSXJ4R0FZQVdvOVU2b05QNzJiLURZTFFvV2JNNG5Ebko1UWxJSDgyRFBFdm8?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 08:17 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스, 반년 만에 설비투자 45조…AI 메모리 '쩐의 전쟁'",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xZDVmeWFQWlRicU8yZjZwNmNVOVBkVWt2czRTWDUtVWhWaXRDdTNKNFY1RXNOWENCNXRRYm9veFpjN0VyNy1MRkFDNWR0NGd1cDNKYjJ2eUhJNjluOUVFSHJKeHpGNkhsRlBWaUR5azE?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 07:33 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 주가, 오늘 왜 급등했나?",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtdWlJS2pSMHpTblVGMEVQUGxXMmJCMDYxWW1aQXIxMURvbU91NXpMZ0xuSEZiZElSQ2k5bjRPUUNuZGNPTVNhcFVwTmZHR3dHOG01SjVBMndQQ05ZbTN0VzN0b2lYM1UxY2dMZEh0Zlk0dU5xeVJj?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-08-17",
-   "datetime": "2026-08-17 23:47 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
