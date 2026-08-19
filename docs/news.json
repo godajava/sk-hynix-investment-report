@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-08-19 15:36 KST",
+ "fetchedAt": "2026-08-19 15:40 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
    "title": "SK하이닉스 최대 고객인 엔비디아, 삼성전자선 5위 밖인 이유는",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdklCOS1RdGdRUmgtOVRSUkFTc0xXWFdoT1ZLd00xRHVGMHFFNWlXcVQwUU1fZ182LWRISnVHTXFvRm9PeVlSZE9VZnRnRUJvVUdLSkdUU0RMOVgzMkFldlpaenJ0b3hhUnYtVWpBdUN2QzdIOWpqNDQyX1ZudHBYNlBXQQ?oc=5",
-   "source": "조선일보",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pME9iOEtBd1lpRHFuaFh2ZUl5Vkx3WDhnOXd2SVBlMEdDdkRMUmxPUGx5aTJmWE1fZEhvY0dTMmdSLWxzWGRnWkVmckRTVDQ?oc=5",
+   "source": "v.daum.net",
    "date": "2026-08-19",
-   "datetime": "2026-08-19 15:26 KST",
+   "datetime": "2026-08-19 15:28 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
