@@ -1,8 +1,44 @@
 {
- "fetchedAt": "2026-08-19 09:07 KST",
+ "fetchedAt": "2026-08-19 10:03 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 美 장기금리 상승 등.. '급락'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzdYenBYZmpleVU0NWFuMkxFVERyMnNfTktvNXAtZHQ4N0tsUUVNQVdPem0zWE1QelRvYnB5Ukx0Zk83OTlEYTJkNEF1b3JSUHRGbmt1aW1xUDVudkt4cDk5MlZkVHB0YmdNQV9lSUU4eUZkMGhoMnVheDlLc1puMnNCMlhKXzVC?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-08-19",
+   "datetime": "2026-08-19 09:38 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 성과급 해법 찾았나..노사 밤샘 협상 끝 '잠정합의' - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBicmNtN09YeWhfdlZyMVNnZ2ZoZjlfQURLZFRUN3hJaXJ5WFg3Y0xfcXcxRjl5eTg4LWwzdmlXb1dhSnBVWkhyVDRIR0M2Skw2WWE2a3hfa1l6NkNyc1ZmaXpwb1lfZVduOFRDSdIBckFVX3lxTE56WlpGX2owU1hpNHp5YndoWExBeVIzYlFJLTgzdDc5b29VOU50QzlFaUw0Z2pWcWVzTF94UmYtZ2ZJcUpHN0FWbjFxYjJscnBZU0M5UW9fblgzYWVKNUhfbjNaLS13WGtRY21fdVNXRi1YZw?oc=5",
+   "source": "머니투데이",
+   "date": "2026-08-19",
+   "datetime": "2026-08-19 09:16 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 미국 반도체주 약세에 삼성전자·SK하이닉스 5~6%대 동반 급락",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mUy1pazFuNm5UQTAzX2dsS2NaTi1HQk1tZHhhU1VBd1NXM21ham9WVVhLQVVudXJVSDlqTDZ5dlVoOW9zazB4RVE5OERNVFRuYlZLVEhNc3Vvd2t4?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-08-19",
+   "datetime": "2026-08-19 09:00 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "금리 상승에도 필반 올랐는데 삼성전자, SK하이닉스는 왜...",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84QlYwQ1NlUzk2cEdqVFBKUFRiX2FMRmlmS1R3a2xzS2laTWV1LUc0bWZ1RWtjaFZ6SWZHWGVWTDlUY3lHUVpLMDJJNzVuT0JDcFBzemFib0xLMTJDV081RU91MEJPWlNiTFlONmtvOHDSAXRBVV95cUxOaVVWNzVSVXdRNlBWMTAzdW11SEZyRXFWMGRqRHhpekhTQ2dkMFZYQk1MSVg5Z3VVaTl1VDVTZVRJT25rc3QxbWstamV5WUEzVExvMGl3VVRxM2ROWXFBX3dsU1BHU3VLTWhFcmdCV3d0blE1Yg?oc=5",
@@ -37,18 +73,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 ADR 9.19% 급락… 미 증시 일제 하락 마감",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03TzN5S0hQLWtGRjhmWHptU3FYdWpkdFQzVS1BeWtWczZVcmZCb1YyUUlLR29tMlhtR0dyMXFpNzFyNGZOb0pvc2dWMjIxb1Rlcy1XVTFJYnB0cW9qTnE5eWZ3ek05VU5YbVV1N9IBbEFVX3lxTE03TzN5S0hQLWtGRjhmWHptU3FYdWpkdFQzVS1BeWtWczZVcmZCb1YyUUlLR29tMlhtR0dyMXFpNzFyNGZOb0pvc2dWMjIxb1Rlcy1XVTFJYnB0cW9qTnE5eWZ3ek05VU5YbVV1Nw?oc=5",
-   "source": "국민일보",
-   "date": "2026-08-19",
-   "datetime": "2026-08-19 05:04 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   },
   {
@@ -97,30 +121,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[EBN 오늘(18일) 이슈 종합] SK하이닉스 통합노조 닻 올렸다 등",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KaUN5Z3hqOWdOMWVjNlRUUFlNYjNsbWZJbHZGR2F6VG5EYW00RkRUY2hLR295cW91MnJnci1KY25VMF9Ga0JscU1aYU9jbGhFVnVLZUxBU19MQUVoWE9mRFlLX0Y2RUFz?oc=5",
-   "source": "ebn.co.kr",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 20:37 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 노사, 임단협 막판 협상…성과급 자사주 지급 '변수'",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1JbzNjczRTUGVDN1BSMGphNmg3dVM2MkNUYU0zSDBnQ1Z5WTVrNTNucTFUMXVISngzQko1elQxbUZtcWVPSTl1NkFPaWF2VGljT09JTHlWdFc2bFRt?oc=5",
-   "source": "newspim.com",
-   "date": "2026-08-18",
-   "datetime": "2026-08-18 19:42 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
