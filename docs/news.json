@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-08-20 15:36 KST",
+ "fetchedAt": "2026-08-20 15:39 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -18,7 +18,7 @@
   {
    "title": "SK하이닉스 노사 임단협 잠정 합의...성과급 60% 자사주로 지급",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVpJRGlSZlJGLXd3bEtpWmM4aDByMkttUEdGTGpwYTZqZFcyUUJad183dXJJcGRUMl94SFNzV3B3al9qd1JRbjVJLUhGNXB2TnRNcUs3T2lyRVJ0Y2F6WlBtaGtCM0hCSmpXSU4zS21YSTFBTzIydHZDUms3TVZBQ1NIWQ?oc=5",
-   "source": "조선일보",
+   "source": "chosun.com",
    "date": "2026-08-20",
    "datetime": "2026-08-20 15:06 KST",
    "signal": {
@@ -64,6 +64,18 @@
    }
   },
   {
+   "title": "SK하이닉스, 40조 풀자 주가 '불기둥'…삼성전자도 '100조 장전' 기대",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVVTX1F4dF9raE5JYjZpczZ6aGZpUnYycDVjSWZ1WHc3d1dPNU52RzZWdTJZY0dUcXp2T1pJRkxuSTV6QmNXa1hTZlRCeTNsMDUxb1JpbTc5RE4zSFdFZTdmZTIxNnljZW1oblQta0pMMTl2LURweTg3V29IN3BiUERFanlSWVJX?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 14:23 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
    "title": "[속보]SK하이닉스, 성과급 40% 현금…60% 자사주 지급 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1weTVZd0w3TFpxZ3hGRDdrbHBJVHpCVUFjd1YwSXVOdUtMV2p4N3dVWFBCUGZJdnNSWEJ5c1JnR2NjMTFrNGxUa2IybzlEbDVtTWltSjJyZHBxbTdfTEwyaUFlc1lsU3FaYW13d9IBckFVX3lxTE56eW43eHZITEdfa1hPaWNtNGVRdDUtcTkwY3NENURkZUtFdm93OWZpeGFoMTBoMHQ4TXA0QmFFWVVFNXB6REN2Um5BamtQRnB3M1h2T0N5TWJybkplVVplYTR4YVZKLWZteEFEOFNKdWFvQQ?oc=5",
    "source": "머니투데이",
@@ -105,18 +117,6 @@
    "source": "중앙일보",
    "date": "2026-08-20",
    "datetime": "2026-08-20 14:08 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[속보] SK하이닉스, 성과급 40% 자사주 지급키로",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YZEVqWU9INDBXNFgtYkpZbk55VDZHdVhjak9HbDYyRm10ZjdlRkt2SnRHWnVQVUFCbFE5U1MwYkJKUk9Oa0cxMEhPSHBISS1Rb0xVQWJuaFE2WkVhZzJ4eNIBeEFVX3lxTE1iSEhxNXJ3TjZoZXJ2bVJPMGt4NktabFljNnVDZ2NUa2tJUFE0VzMzUEFWZEpJRWprRmJPdWFjTXhhQjgxNktmLW5yRktEZElwRnk0cFRLZ1hXU0RlNTg5aExSemZVOWFBTGJ0QmdSUG01bF84bE5IWg?oc=5",
-   "source": "뉴시스",
-   "date": "2026-08-20",
-   "datetime": "2026-08-20 14:03 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",

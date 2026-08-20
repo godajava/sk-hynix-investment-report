@@ -4,7 +4,7 @@
 <text x="20" y="46" font-size="11" fill="#52514e">원. 막대 = 히스토그램(MACD - 시그널).</text>
 <line x1="603" y1="24" x2="621" y2="24" stroke="#2a78d6" stroke-width="2"/>
 <text x="626" y="28" font-size="10.5" fill="#52514e">MACD</text>
-<rect x="732.3" y="139.6" width="5.1" height="10.9" fill="#d64545" opacity="0.4"/>
+<rect x="732.3" y="139.7" width="5.1" height="10.8" fill="#d64545" opacity="0.4"/>
 <rect x="722.1" y="142.2" width="5.1" height="8.3" fill="#d64545" opacity="0.4"/>
 <rect x="711.8" y="140.7" width="5.1" height="9.8" fill="#d64545" opacity="0.4"/>
 <rect x="701.6" y="143.2" width="5.1" height="7.3" fill="#d64545" opacity="0.4"/>
