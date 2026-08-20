@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-08-20 15:33 KST",
+ "fetchedAt": "2026-08-20 15:34 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -30,7 +30,7 @@
   {
    "title": "[속보]SK하이닉스, 성과급 60% 자사주로...현금 40%",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2YnE0VnJsMXBzYkszZXZSM211bEhKM2FpNm5nalFzR1NwdlUxc05TY1dkdjN6SGNCNVFNaUx2dVg3X20wSFlmR0pSbzlIX0hUWEIycGptbFM2Y2pDM1pvMQ?oc=5",
-   "source": "ikbc.co.kr",
+   "source": "KBC광주방송",
    "date": "2026-08-20",
    "datetime": "2026-08-20 14:29 KST",
    "signal": {
@@ -88,18 +88,6 @@
    }
   },
   {
-   "title": "SK하이닉스 노사 임단협 잠정합의…성과급 60% 자사주로 지급",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11N0Y1eDZ5QnhHWUdyT0dSOXMzYURfQm9QSEdwS0UyT2FDY1RRTjhCbXZOdldyeUc4MEJWT0tLZUpQdWszTXhWeGUwaVEwMS1zbnNzV3BaamNfNzJsX3p1NNIBYEFVX3lxTE11N0Y1eDZ5QnhHWUdyT0dSOXMzYURfQm9QSEdwS0UyT2FDY1RRTjhCbXZOdldyeUc4MEJWT0tLZUpQdWszTXhWeGUwaVEwMS1zbnNzV3BaamNfNzJsX3p1NA?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-08-20",
-   "datetime": "2026-08-20 14:06 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "[속보] SK하이닉스, 성과급 40% 자사주 지급키로",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YZEVqWU9INDBXNFgtYkpZbk55VDZHdVhjak9HbDYyRm10ZjdlRkt2SnRHWnVQVUFCbFE5U1MwYkJKUk9Oa0cxMEhPSHBISS1Rb0xVQWJuaFE2WkVhZzJ4eNIBeEFVX3lxTE1iSEhxNXJ3TjZoZXJ2bVJPMGt4NktabFljNnVDZ2NUa2tJUFE0VzMzUEFWZEpJRWprRmJPdWFjTXhhQjgxNktmLW5yRktEZElwRnk0cFRLZ1hXU0RlNTg5aExSemZVOWFBTGJ0QmdSUG01bF84bE5IWg?oc=5",
    "source": "뉴시스",
@@ -121,6 +109,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "‘역대 최대’ SK 하이닉스 40조 자사주 소각에 축포, 주가 13% 급등...배당확대도 곧 발표할 듯",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OakR2aDlqVUhwZG93bW00a0hVMmFCYlotNWhfRHhXNGdIX1h5QU1qNGRwd2t5d1RyN3MtSDNFbjI3QWc1dHVEbHBBRlNQQlFKNWNQbQ?oc=5",
+   "source": "JTBC",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 13:53 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   }
  ]
