@@ -1,26 +1,14 @@
 {
- "fetchedAt": "2026-08-19 16:51 KST",
+ "fetchedAt": "2026-08-20 09:22 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, '넘사벽' 주주환원…40조 자사주 매입해 태운다",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xWktyTFFsVGlJaG5sTi14aDlIN0llXzlLNTBrUUdCZVczODRzWFNxV0pOMFNqbk1wX1RaRHhLUk1nbDJxWG5Yb0I4bXhlYk03ckJ3NUFpQkhhNjBXdU9TWDNNTlZ2bEE4TU1HQw?oc=5",
-   "source": "비즈워치",
-   "date": "2026-08-19",
-   "datetime": "2026-08-19 16:46 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“장 끝나니 오르네”…SK하이닉스, ‘역대급 주주환원’에 8% 넘게 급등",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDa0FFX21KQVFNX2xVN2U3MmtQZ3k5eTd1WVN1NGFtXzdmZlpDY3kzYkZPR3dfZEJ6UV9qLUpsSjNZYUgtT1h2ZWpka2dyLWJUWVRTUVRGWEtWWTB2aXdrcm5mVQ?oc=5",
+   "title": "[특징주] SK하이닉스, 역대 최대 규모 주주환원 소식에 강세",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96ekVyVWFPeTlvRFhsNFVPNjlnTjR4TTZCdERHNDByRl9UdFdQWURHTFFYd1hTYXcyQU4tRHItT2t0VEY1d2NiVHZCRU9nN1RiQk11X2Z2dXdPVE5QTlRySjhmQQ?oc=5",
    "source": "에너지경제신문",
-   "date": "2026-08-19",
-   "datetime": "2026-08-19 16:43 KST",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 09:17 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -28,23 +16,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 자사주 40조원 취득·소각한다",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Wd0RJcXdDSkxzZlFwQldqWFBVYnBPcXROWGhfQWxUQ0xXN29FNVlMOUVvVU9VR2syRldWZTNpTmNHNktweWlNMV91WWtGcFRYSVMzQXE4NGZwblAxbHJyY3JrVGk2dw?oc=5",
-   "source": "디일렉",
-   "date": "2026-08-19",
-   "datetime": "2026-08-19 16:31 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "40조가 끝 아니다…SK하이닉스, 3분기 '2차 주주환원' 얼마나 풀까",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82dDFsNUN0M0dkZGxhVWlMc1V3OXZOYWV6TkRiNm03UE56Q20wVko1SDNybGE0a3VzRzBFX2kxQnBRQ1duWEhaNWwtSTBRazQtaGM2eEpnY2p0WDJXU2FxQWhBQmZqd202S2d1V2xXZ0M?oc=5",
+   "title": "SK하이닉스, 추가 주주환원 165조원 여력…3년치 FCF 따져보니",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwZVQ3R3ZjR2t6dVRNTWlQbHhYcnBiYmNnaHlzY0xqN3BPcWlPQS0yNWN2WVU1UTZ4VWpEQ3hiTm9FeUNXTU1kTUZ1RFE2MG9waV9rbkc0MW9pWkFZeUVoUTYycGJnZHNQRGZha3lFSUo?oc=5",
    "source": "연합인포맥스",
-   "date": "2026-08-19",
-   "datetime": "2026-08-19 16:28 KST",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 09:14 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -52,11 +28,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 40조원 자사주 매입·소각...국내 상장사 최대",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14cFVVNnJfQU0yVlRZckxIUURMVUNjT1FvWmxFYWFUVUltLU9IZzUyUThxcVZaeWVHVWlPbTlaX2ZzSGg0ZUJtY0VlMG9KOFBrQ3B0NFVB?oc=5",
-   "source": "지디넷코리아",
-   "date": "2026-08-19",
-   "datetime": "2026-08-19 16:22 KST",
+   "title": "선제적 주주환원 정책 내놓은 SK하이닉스… 삼성전자는?",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Qa2FyM053MUIybllzWC1KTlZGdnd6YjJmVUNEZmtROGs1UlpDMFRmcXNLQXhqc2RndUM3NkZPeHRLd3FfcEU1NkFqZDJaOVU?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 09:01 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -64,11 +40,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 40조원 자사주 매입…국내 상장사 최대 규모(종합)",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaMUZOU2pMQ1VXQmdqTm00VHFia0JoTDhYcVF6M2xaQVVWMUtGN3Awd3k4QVVJek1PSzQyWUY5cGVqM3dzV1EtZzhoSVo3bFAwR0FIRnBlSi1Lc0xwREc5aklkazdSeDB0aEJYUjR2RDM?oc=5",
+   "title": "SK하이닉스 자사주 매입과 美 재무부 바이백 등 이시각 주요뉴스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zUldCa2lwSHp4YXZ0TjlacmZvZ0xTYjNtalFDQUFWdEZxT3FFaFdnZUU0NHN3T0JBRmdvdDU4eWR2cTI0QU1fVVJScllBNjVvbi1CYkROMm1rUzM0b1RobXZTanFSTVVzenBsSGFmUWLSAXRBVV95cUxPOTEwcFdyQVI1SHQ2WUNvenIxdTRKZlVEY1gta2ZQeGVLQUp3MHk5M1gzUHI3U2g0STNheS1ELXNuOVhBa1VzZk1jVnhicEh1dVd3UGN4VV9JTFJnZWd2bVJLQXlNbjAxbFRWQnFvdXF0SkJfNQ?oc=5",
    "source": "연합인포맥스",
-   "date": "2026-08-19",
-   "datetime": "2026-08-19 16:20 KST",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 08:43 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -76,11 +52,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 40조 원 규모 자사주 매입 계획 승인",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54WmQyZEVRNVJwOGN5YTVBOWFQcEtwZFJBRUxlN2lLT01Yd3d4MnNfS3FRN19SMXp4RVplck9wWWVkcFpPVGFFdnRGU25rQ3VwUzNhcXNMZlZOTzkzZEw3R2VJaTBIcGxSZ2ZJTDBXLXQ?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-08-19",
-   "datetime": "2026-08-19 16:15 KST",
+   "title": "SK하이닉스 40조원 자사주 소각에…하나證 “예상 상회…주주환원 규모도 웃돌 것” - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcVhzNUxNem85SnlObU5ibFpLNGhMREZZZy0tWFVKT2JSazhlMHpNaHYtUFpjWmRITF92THNGVVc1dWRZcjVuQTl0OFRUZGpZVFlxRjBOa3pPOHFqZXo2UG5fcmRyYkQxUU9oZ0pFdGRFT0ZKVzRlRHZzUzBKNXFPdXlBbjRLbmUy0gGcAUFVX3lxTE9RVTdkNXRjNDNkLWRBdWxqSTd2OUlrSUktWjFTdF9pQUJnRm96b0I5aU5OS3hXYkNtUjV6MzZoNVJXcFB5ZEFYaVIxMGo0WENEWV9PejZpbnZHRjhyMjd6U09BTVJwNkI3a25jalo3UWx3XzdDTWVuenlmTlBEMzhxeDhvSjUwb3N5OEU1Z3lELTR5QmFIWlNyWUk0bw?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 07:59 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -88,39 +64,63 @@
    }
   },
   {
-   "title": "SK하이닉스, 40조 자사주 매입·소각…잉여현금 절반 이상 환원(종합)",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM29UUFh3bVNLYWVxYWtnWEc3M05uOXhPLTBldE5oSnVfUkFFMkNUSVB1VVVra1dKOWIwNVpOdklRZkU1ODkyeDhSOE9pNmZUcUFtWXFJalhvQ0FmTFNnZnRxYm5nZjNLV0dTU0FHdmhuY2N0S1Z3YWJnRW9zWWk4SC1aS2JDUQ?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-08-19",
-   "datetime": "2026-08-19 16:13 KST",
+   "title": "SK하이닉스 통 큰 주주환원책…증권가 \"파격적 주가 상승 모멘텀\"",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qOEQ5akVlcFZxalVZOGhsRDRxc3ZORnVnc1lQU19nNzFqSWxnUzlLWG10Q1IyYVlaM3VfMXdTV1FLellrNEVSQl9IeDQ3aVVldkhlRG56d2V3Wk05b1ZVX3NGYWJQR1JBTFJKZTVwOEdSeFNi?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 07:48 KST",
    "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
-   "title": "삼성전자·SK하이닉스 동반 급락…하이닉스 40조원 자사주 소각",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oQXFfOXY2eTJDUTBpRERySW9ZOGlwM2FISjF1RlhnbjFaYTlCWEJkbjJLX1VZY1dKS2l1c2staXVBaHpIVFhQTFhEYVRhV1U?oc=5",
+   "title": "SK하이닉스, 40조 자사주 소각한다…주주환원 강화 속도",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05MkFCdHNiRFQ3LTZwd3VDOUdSNXplQUl3d3ZPaWJIdmFpNjhjSHlROERRb1dxdjlydjBfSTRSLXJNdk5zR0xVRk5kNFZUbWs?oc=5",
    "source": "v.daum.net",
-   "date": "2026-08-19",
-   "datetime": "2026-08-19 16:13 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스, 40조 자사주 취득·소각…국내 상장사 최대 규모(종합)",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA5OUdZSXNmY19lU1NpRkZLU1JxYUdvR0RfaUppcmRjUk9QbTF1dFhkaTBnLVh1Z0cwU0VqNkFJanQxRlE3TFZndk84ZnotMFk?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-19",
-   "datetime": "2026-08-19 16:10 KST",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 06:46 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스 실적은 ‘역대급’인데… 소부장은 ‘K자 양극화’ - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYk1XelIwZndaSTZ6WVJqSDhRcUdJOXRrZnV1QkVkQjUxWFZIWDZ5SEhROThLOTRiYlVYZjF5aFFlU0lvYnJnTUxFRjhCd0tyZnR1X1dLQXg3T0xDa1ZleElPazlpMGU2UEVwRnFwTHdaQ1FrcjBlWU5rUnJ6cExaS1lR0gGWAUFVX3lxTE5wVWh3S1dvQXNfWU1WVW9tZlJld2ltbjBmekc4YXJpRVZLanRaNTVDVGltbjVqcXZnME5lU3VyYUs0UHhna0QtanFBVk1mbTF0S0xtUFVKRkdmUkJhYnk4QmtCeEFaZ3VFNlhSZjNxQml1ZTR2S2kzSVY2NjhYS0JQUy0tS2Vxbjl0SHNEamRXRVY5VEgxdw?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 06:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 40조 자사주 소각…상장사 역대 최대규모",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SZTk3Y2dvemw2eVlfNUl6SmxGTHhNXzJqMHlhQWRzRXZUNDR2VWUyRGtuVU5GUm1XUVlrV1RCTWVjcnJFUTEzOUNHcjZlaE4xcllwb01n?oc=5",
+   "source": "중앙일보",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 00:02 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, 40조 자사주 매입·소각…배당 확대 검토",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XRzVicHZPQzlvdUxjNTBQbnFVZnNVeFcyY2YzZlBqRWwzZURhOHNLSEtGeDV6WWNncFdBem10MU5YMjhXb1pnQkxKanJEQ2wtVmx5ZVY1amNtTDdISGhRalZiREVlcUNveU91QVl5MTNvQQ?oc=5",
+   "source": "한겨레",
+   "date": "2026-08-19",
+   "datetime": "2026-08-19 23:45 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   }
  ]
