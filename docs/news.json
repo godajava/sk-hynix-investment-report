@@ -1,14 +1,38 @@
 {
- "fetchedAt": "2026-08-20 15:34 KST",
+ "fetchedAt": "2026-08-20 15:36 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "‘40조 자사주’ SK하이닉스 12% 올랐는데…JP모건 “더 사라” [머니+]",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsaC1uYjZCcU5ocEJqVzE1dDU1TkpOSVk2QTNJOUhQSjBTODZSdUJwWmxUb3RjY2g3TkxMdFBzMGJDX0d2cnhpS091VURuai1YWnlJaWRkTmxoTHhkbFVSS1lR?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 15:34 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스 노사 임단협 잠정 합의...성과급 60% 자사주로 지급",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYVpJRGlSZlJGLXd3bEtpWmM4aDByMkttUEdGTGpwYTZqZFcyUUJad183dXJJcGRUMl94SFNzV3B3al9qd1JRbjVJLUhGNXB2TnRNcUs3T2lyRVJ0Y2F6WlBtaGtCM0hCSmpXSU4zS21YSTFBTzIydHZDUms3TVZBQ1NIWQ?oc=5",
    "source": "조선일보",
    "date": "2026-08-20",
    "datetime": "2026-08-20 15:06 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "“SK하이닉스, 3년간 주주환원 245조 전망”…자사주 소각 100조 넘나",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZMG5uY2g1ZmxjQmVxQXBBenViV1hnRzZXcjVJdVo1WWd6MjZLdU80R01IWGszQUxDWGd4TVRUaENXRDIyVmJMWEo2TFJNR1NiRENiOHdR?oc=5",
+   "source": "중앙일보",
+   "date": "2026-08-20",
+   "datetime": "2026-08-20 15:05 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -97,30 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[속보] SK하이닉스, 성과급 40% 자사주로 지급",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vVG1jOExzanhsQzBTd29GUlhiTkNLMFhpWFlYaVFvMHIyVlprSFpIVXA4RjVvY2FHWXJaVm9xU2VNZ1VNVl9GUE1vd05jSjA2SmV2LXgyUHBCNjJESnZWZmlKWWTSAWpBVV95cUxORU9ZMmFsdWlRREliaW05dHlSWmJ3UWs0TWZWbmxlLWRiUUhjZ083cTA3amdFUjh6enoyYWpDTm9pM0I0YzhNQXhnLTBkX2FNdnZXYjJpNVd1VWxNNEQtdV94VWJWcXhzZWNn?oc=5",
-   "source": "뉴스1",
-   "date": "2026-08-20",
-   "datetime": "2026-08-20 13:59 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "‘역대 최대’ SK 하이닉스 40조 자사주 소각에 축포, 주가 13% 급등...배당확대도 곧 발표할 듯",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OakR2aDlqVUhwZG93bW00a0hVMmFCYlotNWhfRHhXNGdIX1h5QU1qNGRwd2t5d1RyN3MtSDNFbjI3QWc1dHVEbHBBRlNQQlFKNWNQbQ?oc=5",
-   "source": "JTBC",
-   "date": "2026-08-20",
-   "datetime": "2026-08-20 13:53 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
