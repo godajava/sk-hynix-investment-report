@@ -158,7 +158,7 @@ def candle_volume(days, out):
         f.write("\n".join(p))
 
 
-def panel(title, subtitle, dates, series, fmt, guides=None, h=250):
+def panel(title, subtitle, dates, series, fmt, guides=None, h=560):
     """공용 지표 패널: series = [(라벨, 색, 값리스트, 점선여부)]"""
     L, R, T, B = 64, 20, 64, 30
     pw, ph = W - L - R, h - T - B
@@ -173,7 +173,7 @@ def panel(title, subtitle, dates, series, fmt, guides=None, h=250):
     def Y(v):
         return T + ph * (1 - (v - vmin) / (vmax - vmin))
 
-    grid_y(p, L, pw, T, ph, vmin, vmax, fmt, ticks=3)
+    grid_y(p, L, pw, T, ph, vmin, vmax, fmt, ticks=5)
     if guides:
         for gv, glabel in guides:
             if vmin < gv < vmax:
@@ -271,8 +271,10 @@ def adx_atr_chart(days, out):
         f.write("\n".join(p))
 
     atr = [s / 14 for s in tr14]
+    # ATR은 값 폭이 좁아 만 단위 정수로 반올림하면 눈금 라벨이 중복된다 → 소수 첫째 자리까지
     p, *_ = panel("ATR (14)", "원. 일 평균 변동폭 — 높을수록 변동성 큼.",
-                  dates, [("ATR", MAGENTA, pad(atr, 14)[sl], False)], fmt_man)
+                  dates, [("ATR", MAGENTA, pad(atr, 14)[sl], False)],
+                  lambda v: f"{v / 10000:,.1f}만")
     p.append("</svg>")
     with open(os.path.join(out, "atr.svg"), "w") as f:
         f.write("\n".join(p))
