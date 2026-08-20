@@ -5,7 +5,7 @@
  "change": 191000,
  "changePercent": 12.73,
  "marketTime": "2026-08-20 15:30 KST",
- "fetchedAt": "2026-08-20 16:54 KST",
+ "fetchedAt": "2026-08-21 08:55 KST",
  "days": [
   {
    "date": "2026-08-19",
@@ -21,7 +21,7 @@
    "high": 1720000.0,
    "low": 1576000.0,
    "close": 1691000.0,
-   "volume": 5452849
+   "volume": 5452970
   }
  ],
  "indicators": {
@@ -49,7 +49,7 @@
    "read": "중립 구간 · K > D (단기 상승 우위)"
   },
   "volume": {
-   "today": 5452849,
+   "today": 5452970,
    "ma20": 5699726,
    "ratio": 0.96,
    "read": "20일 평균 대비 1.0배 — 평균 수준"
