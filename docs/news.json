@@ -1,20 +1,8 @@
 {
- "fetchedAt": "2026-08-21 15:36 KST",
+ "fetchedAt": "2026-08-21 15:39 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
-  {
-   "title": "SK하이닉스, ‘100조+α’ 자사주 소각…진짜 돈잔치 이제 시작",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2Z0xHUDFhRHVoVThfandSV0dXRHpYZUZvVnRYU2NicVdmZ1FBdFVlRExQc0lhNGE1V0hXMjNVa3U5b1JDbkNrcjFHR000LUx5SkZKSTcxcXY5dWtCQnQ3ZnZxZw?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-08-21",
-   "datetime": "2026-08-21 14:34 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
   {
    "title": "[이슈체크] SK하이닉스 40조 ‘통 큰 결단’…이제 삼성전자 100조 주주환원 차례?",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CUHNXSlplMkFFYW5QOFpReHRLWUVuR2tTSXVWY3U0bDFXSFFyRXQxT01jUUhiSFo4MzN1WkFXcHVNcjVkektwOHllNW40MHM?oc=5",
@@ -64,6 +52,18 @@
    }
   },
   {
+   "title": "[오늘의 삼전닉스] 주주가치 선순환 선언, SK하이닉스 200만원 갈까요",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pbXJLRjNYSDljdV90Sk1qc3JnQUtsa0pfTUtoZHFYNkNaQVlPTUR5WUZwU2ZnREpTQmdWSWhaaEJ0MGlMRDZZRlRoUU1TTTFtME1YaUpOTUt3cjdsLVVBMFFR?oc=5",
+   "source": "이코노미스트",
+   "date": "2026-08-21",
+   "datetime": "2026-08-21 11:44 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스, 일본 공장 건설 검토 관측에 \"계획 없어\"",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TMGNPd280TGVRN0FfcEhDU3NURmZWRTN2MUd3b0RKZVF1ZzNFSnJOTnBYbzJEbllpVEpVaW5uTVhyYmF2VjdtcTJJcGR1QTFkNVlhZ3QxRmU2YU1BTGlMcC1qM0x4cTdfQ2JR?oc=5",
    "source": "뉴스저널리즘",
@@ -76,11 +76,11 @@
    }
   },
   {
-   "title": "[특징주] SK하이닉스, 하락출발후 상승전환…삼전은 혼조",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4REpZSlo0S2VJOVI5VlQ2VmhJZXZMX3hzZUdyWFFIMEQtRjJ3N21zeHZpdmdITTVESXZWaVhZS19iOC1feGdCY1pWUk1NTERaamZsbXkzV3gxMWvSAWBBVV95cUxNeENEWkZCOW02c0d1cWdzNmpES0JKeTJhZVVJUU9GeC0ySU9PMWVXUVFVbWtWZWNKanUyVFBjQzdMLXpQRkNGTnZIQy1VVWVrNVgzS01Ub1dDSDE4cVY5QjE?oc=5",
-   "source": "연합뉴스",
+   "title": "한신평 \"SK하이닉스 대규모 주주환원, 신용도 영향 제한적\"",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MZGE4bGdMbDgtSDJjOVZWMlhQYVc1aThLZ1pCUC1aZW1JZTV2cHJ6eTN1b0d4WWxiQXV4RG1jQldvU0tYeWo2T29FTUpDdUlodUowX3FhNERCR08zT21qeVhGN0gwZm9kQTlXTDFEMHBRVTNs0gF0QVVfeXFMTkxkYThsZ0xsOC1IMmM5VlYyWFBhVzVpOEtnWkJQLVplbUllNXZwcnp5M3VvR3hZbGJBdXhEbWNCV29TS1h5ajZPb0VNSkN1SWh1SjBfcWE0REJHTzNPbWp5WEY3SDBmb2RBOVdMMUQwcFFVM2w?oc=5",
+   "source": "연합인포맥스",
    "date": "2026-08-21",
-   "datetime": "2026-08-21 09:35 KST",
+   "datetime": "2026-08-21 10:37 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -100,15 +100,15 @@
    }
   },
   {
-   "title": "[특징주] SK증권, 하이닉스 40조 자사주 중개 소식에 연이틀 강세 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWjdsc0ZudGNsWFB3ZDJYNTBGaE1YaWZaN0lZM21OaWlMUlF1cmQ5dHhsUzRnQzE5ZUo4ejdrYnp1SHd3QktEeWRZS0wyOXowT0Y3TG85SkVYYUUyVHRmc3lfNFJUSjlxVGpndDFaQUhEQXNHVXBGX2pxN1VKcWlLQ2lOT2ZNZmFk0gGcAUFVX3lxTE1kMm1fSkhQay1yenBOQTB5VG5zTkluWnlObVRUUGlXOWNQRU52SWxmcnRVQkNVbzRSMEpGWlVFWkIxY2VvWjBPa3NTc1MyU0FnRzFDVzBaTGtRc3dBNVE4Q1hXbnB0SlBlOGtmM1BWMDBaaUNLSk1Jc1lTYzJEUjZkcGVsUldSRVdfTFJvOGFkLU96MEtuc0FmVURBQw?oc=5",
-   "source": "Chosunbiz",
+   "title": "40조원 주주환원 ‘통했다’…SK하이닉스 13% 가까이 ‘쑥’",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQZnNuNEpsZjBvTnRnbmxhdk5HLWhlTFF1LXN3Q3hNZDNUTURseVdCZ29kZ1FGZVNWWng0Q2NlcHhwWEd6Yy1mc29BNlUybTl4NUZJVA?oc=5",
+   "source": "JTBC",
    "date": "2026-08-21",
-   "datetime": "2026-08-21 09:11 KST",
+   "datetime": "2026-08-21 08:59 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
