@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-08-21 16:54 KST",
+ "fetchedAt": "2026-08-24 09:07 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[이슈체크] SK하이닉스 40조 ‘통 큰 결단’…이제 삼성전자 100조 주주환원 차례?",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5CUHNXSlplMkFFYW5QOFpReHRLWUVuR2tTSXVWY3U0bDFXSFFyRXQxT01jUUhiSFo4MzN1WkFXcHVNcjVkektwOHllNW40MHM?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-21",
-   "datetime": "2026-08-21 13:54 KST",
+   "title": "“주가 변동도 보안” SK하이닉스 성과급 60% 주식으로 지급, 통과될까",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wT20zYml0Y1YxWklwU3NPSDBKRmlJWVhGd3g2emE2MVNtOHcxbWZuSXk1S3gwUVNkanpDY2lWbmVNMGgwZktqcEp3YUZGZVJU?oc=5",
+   "source": "문화일보",
+   "date": "2026-08-24",
+   "datetime": "2026-08-24 06:01 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,23 +16,11 @@
    }
   },
   {
-   "title": "이 대통령, 최태원과 비공개 회동…‘SK하이닉스 일본 반도체 공장’ 보도 속 논의 내용 관심",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tMF94QmY1Wlp0Y3diSDV2YTZPRlZaNWN1VWU3eHhHaUJRSUhrX0FkMkwyOUQ2YTRFd3c2aDBNRGVfa1dkaGF6bU9hcTRHa2Q1QWlzdUV4a0VXUdIBX0FVX3lxTFBwbllwRDl1WWIzdTh5X09TNkZNOXFmNjlGT3hpUnBnaFgzdnZDQ2pyYk45ZnFfYmRKYm05QXlDWmpyYlhKLVFaWEJaazhfXzVLem5ObnpBUzFqU1dwaG84?oc=5",
-   "source": "경향신문",
-   "date": "2026-08-21",
-   "datetime": "2026-08-21 13:52 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 日 미야기현에 팹 건설 추진… 수십조 투자",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRm9adEJIckNtdGVEUE40Q1JXREh2R2RTYnZaVHhCWHg3c3FTQ3YtNUhoa0FBdVpabHdUd3JiNWpIcDlpSkdhNnhaUi1WcWhCU1didjRmU2poZmF0MkJCeHczeno5YVFreG9ibTFTMEQ3SVJlOTdhbzBuRzF0TFN1ZmtaanFMTDNJ?oc=5",
+   "title": "SK하이닉스, 40조 자사주 소각 나선 까닭… 저평가 해소 승부수되나",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV3g3alN0bERPci1tbERhM2xOc1VzZFQwTWNxTU9jbFIya1lVWndDZ1VDaGdzdnNJUWl1VVd5amdLeXY3dlRIbmxMRFUtNGNjeTJTdWFNMWZ3Wlo3SFZva3l4VzVyOExvdkR0MW1EVmdwa3FmY09INW1mV2tIRTZlbEtRMkFWVG8x?oc=5",
    "source": "글로벌이코노믹",
-   "date": "2026-08-21",
-   "datetime": "2026-08-21 12:00 KST",
+   "date": "2026-08-24",
+   "datetime": "2026-08-24 04:05 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -40,11 +28,11 @@
    }
   },
   {
-   "title": "[단독] SK하이닉스, 일본에 반도체 공장 짓는다…미국 압박 거세질 듯",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTTR1WWtiMFBVejJncXhuZnVyazhJcjhYajZyV1RmTW5KS0lNaml6cXZxMlRRSWdGemZONGJlMXU5cDN6d1lFTE12dkZFSnJhaHVpY2xsV3JETndEVUJ6eDNoOHdoTU1EWlE?oc=5",
-   "source": "한겨레",
-   "date": "2026-08-21",
-   "datetime": "2026-08-21 11:50 KST",
+   "title": "'성과급 60% 주식' 최종 확정되나…SK하이닉스 노조 찬반투표",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85NXVZT3BWQjZPMkQzVlhOLUl5Y09NMHZITlNTR1d5SUZsOVh3RnRTLTUxcmdKaThCRDVZMGdpVHBYeEp1TGdwVVl2Z1U?oc=5",
+   "source": "대구MBC",
+   "date": "2026-08-23",
+   "datetime": "2026-08-23 17:23 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -52,11 +40,11 @@
    }
   },
   {
-   "title": "[오늘의 삼전닉스] 주주가치 선순환 선언, SK하이닉스 200만원 갈까요",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1pbXJLRjNYSDljdV90Sk1qc3JnQUtsa0pfTUtoZHFYNkNaQVlPTUR5WUZwU2ZnREpTQmdWSWhaaEJ0MGlMRDZZRlRoUU1TTTFtME1YaUpOTUt3cjdsLVVBMFFR?oc=5",
-   "source": "이코노미스트",
-   "date": "2026-08-21",
-   "datetime": "2026-08-21 11:44 KST",
+   "title": "\"40조 자사주 약발 더 갈까\"…월요일 SK하이닉스에 쏠린 눈",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RVm1seS0tZFF5emhzSGQ5VUJPZWhYMW9kZTNMNUd3by12Um84NzFZTTNuVkdKV2RvOFdWcnlLTnhJODVjTFJkYlJtVnNNNlctRTZaUzZ2N0dydw?oc=5",
+   "source": "한국경제",
+   "date": "2026-08-23",
+   "datetime": "2026-08-23 14:50 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -64,11 +52,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 일본 공장 건설 검토 관측에 \"계획 없어\"",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TMGNPd280TGVRN0FfcEhDU3NURmZWRTN2MUd3b0RKZVF1ZzNFSnJOTnBYbzJEbllpVEpVaW5uTVhyYmF2VjdtcTJJcGR1QTFkNVlhZ3QxRmU2YU1BTGlMcC1qM0x4cTdfQ2JR?oc=5",
-   "source": "뉴스저널리즘",
-   "date": "2026-08-21",
-   "datetime": "2026-08-21 11:19 KST",
+   "title": "삼성전자·SK하이닉스 150조 주주환원···식어버린 투심 살릴까",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ISlA3SkdJamxBNUxhaFphN0lkQVFhbUFXN0ZnUXpnRFMxZHVneUxuOGl0YWRYelFaMWNpd25wRVJOWWdmTC1QTTlnVmlOVzZUeTAxc0hqWGFiRmo2aEpHbS03Yl9lZkdzekRhTVg0SGdRcGpmbFHSAXZBVV95cUxPSEpQN0pHSWpsQTVMYWhaYTdJZEFRYW1BVzdGZ1F6Z0RTMWR1Z3lMbjhpdGFkWHpRWjFjaXducEVSTllnZkwtUE05Z1ZpTlc2VHkwMXNIalhhYkZqNmhKR20tN2JfZWZHc3pEYU1YNEhnUXBqZmxR?oc=5",
+   "source": "시사저널e",
+   "date": "2026-08-23",
+   "datetime": "2026-08-23 14:14 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -76,51 +64,63 @@
    }
   },
   {
-   "title": "한신평 \"SK하이닉스 대규모 주주환원, 신용도 영향 제한적\"",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MZGE4bGdMbDgtSDJjOVZWMlhQYVc1aThLZ1pCUC1aZW1JZTV2cHJ6eTN1b0d4WWxiQXV4RG1jQldvU0tYeWo2T29FTUpDdUlodUowX3FhNERCR08zT21qeVhGN0gwZm9kQTlXTDFEMHBRVTNs0gF0QVVfeXFMTkxkYThsZ0xsOC1IMmM5VlYyWFBhVzVpOEtnWkJQLVplbUllNXZwcnp5M3VvR3hZbGJBdXhEbWNCV29TS1h5ajZPb0VNSkN1SWh1SjBfcWE0REJHTzNPbWp5WEY3SDBmb2RBOVdMMUQwcFFVM2w?oc=5",
+   "title": "[ZD브리핑] 카카오 김범수, 다시 법정으로…삼성·SK하이닉스, 美서 AI 메모리 승부",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpR0RETnVzT2ZTS3ppREZaOEpKNzVnSnpLaWNkYlhvckFtVHJlb3ltVng1YWpJXzlTbkROT2ZEOXRKZkExdjFIT1hkb255b25oMkVyRFRB?oc=5",
+   "source": "지디넷코리아",
+   "date": "2026-08-23",
+   "datetime": "2026-08-23 14:14 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "“하이닉스 주식 너무 비싸” 삼성전자처럼 못 해?…250만→5만원 ‘액면분할’ 소환 [투자360]",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LbDNnY1R3OUJmeUI3RGhBLTNQc2JQRzJmODFIYnJXa3JhTWdEZ0VYNkREazg4TThPOGVHZ19jTzNVdXdlR2lkcHUyS29KSGNBVTR2eVBB?oc=5",
+   "source": "헤럴드경제",
+   "date": "2026-08-23",
+   "datetime": "2026-08-23 10:12 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "쏟아지는 주가 ‘하향’ 보고서... 삼전닉스 목표주가도 3배 차이",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaXd2X2NUcm5JVzVDUnAtOVJSWnUtMFpVRkFMVVZGQXR1MnBhdGZ2SC1OemRRdWRWMy00bWNEOWp2LURUbmN6dzgtb2lkWlhvNHJOWkUtTnEzdlJCYUV5TkV6aUdfR1NrM3hqZjc1TVl5OEtfaWNyTDFpYjdWM2FhWg?oc=5",
+   "source": "조선일보",
+   "date": "2026-08-23",
+   "datetime": "2026-08-23 10:04 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "'역대 최대' 주주환원, 삼성전자는 배당·SK하이닉스는 자사주 매입인 이유",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tSTAwODBvVzB3R21nYjhpRjVZSExQVC15ZDFwSWlDak1Ramw0eFQxN2JtOGxUQkltTjU2MWE3a1EzV1dtdkJ1TUNXbWJqaWhpMjRtUHMtZDd4MlhONXdvSVhMUW56YkNva0QwbzFyNXg?oc=5",
    "source": "연합인포맥스",
-   "date": "2026-08-21",
-   "datetime": "2026-08-21 10:37 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] SK하이닉스, 하락출발후 상승전환…삼전은 혼조",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4REpZSlo0S2VJOVI5VlQ2VmhJZXZMX3hzZUdyWFFIMEQtRjJ3N21zeHZpdmdITTVESXZWaVhZS19iOC1feGdCY1pWUk1NTERaamZsbXkzV3gxMWvSAWBBVV95cUxNeENEWkZCOW02c0d1cWdzNmpES0JKeTJhZVVJUU9GeC0ySU9PMWVXUVFVbWtWZWNKanUyVFBjQzdMLXpQRkNGTnZIQy1VVWVrNVgzS01Ub1dDSDE4cVY5QjE?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-08-21",
-   "datetime": "2026-08-21 09:35 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 40조 소각과 파격 보상을 동시 가동한 이유",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbTBiLUxrblctRFJrX2RZM00zZ1NSaDctMHA1OTJYWVhlbmlJWk9sN2hkN0d2QnpySXI5a0VKV1FKckd3dUJFYmt6T0RFcjIzZjdTX01Zc3JmRmVWcTAtSVhyd2NEUE10Zm5mZExSVnYwWUppcmVpYUlkT3N4MFEtLWthU2VTZ1k?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-08-21",
-   "datetime": "2026-08-21 09:21 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] SK증권, 하이닉스 40조 자사주 중개 소식에 연이틀 강세 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWjdsc0ZudGNsWFB3ZDJYNTBGaE1YaWZaN0lZM21OaWlMUlF1cmQ5dHhsUzRnQzE5ZUo4ejdrYnp1SHd3QktEeWRZS0wyOXowT0Y3TG85SkVYYUUyVHRmc3lfNFJUSjlxVGpndDFaQUhEQXNHVXBGX2pxN1VKcWlLQ2lOT2ZNZmFk0gGcAUFVX3lxTE1kMm1fSkhQay1yenBOQTB5VG5zTkluWnlObVRUUGlXOWNQRU52SWxmcnRVQkNVbzRSMEpGWlVFWkIxY2VvWjBPa3NTc1MyU0FnRzFDVzBaTGtRc3dBNVE4Q1hXbnB0SlBlOGtmM1BWMDBaaUNLSk1Jc1lTYzJEUjZkcGVsUldSRVdfTFJvOGFkLU96MEtuc0FmVURBQw?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-08-21",
-   "datetime": "2026-08-21 09:11 KST",
+   "date": "2026-08-23",
+   "datetime": "2026-08-23 08:49 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
+   }
+  },
+  {
+   "title": "홍콩 증시, SK하이닉스 2배 레버리지 ‘역풍’…고점 대비 77% 손실",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdktjeHpsNjJoY3otMFpIQW80MGJMdjVpWlNITnQ3cU5FNUdFYXVDR0FHVEtWNzRMYTEyVmUxemRTNGVKczhlcW10Q0FaRnJ2bmdfaFZMWS1pREc5R0pVTk5qeUR1S3doYl9VWnZsZ1drQlQ5YWNuQjVKWkdoM1RqdDFBYVg1R0V2?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-08-23",
+   "datetime": "2026-08-23 07:05 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   }
  ]
