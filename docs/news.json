@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-08-24 15:41 KST",
+ "fetchedAt": "2026-08-24 17:02 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "“SK하이닉스는 올랐었는데”…‘역대급 주주환원’ 발표한 삼성전자 하락, 왜? - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMElhODltRm8xeDRCV3duSXhZMGVtQmhha01iZVB4QzR3S2lBTWxFNzZMeU0zN1p3cGpFQldtRFFsS0g2T3ZJS2RwSFlFbkE0TmZINzR5cEkzQWlDYW5qbXRpS2dxa3UtanNsMXRsQWF5dDRmYU91aE1tOEJtUlg3RXlHVjlfRXVQ0gGcAUFVX3lxTE1yT3FjY1ZMSlZoaWFOZ2lUVzRRSERVZ2FCenltWXBkNDd6am1lVWVJYVFobXR6NEFLWUljaWZBQktGeVQzSTNNaEs1eXp2Z3hld1VEb3FkZWZodTlvUXQ2YmlkR3BjamtvbnpYX1dmVFEyWS14SFllVXIxa2oyZHFjZ0hmY016eHZMRjRTSDdNU0pnSHJxSnRRU1VMMA?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-08-24",
+   "datetime": "2026-08-24 15:32 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "SK하이닉스 경영진, 광주 군공항 방문…반도체 부지 점검",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PTmpyYlN0RlJNNXJxa1V5NEQ3MDdlcG1hTEJoUk5aV1hUcEp5dHA3Tk1QX1Nmb1A1N2NtSFhhNjFTdjVJQzE0SS1EVkFVX1k?oc=5",
@@ -76,18 +88,6 @@
    }
   },
   {
-   "title": "\"SK하이닉스는 우리가 모셔\"…日기업이 7조원 베팅한 독일서 유치전[AIDC 시대의 공존법]⑪",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhR1NkeGo4S0xjS2tYNEFiOENnalktdnF3LTJRTFVLbmRlMlp0WnBaUl8wY2hsRE9aa3lUVXNPR1FkUjg2a3l0RHBIaEd4NUtSM3laN3k4OExRdFpWdDd3ZQ?oc=5",
-   "source": "아시아경제",
-   "date": "2026-08-24",
-   "datetime": "2026-08-24 07:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "“주가 변동도 보안” SK하이닉스 성과급 60% 주식으로 지급, 통과될까",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0wT20zYml0Y1YxWklwU3NPSDBKRmlJWVhGd3g2emE2MVNtOHcxbWZuSXk1S3gwUVNkanpDY2lWbmVNMGgwZktqcEp3YUZGZVJU?oc=5",
    "source": "문화일보",
@@ -112,11 +112,11 @@
    }
   },
   {
-   "title": "서학개미, 삼성·SK하이닉스 담은 美 ETF에 한 주간 1185억원 투자",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1STk9FcWJWY2hUY2NfSFRXRmo4c1g5cWJmSnl0dWlFZk9pWlNmUDd1T2NkY0pYVElnbzVESVh4N0xrT243SkJEcWg3aV81Q2NtR0lkOEdtejVqUElQZFVlOXpwZEc?oc=5",
-   "source": "디지털데일리",
+   "title": "'성과급 60% 주식' 최종 확정되나…SK하이닉스 노조 찬반투표",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE85NXVZT3BWQjZPMkQzVlhOLUl5Y09NMHZITlNTR1d5SUZsOVh3RnRTLTUxcmdKaThCRDVZMGdpVHBYeEp1TGdwVVl2Z1U?oc=5",
+   "source": "대구MBC",
    "date": "2026-08-23",
-   "datetime": "2026-08-23 22:02 KST",
+   "datetime": "2026-08-23 17:23 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
