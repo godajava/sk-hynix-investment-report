@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-08-25 09:06 KST",
+ "fetchedAt": "2026-08-25 09:10 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -52,6 +52,42 @@
    }
   },
   {
+   "title": "[포토뉴스]전남광주에서 열린 ‘SK하이닉스 채용설명회’",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFNG9wU1o3MjFsNzJqcXVGdmZHT2gyN21JdFpiakl1WWllenZ4MnVINy1pa3kxN0F5a2F5eVQzQnBaVHNaeWpxYzM5RjF1Q0VuYkR5TzlGNm9jMC1zUFZR0gFfQVVfeXFMUEU0b3BTWjcyMWw3MmpxdUZ2ZkdPaDI3bUl0WmJqSXVZaWV6dngydUg3LWlreTE3QXlrYXl5VDNCcFpUc1p5anFjMzlGMXVDRW5iRHlPOUY2b2MwLXNQVlE?oc=5",
+   "source": "경향신문",
+   "date": "2026-08-24",
+   "datetime": "2026-08-24 20:38 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 광주 군공항 현장 점검… 호남권 반도체 클러스터 가속도",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HaDhWX3l4M1paVFZGbXNyOWc2RlBrMFVkTjVDUkFJTk1wcW5BVm54NTI0Vm1zR1FKQnpwejlYVVlOTVBwdWI1N0EzbTUxY3FNNWV0bjZzdUtHcnpabDh6Y2V2M2gwUzhiYTZtZVdsZGFIeDAwRW1N0gF3QVVfeXFMTkdoOFZfeXgzWlpUVkZtc3I5ZzZGUGswVWRONUNSQUlOTXBxbkFWbng1MjRWbXNHUUpCenB6OVhVWU5NUHB1YjU3QTNtNTFjcU01ZXRuNnN1S0dyelpsOHpjZXYzaDBTOGJhNm1lV2xkYUh4MDBFbU0?oc=5",
+   "source": "스트레이트뉴스",
+   "date": "2026-08-24",
+   "datetime": "2026-08-24 18:38 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 경영진, 광주 군공항 방문…반도체 부지 점검 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWlc1cXQxOW9xamZmbUo2ZEF4TWhrODByNlNxb0cxM3hlcjhtb2FTLWRBSGc5UEpoS05QZlBLbDV1SHBvSm9mWXotVlBrZWlzcGJIcVpaZXBIOWNxNmZ2ZnpZSDlnNEJfZnc5emx3MGxtNDQzb1BtMVFwemZwVVhaWVR30gGWAUFVX3lxTE5xaDJBTm1RWk11MG9IdkZsTDBpSkZzWFgyZ0dsNnRPZ0ZmT1pycTl2dnpUOUtWS2hOUUsyemQxQnFzZG1qWUJvU1BzZHMxR3c0YnkyQk9Na3pqdHFEMlp3eUlkTGdhUEZlWjVpYS1DRk9IX0tNbS1IWDFQTkl4MjRDWXdtZVJOT3pYU2ZsTEYtcV95S21RQQ?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-08-24",
+   "datetime": "2026-08-24 16:08 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스, 광주 군공항 현장 점검…반도체 클러스터 가속도",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjWnd1cVNJbVY3R2ZFWFdDT0luQjY2OWVwdThYcVFOWDNGZmM1RFNLUTQ0SzhBdUdyN1l0TGlOTDBvQThIWWhGZG5qamlaZGNv?oc=5",
    "source": "문화일보",
@@ -65,7 +101,7 @@
   },
   {
    "title": "'반도체 열풍' SK하이닉스 전남광주 채용설명회 북적",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XcDRBNlh6ZWNlRzZaN1JUeVY4Q1FLaFlBMnM2NmNCY3RqYlRZeVFMMjMtMXcwNkpBN29MU3Y1V0ZoTFc3VmJ6aTNDZ3BGNGVWeFIzWg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5M1owVVZETVFXWVVPdmxxUUMxZ0ptMjB6bWNRcUJGYnpHMFlMLXJIS1FLcTNCanpBRER3R0RJelVZSDNNbHc?oc=5",
    "source": "v.daum.net",
    "date": "2026-08-24",
    "datetime": "2026-08-24 15:33 KST",
@@ -85,42 +121,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스, 광주 군공항 현장 전격 방문…호남권 반도체 클러스터 가속도",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OSG1TUlJRVV94WTlKYkNUcy03ZmZZemRXU3RfNnpJSnZPcU5FdGJMamZUX2JhT29vbmRoa2tqZmlfWjMtVDJFTk1NRDBNdw?oc=5",
-   "source": "전자신문",
-   "date": "2026-08-24",
-   "datetime": "2026-08-24 15:06 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 경영진, 광주 군공항 방문…반도체 부지 점검",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5PTmpyYlN0RlJNNXJxa1V5NEQ3MDdlcG1hTEJoUk5aV1hUcEp5dHA3Tk1QX1Nmb1A1N2NtSFhhNjFTdjVJQzE0SS1EVkFVX1k?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-08-24",
-   "datetime": "2026-08-24 14:55 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“소각 없는 110조” SK하이닉스와 갈린 삼성 주가",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zaGhBSUdTclQ3QkRyeTVDd1FuVlQzbkFPaFotR2hJbmtrTXE4THpxU2pON1dOMlh5cndycm01cWhmWjFQMlFWdE5YRE9LUmlmcHdFVmdfZ0lxdi1Ia2RSQ0lMVmt6T0lzeXJWcg?oc=5",
-   "source": "한경매거진&북",
-   "date": "2026-08-24",
-   "datetime": "2026-08-24 13:55 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
