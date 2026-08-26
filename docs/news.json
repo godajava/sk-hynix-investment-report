@@ -1,74 +1,14 @@
 {
- "fetchedAt": "2026-08-25 16:56 KST",
+ "fetchedAt": "2026-08-26 15:33 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스 ‘성과급 자사주 60%’ 합의안, 반대 50.1%로 부결",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMlN6RS1nSWQzSXZTU0g3TkwzbXFmZXFUY1lUTXQ0NVI5RXFlOVgybll0OXNFaVNESTJRX3BMWXZXeVhvZFY4YlpZcmpmUUFFS1pmcmgxRS1abGtDb2tOOUZ6UEUxNzh2dnZGTTloWEF3WERNNHcwbVZBa1ZRaVZpbWFyVQ?oc=5",
+   "title": "기관 순매수에 코스피 2%대 반등...삼성전자 2.72%, SK하이닉스 2.92% 상승",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbldRVXhBeHcyc1J6SktTbnlXc2IzdmRwT21GNVZZMjR2S3ZOZkE0Ukx0MGpBeVoyMjJ4Q19KX29ETG5DOC1LZ2ZaVHhBNHhCbFNjb05sRl9ydm1TVXJXSnpBUkR5ckZfMVM0ckgzanIyU1pROFFGWjBwai1Xb1dOZ2hScjk4Rkh5X3J5aThn?oc=5",
    "source": "조선일보",
-   "date": "2026-08-25",
-   "datetime": "2026-08-25 15:43 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 임단협 잠정합의안 부결…노사, 재협상 예고",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LaGV1WU9STXJUNFdYQXFMVU5idUd5RGx2c3pUZjUtQjBUZXl6ekthOHk1M2NJTHNkb1RYX0hIYnNDT19vdlM1dG1fVmF2cUs2bWtlNm5QM0tMYmxRRHlhNklkZkI0YWRhRWc?oc=5",
-   "source": "한겨레",
-   "date": "2026-08-25",
-   "datetime": "2026-08-25 15:02 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oYXY4bHJKLXN2ZGo0bjhnTF91US1EQXlLRGJJRVBLWm9ZSm1hODNINGpZRGpoS1NaZDc1YUpUd2tMTm1ZNXFxdGFrdGxBQXlnQXI0WnlXNEF5NWhKd3pBemRmdWk4MnBlUGZZd3VyWko5R00tVGow?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-08-25",
-   "datetime": "2026-08-25 13:39 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스 임단협 잠정합의안 부결…재협상 불가피",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jVmVoYnZWR3pEak5kSjFLSUVpd203UGNaQXlCbEh3Q0xIWmFWODFvQkl6YzdPV3JpVm1WMkwzR3Nhd3F5bDU0M3lwM1l6Qmx5M0RUOUxXODA3T0pvVHp0NTM5S1dRaFk?oc=5",
-   "source": "연합뉴스TV",
-   "date": "2026-08-25",
-   "datetime": "2026-08-25 12:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "기후부, 삼성전자·SK하이닉스 등과 재생에너지 조달 해법 논의",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zX0o5c2YwbDF6eEYxQmpDWW5TRTdoLWw5RTdrOGZROEw2VFpjdXY4enZSREF3MnVmNGQtX3BCYk9adEZOX2o4RlNCdy1mbVE5N195M3dhcHJSZng1c1F5dNIBYEFVX3lxTE1zX0o5c2YwbDF6eEYxQmpDWW5TRTdoLWw5RTdrOGZROEw2VFpjdXY4enZSREF3MnVmNGQtX3BCYk9adEZOX2o4RlNCdy1mbVE5N195M3dhcHJSZng1c1F5dA?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-08-25",
-   "datetime": "2026-08-25 12:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "키움증권 \"고액자산가, 삼성전자·SK하이닉스·현대차 '톱픽'\"",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yR214NktGWGFqNTZfczU3cE5pc0hqUkFjTVA4TTNDNW5rQm9mM1BCek1Fel8wWmxYa0dPWXRMdWFSbWJyZ3RmbUJvZjZ2VVNCTGNrQzNuWHJ5OU5IdkNZWWpfd09CSnp1ZGg3NnphLTBVRlZy?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-08-25",
-   "datetime": "2026-08-25 11:32 KST",
+   "date": "2026-08-26",
+   "datetime": "2026-08-26 13:38 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -76,11 +16,11 @@
    }
   },
   {
-   "title": "[오늘의 삼전닉스] SK하이닉스 '주주가치 계획 변수' 등장, 향후 전망은",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hX3pOWVBWMmstN0VJNWllb0xha01VZlRzOUstWmZ4UGlrMVlPVGVBWXpUVy1WNG4xdGhjcUpQdWFORnBQZkdFUXpNWmZKY2M3Q09SRWtYYXhpaWhrTkwtcmpn?oc=5",
-   "source": "이코노미스트",
-   "date": "2026-08-25",
-   "datetime": "2026-08-25 11:27 KST",
+   "title": "SK하이닉스, 델 포럼서 AI 메모리 총망라…HBM4·eSSD 등 공개",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mUVVMY0Y3bUxxRmpQbjRkSGt5QWlXUW94TlJTZUs0OEdYai12Q19ULVlKRTg0NmVJNDFldU9qUHNzdndhWWNBLVlHNVRvRTZRM1pwNXZsSzVlT1FJNGpmR9IBYEFVX3lxTE5mUVVMY0Y3bUxxRmpQbjRkSGt5QWlXUW94TlJTZUs0OEdYai12Q19ULVlKRTg0NmVJNDFldU9qUHNzdndhWWNBLVlHNVRvRTZRM1pwNXZsSzVlT1FJNGpmRw?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-08-26",
+   "datetime": "2026-08-26 09:24 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -88,11 +28,11 @@
    }
   },
   {
-   "title": "SK하이닉스 임단협 잠정합의안 25표 차이로 부결",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EajRXM2JlMWhkanhYWW5rbVJ4d1RGX3h2WTFXcDhyRjBDTFNBQndQVXl4ekRNSkVNTWFPWkhITVgwZFBrVkVTZTA0bkZZZW12SGdRNjFzWjlsNmQxZmZVTnQxeTZsUQ?oc=5",
-   "source": "디일렉",
-   "date": "2026-08-25",
-   "datetime": "2026-08-25 11:19 KST",
+   "title": "SK하이닉스 임단협 엇갈린 표결…전임직 25표 차 부결·사무직은 가결",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DdlF5djhDODNNOGFqQjFPbjZfMC1lc2Z4dnVOMldWV0FYN01nTVYtOTV4cXhEZWlOdXRZaFlsaW9mNzlRUHNUdzVOYXRKZGZhb3dGa0pQRUxsMGc?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-08-26",
+   "datetime": "2026-08-26 08:58 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -100,11 +40,35 @@
    }
   },
   {
-   "title": "키움증권 \"2030 고액자산가는 SK하이닉스, 4050은 삼성전자\"",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50MnZQTERJdkkxeGZhcmlSY1RIMVJDd19BNkYyOXVWZVZSRTNNeDhoMEV3X25tYS0ySFRRVnd0c1lCaDJWRXBSdDBxVmp6NlIwS3V6TWs2TVU5bFBQSE1GU1ZJZ2VRUlE?oc=5",
+   "title": "SK하이닉스(000660)",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN3lBZjl1NHh2LUhCZWR4WUpnN3JNRVlmVlpqVXZab2lmdVo2UjFKZDd0YmY1UTU5WVZldTBNMWJRUm5YOFVtblE2N0ltY2IxUGFhWFpYMHBrNW4xOFhSQUhya2JlbmUwQnhOdmJsSXJfZUVrNlhhZ2pkdm93VU1UM196Vm1kVXhBVUlfWUdTYWtGQ3NYdUlv?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-08-26",
+   "datetime": "2026-08-26 00:53 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "“자사주보다 현금”…SK하이닉스 임단협 합의안 ‘부결’, 단 25표 차",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PdTVLdmFSbVRxS3NBTVIxTmo4cHRTcHdTTkJHNGZ3TEdVM1I1a0kxcW9xX3BEOVFZdXotclBiclhJV0ticzFrQm1FeG5HY3RPUmIwLWhydmVrelluUFpzalBPWXY5a3dRVWfSAW5BVV95cUxPdmJIelBRSHREeW1iM05BZGxGYTlqS2Mtb05XMl9laGttSXkwdjA5TjhIV2lmN3dGaXBhUE8yV0RZVXRQXzJsbDRfSlZ0bldRZmFXQVUyN3VXODVpQmhjSk1wS3Rnb2hpZ1JTdGg0UQ?oc=5",
+   "source": "주간조선",
+   "date": "2026-08-25",
+   "datetime": "2026-08-25 23:55 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 잠정합의안 25표차 부결…재협상 불가피",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jM2JVWjRkN21haXpZSC1Cd0VzNW1rcVF6c2VOOFVjQ2ZLRjNQWjk4U210NnRtNnpPay1DalFzM3VBX2k4UGw1UkZXT2J0c09vcVFFSms0Q0c2S2xFYXQxQzd4U3QyWHc?oc=5",
    "source": "연합뉴스TV",
    "date": "2026-08-25",
-   "datetime": "2026-08-25 11:08 KST",
+   "datetime": "2026-08-25 22:50 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -112,11 +76,47 @@
    }
   },
   {
-   "title": "‘성과급 60% 자사주’ SK하이닉스 임단협 잠정안 부결… 25표 차 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMjBLMUhKV3RqUkpSOFhkUzI1MXk5YngzZWRVVlc1ZGktZmNQNXRIY2JOeUs2V2luc1lUeGY5ZGF2R3J1QUp4Sld3UWl1UzJ5QjBVd01TZWlvSWJKQ2pqOHp2b3JhWTZNZ2RFdlJ5b3JMeEdUVE9WeVJ4djVVNGs0d2h30gGWAUFVX3lxTE1MUWFDOXpXOFhxb1hKbk84dTlXMEpNZ3pZc2pHc0V4VnN1a3I1bjRnX2NaYnZuWlpWYmNUMmdBakJQOWExTnp6Slh0cXJ3dmpiakNpNUlsZUpzYmlZV2tyaXYzTHRQU29CdUF3WjRRd3o1ZWp2MnJhRF9kRnQ3Y2ZyWU80eTQ5blM5VU0tMHFsUW5mWTBndw?oc=5",
-   "source": "Chosunbiz",
+   "title": "[종합] SK하이닉스 생산직 임단협 '초박빙 부결'…사무직은 찬성",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsOC1FMnl0bzdoV2FkUmNINlc1LU9hSkU3cmpVRTdJREFBdmNPWnBJblM2ZENEb29uek5oMDhZb0o0dE56eGd4bWxtZlFOaGFaUVRMbVJiWnBTblV1?oc=5",
+   "source": "뉴스핌",
    "date": "2026-08-25",
-   "datetime": "2026-08-25 10:46 KST",
+   "datetime": "2026-08-25 19:23 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 노조, 임단협 잠정합의안 부결…성과급 자사주 지급안 제동",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBMdnJsMlpzYVN6WkRsRzlnbWpicjlRdjRQV1ZDS0NiQVVBQWdBVDNoZ21HSHlBMzJaN1B5VnMxb0xpSzFZVjkwOEVYcThkQQ?oc=5",
+   "source": "전자신문",
+   "date": "2026-08-25",
+   "datetime": "2026-08-25 18:49 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "‘성과급 주식 지급’ SK하이닉스 잠정합의안 부결",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CNzY4Y2FmRmtSV2ZkcC11MGx6cGtVNndGTHZiTVp6YWZybDVtUGZyUUJUbFRwS1g5Tk9abU5EcTZFNGVwMGE1Z2FEOWpFWU5Qa3BhX3VWaTRFWDFLc1pINUxYRUdwc3hHTDdjN3l0UVE?oc=5",
+   "source": "매일노동뉴스",
+   "date": "2026-08-25",
+   "datetime": "2026-08-25 18:33 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 임단협 잠정안 ‘부결’…재협상",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE83SUl6d0tlQWpVVHBFMkdVa2FKVVRVNjRBeHRJWXhhUzkzcTcyMzg5aGhlVmt6UTB6aDZXSWNuQWNWd1NCcmo5LWVXbFBaN2lyYnlSUWtuN3hBeU0?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-08-25",
+   "datetime": "2026-08-25 18:30 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
