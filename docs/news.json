@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-08-28 03:16 KST",
+ "fetchedAt": "2026-08-28 15:33 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 인디애나 패키징 기공식 개최...2028년 클린룸 완공",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5pYUk4Q2c2aW5Mdm92eUlwNTVQV244OFRZckYxbnFBSmo5cnczV1JvOWNUYkVEZFUxaEtmNndzOFQ3VDZCRmZDX2J5Sll4eG91ZUo1bXVOX1BSN1U3QkpzX19wVDViQQ?oc=5",
-   "source": "디일렉",
+   "title": "“SK하이닉스 ‘하한가’ 사태 막아라”…넥스트레이드, 프리마켓 확 바꾼다",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TWmlEVDZIUHBNbUx3NkJFUTk2NmxFbzJ0OFY2Y04wWEpvZVlUZGNPcU5sY3o3TFhzamJtdW9pZWZGZTA5bmZtVWVQbWtNTVRSYUE?oc=5",
+   "source": "매일경제 마켓",
    "date": "2026-08-28",
-   "datetime": "2026-08-28 01:37 KST",
+   "datetime": "2026-08-28 15:17 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,59 +16,47 @@
    }
   },
   {
-   "title": "SK하이닉스, ‘메이드인 USA’ HBM 만든다…“연간 수십만장씩”",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTZ29xckVkYnZRbm1tZEhZaWEzd2lqWG15Tl9wMEk4UDlWdkVlZ3pBbTVpNzg4T0JkUTlJZG5sUHdxZldPdzFHcTg5VmlrVzNxNGg2QWx3?oc=5",
-   "source": "중앙일보",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 01:26 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 美 인디애나서 차세대 HBM 첫 삽… 2029년 하반기 양산 목표 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaExERlNYbThNOVpiSlVpUGpMeXZVZDFCTDNUek8tZG56Wm83U2toSGNpX1BWQkplLWFSRV9YUEdCQm1jOWtkR25WYmhYa2RORVdHbThzTlkyOHVLTExadEFhNEdycC1Md19FaTZJa1Q2b2J0YUtva3ZOanQ1bEZYclpn0gGWAUFVX3lxTE0xWEhXbl9ZNHVucGxYZjQxcWZvcXVodGdwVGgyWXdyTUswM2RkeER0Rk4zZzV3Z3NudzdoQ1VQUWFVY241cm1TcVZMRElvZEVTME5pZ1podjQ4dUJtekhuTHVRT0FraHh5d3NQblBSbng0dUhqbE1WMHF6T2htOHhwV3g5a0JSZUtyRGwwYkhFSExIVkNLdw?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 01:18 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[르포] 콩 심던 땅에 클린룸 기둥 ‘우뚝’…SK하이닉스, 미국 공장 첫삽",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rWmREb0pWOFI0U3F0cFI0QlQ4amNGQU1udmJFMGROS2RLd0tCSjdoemNTMzZWRXA5TlQ2R0JRSDBtWW9UOWVIYThScjk2Wjl0WXVSRF9TY084QXVvQUtIcnNYTlZUaVBwek5acjNBbw?oc=5",
-   "source": "한겨레",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 01:16 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[종합] SK하이닉스, 美 HBM 시대 연다…2029년 한미 생산체계 가동",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KT1pqNlhQb0xFTGYwU3JDS2RNY1NCUXpjdDYzUUlFaW1tWmhrNWYwbEtWblNvUV9MWlRGX1M5emtEQmx0XzROY3RSaTl5OE9fYTFtWFBSS0tLUktN?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 01:11 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[르포]SK하이닉스가 짓는 미국 첫 HBM 공장 가보니…2029년부터 양산",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2N3dHV25TY2JaY1FWckxKMmRaUEJ5M3dOS1BEbHZ3akUzSVJtVlJndGxZTzFTcUpFNWtLX1lla0Vabjh2aDhyMEpzbVdGX1B5bWpIZ3hGT3N3ZS10enV0WA?oc=5",
+   "title": "[인터뷰]토드 영 美 상원의원 \"SK하이닉스, 인디애나 투자 더 늘릴 것\"",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1a3BmR2FtcFNqazhZQkpKbGZvRGpKM0hDeTZtaVowM2haS1pGMC0zbGIyTXJNamhBaFRVQnMzcDNfYWtVVUFBcTgzWF9uTDNYSndXOGU1d21yYzY0Sko2RA?oc=5",
    "source": "아시아경제",
    "date": "2026-08-28",
-   "datetime": "2026-08-28 01:03 KST",
+   "datetime": "2026-08-28 14:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 미국 내 첫 HBM 생산기지 구축...\"인디애나서 AI 새 미래\"",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnbjY3RUI4NEd4dk5DZEdBRkVYZ2hFVnJUcmprdkI0VDQ0WG5Nb1FXczlwd3drM1haZmRONnlfdHZyZFBGWTZjNWxXdkNaYVRBLWhnWmZLZ3RJTF9Wa3NLU2pwN0JlSjcwQ1g0aTQ3ckNXQQ?oc=5",
+   "source": "오피니언뉴스",
+   "date": "2026-08-28",
+   "datetime": "2026-08-28 13:45 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 인디애나팹 착공…최초의 ‘메이드 인 USA’ HBM 만든다",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKMzVMMDRQcktqejBjNnNlWlJnZzJiMTBoTW9KSDdQeGJLT3RJeHlFOEVVUzVpX0xfdWlSZEhvTHlFclNLd3AxejJkTmIzclBfWW9VaVBHa2hURk0?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-08-28",
+   "datetime": "2026-08-28 12:28 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 인디애나 공장 착공...2029년 양산·키옥시아 협력 확대 모색",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oRDF5YzVmMVNlUWt5R3U1QjRVeW9IZXI0a0ZFVmJiWDNFa05ndnhNNk81MjZFUGZOMnNhMFhmOEw5NEd0TjI1cGJsRDZWM2FIMTlrVWc3cnVmQzF1X09sdVo1STJxU1MxbUE?oc=5",
+   "source": "AI타임스",
+   "date": "2026-08-28",
+   "datetime": "2026-08-28 12:16 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -76,11 +64,23 @@
    }
   },
   {
-   "title": "SK하이닉스, 인디애나 40억 달러 규모 반도체 시설 착공",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyNmsyOEp0dTdaQWFTSlBEX0hGUFNBN1p0SEdBWnBlejRtdElxWTJUZHNrWWdieUdqYWxkRG43RnF3czd4eFkwbW9YZlZwemlHV1dTY1dpUVJ5dGZzX1gwTTNCVGlkY0lCTGZFdm02TFB0RnRWVm5F?oc=5",
-   "source": "Investing.com 한국어",
+   "title": "SK하이닉스, 미국 내 첫 HBM 생산기지 구축...“2029년 하반기 양산 목표”",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mVE5FS1RneGoxR1FjS3FUVjRoeWROVmRmSU9mNkZDeF9XcDRrZFc3U0h2NllZYjFLRTVtaU5FS0ZXWFNBelV4QkhOWVpqekRaUmFRLTVR?oc=5",
+   "source": "중앙일보",
    "date": "2026-08-28",
-   "datetime": "2026-08-28 00:35 KST",
+   "datetime": "2026-08-28 12:03 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, 3,500명 통합노조 ‘적법한 노조’ 지위 확인",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rVE04cnNMcDNDU09fdkcyNnI0UWVRTUN4NGdqbzBZMXZobGRSOWw5cUtvMk9uYzNwMWxSM3otcTdoWC1xLXd6Q2tyMXVFWkJ3OWJiazVaU2Vrajg?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-08-28",
+   "datetime": "2026-08-28 11:49 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -88,11 +88,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 미 인디애나팹 착공‥'메이드 인 USA' HBM 생산",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiSEt0STF0bzEzSTJ5aEdqUXRmZENMdGNEOHFZUzVZaVN2MHgwcGlNMGw4eUdyTmNWWFVsbHVjV0FLTHpnUlY5UGtGX1pnT1lMTjU2WVFmRTFyU2pzLThaNzV5VURuU2o2UXA5Ty0wWWtELVVE0gF0QVVfeXFMUGE4ZFU3NmNDQWhpaUFuTEVtcnVqS1F6VHV5YU1xMVNiUkRZSVBxbjh0bTRFdlhHNzJjMTJaMVNxNFhpTXNGT1o4Zk15dVpIRzM0Yk9IaHZORUx2NExHYnc3TkNXcF9Lc19vc0tIOFlUZ0FHaWE?oc=5",
-   "source": "MBC 뉴스",
+   "title": "SK하이닉스 솔리다임, 中 맞춤형 협업으로 'AI 스토리지' 영토 확장",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55X21SRjhCZWx4M1Z2SlBWb3J0SnNFSWlteDdYZHlvYzJaNkdkY2FlYUJVSG5qTkJsdll1ZlQwcktxN3hreDVlTFp6bXpOcU5FUS14dm8zaHN5T1BpRmNKV3RKc2EzQQ?oc=5",
+   "source": "더구루",
    "date": "2026-08-28",
-   "datetime": "2026-08-28 00:29 KST",
+   "datetime": "2026-08-28 11:11 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -100,11 +100,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 인디애나서 年수십만장 '메이드인 USA' HBM 만든다(종합)",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVSkdacWFkWHF3RjRvRUVNM3c0M1JETmdTVmFOWDkyWHFQY2xEYkI2TEZUTEwySEFkWTA4VUI1OHpieVlrREFoU09JMU52Rkc2cDZ4T3kzUlVnZTlBNUlJRtIBYEFVX3lxTFBVSkdacWFkWHF3RjRvRUVNM3c0M1JETmdTVmFOWDkyWHFQY2xEYkI2TEZUTEwySEFkWTA4VUI1OHpieVlrREFoU09JMU52Rkc2cDZ4T3kzUlVnZTlBNUlJRg?oc=5",
-   "source": "연합뉴스",
+   "title": "SK하이닉스, 미국 첫 생산기지 착공… 미국산 HBM 만든다",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FdHdhcGhyclpvbmM4WWtKNVZWbEx2T1g3WHV4VW9jQ05mdlpWdUlPTHdWdkphdFpjMlVaNjEwWFRFMXNPVnZ3SC1FTndta3pHZnpHTVcyS0NLYkk0VS1YTUVkVlpzUnRfR3dpQ9IBbEFVX3lxTE9FdHdhcGhyclpvbmM4WWtKNVZWbEx2T1g3WHV4VW9jQ05mdlpWdUlPTHdWdkphdFpjMlVaNjEwWFRFMXNPVnZ3SC1FTndta3pHZnpHTVcyS0NLYkk0VS1YTUVkVlpzUnRfR3dpQw?oc=5",
+   "source": "국민일보",
    "date": "2026-08-28",
-   "datetime": "2026-08-28 00:18 KST",
+   "datetime": "2026-08-28 11:08 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -112,11 +112,11 @@
    }
   },
   {
-   "title": "[속보] 곽노정 SK하이닉스 사장 \"미국서 연간 수십만장 HBM 만들 것\"",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44RnJuLVNjaGFqU0Y0RjNTTG02cjF0Y2kzZlRKdktuS2Fia2NsajQ3NGpzWDQ0ZVNJelFQcnMtZVIzcjBVLXl1RFRXX0t2SWxHRUtqRUZQTmcyUU3SAWBBVV95cUxQZHlqUFU0VkxJV2xHUWdCUWdleVhIdWExY1U2MTRsRVJhQ0JNamhwVXhXcEFoM19POFk5dUFudGxjZThkMTFybndXcWMyNDFURFJSNHN6TmJoRkNjX0pjLW0?oc=5",
-   "source": "연합뉴스",
+   "title": "\"트럼프, 반도체 고율관세 검토...SK하이닉스 \"미국산 HBM 생산\"",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80ZW1SY0laQ1U4d1RmZVY1Rks3NDV1RFg0cWtVUVdvb3ZZVE5BcklXaW9jZXBiY2Y0cEVoQmtGN1pGMU41VE1RNUE2YlA5Tmlxa3VzUmdFdTAyOFo4RGc?oc=5",
+   "source": "YTN",
    "date": "2026-08-28",
-   "datetime": "2026-08-28 00:09 KST",
+   "datetime": "2026-08-28 10:54 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
