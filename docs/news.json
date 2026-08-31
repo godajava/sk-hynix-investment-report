@@ -1,26 +1,14 @@
 {
- "fetchedAt": "2026-08-29 04:24 KST",
+ "fetchedAt": "2026-08-31 15:35 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, HBM 생산체계 美로 확대…‘인디애나 팹’서 HBM4E 양산",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YU2ljeVNjX25ibEk5UFJsX2U5SUlGZ2JxYk5Fd2Y5Zjc1UEM4Q1c3WDBnMkNjM3JrVXBKMEY2d2tGZjZ1S0gzc3RTUVFwcjN4eWJfcjFqVDgzWmxNSURoVzVRcnRjaGd6?oc=5",
-   "source": "아이티데일리",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 17:58 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, ‘메이드 인 USA’ HBM 시대 연다",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HT05TcnNVLWtlMGlmM3pGdnZXM0s3OEhNSFZjWmdqNjNmVTdpLTN5TUJ5NlpTS2UycnNMZDc2RWRFT0FXa0oxVWlpTE9TSHYxR2VmbGtfOHRzTHlMTm42bkt3TEhYVDJiNkR2dGk0Y9IBb0FVX3lxTE5HT05TcnNVLWtlMGlmM3pGdnZXM0s3OEhNSFZjWmdqNjNmVTdpLTN5TUJ5NlpTS2UycnNMZDc2RWRFT0FXa0oxVWlpTE9TSHYxR2VmbGtfOHRzTHlMTm42bkt3TEhYVDJiNkR2dGk0Yw?oc=5",
-   "source": "투데이신문",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 17:52 KST",
+   "title": "SK하이닉스(000660)",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON1Q1cVNWVEVsSng4cENOWGRFdzJLZnJlM1JjcDFNWVFINUx5ZGt1YVNZdWJCQXRmT2piRVZVX3NTLUQ1cW0wcF93Qm1yNzlUS0hreG5QTzh0WHFGbFEzR2I2OUkxUEpkZ043MWFJU3hkNG9qQmZFaVRBYWZINlhFX1IwUng1eUJzM1J0MnRlYVRoSHpEeUlUVE1n?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-08-31",
+   "datetime": "2026-08-31 13:48 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -28,71 +16,11 @@
    }
   },
   {
-   "title": "외국인, 주주환원 재료 소멸 SK하이닉스·삼성전자 8조 순매도",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zeUxqa2ZiVnVGTEFQRnFrX2JqTXJ2T2dNRWV6UkxDTjhJa3NQV0djZ2dlWl92bm5fWi16ck1QVm9nUF9yMUV5OGlIWnhIb2haYlh2bEZEa2Y1U0hSQ1locW10OVhReHZs?oc=5",
-   "source": "주간동아",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 17:17 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스, 인디애나 HBM 팹 착공‥美 첫 생산기지",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE12ODN2STZVVWVwYWZoVm5xWGpJY2dZQURyX255ZUx3WDlpak1XSVIzUDE1aXlzQmFPal9TZU1fZWxaZWd0dGxKZWxETy16YXRDOTlCV0thWWxGdkxxcVZmVW9yZENtdnhTMUJyQTVsUDZ2UTRSYS1Dd9IBeEFVX3lxTE5sckk2WlJwUms4M2Y2WDBYNGg0ZEVtMWVqYkpaeVNrTGswTXpEc0luZXhrcnBTOVNIRTlSaUpUaW9UVVEtUjRCdmVCX19PX2JPdndXWms4X2tpUmFJM2FLYzh0dzdmdHNSM2x6dm5hSzFJRE5ERW9scQ?oc=5",
-   "source": "MBC 뉴스",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 17:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] 삼전·닉스, 3∼4%대 하락 마감…잭슨홀 연설 경계감?(종합)",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91ZXBsbTZ3eTNMUXFKbFpTNDZfV0NSU2dnTWdIS200bm5Ccktjd183Z2dSSVpKOXNPZURsX2I1M21ncDJxSjZwby1RU0FmeDE0UGltcjBuajZsaGxiMGVURNIBYEFVX3lxTE91ZXBsbTZ3eTNMUXFKbFpTNDZfV0NSU2dnTWdIS200bm5Ccktjd183Z2dSSVpKOXNPZURsX2I1M21ncDJxSjZwby1RU0FmeDE0UGltcjBuajZsaGxiMGVURA?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 16:37 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "그래서 물린 SK하이닉스 오를까요...\"시대의 주식은 우상향\" [몇층이세요]",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xX0FvUzVoVEMzU1BrenpIRERPeko1Q2xJRTBkVWFBazFJbU5makVsLXRwOG9UWDFTbW5heXRORVhDVm45TTFhX0t1UWhnZjZlVmQ5WXZyRFJRSVItelE?oc=5",
-   "source": "YTN",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 15:09 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 미국 내 첫 HBM 생산기지 구축...\"인디애나서 AI 새 미래\"",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnbjY3RUI4NEd4dk5DZEdBRkVYZ2hFVnJUcmprdkI0VDQ0WG5Nb1FXczlwd3drM1haZmRONnlfdHZyZFBGWTZjNWxXdkNaYVRBLWhnWmZLZ3RJTF9Wa3NLU2pwN0JlSjcwQ1g0aTQ3ckNXQQ?oc=5",
-   "source": "오피니언뉴스",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 13:45 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 美 인디애나서 차세대 HBM 첫 삽… 2029년 하반기 양산 목표 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaExERlNYbThNOVpiSlVpUGpMeXZVZDFCTDNUek8tZG56Wm83U2toSGNpX1BWQkplLWFSRV9YUEdCQm1jOWtkR25WYmhYa2RORVdHbThzTlkyOHVLTExadEFhNEdycC1Md19FaTZJa1Q2b2J0YUtva3ZOanQ1bEZYclpn0gGWAUFVX3lxTE0xWEhXbl9ZNHVucGxYZjQxcWZvcXVodGdwVGgyWXdyTUswM2RkeER0Rk4zZzV3Z3NudzdoQ1VQUWFVY241cm1TcVZMRElvZEVTME5pZ1podjQ4dUJtekhuTHVRT0FraHh5d3NQblBSbng0dUhqbE1WMHF6T2htOHhwV3g5a0JSZUtyRGwwYkhFSExIVkNLdw?oc=5",
+   "title": "SK하이닉스 직원들, 역대 최대 성과급 받자 동탄·수원·용인 아파트 샀다 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWnNrd1FjR1pEY241UDh6eDllRTBuamtIRE1iOGNKeGpNM1J2WWJFMzBjWWVGZV9uNXlQdUJNQUFQZzlJUmtGYnFQN2ExcjlVUEtNVTFUZzNCdUl1NGRFTnZZOWs2UzFRZGNCNWl5RXd4QlA5dmhyQ1g1d3FsM2xvNDdlNXlRd9IBmgFBVV95cUxQOWZ5MDVfNS1EWkFSa1FnXzIyVG1VSGJySmRWWVc5blZqNFU4TWdOazNQY05QaHNid2s2cUtHT29mNTlSZEI5bkt2aXpDMHFndl81VWpxNUpZOUNfSFlwd2E0aW9rZVJvMi0zWXczWmo2NWpKU21OT3QxNHhkbDdYcmlIMGJIY09WUjJCNXRTQ0FySXVINGJ6YXV3?oc=5",
    "source": "Chosunbiz",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 13:04 KST",
+   "date": "2026-08-31",
+   "datetime": "2026-08-31 12:02 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -100,11 +28,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 인디애나팹 착공…최초의 ‘메이드 인 USA’ HBM 만든다",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKMzVMMDRQcktqejBjNnNlWlJnZzJiMTBoTW9KSDdQeGJLT3RJeHlFOEVVUzVpX0xfdWlSZEhvTHlFclNLd3AxejJkTmIzclBfWW9VaVBHa2hURk0?oc=5",
-   "source": "KBS 뉴스",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 12:28 KST",
+   "title": "SK하이닉스, 日 합자공장 검토…최태원 \"충분한 전력과 수자원\" 고려",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XY29NMDBzbWlKQ0FLSjQyU3F5OUstMkxKakJjdFNVdGFiS2hsX2hlV1FTMXptZzA5TDZGMnR6Tzk2bUg0V3UxZTYxaW4wS2xYdEc2NGhhaTlkNElTeTdpX2ZfdUtNOF9fYVV6dWtPbHdaRmNr?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-08-31",
+   "datetime": "2026-08-31 11:23 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -112,15 +40,87 @@
    }
   },
   {
-   "title": "SK하이닉스, 인디애나 공장 착공...2029년 양산·키옥시아 협력 확대 모색",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oRDF5YzVmMVNlUWt5R3U1QjRVeW9IZXI0a0ZFVmJiWDNFa05ndnhNNk81MjZFUGZOMnNhMFhmOEw5NEd0TjI1cGJsRDZWM2FIMTlrVWc3cnVmQzF1X09sdVo1STJxU1MxbUE?oc=5",
-   "source": "AI타임스",
-   "date": "2026-08-28",
-   "datetime": "2026-08-28 12:16 KST",
+   "title": "SK하이닉스, HBM4E 베이스 다이 생산에 인텔 파운드리 검토",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwcHZ2NHp4RFpvZ1JpSzhva1duUi0wTmtnLWVvSjhlRW5wUVhJSU5xb0lOcTM4dE5EUW40b3BfQnlpZnVJRTAyeEpUeGNOUGp4R00waWZwcjBDSXlKb1pBVk5INzBGQk0ycUtlVW5pXzQ?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-08-31",
+   "datetime": "2026-08-31 11:20 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 일본에 메모리 반도체 합작공장 검토…\"전역 후보지 물색\" By Bloomingbit",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxbVg0MzJtMTBvVVZXckFLdlh2RndyZk9rZ1l2dmhJZDBUbHAxZWRjaVliRzFYQm5GRGljQ1RHOE1FUWxYdE9GUG5oR3Vua0VnaW0zazg0NGlCWnd1WXI5VWE1MjZ1NEFpQVNjTUtCYnI?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-08-31",
+   "datetime": "2026-08-31 11:11 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "AI주식상승확률분석 : SK하이닉스 (000660) 주가 전망과 상승확률 분석",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WZi1Fa0FESGZjeUE2dnJKNVNsX2loMEcwVUhLcFJIMlhNNnJPdkd6Q2ZVcHNsTFNYSndtZHVyd1ZRZjQ0aWFfcXZscS00UzJ0X2lQRTQtb1pSZ1IzdDhuNw?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-08-31",
+   "datetime": "2026-08-31 11:08 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
+   }
+  },
+  {
+   "title": "LS증권 \"HBM 공급자 프리미엄 축소…SK하이닉스 목표가↓\"",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1aWFBTYUF3RE10WHNtNjl5dlgxY2s4dzRLZ0ZWZDBMWFBELUsxdFNkZTV1UFBfdEYwVHlfUGQybHQyb1FDak9wSWI5MlBuR0diRlBfNWxDMkt0MUw4ZHJkMm5n?oc=5",
+   "source": "이코노미스트",
+   "date": "2026-08-31",
+   "datetime": "2026-08-31 09:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"SK하이닉스의 내년 HBM 이익률, 올해와 비슷… 목표가 27%↓\"-LS - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tZjE4U0xNVkI5VW1fc2JKcUZIR3d2Q20xUGQzQWwyUUN4NHEtOEJtR3pLMUEtNUhwX0lhalZLbDd0SVJlU1J6Qm16aHBtVmZDRS1nNDFQbjhNYVFKZkZFSHEyeFRjZThq0gFuQVVfeXFMTU9zZDFpZWN2MVotVzVzUjRrejVISHNjSHFPQWduUEY0cE5DSjdDMm5pdmNSSHdRZHNPOHZMbHU1ZkRqa2JBcFlrRkVTNFVLd3dBbTdNU1hvY3o0YWFRZVZIeC1kWUdkWU1INEtzY3c?oc=5",
+   "source": "머니투데이",
+   "date": "2026-08-31",
+   "datetime": "2026-08-31 08:24 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"SK하이닉스, 목표가 330→240만원…삼성 HBM4 경쟁 심화\"-LS",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ySUx5NzFEOUpVbElmRi1HLUJjckNGTFgzVzNXa09HTTJNWUg5bEpmLU9mblhGbjJ5dFlDeVB3YjJreUNfdTQzLWc4UFFUR2hDdmllM2MwY0VjUQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-08-31",
+   "datetime": "2026-08-31 07:55 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "인텔 낸드 품은 SK하이닉스 호실적... 90억 달러 매각 재평가",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYm1rNDhrNkxxQ29vd3g4V3dUdWVab044bk9mSzVLc0p4eFV4bHdqMEJmQ2oxVVpObXhhSjBmQ09paXJIUXdXd1JkX2lzTUVwNXRuLWFFRWc0TndqWW03OFpFSEFDaGllNTMyNW5aWGhwaHh2aGF4Vzk3dXM5aVlnNFBxUUhFTlA1?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-08-31",
+   "datetime": "2026-08-31 07:42 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   }
  ]
