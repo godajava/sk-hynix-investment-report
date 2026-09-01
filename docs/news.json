@@ -1,8 +1,92 @@
 {
- "fetchedAt": "2026-09-01 15:33 KST",
+ "fetchedAt": "2026-09-01 21:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "민형배 시장, SK하이닉스 이천캠퍼스 방문…반도체 협력 논의",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04YmVGYUZvMEJaRGFKNVNLRnl0MDlWb3E0X3FxbHNlLW9kM0NuNmlJTWQySGNBaVhCRnU4SkdjWnhIUy1xWHFyeWtINE5zS285ZW9na2JwMVNaOXNTRHk4TdIBYEFVX3lxTE04YmVGYUZvMEJaRGFKNVNLRnl0MDlWb3E0X3FxbHNlLW9kM0NuNmlJTWQySGNBaVhCRnU4SkdjWnhIUy1xWHFyeWtINE5zS285ZW9na2JwMVNaOXNTRHk4TQ?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-01",
+   "datetime": "2026-09-01 17:52 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, ADR·솔리다임으로 '밸류업'…AI 투자 실탄 확보",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1aFRpRkVtUl9EYk01T0dBVURaOF9VQU1qLUt4UGZDZG02SWlVbDVQZzFaQlFtTlJhYUdKMjRFN3o3Q1F3andDZ2phQ1Awa3VR?oc=5",
+   "source": "톱데일리",
+   "date": "2026-09-01",
+   "datetime": "2026-09-01 16:14 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "반도체 호황에…삼성전자·SK하이닉스 소재지 ‘씀씀이’ 커졌다",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14cjBudkdPOW1aczhJMU9Vc2dwSXpIMk9PZmlQbjVkTUNjUW9fNnBhWGhCTDBXUWJ5ZVFjRXN3TmtNQkRoQ2pVb1lvRWhpOEtDMjRzUFdGR2VOdw?oc=5",
+   "source": "농민신문",
+   "date": "2026-09-01",
+   "datetime": "2026-09-01 16:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스, 장 초반 약세 딛고 반등 마감",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FTHh5VW92OXZ6TnM5UTY3ZFVSMFNBYjgxVlFhTm15WDZsUEFKdS1sQTk4VVJ1ZllYcU5NTmNiX081MmoxcDdEVUdQZHBGOG9Vd3FncVV2YkRPQ0JyUV9kZjRQTmVxODhhVTNBSmFwcw?oc=5",
+   "source": "진일보",
+   "date": "2026-09-01",
+   "datetime": "2026-09-01 16:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스, HBM '품귀 프리미엄' 수혜…LTA 5배 된 현물가",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13TGVlSUNGZ3RFa05ZbjVpOFFUZWY3eEVzaHB6TFVQWlJhN011MktoN1VZQWFWb1ZKY1JWWGp5UkZydUVIQ1c3bTNQMWpDTUk0clREdV80MWMwZzNLRzE1MURtcTgwX2o0?oc=5",
+   "source": "greened.kr",
+   "date": "2026-09-01",
+   "datetime": "2026-09-01 15:47 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "美 최초 HBM 만든다…SK하이닉스, AI 심장부 정조준",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyZldrb3Z0eVVZQTh0Z0pwakhwdmw4QndwZTU5NjhNZTUwNEE2SDFTRkJpYmJEQ2RMcUhscXM5UlBfbHpLc0xQV1U4cjZZNV9ISHFBQWFjTzM?oc=5",
+   "source": "경제타임스",
+   "date": "2026-09-01",
+   "datetime": "2026-09-01 14:27 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "'자금관리 강화' SK하이닉스, 빅테크 따라갈까…구글엔 운용 베테랑 즐비",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6czRjUGktN0l2UVo1UHlSbV9sWFZlWlMwelR3SktnQ2hSQWk2bDJJQ2REazM0NXRlVUxrc1pmaWxMbWtBSldJd1lIbU9qN0JHOUljTFlJdHN2MmNtMFZfUXU3N0RoWmNqZVcwLW44T0hVMEtj?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-09-01",
+   "datetime": "2026-09-01 14:13 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "테크로스 워터앤에너지, SK하이닉스 용인 300억 추가 수주 가시화",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFZlhxdC1ycmhQNkNEcVRBTzhKTG1LUzc5RWE3cS1XU0JGVXU3T1Q2WHVjUURPeVR1MmhaUnpvY3JVS1BEbVlCZ0ZxSnJobG9Lc3BwWjZBSm4wSDdVZktIdzEzREJhUQ?oc=5",
@@ -13,18 +97,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "'자금관리 강화' SK하이닉스, 빅테크 따라갈까…구글엔 운용 베테랑 즐비",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIeFc4NUlyTU9hSGhZYVRMQ3VobWZDNTY5MlR1emJwVVMtT3lGRUtIeUZJODhrWHZDbTcyVDh6WFdZRzkxZlRDeG9wNHpWOTBpU2pOOTE1WEU4a0ZDMFBIclVLaFFJNXhiU01oWVI0Ymk?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 14:06 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   },
   {
@@ -40,83 +112,11 @@
    }
   },
   {
-   "title": "[단독] 삼성·SK하이닉스 법인세 11조 냈는데…中 YMTC엔 '10년 면세' 카드 받았다",
+   "title": "[단독] 삼성·SK하이닉스 법인세 11조 냈는데…中 YMTC는 '10년 면세' 카드 받았다",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZMjZFcnVwTXR5TF84VEt6QlJRQk42ekJCVVBBUm1XYnYwWS01X3NYRjMxNHlqWXl5T3lndFNSZC1Kb3VFNzIteF8tdkFoY2QzSzlEUWxIb1MtRU05?oc=5",
    "source": "뉴스핌",
    "date": "2026-09-01",
    "datetime": "2026-09-01 13:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전기·전자 담고 SK하이닉스·이노베이션은 판다 [주식 초고수는 지금]",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YMEVXaHVVc1U2dU13TFhwLThYaUZPMFZvMW1CMmVuUVVaUW5HSHNTMzJNMTN5NmdVZ3BjQ0o5TTRNMWpJem8zM0NTOV9DYm90T1E?oc=5",
-   "source": "매일경제",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 10:55 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[데스크칼럼] 삼성·SK하이닉스가 연 ‘주주환원' 경쟁, 이제 시작이다",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQndkVzR5emNnMjlVcnE4RjZGWS1wYm9XWXduSXM4VkZwcTUzTHhkd0ZuUUZBQW9yQlF3dWtiTW5RRl9xQUxrWlFvZXh4OVY1b1ZWZXJnbmwzYlFKbnNKSFNuVE96VWVNMm5CcDlsdmdBNlVuSlU0X3ZMVGRjaXdTSmc2aHY?oc=5",
-   "source": "g-enews.com",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 10:40 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스 장 초반 동반 약세…1%대 하락",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mamdyM185QU41NWQyLTR1UTU5ZUpxNHM0MUd2bUV3MW1TT0VPQTVRU3ZHNVl2eE9qVDVlLVBDRVJMMHhKSlQzSFNBaXBpaTdMRkJXZFZ1ZU1ITEFSakdkN1paTElQejh1NjVjRjl0cw?oc=5",
-   "source": "진일보",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 09:34 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 1%대 약세",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RWUI2SElzdGJsSTlNZU5GaFFhdU1sQTUzbG85N3FWdFNyemtfanh1R2xHLTdsYVNCVGNhVmFybkt5aFdRWWdiN1phYWYtR0RjZEJ4ZTI4MGJkaFFYRko1M9IBYEFVX3lxTE5RWUI2SElzdGJsSTlNZU5GaFFhdU1sQTUzbG85N3FWdFNyemtfanh1R2xHLTdsYVNCVGNhVmFybkt5aFdRWWdiN1phYWYtR0RjZEJ4ZTI4MGJkaFFYRko1Mw?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 09:21 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스 中 eSSD '5년 족쇄' 풀리나…AI 낸드 호황 속 연말 분수령",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4NjFzWGxLTzZWTmhBcVFMcURJZWlCanlrV2ZrY0NMUUd4b3dQSVJ5eTJjTHA4WHBfaDVOU1dKTXRRcWlYSVRUZ1R1djIzX1RlZGFPTVB1eUpwMG9tR2lVTG1SQndBM24xWnluaDBEZnA5RUtY?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 08:36 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "中회사 취업하려고…‘기술유출’ SK하이닉스 前직원 징역 1년6개월 확정",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uNlcwT3FqZnAwZ045c3ZzVWlNNlpGb0xTMkFjdUZWeWZvUEtjTGpUYTQ2ay00MmJ1NnVweXc4VXF2a3ZkdXlGc3E0M2hrb2x5ZWdBQXg0SE1yaGc1TEtMR2RLTi14MUxpQUlDczQzYkJ3V2xnVnfSAWZBVV95cUxOVnhaT1g2Vnk1OHgxd2RVbHNoc2ZsZ00ydl9KSUU5YXJzQmNIMzVmUGtaSUlzdVllTU9XXzRLclFwZFFVYjZDYUtiRWF3VU9rclRBb2RFN2JQV0hPdFpvakdSRU03bEE?oc=5",
-   "source": "동아일보",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 07:55 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
