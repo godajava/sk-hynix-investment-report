@@ -1,6 +1,6 @@
 <title>SK하이닉스 투자 리포트</title>
 <style>
-/* 라이트(화이트) 전용 테마 (사용자 지정) — 아티팩트 테마 토글과 무관하게 라이트 유지 */
+/* 라이트 테마(기본) + 다크 테마(시스템 설정 또는 수동 토글) */
 :root {
   color-scheme: light;
   --bg: #f4f5f7;
@@ -22,8 +22,60 @@
   --news-pos-bg: rgba(31,157,99,0.12);
   --news-neg: #d64545;
   --news-neg-bg: rgba(214,69,69,0.10);
+  /* 차트 SVG는 자체 배경색을 그려 넣으므로 카드 배경도 같은 톤으로 맞춘다 */
   --chart-card: #fcfcfb;
+  --chart-filter: none;
 }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #15171c;
+    --paper: #1b1d23;
+    --ink: #e8e9ec;
+    --ink-2: #b6b8c0;
+    --muted: #888b93;
+    --hairline: #2b2e36;
+    --hairline-strong: #3c3f49;
+    --accent: #6ea8ff;
+    --up: #ff6b6b;
+    --up-bg: rgba(255,107,107,0.16);
+    --down: #6ea8ff;
+    --down-bg: rgba(110,168,255,0.16);
+    --neutral: #e3b34d;
+    --neutral-bg: rgba(227,179,77,0.14);
+    --news-pos: #4ad393;
+    --news-pos-bg: rgba(74,211,147,0.14);
+    --news-neg: #ff6b6b;
+    --news-neg-bg: rgba(255,107,107,0.14);
+    /* 차트는 별도 다크 자산 없이 필터로 반전 — 흰 배경↔어두운 배경, 색상 톤은 대체로 보존 */
+    --chart-card: #1b1d23;
+    --chart-filter: invert(0.93) hue-rotate(180deg);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #15171c;
+  --paper: #1b1d23;
+  --ink: #e8e9ec;
+  --ink-2: #b6b8c0;
+  --muted: #888b93;
+  --hairline: #2b2e36;
+  --hairline-strong: #3c3f49;
+  --accent: #6ea8ff;
+  --up: #ff6b6b;
+  --up-bg: rgba(255,107,107,0.16);
+  --down: #6ea8ff;
+  --down-bg: rgba(110,168,255,0.16);
+  --neutral: #e3b34d;
+  --neutral-bg: rgba(227,179,77,0.14);
+  --news-pos: #4ad393;
+  --news-pos-bg: rgba(74,211,147,0.14);
+  --news-neg: #ff6b6b;
+  --news-neg-bg: rgba(255,107,107,0.14);
+  --chart-card: #1b1d23;
+  --chart-filter: invert(0.93) hue-rotate(180deg);
+}
+
 body {
   background: var(--bg); color: var(--ink);
   font-family: "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", system-ui, sans-serif;
@@ -66,6 +118,8 @@ h1 {
   .stats > div { border-top: 1px solid var(--hairline); }
   .stats > div:nth-child(-n+2) { border-top: none; }
   .stats > div:nth-child(odd) { border-left: none; }
+  /* 항목이 5개(홀수)라 마지막 칸이 혼자 남는 문제 — 전체 폭으로 펼친다 */
+  .stats > div:last-child:nth-child(odd) { grid-column: 1 / -1; }
 }
 .asof { font-size: 12px; color: var(--muted); margin-bottom: 40px; }
 
@@ -92,7 +146,7 @@ a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   padding: 6px; margin: 18px 0; overflow-x: auto;
 }
 .chart + .chart { margin-top: 14px; }
-.chart svg { display: block; max-width: 100%; height: auto; }
+.chart svg, .chart img.tech { display: block; max-width: 100%; height: auto; filter: var(--chart-filter); }
 
 /* ── 테이블 ── */
 .tablewrap { overflow-x: auto; margin: 14px 0; }
@@ -189,10 +243,26 @@ button.refresh[disabled] { opacity: 0.6; cursor: progress; }
 }
 .livelink:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
 
+button.theme-toggle {
+  font: inherit; font-size: 12.5px; font-weight: 600; color: var(--ink-2);
+  background: none; border: 1px solid var(--hairline-strong); border-radius: 3px;
+  padding: 6px 12px; cursor: pointer;
+}
+button.theme-toggle:hover { border-color: var(--accent); color: var(--accent); }
+button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
 @media (prefers-reduced-motion: no-preference) {
   button.refresh:active { transform: scale(0.97); }
 }
 </style>
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem("sk-hynix-theme");
+    if (t === "dark" || t === "light") document.documentElement.setAttribute("data-theme", t);
+  } catch (e) {}
+})();
+</script>
 
 <div class="sheet"><div class="paper">
 
@@ -217,6 +287,8 @@ button.refresh[disabled] { opacity: 0.6; cursor: progress; }
   <button class="refresh" type="button" title="시세·지표·뉴스를 즉시 다시 불러옵니다(장중 10분 간격 수집분 기준)" onclick="window.refreshNow ? window.refreshNow(this) : location.reload()">↻ 새로고침</button>
   <a class="livelink" href="https://finance.naver.com/item/main.naver?code=000660" target="_blank" rel="noopener">네이버 금융 실시간 시세 ↗</a>
   <a class="livelink" href="https://www.tossinvest.com/stocks/A000660/order" target="_blank" rel="noopener">토스증권 ↗</a>
+  <a class="livelink" href="https://godajava.github.io/sk-hynix-investment-report/archive.html" target="_blank" rel="noopener">지난 리포트 ↗</a>
+  <button class="theme-toggle" type="button" id="theme-toggle" title="라이트/다크 테마 전환" onclick="window.toggleTheme && window.toggleTheme(this)">🌙 다크</button>
   <span class="note" id="live-note">9/1 장 마감(중립 유지·확정 종가 169.4만·+1.19%) · 다음 갱신은 9/2 아침 리포트</span>
 </div>
 
@@ -1205,9 +1277,50 @@ button.refresh[disabled] { opacity: 0.6; cursor: progress; }
     busy = false;
   };
 
-  loadQuote();
+  // ── 실시간 갱신 실패 표시: raw.githubusercontent·동일 출처 quote.json이 모두
+  //    막히면(네트워크 차단, 배포 지연 등) 정적 스냅샷이 조용히 남지 않도록
+  //    "실시간 갱신 실패" 문구로 명시한다. 성공하면 loadQuote()가 그대로 최신값·
+  //    수집 시각으로 note를 덮어써 자동 해제된다.
+  var quoteFailStreak = 0;
+  async function loadQuoteTracked() {
+    var ok = await loadQuote();
+    if (ok) {
+      quoteFailStreak = 0;
+    } else {
+      quoteFailStreak++;
+      var n = document.getElementById("live-note");
+      if (n) {
+        n.textContent = "실시간 갱신 실패 · 마지막으로 발행된 정적 스냅샷을 표시 중입니다";
+        n.style.color = "var(--news-neg)";
+      }
+    }
+    return ok;
+  }
+
+  // ── 라이트/다크 테마 토글: localStorage에 저장해 재방문 시 유지 ──
+  window.toggleTheme = function (btn) {
+    var root = document.documentElement;
+    var cur = root.getAttribute("data-theme");
+    var isDark = cur === "dark" ||
+      (!cur && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+    var next = isDark ? "light" : "dark";
+    root.setAttribute("data-theme", next);
+    try { localStorage.setItem("sk-hynix-theme", next); } catch (e) {}
+    if (btn) btn.textContent = next === "dark" ? "☀ 라이트" : "🌙 다크";
+  };
+  (function () {
+    var btn = document.getElementById("theme-toggle");
+    if (!btn) return;
+    var root = document.documentElement;
+    var cur = root.getAttribute("data-theme");
+    var isDark = cur === "dark" ||
+      (!cur && window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
+    btn.textContent = isDark ? "☀ 라이트" : "🌙 다크";
+  })();
+
+  loadQuoteTracked();
   loadNews();
-  setInterval(loadQuote, 60000);
+  setInterval(loadQuoteTracked, 60000);
   setInterval(loadNews, 300000);
 })();
 </script>

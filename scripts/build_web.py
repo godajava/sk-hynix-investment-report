@@ -99,10 +99,25 @@ def build(date):
         f'<div class="chart"><img class="tech" src="charts/{name}.svg" alt="{name}" '
         f'style="display:block;width:100%"></div>' for name in TECH_CHARTS)
     pages = tpl.replace("__TECH_CHARTS__", imgs)
+    favicon = (
+        "data:image/svg+xml,"
+        "%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E"
+        "%3Ccircle cx='16' cy='16' r='16' fill='%232a6fd0'/%3E"
+        "%3Cpath d='M8 20 L13 13 L18 17 L24 8' stroke='white' stroke-width='2.6' "
+        "fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"
+    )
+    desc = "SK하이닉스(KRX 000660) 실시간 투자 리포트 — 시세·기술적 지표·밸류에이션·투자 판단을 평일 장중 자동 갱신합니다."
     open("docs/index.html", "w").write(
         "<!doctype html><html lang=\"ko\"><head><meta charset=\"utf-8\">"
         "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
         "<meta name=\"robots\" content=\"noindex\">"
+        f"<meta name=\"description\" content=\"{desc}\">"
+        "<meta property=\"og:type\" content=\"website\">"
+        "<meta property=\"og:locale\" content=\"ko_KR\">"
+        "<meta property=\"og:site_name\" content=\"SK하이닉스 투자 리포트\">"
+        "<meta property=\"og:title\" content=\"SK하이닉스 투자 리포트\">"
+        f"<meta property=\"og:description\" content=\"{desc}\">"
+        f"<link rel=\"icon\" href=\"{favicon}\">"
         "</head><body>" + pages + "</body></html>"
     )
     print(f"생성: docs/index.html ({len(pages):,} bytes, 기술차트 img 참조)")

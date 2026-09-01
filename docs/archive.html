@@ -1,0 +1,76 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>지난 리포트 — SK하이닉스 투자 리포트</title>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f4f5f7; --paper: #ffffff; --ink: #16181d; --ink-2: #4a4c52; --muted: #74767c;
+  --hairline: #e6e7ea; --hairline-strong: #cfd1d6; --accent: #2a6fd0;
+  --up: #d64545; --down: #2a78d6; --neutral: #a6790a; --neutral-bg: rgba(120,120,124,0.12);
+  --sell-bg: rgba(214,69,69,0.10); --buy-bg: rgba(31,157,99,0.12); --buy: #1f9d63;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #15171c; --paper: #1b1d23; --ink: #e8e9ec; --ink-2: #b6b8c0; --muted: #888b93;
+    --hairline: #2b2e36; --hairline-strong: #3c3f49; --accent: #6ea8ff;
+    --up: #ff6b6b; --down: #6ea8ff; --neutral: #e3b34d; --neutral-bg: rgba(227,179,77,0.14);
+    --sell-bg: rgba(255,107,107,0.14); --buy-bg: rgba(74,211,147,0.14); --buy: #4ad393;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #15171c; --paper: #1b1d23; --ink: #e8e9ec; --ink-2: #b6b8c0; --muted: #888b93;
+  --hairline: #2b2e36; --hairline-strong: #3c3f49; --accent: #6ea8ff;
+  --up: #ff6b6b; --down: #6ea8ff; --neutral: #e3b34d; --neutral-bg: rgba(227,179,77,0.14);
+  --sell-bg: rgba(255,107,107,0.14); --buy-bg: rgba(74,211,147,0.14); --buy: #4ad393;
+}
+body {
+  background: var(--bg); color: var(--ink); margin: 0;
+  font-family: "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", system-ui, sans-serif;
+  font-size: 15px; line-height: 1.7;
+}
+.sheet { max-width: 880px; margin: 0 auto; padding: 40px 20px 72px; }
+.paper { background: var(--paper); border: 1px solid var(--hairline); border-top: 3px solid var(--accent); padding: 36px 40px 48px; }
+@media (max-width: 640px) { .paper { padding: 24px 16px 32px; } }
+h1 { font-size: 22px; font-weight: 800; margin: 0 0 6px; }
+.sub { font-size: 13px; color: var(--muted); margin: 0 0 28px; }
+.sub a { color: var(--accent); text-decoration: none; }
+.tablewrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 13.5px; }
+th { text-align: left; font-size: 12px; letter-spacing: 0.04em; color: var(--muted); font-weight: 600;
+  padding: 8px 12px; border-bottom: 1px solid var(--hairline-strong); white-space: nowrap; }
+td { padding: 9px 12px; border-bottom: 1px solid var(--hairline); vertical-align: top; }
+td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
+td a { color: var(--accent); text-decoration: none; }
+td a:hover { text-decoration: underline; }
+.pct { margin-left: 6px; font-weight: 700; }
+.pct.up { color: var(--up); }
+.pct.down { color: var(--down); }
+.badge { font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: 3px; background: var(--neutral-bg); color: var(--neutral); white-space: nowrap; }
+.badge.v-buy { background: var(--buy-bg); color: var(--buy); }
+.badge.v-sell { background: var(--sell-bg); color: var(--up); }
+footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--hairline-strong); font-size: 12px; color: var(--muted); }
+</style>
+<script>
+(function () {
+  try {
+    var t = localStorage.getItem("sk-hynix-theme");
+    if (t === "dark" || t === "light") document.documentElement.setAttribute("data-theme", t);
+  } catch (e) {}
+})();
+</script>
+</head><body>
+<div class="sheet"><div class="paper">
+<h1>지난 리포트</h1>
+<p class="sub">SK하이닉스(KRX 000660) 일별 리포트 목록입니다 · <a href="https://godajava.github.io/sk-hynix-investment-report/">오늘 리포트로 돌아가기 ↗</a></p>
+<div class="tablewrap">
+<table>
+<tr><th>날짜</th><th>유형</th><th>종가/등락</th><th>판정</th><th>원문</th></tr>
+<tr><td class="num">2026-09-01 (화)</td><td>장 마감(종가 확정)</td><td class="num">169.4만 <span class="pct up">+1.19%</span></td><td><span class="badge v-neutral">중립 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-09-01.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-31 (월)</td><td>장 마감(종가 확정)</td><td class="num">165.9만 <span class="pct up">+0.36%</span></td><td><span class="badge v-neutral">중립 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-31.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-28 (금)</td><td>장 마감(종가 확정)</td><td class="num">166.5만 <span class="pct down">-3.76%</span></td><td><span class="badge v-neutral">중립 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-28.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-27 (목)</td><td>장 마감(종가 확정)</td><td class="num">171.7만 <span class="pct up">+1.72%</span></td><td><span class="badge v-neutral">중립 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-27.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-26 (수)</td><td>장 마감(종가 확정)</td><td class="num">169.4만 <span class="pct up">+0.95%</span></td><td><span class="badge v-neutral">중립 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-26.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-25 (화)</td><td>장 마감(종가 확정)</td><td class="num">167.9만 <span class="pct up">+0.48%</span></td><td><span class="badge v-neutral">중립 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-25.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-24 (월)</td><td>장 마감(종가 확정)</td><td class="num">168.5만 <span class="pct down">-2.60%</span></td><td><span class="badge v-neutral">중립 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-24.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-21 (금)</td><td>장 마감(종가 확정)</td><td class="num">172.8만 <span class="pct up">+2.19%</span></td><td><span class="badge v-neutral">중립 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-21.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-20 (목)</td><td>장 마감(종가 확정)</td><td class="num">169.3만 <span class="pct up">+12.87%</span></td><td><span class="badge v-neutral">매도 → 중립 복귀 확정</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-20.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-19 (수)</td><td>장 마감(종가 확정)</td><td class="num">149.7만 <span class="pct down">-9.93%</span></td><td><span class="badge v-sell">매도 재전환 확정</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-19.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-18 (화)</td><td>장 마감(종가 확정)</td><td class="num">165.9만 <span class="pct up">+0.85%</span></td><td><span class="badge v-neutral">중립 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-18.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-17 (월)</td><td>—</td><td class="num">164.5만 <span class="pct up">+3.26%</span></td><td><span class="badge v-neutral">중립 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-17.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-14 (금)</td><td>장 마감(종가 확정)</td><td class="num">164.5만 <span class="pct up">+3.26%</span></td><td><span class="badge v-neutral">중립 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-14.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-13 (목)</td><td>장 마감(종가 확정)</td><td class="num">158.7만 <span class="pct up">+5.52%</span></td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-13.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-12 (수)</td><td>장 마감(종가 확정)</td><td class="num">150.4만 <span class="pct up">+5.54%</span></td><td><span class="badge v-sell">매도 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-12.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-11 (화)</td><td>장 마감(종가 확정)</td><td class="num">142.5만 <span class="pct up">+0.35%</span></td><td><span class="badge v-sell">매도 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-11.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-10 (월)</td><td>마감(종가 확정)</td><td class="num">142.1만 <span class="pct down">-0.07%</span></td><td><span class="badge v-sell">매도 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-10.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-07 (금)</td><td>마감(종가 확정)</td><td class="num">142.2만 <span class="pct down">-4.88%</span></td><td><span class="badge v-sell">매도 유지</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-07.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-06 (목)</td><td>마감 리포트</td><td class="num">152만 </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-06.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-05 (수)</td><td>마감 리포트</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-05.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-04 (화)</td><td>마감 리포트</td><td class="num">148.3만 </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-04.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-08-03 (월)</td><td>마감 리포트</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-08-03.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-31 (금)</td><td>마감 리포트</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-31.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-30 (목)</td><td>마감 리포트</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-30.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-29 (수)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-29.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-28 (화)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-28.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-27 (월)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-27.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-24 (금)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-24.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-23 (목)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-23.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-22 (수)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-22.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-21 (화)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-21.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-20 (월)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-20.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-19 (일)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-19.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-18 (토)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-18.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-17 (금)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-17.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-16 (목)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-16.md" target="_blank" rel="noopener">원문 ↗</a></td></tr><tr><td class="num">2026-07-15 (수)</td><td>—</td><td class="num"> </td><td><span class="badge ">—</span></td><td><a href="https://github.com/godajava/sk-hynix-investment-report/blob/main/reports/sk-hynix/2026-07-15.md" target="_blank" rel="noopener">원문 ↗</a></td></tr>
+</table>
+</div>
+<footer>본 목록은 각 날짜 리포트 파일(.md)에서 자동 추출한 요약이며 표기가 부정확할 수 있습니다. 정확한 내용은 원문 링크를 확인하세요.</footer>
+</div></div>
+</body></html>
