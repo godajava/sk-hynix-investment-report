@@ -845,19 +845,24 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
     if (btn) { btn.disabled = true; btn.textContent = "↻ 갱신 중…"; }
     var ok = await loadQuote();
     await loadNews();
-    if (btn) {
-      btn.disabled = false;
-      btn.textContent = ok ? "✓ 갱신됨" : "↻ 새로고침";
-      if (ok) setTimeout(function () { btn.textContent = label || "↻ 새로고침"; }, 1600);
-    }
     if (ok) {
-      // 값이 바뀌었으면 잠깐 강조해 눈에 띄게 한다
+      // quote.json은 10분 간격 cron으로만 갱신되므로, 그 사이에 눌렀다면 직전과
+      // 같은 스냅샷을 다시 받은 것일 수 있다. 실제로 값이 바뀌었을 때만 "갱신됨"
+      // 으로, 그대로면 "최신 상태"로 구분해 오해를 줄인다.
       var after = document.getElementById("live-price");
-      if (after && after.textContent !== prev) {
+      var changed = after && after.textContent !== prev;
+      if (btn) {
+        btn.disabled = false;
+        btn.textContent = changed ? "✓ 갱신됨" : "· 최신 상태";
+        setTimeout(function () { btn.textContent = label || "↻ 새로고침"; }, 1600);
+      }
+      if (changed) {
+        // 값이 바뀌었으면 잠깐 강조해 눈에 띄게 한다
         var box = after.closest("div");
         if (box) { box.classList.remove("flash"); void box.offsetWidth; box.classList.add("flash"); }
       }
     } else {
+      if (btn) { btn.disabled = false; btn.textContent = "↻ 새로고침"; }
       // 시세 파일을 못 읽는 환경(Artifact 등)에서는 기존 동작대로 페이지를 다시 연다
       location.reload();
     }
