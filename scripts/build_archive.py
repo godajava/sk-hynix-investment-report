@@ -88,7 +88,6 @@ def build():
         tr.append(
             "<tr>"
             f'<td class="num">{r["date"]} ({r["weekday"]})</td>'
-            f'<td>{r["kind"]}</td>'
             f'<td class="num">{r["price"]} {pct_html}</td>'
             f'<td><span class="badge {verdict_class(r["verdict"])}">{r["verdict"]}</span></td>'
             f'<td><a href="{REPO_BLOB}/{r["date"]}.md" target="_blank" rel="noopener">원문 ↗</a></td>'
@@ -164,7 +163,7 @@ footer {{ margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--hairl
 <p class="sub">SK하이닉스(KRX 000660) 일별 리포트 목록입니다 · <a href="https://godajava.github.io/sk-hynix-investment-report/">오늘 리포트로 돌아가기 ↗</a></p>
 <div class="tablewrap">
 <table>
-<tr><th>날짜</th><th>유형</th><th>종가/등락</th><th>판정</th><th>원문</th></tr>
+<tr><th>날짜</th><th>종가/등락</th><th>판정</th><th>원문</th></tr>
 {"".join(tr)}
 </table>
 </div>
