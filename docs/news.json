@@ -1,126 +1,126 @@
 {
- "fetchedAt": "2026-09-01 21:32 KST",
+ "fetchedAt": "2026-09-02 15:34 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "민형배 시장, SK하이닉스 이천캠퍼스 방문…반도체 협력 논의",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04YmVGYUZvMEJaRGFKNVNLRnl0MDlWb3E0X3FxbHNlLW9kM0NuNmlJTWQySGNBaVhCRnU4SkdjWnhIUy1xWHFyeWtINE5zS285ZW9na2JwMVNaOXNTRHk4TdIBYEFVX3lxTE04YmVGYUZvMEJaRGFKNVNLRnl0MDlWb3E0X3FxbHNlLW9kM0NuNmlJTWQySGNBaVhCRnU4SkdjWnhIUy1xWHFyeWtINE5zS285ZW9na2JwMVNaOXNTRHk4TQ?oc=5",
+   "title": "청주시, SK하이닉스와 ‘장년층 고독사’ 예방사업 추진",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aNmJqakV1eGtHSm1CQ0gxTDhkRDVJRkV5RWJYS0xuSzMtTVZ4M3FmMm9mQl9nMVB1UThMRUlqelV0OTR4U0ZOWlNJcFVHVy1kSDFYRkZoZ0FFd9IBX0FVX3lxTE5sYmFGd3lOTDE0XzB0VDJ3cVlVNXR3S095WG5qMmIwWlFnT0R3RzhnTTllWjZ1WjhjanRyR1c4U2tCelRmY3F1amhiZWxnUHRuaF90UjFab3V2WGJFeXVv?oc=5",
+   "source": "경향신문",
+   "date": "2026-09-02",
+   "datetime": "2026-09-02 13:50 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "청주시, SK하이닉스와 '장년층 1인 가구 안부살핌' 협약",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wVTZ1Z3VXa0p3Wmk3eVcyemVkQVlBS0FCVTVmX0V6aUlBdXFDd2VjcUp1YXpXUFNhVkNjMmRZSzF5cHp6dGhPZ0IwdV9ZYXc?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-02",
+   "datetime": "2026-09-02 10:35 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 美 반도체주 하락.. '약세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOXJvQktRc3VZX2Z3RjNjUW9ZbkhkSHd5clNJRXBpS3N3dzcya0RZVmhtd3haWEV0REo2U09mRXNUZmUtUTN4ZlBEVUlaNHhBWjd0YjZndjR6elYyZW1xUHhwVlI2WTRzdEFOemEzcnA3eG9WSWRSQVlRSm8wZjRwdHhvUkhxNnl4?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-02",
+   "datetime": "2026-09-02 10:23 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "민형배, SK하이닉스 이천캠퍼스 방문…“호남 반도체 원팀”",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hektvT1hQOWxUSlRPWUtEUml4ZUpMcF9mbUFpOHBXZ2hHWC0wQmx0T3poLWQ3UW5VRmppWjNSV0hKVS04UGMtUko3bTFZZ29FUUtLOXVUdTZsRkRyLTBKVnJWR28?oc=5",
+   "source": "MTN 머니투데이방송",
+   "date": "2026-09-02",
+   "datetime": "2026-09-02 10:20 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "전남광주·SK하이닉스 ‘원팀’ 가동…호남 반도체 클러스터 속도",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oWnM1cUV6MVpyRTR4bXZFbmxEYXRSS1JteFY2ajgyUWhxU3MxOFpqWVFMUC1YYWFob2xSWVI4UmtBakQtYzZ1YVpNaGhvLVlCY1laQWZETVhJLUhkQjhmcVRGZTZod0hLaVJhNldwZ3k1ZUXSAXNBVV95cUxNaFpzNXFFejFackU0eG12RW5sRGF0UktSbXhWNmo4MlFocVNzMThaallRTFAtWGFhaG9sUllSOFJrQWpELWM2dWFaTWhoby1ZQmNZWkFmRE1YSS1IZEI4ZnFURmU2aHdIS2lSYTZXcGd5NWVF?oc=5",
+   "source": "여성신문",
+   "date": "2026-09-02",
+   "datetime": "2026-09-02 09:59 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스 3%↓…美 반도체주 약세 영향",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9rUWFXSnVUSURFYjJneC1RMjRkaTZmRkFJMVdBWU1WZFBQbUVVbTNuR1Zzc3VKT0xfemYwWWkxcWRfNE9DM0xjRm9ZMA?oc=5",
+   "source": "아이뉴스24",
+   "date": "2026-09-02",
+   "datetime": "2026-09-02 09:18 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "“삼성전자·SK하이닉스만큼 성과급 달라”…마이크론 대만 노조 파업 예고 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT28zM2hTZ3MxSTU3VXBFdnp3ZTdSMWN0RGtCX3MzcmtrMllKdHB6RnN5ZFhaTTdfYmduMjZzUnlEdlZ6RTBaR0RyQ3Bfd2VlWHI3SW1NcHZ2MkFHSlUxTW9TN1ZQWWhQNVFQbmtPeDJ5cFdlSlIwdXFIWmFvbEhSNHB30gGWAUFVX3lxTE9VWmpyLU1RbXB2TGU4cThxUDdKc1hLcDY1bzhHT3VLc2pPbVk4cEV6STF1VnY3aVU3d2J4cFZBZmtldXIwdEdRRHF4MnlEYnBQYUZnNTUyY0xaTzBFNE5XSThJMVNOQ2hVVFZoR2FDakNLLW1Tc05WUVNrV3licnhmYmlVNzN2eW9MMmtGNm5ZWWdlZkJhQQ?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-09-01",
+   "datetime": "2026-09-01 21:36 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "청주시, 솔밭공원~SK하이닉스 3캠퍼스 ‘금연선도거리’ 지정",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IR2p0OGk2Q2laSC11WkoxcGdfeldUR3hoZGdETHQwMG5hUnE0aHZCRmlZTTZGVWlkRC04UTA0RzZtbVRZUkJBZmo0UHp0SmtvamJzb29FZ3JacVFGVjhRNUlPLWk0TnJC?oc=5",
+   "source": "충청타임즈",
+   "date": "2026-09-01",
+   "datetime": "2026-09-01 19:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "생산거점 넓히는 SK하이닉스…글로벌 대응에 총력",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5bVhoZjQ4OFE4d2ZWQXVDZkk1U2NMeG8tZkVhd1o2UG9vaTNwb2RKTFltWF92aE1lbzgxOGg4bk5TbVE1dTBMVHp6ZldzMGlOUlVoa2Y3a0V1UlA4OUZPMUZZLXBLMFJvcWNnNA?oc=5",
+   "source": "굿모닝경제",
+   "date": "2026-09-01",
+   "datetime": "2026-09-01 19:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "코스피 6,800선 회복…삼전닉스 자사주 매입 효과",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WZUFkTHNCZEZDR05DYktBRVdvM1dDRFJtWlJXNlk1N1JUOTBUUkJoNktCZ2xXRXY3NjgtcWVzZ1pZLVBSLUpXYmFzNklpSlBGeWhCd05wYXA3N2I0c3BqdNIBYEFVX3lxTE9WZUFkTHNCZEZDR05DYktBRVdvM1dDRFJtWlJXNlk1N1JUOTBUUkJoNktCZ2xXRXY3NjgtcWVzZ1pZLVBSLUpXYmFzNklpSlBGeWhCd05wYXA3N2I0c3BqdA?oc=5",
    "source": "연합뉴스",
    "date": "2026-09-01",
-   "datetime": "2026-09-01 17:52 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, ADR·솔리다임으로 '밸류업'…AI 투자 실탄 확보",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1aFRpRkVtUl9EYk01T0dBVURaOF9VQU1qLUt4UGZDZG02SWlVbDVQZzFaQlFtTlJhYUdKMjRFN3o3Q1F3andDZ2phQ1Awa3VR?oc=5",
-   "source": "톱데일리",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 16:14 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "반도체 호황에…삼성전자·SK하이닉스 소재지 ‘씀씀이’ 커졌다",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE14cjBudkdPOW1aczhJMU9Vc2dwSXpIMk9PZmlQbjVkTUNjUW9fNnBhWGhCTDBXUWJ5ZVFjRXN3TmtNQkRoQ2pVb1lvRWhpOEtDMjRzUFdGR2VOdw?oc=5",
-   "source": "농민신문",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 16:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스, 장 초반 약세 딛고 반등 마감",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FTHh5VW92OXZ6TnM5UTY3ZFVSMFNBYjgxVlFhTm15WDZsUEFKdS1sQTk4VVJ1ZllYcU5NTmNiX081MmoxcDdEVUdQZHBGOG9Vd3FncVV2YkRPQ0JyUV9kZjRQTmVxODhhVTNBSmFwcw?oc=5",
-   "source": "진일보",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 16:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스, HBM '품귀 프리미엄' 수혜…LTA 5배 된 현물가",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13TGVlSUNGZ3RFa05ZbjVpOFFUZWY3eEVzaHB6TFVQWlJhN011MktoN1VZQWFWb1ZKY1JWWGp5UkZydUVIQ1c3bTNQMWpDTUk0clREdV80MWMwZzNLRzE1MURtcTgwX2o0?oc=5",
-   "source": "greened.kr",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 15:47 KST",
+   "datetime": "2026-09-01 18:48 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "美 최초 HBM 만든다…SK하이닉스, AI 심장부 정조준",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAyZldrb3Z0eVVZQTh0Z0pwakhwdmw4QndwZTU5NjhNZTUwNEE2SDFTRkJpYmJEQ2RMcUhscXM5UlBfbHpLc0xQV1U4cjZZNV9ISHFBQWFjTzM?oc=5",
-   "source": "경제타임스",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 14:27 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "'자금관리 강화' SK하이닉스, 빅테크 따라갈까…구글엔 운용 베테랑 즐비",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6czRjUGktN0l2UVo1UHlSbV9sWFZlWlMwelR3SktnQ2hSQWk2bDJJQ2REazM0NXRlVUxrc1pmaWxMbWtBSldJd1lIbU9qN0JHOUljTFlJdHN2MmNtMFZfUXU3N0RoWmNqZVcwLW44T0hVMEtj?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 14:13 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "테크로스 워터앤에너지, SK하이닉스 용인 300억 추가 수주 가시화",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBFZlhxdC1ycmhQNkNEcVRBTzhKTG1LUzc5RWE3cS1XU0JGVXU3T1Q2WHVjUURPeVR1MmhaUnpvY3JVS1BEbVlCZ0ZxSnJobG9Lc3BwWjZBSm4wSDdVZktIdzEzREJhUQ?oc=5",
-   "source": "디일렉",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 14:07 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스·마이크론 첨단 D램·HBM 투자에 소부장도 ‘릴레이 증설’",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95cklWcGJrMjRyekp1NGY3a0p4cGdfaEpnaFBoQm1MNWRNbnU2THBmUndKTDI5U2h4NXBYbnhfcTROY19HRVlYTTZNN1R2bjN6dklhajY3S3RhNlRob29iek5HVzBuOWhpQXZzcTl1cWhKOVRVdlHSAXZBVV95cUxPeXJJVnBiazI0cnpKdTRmN2tKeHBnX2hKZ2hQaEJtTDVkTW51NkxwZlJ3SkwyOVNoeDVwWG54X3E0TmNfR0VZWE02TTdUdm4zenZJYWo2N0t0YTZUaG9vYnpOR1cwbjloaUF2c3E5dXFoSjlUVXZR?oc=5",
-   "source": "시사저널e",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 13:48 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[단독] 삼성·SK하이닉스 법인세 11조 냈는데…中 YMTC는 '10년 면세' 카드 받았다",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5ZMjZFcnVwTXR5TF84VEt6QlJRQk42ekJCVVBBUm1XYnYwWS01X3NYRjMxNHlqWXl5T3lndFNSZC1Kb3VFNzIteF8tdkFoY2QzSzlEUWxIb1MtRU05?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-01",
-   "datetime": "2026-09-01 13:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
