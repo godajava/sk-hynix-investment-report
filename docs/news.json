@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-03 12:32 KST",
+ "fetchedAt": "2026-09-03 13:33 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "삼전닉스 전기요금 3년 선납에 촉각…SK하이닉스 연내 국고채 투자개시 유효할까",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54ajRwTWFiWGFaUGtfYlRfemVqbDZNU21rYno0aFplRmNfQlFZYzI0ejE2OTByZnFLVTBNTTZWVGx6NXAtbnBfNWcxZFZneDlvelBLR0VGUVNLbG1nenpSVDlKaEtORlY4bDl5elpndXA?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 12:50 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "곽노정 SK하이닉스 사장, 임단협 부결 후 소통…\"세부안 함께 고민\" By 알파경제 alphabiz",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tSGt1MVpGUlM5ZnYyZjBCbk1mZTE2Z3BKRXNsT01BRmp5Y0NyOUlSaTFfLVM1aUhxS21GUkVwTlo3LUVLNlM5dXFoM3RSOUVQOEUzX1FjcFExQ1p1NkdLMEdDaUZneXN4ZnJSOUNoVEY?oc=5",
@@ -29,7 +41,7 @@
   },
   {
    "title": "한전, 삼성·SK하이닉스에 전기료 25조 선납 제안…“첨단산업 전력망 투자 대응”",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ZFRKTTJ1WXg0TFdlR3R1RU9IdExLWnpzSUx2OUVQdE0wNW94UW5hMzUzMDN3ZDNZOWhsTGFNNUFVN3dVTzZzZ0gxbmFGcUdxM1JlR01tUE9MSF9FOGtPcmtR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GN0ZuU0xmVjdKMWI5QWszR1lvdkRTRTZWZzNfYktTbnZicm9Pc3hMb3lmTzZNbGZrX2dHOENLcXRXb2V1QTZneHpMaHp2TzdEMWxVaFpUUEhiTVE?oc=5",
    "source": "에너지경제신문",
    "date": "2026-09-03",
    "datetime": "2026-09-03 11:27 KST",
@@ -64,18 +76,6 @@
    }
   },
   {
-   "title": "로이터 \"한국 외환당국, SK하이닉스가 미국 상장으로 조달한 외화 200억 달러 매입\"",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUm90bjRuTXJ2THZxZVlQSmRDX05SaUFhY3N6SVNIU0FRYnVWbVJNZlhGUHBuT0tzLVdGZDNpdFc4ekZIQnNtRmxjeDMtb2pqQ2N5V2hoaF9KVVVfM1RaeE5MbmVKdlpzZk93RlF0WEI2Ujg?oc=5",
-   "source": "비즈니스포스트",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 10:22 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "한전, 삼성전자·SK하이닉스에 5년치 전기료 25조 선납 제안",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6UGxGM0hWSW9xZ1QxQXdGUWx6MmhEbTdSRGpCMU5GYXV4NkhpUXZtUDJUVDZlYm9sR0Z0RnZNdFd4cWhnY1czSDR0QVlZTEU?oc=5",
    "source": "v.daum.net",
@@ -90,7 +90,7 @@
   {
    "title": "'임단협 잠정합의안 부결' SK하이닉스 \"구성원 불이익 없도록 할 것\"",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12WDFGcVFCVkVvX045RlJ0dDdBdzZVajVzcTVxdWM1NnVlSFJZcmoyVV9QU2dlRlZZMmo5aHRtWmNjM1NidkREcF82Z3hQVFZBUzFTdDRyV2dJM25ESWlhdzZFS0g?oc=5",
-   "source": "m-i.kr",
+   "source": "매일일보",
    "date": "2026-09-03",
    "datetime": "2026-09-03 10:08 KST",
    "signal": {
@@ -102,7 +102,7 @@
   {
    "title": "교보증권, SK하이닉스 기초자산 ELB 456회 공모",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWtBbFAyODdRMVl5TVZ3b2xLeGlJTUN3QU9PUk5wbEQzVDlzbjMwZDZFTmFiZHdlcVN5dER1dm4zcGFYZFZyaFN5RWw0Qk5WblNFc0dHS0ZoNDJVR0UyUXJiUmQzTzRYSXFTMndmeWk2M1FpQmJIY1VsejhSTjl2dTlfUV95MFZy?oc=5",
-   "source": "g-enews.com",
+   "source": "글로벌이코노믹",
    "date": "2026-09-03",
    "datetime": "2026-09-03 10:06 KST",
    "signal": {
@@ -114,7 +114,7 @@
   {
    "title": "[특징주] 삼성전자·SK하이닉스, 美 3대 주가 지수 강세.. '상승'",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWjVGVF9FMk5LT2dQR1M5aXl0Nmw2TUl0dzZidVVrWjRfRHJlU3hnT3FYczVHSEgwMF9zV0h0X1c3QUU5M1k0LTFsRUo4WUZyOVdCRnExczE1X09sWVpiSUtLbGxIcnMza0hZNlh5MEdBU21rMEg1X0djeUdvSXFoNmVfR0VSa1E?oc=5",
-   "source": "g-enews.com",
+   "source": "글로벌이코노믹",
    "date": "2026-09-03",
    "datetime": "2026-09-03 09:47 KST",
    "signal": {
