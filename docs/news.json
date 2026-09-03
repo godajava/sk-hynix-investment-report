@@ -1,8 +1,56 @@
 {
- "fetchedAt": "2026-09-03 09:32 KST",
+ "fetchedAt": "2026-09-03 10:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 美 3대 주가 지수 강세.. '상승'",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWjVGVF9FMk5LT2dQR1M5aXl0Nmw2TUl0dzZidVVrWjRfRHJlU3hnT3FYczVHSEgwMF9zV0h0X1c3QUU5M1k0LTFsRUo4WUZyOVdCRnExczE1X09sWVpiSUtLbGxIcnMza0hZNlh5MEdBU21rMEg1X0djeUdvSXFoNmVfR0VSa1E?oc=5",
+   "source": "g-enews.com",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 09:47 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자, 장 초반 0.8% 상승 중…SK하이닉스도 0.7%↑",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TRERCcU1FVm50YzBhbktlVFNRNEZLdVo5RWRjdUx3dHZ2LUtHRGNkUjhFOTFOWnliT3Y3ZkhvQjJxR0pwNWdCQVl1XzVodTJobUVaQTBRMjE4aGvSAWBBVV95cUxPODd1QmNNQXliUzdCcDYxNXljaUYwN3NwRXFadHU0MGFqaUx6MllKS0lwd2VnR2dtblR6dUtaRVNPdnZIVlRDcnA5T21RRFo5dW0xMXUtczBudGI2bTNzdVA?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 09:25 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 합의안 부결 후 첫 소통행사, 곽노정 대표 어떤 이야기 했나",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuTWp3TG16S2lQUEt6bzQwZElkNU5NaG54eTdCVEpmMXRmQ1RiZF81cTRJSS15TzRFZHlEUUdsVkMyVjFwLTdNdWtLaWhabTZVblhRLVVfMDNuZkxpanpRSVV3?oc=5",
+   "source": "이코노미스트",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 09:16 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 “성과급 불이익 없도록 하겠다”",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qQmZ1blZhTWc0TENDZjU3UFJZQ244X2ltRzNLSlJXNGlKUnFaSzlDV25TTFZ3RkJ3RVJqeXhCQnRNeFM1MHFUOHc4MVpQSkMzcXkzMDB2R3dNUzc5S0dMRGdSZ3Y5QjZZOEpYNzVEdW7SAXRBVV95cUxPTFZvcUVLaWR2R1VpSnNjUy1kQV80RUtoRzdYYVlQaDNpelNMbnRaOVJrSUtHZnQ4b3JVTnhTbnRRa0NSd2FiS3JnUzBybTFPMnc3ckoxRmlUd2MxUldGcTJSVzBqd3VULXJqOW1DZ2RzTlpLSA?oc=5",
+   "source": "IT조선",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 09:13 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스 \"구성원 불이익 없도록 할 것\"…임단협 부결 후 첫 소통 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aNUZJZEo1bjZaa2UtVmR0UXlSNzZPU3N2Q3JXUDJWeWtoSDlkcDBYd3otbjdVa2t2c2VfR3lCU0xfTHdRQnVUZ2l5QWNySzBOYTJVamtEZ3duRXJNY2dmVnN0XzZMN2JldHREcdIBckFVX3lxTE9MM3htb3ZZYVNEcjkyNXdMeXdxWmwzeWVJckVTekM3TjdfNzRhcnFsWGpoNEtpaHh0ZElhN3I1ZUpLYnJiaGNzbG1QdkRERnRZQmItTkJmcUlFOFRCTGVBbldzbnlxODJsc3g2Wl82ZklvQQ?oc=5",
@@ -16,9 +64,9 @@
    }
   },
   {
-   "title": "4조 넣은 키옥시아, 이젠 생산동맹?…SK하이닉스 日투자 셈법은",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rRkkyOXdlSURrRTUwMmh2QlFlT1hfcFhKc0tteTgwNXZCMG4zOW5lLWRlWlpRX2NJOHFWcFhxUHN5THlwOFItRl9qOG5vTHVPNFhadXUyZVJsNnR0YjVYQ3dzMnY5eXhERllhTW5QS1U?oc=5",
-   "source": "연합인포맥스",
+   "title": "SK하이닉스, 임단협 부결 후 첫 메시지…“불이익 없도록 할 것\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Udy1mTmVpMVREc25aUm5ETk1FU1doS1A5aDRHcks1dmV2ajAyd1B6T014d0J6VXVZSFZMVVZ1RUg0UC1JZ01GX256YWdvcGYybkdiM1V0YTlUaElWNDRSSTdHWTM?oc=5",
+   "source": "서울경제TV",
    "date": "2026-09-03",
    "datetime": "2026-09-03 09:10 KST",
    "signal": {
@@ -29,7 +77,7 @@
   },
   {
    "title": "SK하이닉스가 일본에 공장 지으면... 생각만 해도 아찔 [반도체 특별과외]",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RbEFfWFl5WjRkbTV4ZHBBUER2X1MxOXg0YThHUWlnbE4tdXplcmJJQlRlTEJOUUJHLS03aEhlT0JHRTNqNHdQS3lQcnZDNEE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EM0cwRzV0US11eGhHUG5rdEo2WlVSZWhzcElrbWVIQnB4QmpMTUppbnZJOUdNQVNjLXN3VDBSeUJIb2ZwOHlZU3M5VE1UVV9YeFc1aw?oc=5",
    "source": "v.daum.net",
    "date": "2026-09-03",
    "datetime": "2026-09-03 07:32 KST",
@@ -73,54 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 \"구성원 성과와 보상 당당히 인정받도록 할 것\"",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RTkkybGVOdzNGN1JZWkl4Uld3eHhOZlRoRTF4Nk5iVXp4bHVYZnZsZkpDcHBfQXA3Ui1BMU10eVlwUmczeUpBei1oZTN0VUlFUGxvYlBlRUtaS3VGMjNTQTFoOEVzcm42aGxFX3FQYlJGbkpT?oc=5",
-   "source": "연합뉴스 한민족센터",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 06:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "로이터 \"한국 외환당국, SK하이닉스가 미국 상장으로 조달한 외화 200억 달러 매입\"",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUm90bjRuTXJ2THZxZVlQSmRDX05SaUFhY3N6SVNIU0FRYnVWbVJNZlhGUHBuT0tzLVdGZDNpdFc4ekZIQnNtRmxjeDMtb2pqQ2N5V2hoaF9KVVVfM1RaeE5MbmVKdlpzZk93RlF0WEI2Ujg?oc=5",
-   "source": "비즈니스포스트",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 05:52 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자 DS 물 재이용 증가율 3년 연속 둔화…SK하이닉스는 두 자릿수 유지",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aQzg5N3RQcGhobjJYN082a3BncG9zUm95NGFNMzRrNkZDUDM0T1dPMFFBZmtDZ1l3MWpzalViNnM1TFoyUEJYeFlJd0c1ZFBSaVJrTWRxUm5pc0oxMEh6LUdkNnludEVBNENhZk1aRlh1eXpUMTQw0gF3QVVfeXFMT1pDODk3dFBwaGhuMlg3TzZrcGdwb3NSb3k0YU0zNGs2RkNQMzRPV08wUUFma0NnWXcxanNqVWI2czVMWjJQQlh4WUl3RzVkUFJpUmtNZHFSbmlzSjEwSHotR2Q2eW50RUE0Q2FmTVpGWHV5elQxNDA?oc=5",
-   "source": "스트레이트뉴스",
-   "date": "2026-09-02",
-   "datetime": "2026-09-02 18:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[2026 GGGF] AI 병목은 이제 메모리…SK하이닉스, 에이전트 시대 메모리 중심 승부",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6REE3M3ozNmlNdUlmYjFQS3BGV183UUFWTXE0SEVZd05aVndCOUVTN2lqN0U3aVFUWWNRMlVDb0ZxdDY5aTRodHlEWTB3YjFXdEV2cTA1NEcyZ9IBWEFVX3lxTFBscXR0OTkxUDdNZ1ZEZFJGRjR5NzNnUFRBX2Y3eERpM2VuUTMwNG92V3BKd0tlRzMtb24xNGNfNDcxYVNKcV9OeXZyWjBlR3AwUUhiVTlFdDg?oc=5",
-   "source": "아주경제",
-   "date": "2026-09-02",
-   "datetime": "2026-09-02 17:49 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
