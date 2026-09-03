@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-09-03 09:23 KST",
+ "fetchedAt": "2026-09-03 09:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 임단협 부결 후 첫 메시지…“불이익 없도록 할 것\"",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Udy1mTmVpMVREc25aUm5ETk1FU1doS1A5aDRHcks1dmV2ajAyd1B6T014d0J6VXVZSFZMVVZ1RUg0UC1JZ01GX256YWdvcGYybkdiM1V0YTlUaElWNDRSSTdHWTM?oc=5",
-   "source": "서울경제TV",
+   "title": "SK하이닉스 \"구성원 불이익 없도록 할 것\"…임단협 부결 후 첫 소통 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aNUZJZEo1bjZaa2UtVmR0UXlSNzZPU3N2Q3JXUDJWeWtoSDlkcDBYd3otbjdVa2t2c2VfR3lCU0xfTHdRQnVUZ2l5QWNySzBOYTJVamtEZ3duRXJNY2dmVnN0XzZMN2JldHREcdIBckFVX3lxTE9MM3htb3ZZYVNEcjkyNXdMeXdxWmwzeWVJckVTekM3TjdfNzRhcnFsWGpoNEtpaHh0ZElhN3I1ZUpLYnJiaGNzbG1QdkRERnRZQmItTkJmcUlFOFRCTGVBbldzbnlxODJsc3g2Wl82ZklvQQ?oc=5",
+   "source": "머니투데이",
    "date": "2026-09-03",
-   "datetime": "2026-09-03 09:10 KST",
+   "datetime": "2026-09-03 09:11 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -28,20 +28,8 @@
    }
   },
   {
-   "title": "삼성전자·SK하이닉스가 이끈 올해 코스피…코스닥은 소외 심화 [1분 브리프]",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90MEJUUXFRQ09fdk5kTFpWNjFncjZzdEk3THdhVmFDMmpvQ245NWFlbDZFckk2RFNUaGJmSEF0eDR0ZVMxYVpRaFhSZnVJMW9UbUJXeVZFQlV1T3Nwcl9SQg?oc=5",
-   "source": "아시아경제",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 08:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "SK하이닉스가 일본에 공장 지으면... 생각만 해도 아찔 [반도체 특별과외]",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EM0cwRzV0US11eGhHUG5rdEo2WlVSZWhzcElrbWVIQnB4QmpMTUppbnZJOUdNQVNjLXN3VDBSeUJIb2ZwOHlZU3M5VE1UVV9YeFc1aw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1RbEFfWFl5WjRkbTV4ZHBBUER2X1MxOXg0YThHUWlnbE4tdXplcmJJQlRlTEJOUUJHLS03aEhlT0JHRTNqNHdQS3lQcnZDNEE?oc=5",
    "source": "v.daum.net",
    "date": "2026-09-03",
    "datetime": "2026-09-03 07:32 KST",
@@ -76,6 +64,18 @@
    }
   },
   {
+   "title": "美반도체주 반등…엔비디아 3.2%·SK하이닉스 ADR 2.6%↑",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41MkJldTFzSW1YY3BabE5rSElVUTVaSTVwU2l6U1JKTlRET0tESVk2a1NfUk03VEo5S1dDb1NzMWUteFdqQzUzNnlPbHI1RnM?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 06:04 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
    "title": "SK하이닉스 \"구성원 성과와 보상 당당히 인정받도록 할 것\"",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RTkkybGVOdzNGN1JZWkl4Uld3eHhOZlRoRTF4Nk5iVXp4bHVYZnZsZkpDcHBfQXA3Ui1BMU10eVlwUmczeUpBei1oZTN0VUlFUGxvYlBlRUtaS3VGMjNTQTFoOEVzcm42aGxFX3FQYlJGbkpT?oc=5",
    "source": "연합뉴스 한민족센터",
@@ -100,11 +100,11 @@
    }
   },
   {
-   "title": "[단독] 삼성전자 20조·하이닉스 5조… 정부, 5년치 전기료 선납 제안",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORm1sSEtNc1FWZ2dXenppd21WNDk2MzZNeVFCeUhmSVRzVGNURFNKanZxYUJnNzI1cGFHMWw3WUpaTWQzRUktdDkxR2xySFJxZHR1d2VzM2RLYVV6ZGNxUkNsS2FVYzhPcVBrVXFaSjE4NW1FNDQ1bzY1N2tMZG44TkVkLVdFejhIWjdLd2Yxbw?oc=5",
-   "source": "조선일보",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 05:07 KST",
+   "title": "삼성전자 DS 물 재이용 증가율 3년 연속 둔화…SK하이닉스는 두 자릿수 유지",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aQzg5N3RQcGhobjJYN082a3BncG9zUm95NGFNMzRrNkZDUDM0T1dPMFFBZmtDZ1l3MWpzalViNnM1TFoyUEJYeFlJd0c1ZFBSaVJrTWRxUm5pc0oxMEh6LUdkNnludEVBNENhZk1aRlh1eXpUMTQw0gF3QVVfeXFMT1pDODk3dFBwaGhuMlg3TzZrcGdwb3NSb3k0YU0zNGs2RkNQMzRPV08wUUFma0NnWXcxanNqVWI2czVMWjJQQlh4WUl3RzVkUFJpUmtNZHFSbmlzSjEwSHotR2Q2eW50RUE0Q2FmTVpGWHV5elQxNDA?oc=5",
+   "source": "스트레이트뉴스",
+   "date": "2026-09-02",
+   "datetime": "2026-09-02 18:54 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -112,11 +112,11 @@
    }
   },
   {
-   "title": "삼성전자 DS 물 재이용 증가율 3년 연속 둔화…SK하이닉스는 두 자릿수 유지",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aQzg5N3RQcGhobjJYN082a3BncG9zUm95NGFNMzRrNkZDUDM0T1dPMFFBZmtDZ1l3MWpzalViNnM1TFoyUEJYeFlJd0c1ZFBSaVJrTWRxUm5pc0oxMEh6LUdkNnludEVBNENhZk1aRlh1eXpUMTQw0gF3QVVfeXFMT1pDODk3dFBwaGhuMlg3TzZrcGdwb3NSb3k0YU0zNGs2RkNQMzRPV08wUUFma0NnWXcxanNqVWI2czVMWjJQQlh4WUl3RzVkUFJpUmtNZHFSbmlzSjEwSHotR2Q2eW50RUE0Q2FmTVpGWHV5elQxNDA?oc=5",
-   "source": "스트레이트뉴스",
+   "title": "[2026 GGGF] AI 병목은 이제 메모리…SK하이닉스, 에이전트 시대 메모리 중심 승부",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6REE3M3ozNmlNdUlmYjFQS3BGV183UUFWTXE0SEVZd05aVndCOUVTN2lqN0U3aVFUWWNRMlVDb0ZxdDY5aTRodHlEWTB3YjFXdEV2cTA1NEcyZ9IBWEFVX3lxTFBscXR0OTkxUDdNZ1ZEZFJGRjR5NzNnUFRBX2Y3eERpM2VuUTMwNG92V3BKd0tlRzMtb24xNGNfNDcxYVNKcV9OeXZyWjBlR3AwUUhiVTlFdDg?oc=5",
+   "source": "아주경제",
    "date": "2026-09-02",
-   "datetime": "2026-09-02 18:54 KST",
+   "datetime": "2026-09-02 17:49 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
