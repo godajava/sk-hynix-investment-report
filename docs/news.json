@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-09-03 13:33 KST",
+ "fetchedAt": "2026-09-03 14:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "삼전닉스 전기요금 3년 선납에 촉각…SK하이닉스 연내 국고채 투자개시 유효할까",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54ajRwTWFiWGFaUGtfYlRfemVqbDZNU21rYno0aFplRmNfQlFZYzI0ejE2OTByZnFLVTBNTTZWVGx6NXAtbnBfNWcxZFZneDlvelBLR0VGUVNLbG1nenpSVDlKaEtORlY4bDl5elpndXA?oc=5",
-   "source": "연합인포맥스",
+   "title": "로이터 \"한국 외환당국, SK하이닉스가 미국 상장으로 조달한 외화 200억 달러 매입\"",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUm90bjRuTXJ2THZxZVlQSmRDX05SaUFhY3N6SVNIU0FRYnVWbVJNZlhGUHBuT0tzLVdGZDNpdFc4ekZIQnNtRmxjeDMtb2pqQ2N5V2hoaF9KVVVfM1RaeE5MbmVKdlpzZk93RlF0WEI2Ujg?oc=5",
+   "source": "비즈니스포스트",
    "date": "2026-09-03",
-   "datetime": "2026-09-03 12:50 KST",
+   "datetime": "2026-09-03 13:25 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -41,7 +41,7 @@
   },
   {
    "title": "한전, 삼성·SK하이닉스에 전기료 25조 선납 제안…“첨단산업 전력망 투자 대응”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GN0ZuU0xmVjdKMWI5QWszR1lvdkRTRTZWZzNfYktTbnZicm9Pc3hMb3lmTzZNbGZrX2dHOENLcXRXb2V1QTZneHpMaHp2TzdEMWxVaFpUUEhiTVE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ZFRKTTJ1WXg0TFdlR3R1RU9IdExLWnpzSUx2OUVQdE0wNW94UW5hMzUzMDN3ZDNZOWhsTGFNNUFVN3dVTzZzZ0gxbmFGcUdxM1JlR01tUE9MSF9FOGtPcmtR?oc=5",
    "source": "에너지경제신문",
    "date": "2026-09-03",
    "datetime": "2026-09-03 11:27 KST",
@@ -77,10 +77,10 @@
   },
   {
    "title": "한전, 삼성전자·SK하이닉스에 5년치 전기료 25조 선납 제안",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6UGxGM0hWSW9xZ1QxQXdGUWx6MmhEbTdSRGpCMU5GYXV4NkhpUXZtUDJUVDZlYm9sR0Z0RnZNdFd4cWhnY1czSDR0QVlZTEU?oc=5",
-   "source": "v.daum.net",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WLVJWb1JONG1OYmt0V2JNa2VVNDVobHhqR1BTU0pCUGIyaGgwSFp4SVlPVXRscUpwRnBSdnZqUFBVb1NiTi1UMWtBdEZmSmtYSHlLOFA5MEZNVTA?oc=5",
+   "source": "news.kbs.co.kr",
    "date": "2026-09-03",
-   "datetime": "2026-09-03 10:12 KST",
+   "datetime": "2026-09-03 10:10 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
