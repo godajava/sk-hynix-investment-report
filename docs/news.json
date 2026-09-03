@@ -1,122 +1,122 @@
 {
- "fetchedAt": "2026-09-02 21:05 KST",
+ "fetchedAt": "2026-09-03 09:23 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스, 임단협 부결 후 첫 메시지…“불이익 없도록 할 것\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Udy1mTmVpMVREc25aUm5ETk1FU1doS1A5aDRHcks1dmV2ajAyd1B6T014d0J6VXVZSFZMVVZ1RUg0UC1JZ01GX256YWdvcGYybkdiM1V0YTlUaElWNDRSSTdHWTM?oc=5",
+   "source": "서울경제TV",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 09:10 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "4조 넣은 키옥시아, 이젠 생산동맹?…SK하이닉스 日투자 셈법은",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rRkkyOXdlSURrRTUwMmh2QlFlT1hfcFhKc0tteTgwNXZCMG4zOW5lLWRlWlpRX2NJOHFWcFhxUHN5THlwOFItRl9qOG5vTHVPNFhadXUyZVJsNnR0YjVYQ3dzMnY5eXhERllhTW5QS1U?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 09:10 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스가 이끈 올해 코스피…코스닥은 소외 심화 [1분 브리프]",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90MEJUUXFRQ09fdk5kTFpWNjFncjZzdEk3THdhVmFDMmpvQ245NWFlbDZFckk2RFNUaGJmSEF0eDR0ZVMxYVpRaFhSZnVJMW9UbUJXeVZFQlV1T3Nwcl9SQg?oc=5",
+   "source": "아시아경제",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 08:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스가 일본에 공장 지으면... 생각만 해도 아찔 [반도체 특별과외]",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EM0cwRzV0US11eGhHUG5rdEo2WlVSZWhzcElrbWVIQnB4QmpMTUppbnZJOUdNQVNjLXN3VDBSeUJIb2ZwOHlZU3M5VE1UVV9YeFc1aw?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 07:32 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 용인-광주 병행 투자로 가닥…장비 발주 배분 '고민'",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45WkRaWEY5eEJLVWZMSmMtQkVqcmVpeEpUSXhSdzZEWFFlNE43ODR6MGlUZEd1NW1rSFFuVFE1ZE1mUGMxeFFlWnd3cEdZR1U?oc=5",
+   "source": "딜사이트",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 07:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성·SK하이닉스 소액주주 1100만명 시대…주주환원책 중요성도↑",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40bkxKQ2NWeFRWQnpoM2psVFlpREl6Ukp0N1Iwb1dGY2hpNl9ZTzczMEVIUXVXbFhEampUWnVyZllaR2t0UGhfY1g5ZXpfYm8?oc=5",
+   "source": "딜사이트",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 07:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 \"구성원 성과와 보상 당당히 인정받도록 할 것\"",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RTkkybGVOdzNGN1JZWkl4Uld3eHhOZlRoRTF4Nk5iVXp4bHVYZnZsZkpDcHBfQXA3Ui1BMU10eVlwUmczeUpBei1oZTN0VUlFUGxvYlBlRUtaS3VGMjNTQTFoOEVzcm42aGxFX3FQYlJGbkpT?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 06:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "로이터 \"한국 외환당국, SK하이닉스가 미국 상장으로 조달한 외화 200억 달러 매입\"",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUm90bjRuTXJ2THZxZVlQSmRDX05SaUFhY3N6SVNIU0FRYnVWbVJNZlhGUHBuT0tzLVdGZDNpdFc4ekZIQnNtRmxjeDMtb2pqQ2N5V2hoaF9KVVVfM1RaeE5MbmVKdlpzZk93RlF0WEI2Ujg?oc=5",
+   "source": "비즈니스포스트",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 05:52 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[단독] 삼성전자 20조·하이닉스 5조… 정부, 5년치 전기료 선납 제안",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORm1sSEtNc1FWZ2dXenppd21WNDk2MzZNeVFCeUhmSVRzVGNURFNKanZxYUJnNzI1cGFHMWw3WUpaTWQzRUktdDkxR2xySFJxZHR1d2VzM2RLYVV6ZGNxUkNsS2FVYzhPcVBrVXFaSjE4NW1FNDQ1bzY1N2tMZG44TkVkLVdFejhIWjdLd2Yxbw?oc=5",
+   "source": "조선일보",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 05:07 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "삼성전자 DS 물 재이용 증가율 3년 연속 둔화…SK하이닉스는 두 자릿수 유지",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aQzg5N3RQcGhobjJYN082a3BncG9zUm95NGFNMzRrNkZDUDM0T1dPMFFBZmtDZ1l3MWpzalViNnM1TFoyUEJYeFlJd0c1ZFBSaVJrTWRxUm5pc0oxMEh6LUdkNnludEVBNENhZk1aRlh1eXpUMTQw0gF3QVVfeXFMT1pDODk3dFBwaGhuMlg3TzZrcGdwb3NSb3k0YU0zNGs2RkNQMzRPV08wUUFma0NnWXcxanNqVWI2czVMWjJQQlh4WUl3RzVkUFJpUmtNZHFSbmlzSjEwSHotR2Q2eW50RUE0Q2FmTVpGWHV5elQxNDA?oc=5",
    "source": "스트레이트뉴스",
    "date": "2026-09-02",
    "datetime": "2026-09-02 18:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "청주시-SK하이닉스 '장년 1인가구 고독사 예방' 맞손",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41cWRUUGZfd0lIWk5vTF83YzZ6NnJERWF3ZEdvMEJxVk01ek1aNXgtWlowUGloQ2FmYVRGVWpJYUh4dzllZm5hcEhDdTY1aWM1Ulp4d3dObHZZQUNzWUhwV1FFalRoLXJXU3g5NzNXdVhDUQ?oc=5",
-   "source": "굿모닝충청",
-   "date": "2026-09-02",
-   "datetime": "2026-09-02 17:39 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스도 제쳤다…상반기 급여 '1.8억' 1위 회사 어디",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PTXlfM2NOb2tpRWhQMXNMQnJRU3VXaWFtamlGay1uTXYzREpXOFdldGJHMktPUGwyTXNablplajVnSXZCQVloQ2hpQkZONWQ5WU1YYm9Vc20zdw?oc=5",
-   "source": "한국경제",
-   "date": "2026-09-02",
-   "datetime": "2026-09-02 16:04 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[특징주] '자사주 매입'에도 중동 긴장 재고조 속 삼전·닉스 4%대↓(종합)",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5MNXBfVEtnUVpCNzI1MnFlbXMxRjQyTG9KZ0wzTkxyN2l1VUp1X2Q2eGZ2ckl4RUZKX3gwRjNKTXVrOFJTSkFwUkxwSlFJYk9zaFEwakdlTGthVGx2d0VYWdIBYEFVX3lxTE5MNXBfVEtnUVpCNzI1MnFlbXMxRjQyTG9KZ0wzTkxyN2l1VUp1X2Q2eGZ2ckl4RUZKX3gwRjNKTXVrOFJTSkFwUkxwSlFJYk9zaFEwakdlTGthVGx2d0VYWQ?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-02",
-   "datetime": "2026-09-02 15:56 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 日생산거점 구축 타진…최태원 \"키옥시아와 공동생산 등 협력 가능\"",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XbEpFN0ttNnlsMUZSNGN0WDFfM1djZ2toZjVBWlFzOFdXaUx3d3BXVFlQODRBc19za2c1cHlfNEVUcFhHZmMtdlZpcEpZZnJRWElWamljY2Z2Zw?oc=5",
-   "source": "한국경제",
-   "date": "2026-09-02",
-   "datetime": "2026-09-02 15:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "경제 통합 이어 SK하이닉스 공장까지… 日에 공들이는 최태원, 주목받는 ‘박상규 역할론’ - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcUhOSTVNZW9wTDNwT0ZCUE4wWXdyeVJVMnItb3BXZUd3Z0hxanhnWVFRQk41QkxJeXMtVFE4NzN3UFotQ0NVdHdhWXdFUWVtYUlQRzZDMjZvVDAtT2U5Ukl2LTEtLThyOURWUno5ZGMtbnhONFBPRWZkN1F2cHFNbnJFN2TSAZgBQVVfeXFMT3BXWVE1b2JQWlk4UTNiaFdocjhvcUx3V0R5NXVuNEtiSEZkczBLLUtYR2FIazdUSjAtd1RYb1FmMDUwWkFHckhKYWZ3WHVUNXhIODYtUm5FNWNpbzZrT1R3ak0ya1IxYnVMS2N6M0xSYllvSzNpNHpLWGlfWi1JS2NicFozZUtMU3kwX1VRY21MaHk3dTJlRHA?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-09-02",
-   "datetime": "2026-09-02 15:31 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "청주시, SK하이닉스와 ‘장년층 고독사’ 예방사업 추진",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMnhTSFJpemwzQ2ZkZUZzSjUtbGNLS0tNb3NBZ2V1cHNnYVRGU1g1eEVpZzVLZjJRU2lNajdJSTR3Q2JXdi1BdWtKeE5MQm1tbjZQUlBOT29uREhhVE42UkY5UDM1d1BMUGZVT0YyT0h6Y29kbGYzYl9tcTkweUZQdEs4R3JmZmZFbHJkY0NkQV81SXFuSkJkZzJGYnVkcjN0emU2SlBid0pVQdIBX0FVX3lxTE5sYmFGd3lOTDE0XzB0VDJ3cVlVNXR3S095WG5qMmIwWlFnT0R3RzhnTTllWjZ1WjhjanRyR1c4U2tCelRmY3F1amhiZWxnUHRuaF90UjFab3V2WGJFeXVv?oc=5",
-   "source": "khan.co.kr",
-   "date": "2026-09-02",
-   "datetime": "2026-09-02 13:50 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "청주시, SK하이닉스와 '장년층 1인 가구 안부살핌' 협약",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wVTZ1Z3VXa0p3Wmk3eVcyemVkQVlBS0FCVTVmX0V6aUlBdXFDd2VjcUp1YXpXUFNhVkNjMmRZSzF5cHp6dGhPZ0IwdV9ZYXc?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-02",
-   "datetime": "2026-09-02 10:35 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "민형배, SK하이닉스 이천캠퍼스 방문…“호남 반도체 원팀”",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hektvT1hQOWxUSlRPWUtEUml4ZUpMcF9mbUFpOHBXZ2hHWC0wQmx0T3poLWQ3UW5VRmppWjNSV0hKVS04UGMtUko3bTFZZ29FUUtLOXVUdTZsRkRyLTBKVnJWR28?oc=5",
-   "source": "MTN 머니투데이방송",
-   "date": "2026-09-02",
-   "datetime": "2026-09-02 10:20 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "민형배 시장, SK하이닉스 이천캠퍼스 방문…반도체 협력 방안 논의 - news.lghellovision.net",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zTVNVLUM3UFZCME5vUkU5YjNoc2E2dkxxQ0k2VlhYcU9pRE1kWWt5Ym05RlpHUnlRT3JMallXbUNKZVFIZy1ycC1IeUpjcVZDTzNiWTZvdmpqTFlRanVjM2F5aE1wQnFxSnk0N1NDRXJIZFM0UGfSAXZBVV95cUxPM01TVS1DN1BWQjBOb1JFOWIzaHNhNnZMcUNJNlZYWHFPaURNZFlreWJtOUZaR1J5UU9yTGpZV21DSmVRSGctcnAtSHlKY3FWQ08zYlk2b3ZqakxZUWp1YzNheWhNcEJxcUp5NDdTQ0VySGRTNFBn?oc=5",
-   "source": "news.lghellovision.net",
-   "date": "2026-09-02",
-   "datetime": "2026-09-02 10:06 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
