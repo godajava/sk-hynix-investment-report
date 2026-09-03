@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-09-03 11:32 KST",
+ "fetchedAt": "2026-09-03 12:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "곽노정 SK하이닉스 사장, 임단협 부결 후 소통…\"세부안 함께 고민\" By 알파경제 alphabiz",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tSGt1MVpGUlM5ZnYyZjBCbk1mZTE2Z3BKRXNsT01BRmp5Y0NyOUlSaTFfLVM1aUhxS21GUkVwTlo3LUVLNlM5dXFoM3RSOUVQOEUzX1FjcFExQ1p1NkdLMEdDaUZneXN4ZnJSOUNoVEY?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 12:08 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "국내 증시 반등과 SK하이닉스 일본 협력까지 이시각 주요뉴스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16dXA2ZlZyc29OaWlrVXRzVVNmZXNHMG5oM1BOdFhTdURUbUJTSTl3Umx4T2FrZkZvT0pTTmwxcnMzaGVQQkVBTFJYUE9HSEpfZjRBWmJ2UmcxUEZqVDV3NnRzZTRnV2ZUQnZBeXRKMHXSAXRBVV95cUxOeWJ2YWVPQ2FicWQtQzJ4R19scjRvU01lRUtkVHdFcUZGY0dvQ0RfSHBuQVp1WkZfam0tVExOMnFpWS0xaDZmcDJNeWNWMkFEY0ZTa0V2cDg1N0hxU3FXa0hLOGhHNWtxSmlObnFBODl6dHp4RQ?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 11:42 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "한전, 삼성·SK하이닉스에 전기료 25조 선납 제안…“첨단산업 전력망 투자 대응”",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ZFRKTTJ1WXg0TFdlR3R1RU9IdExLWnpzSUx2OUVQdE0wNW94UW5hMzUzMDN3ZDNZOWhsTGFNNUFVN3dVTzZzZ0gxbmFGcUdxM1JlR01tUE9MSF9FOGtPcmtR?oc=5",
@@ -16,35 +40,23 @@
    }
   },
   {
-   "title": "충북도, SK하이닉스와 ‘알츠하이머’ 조기검진 지원",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Nb0FKYWVfaHh3ZEZjcWhDR2RGMU5mV296VUNrMklqN29oTVNVSXhlTGsxQjhFd2dQOUFaazN2VkxGSk14bk9SR3ZnTko2VDgwMl9yd1k2M1p3VHd1MGtpVE5xUDA2aDg4VDlod1NmX1Q0QQ?oc=5",
-   "source": "goodmorningcc.com",
+   "title": "\"SK하이닉스 등 대형주 대규모 주주환원…주주소통도 확대\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jb19nMEstS2pMY1o3RGdiRnVtUGVXM1A2aWI1MW5LVUloc2FpQWJsRk9DaTR5Q2dGS0JQR1VYTDFRd29aVWtwV1lvcmVrQmgxRVFFbnZXeDFKSXfSAWBBVV95cUxNTkVqOUhFUk9FZVpoTG1lT0dUR3JhcWw0QTd6bmNlZjBEWDc0R3pmTW5YbC00U3I5bnBoOVdiY3dFcVdYRjJWb1VQandiOXVadkJnbkhXd2lCS29LTUc3bHM?oc=5",
+   "source": "연합뉴스",
    "date": "2026-09-03",
-   "datetime": "2026-09-03 11:14 KST",
+   "datetime": "2026-09-03 11:24 KST",
    "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
-   "title": "SK하이닉스 \"구성원 성과 당당히 인정받도록\"…공동 해법 강조(종합)",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HOF8tWG4xTV9Dbk1mcENlTDJmS3JBNHdFQnEtOWdNZU1VWENGS09SZVlnTk5vNWNPZVhLb05vQVJsOTc3dEh2WlpsYmRxV0dyR1E?oc=5",
-   "source": "매일경제 마켓",
+   "title": "브로드컴 주춤했지만…삼성전자·SK하이닉스 'AI 수요' 맑음",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCd2h6ZXE1MlU5ZXFJM2R1NkVkQ19aeVNFWWpDXzN1VTZ6TGtMVHU4Yk9KNG9heUxsVXFkQk1ud3d2NmxaNFZQdWRYUHpRWVpfd1BYdGVwUkkxOXhVcGIw0gFkQVVfeXFMUFl2QV83Q1dNaUM2ZTNKa2NCZ0FOTXgzd25OVTdoVnlxM2hRUldXMmpmNFFlOWt1dkNBeURMVFJlMFhJS1doS25xSG5UelUwQnFDcE1Gb3dWVTNtNlY2NWxsbDZDbQ?oc=5",
+   "source": "뉴스1",
    "date": "2026-09-03",
-   "datetime": "2026-09-03 11:04 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "임단협 부결 뒤 직접 소통 나선 SK하이닉스… “성과·보상 정당하게 지킬 것”",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1udmRscVpNcFN5YzlsaVkwUXlVbGhELTQ2NDlfSHFybE9VRi0wZnYzTXlYYXJ0OGFfM1J2cDdxdFlfWWpqZ1JKV2RBV2s1RUFfd3BUNTY0aWVZOGN5ZEJ0bmNrMkJfYTZMOGc?oc=5",
-   "source": "천지일보",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 11:00 KST",
+   "datetime": "2026-09-03 11:24 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -76,6 +88,18 @@
    }
   },
   {
+   "title": "'임단협 잠정합의안 부결' SK하이닉스 \"구성원 불이익 없도록 할 것\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12WDFGcVFCVkVvX045RlJ0dDdBdzZVajVzcTVxdWM1NnVlSFJZcmoyVV9QU2dlRlZZMmo5aHRtWmNjM1NidkREcF82Z3hQVFZBUzFTdDRyV2dJM25ESWlhdzZFS0g?oc=5",
+   "source": "m-i.kr",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 10:08 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "교보증권, SK하이닉스 기초자산 ELB 456회 공모",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWtBbFAyODdRMVl5TVZ3b2xLeGlJTUN3QU9PUk5wbEQzVDlzbjMwZDZFTmFiZHdlcVN5dER1dm4zcGFYZFZyaFN5RWw0Qk5WblNFc0dHS0ZoNDJVR0UyUXJiUmQzTzRYSXFTMndmeWk2M1FpQmJIY1VsejhSTjl2dTlfUV95MFZy?oc=5",
    "source": "g-enews.com",
@@ -97,30 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자, 장 초반 0.8% 상승 중…SK하이닉스도 0.7%↑",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TRERCcU1FVm50YzBhbktlVFNRNEZLdVo5RWRjdUx3dHZ2LUtHRGNkUjhFOTFOWnliT3Y3ZkhvQjJxR0pwNWdCQVl1XzVodTJobUVaQTBRMjE4aGvSAWBBVV95cUxPODd1QmNNQXliUzdCcDYxNXljaUYwN3NwRXFadHU0MGFqaUx6MllKS0lwd2VnR2dtblR6dUtaRVNPdnZIVlRDcnA5T21RRFo5dW0xMXUtczBudGI2bTNzdVA?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 09:25 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 합의안 부결 후 첫 소통행사, 곽노정 대표 어떤 이야기 했나",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuTWp3TG16S2lQUEt6bzQwZElkNU5NaG54eTdCVEpmMXRmQ1RiZF81cTRJSS15TzRFZHlEUUdsVkMyVjFwLTdNdWtLaWhabTZVblhRLVVfMDNuZkxpanpRSVV3?oc=5",
-   "source": "이코노미스트",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 09:16 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
