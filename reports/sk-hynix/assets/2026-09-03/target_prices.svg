@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="386" viewBox="0 0 760 386" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="386" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
 <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">증권사 목표주가 vs 현재가</text>
-<text x="24" y="54" font-size="12" fill="#52514e">2026년 6~7월 제시 기준, 원. 현재가는 9/3 11:12 잠정치.</text>
+<text x="24" y="54" font-size="12" fill="#52514e">2026년 6~7월 제시 기준, 원. 현재가는 9/3 12:12 잠정치.</text>
 <text x="120" y="101.0" font-size="12" fill="#0b0b0b" text-anchor="end">KB증권</text>
 <path d="M130,84 h499.7735849056603 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-499.7735849056603 z" fill="#2a78d6" opacity="1.0"/>
 <text x="641.8" y="101.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">420만</text>
