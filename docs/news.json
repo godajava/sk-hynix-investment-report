@@ -1,8 +1,92 @@
 {
- "fetchedAt": "2026-09-03 10:32 KST",
+ "fetchedAt": "2026-09-03 11:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "한전, 삼성·SK하이닉스에 전기료 25조 선납 제안…“첨단산업 전력망 투자 대응”",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE85ZFRKTTJ1WXg0TFdlR3R1RU9IdExLWnpzSUx2OUVQdE0wNW94UW5hMzUzMDN3ZDNZOWhsTGFNNUFVN3dVTzZzZ0gxbmFGcUdxM1JlR01tUE9MSF9FOGtPcmtR?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 11:27 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "충북도, SK하이닉스와 ‘알츠하이머’ 조기검진 지원",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Nb0FKYWVfaHh3ZEZjcWhDR2RGMU5mV296VUNrMklqN29oTVNVSXhlTGsxQjhFd2dQOUFaazN2VkxGSk14bk9SR3ZnTko2VDgwMl9yd1k2M1p3VHd1MGtpVE5xUDA2aDg4VDlod1NmX1Q0QQ?oc=5",
+   "source": "goodmorningcc.com",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 11:14 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 \"구성원 성과 당당히 인정받도록\"…공동 해법 강조(종합)",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HOF8tWG4xTV9Dbk1mcENlTDJmS3JBNHdFQnEtOWdNZU1VWENGS09SZVlnTk5vNWNPZVhLb05vQVJsOTc3dEh2WlpsYmRxV0dyR1E?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 11:04 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "임단협 부결 뒤 직접 소통 나선 SK하이닉스… “성과·보상 정당하게 지킬 것”",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1udmRscVpNcFN5YzlsaVkwUXlVbGhELTQ2NDlfSHFybE9VRi0wZnYzTXlYYXJ0OGFfM1J2cDdxdFlfWWpqZ1JKV2RBV2s1RUFfd3BUNTY0aWVZOGN5ZEJ0bmNrMkJfYTZMOGc?oc=5",
+   "source": "천지일보",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 11:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "로이터 \"한국 외환당국, SK하이닉스가 미국 상장으로 조달한 외화 200억 달러 매입\"",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUm90bjRuTXJ2THZxZVlQSmRDX05SaUFhY3N6SVNIU0FRYnVWbVJNZlhGUHBuT0tzLVdGZDNpdFc4ekZIQnNtRmxjeDMtb2pqQ2N5V2hoaF9KVVVfM1RaeE5MbmVKdlpzZk93RlF0WEI2Ujg?oc=5",
+   "source": "비즈니스포스트",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 10:22 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "한전, 삼성전자·SK하이닉스에 5년치 전기료 25조 선납 제안",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB6UGxGM0hWSW9xZ1QxQXdGUWx6MmhEbTdSRGpCMU5GYXV4NkhpUXZtUDJUVDZlYm9sR0Z0RnZNdFd4cWhnY1czSDR0QVlZTEU?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 10:12 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "교보증권, SK하이닉스 기초자산 ELB 456회 공모",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQWtBbFAyODdRMVl5TVZ3b2xLeGlJTUN3QU9PUk5wbEQzVDlzbjMwZDZFTmFiZHdlcVN5dER1dm4zcGFYZFZyaFN5RWw0Qk5WblNFc0dHS0ZoNDJVR0UyUXJiUmQzTzRYSXFTMndmeWk2M1FpQmJIY1VsejhSTjl2dTlfUV95MFZy?oc=5",
+   "source": "g-enews.com",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 10:06 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[특징주] 삼성전자·SK하이닉스, 美 3대 주가 지수 강세.. '상승'",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWjVGVF9FMk5LT2dQR1M5aXl0Nmw2TUl0dzZidVVrWjRfRHJlU3hnT3FYczVHSEgwMF9zV0h0X1c3QUU5M1k0LTFsRUo4WUZyOVdCRnExczE1X09sWVpiSUtLbGxIcnMza0hZNlh5MEdBU21rMEg1X0djeUdvSXFoNmVfR0VSa1E?oc=5",
@@ -37,90 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 “성과급 불이익 없도록 하겠다”",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qQmZ1blZhTWc0TENDZjU3UFJZQ244X2ltRzNLSlJXNGlKUnFaSzlDV25TTFZ3RkJ3RVJqeXhCQnRNeFM1MHFUOHc4MVpQSkMzcXkzMDB2R3dNUzc5S0dMRGdSZ3Y5QjZZOEpYNzVEdW7SAXRBVV95cUxPTFZvcUVLaWR2R1VpSnNjUy1kQV80RUtoRzdYYVlQaDNpelNMbnRaOVJrSUtHZnQ4b3JVTnhTbnRRa0NSd2FiS3JnUzBybTFPMnc3ckoxRmlUd2MxUldGcTJSVzBqd3VULXJqOW1DZ2RzTlpLSA?oc=5",
-   "source": "IT조선",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 09:13 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 \"구성원 불이익 없도록 할 것\"…임단협 부결 후 첫 소통 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aNUZJZEo1bjZaa2UtVmR0UXlSNzZPU3N2Q3JXUDJWeWtoSDlkcDBYd3otbjdVa2t2c2VfR3lCU0xfTHdRQnVUZ2l5QWNySzBOYTJVamtEZ3duRXJNY2dmVnN0XzZMN2JldHREcdIBckFVX3lxTE9MM3htb3ZZYVNEcjkyNXdMeXdxWmwzeWVJckVTekM3TjdfNzRhcnFsWGpoNEtpaHh0ZElhN3I1ZUpLYnJiaGNzbG1QdkRERnRZQmItTkJmcUlFOFRCTGVBbldzbnlxODJsc3g2Wl82ZklvQQ?oc=5",
-   "source": "머니투데이",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 09:11 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 임단협 부결 후 첫 메시지…“불이익 없도록 할 것\"",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Udy1mTmVpMVREc25aUm5ETk1FU1doS1A5aDRHcks1dmV2ajAyd1B6T014d0J6VXVZSFZMVVZ1RUg0UC1JZ01GX256YWdvcGYybkdiM1V0YTlUaElWNDRSSTdHWTM?oc=5",
-   "source": "서울경제TV",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 09:10 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스가 일본에 공장 지으면... 생각만 해도 아찔 [반도체 특별과외]",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EM0cwRzV0US11eGhHUG5rdEo2WlVSZWhzcElrbWVIQnB4QmpMTUppbnZJOUdNQVNjLXN3VDBSeUJIb2ZwOHlZU3M5VE1UVV9YeFc1aw?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 07:32 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 용인-광주 병행 투자로 가닥…장비 발주 배분 '고민'",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45WkRaWEY5eEJLVWZMSmMtQkVqcmVpeEpUSXhSdzZEWFFlNE43ODR6MGlUZEd1NW1rSFFuVFE1ZE1mUGMxeFFlWnd3cEdZR1U?oc=5",
-   "source": "딜사이트",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 07:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스 소액주주 1100만명 시대…주주환원책 중요성도↑",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40bkxKQ2NWeFRWQnpoM2psVFlpREl6Ukp0N1Iwb1dGY2hpNl9ZTzczMEVIUXVXbFhEampUWnVyZllaR2t0UGhfY1g5ZXpfYm8?oc=5",
-   "source": "딜사이트",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 07:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "美반도체주 반등…엔비디아 3.2%·SK하이닉스 ADR 2.6%↑",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41MkJldTFzSW1YY3BabE5rSElVUTVaSTVwU2l6U1JKTlRET0tESVk2a1NfUk03VEo5S1dDb1NzMWUteFdqQzUzNnlPbHI1RnM?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 06:04 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
