@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-04 14:32 KST",
+ "fetchedAt": "2026-09-04 15:33 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -30,7 +30,7 @@
   {
    "title": "[낸드 리부트]④ 321단·HBF 앞세운 SK하이닉스…1위 추격 속도",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMZTJUeGVRWG1WSE9RUldWak5PeTJjb3AzSnEzQ1A5b09ubVd5eGdRcTdwSGx5VV9pRFlGeFA3Y091Y0ZRMDBBZFRUelRaQVE2bS1MRG5GaktQNDE1SENGVG8yMGhPNEo5eDVsQtIBbEFVX3lxTFBMZTJUeGVRWG1WSE9RUldWak5PeTJjb3AzSnEzQ1A5b09ubVd5eGdRcTdwSGx5VV9pRFlGeFA3Y091Y0ZRMDBBZFRUelRaQVE2bS1MRG5GaktQNDE1SENGVG8yMGhPNEo5eDVsQg?oc=5",
-   "source": "블로터",
+   "source": "bloter.net",
    "date": "2026-09-04",
    "datetime": "2026-09-04 11:45 KST",
    "signal": {
@@ -40,15 +40,15 @@
    }
   },
   {
-   "title": "2분기 낸드 시장 70%↑…'삼전닉스' 나란히 1·2위",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YeDEzejB5eUdEcVk1c3hxVEcxQ3QxS2ZjMTZpTnM4aDRhSGhFTV9uNF9iNVZsclhHZWU3Q21JV3VVelVGekNzVXUxX2R5SmV6S2dJMzUyUS1ITElIN3lha9IBYEFVX3lxTE5YeDEzejB5eUdEcVk1c3hxVEcxQ3QxS2ZjMTZpTnM4aDRhSGhFTV9uNF9iNVZsclhHZWU3Q21JV3VVelVGekNzVXUxX2R5SmV6S2dJMzUyUS1ITElIN3lhaw?oc=5",
-   "source": "연합뉴스",
+   "title": "삼성전자 사고 SK하이닉스 팔았다…초고수, 급등한 장비주는 차익실현[주식 초고수는 지금]",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpZ1l0Ymh0b0JycnN4eUtRSWhpTDJrcXo2Z1dWa3FCa2J0M2wyNV9zeUgtRGFpWVljVXlqOE40N2g4OW5qU21wc3VmalhfUXA1X0E?oc=5",
+   "source": "매일경제",
    "date": "2026-09-04",
-   "datetime": "2026-09-04 11:01 KST",
+   "datetime": "2026-09-04 10:36 KST",
    "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
