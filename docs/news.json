@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-09-04 12:32 KST",
+ "fetchedAt": "2026-09-04 13:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "2분기 낸드 시장 70%↑…'삼전닉스' 나란히 1·2위",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YeDEzejB5eUdEcVk1c3hxVEcxQ3QxS2ZjMTZpTnM4aDRhSGhFTV9uNF9iNVZsclhHZWU3Q21JV3VVelVGekNzVXUxX2R5SmV6S2dJMzUyUS1ITElIN3lha9IBYEFVX3lxTE5YeDEzejB5eUdEcVk1c3hxVEcxQ3QxS2ZjMTZpTnM4aDRhSGhFTV9uNF9iNVZsclhHZWU3Q21JV3VVelVGekNzVXUxX2R5SmV6S2dJMzUyUS1ITElIN3lhaw?oc=5",
-   "source": "연합뉴스",
+   "title": "채권시장 확산한 'SK하이닉스의 MMF 환매설'…하이닉스 \"사실무근\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMRWh5NlBpbDZmOTlhWkliZ2xHVWY0SHdxMFdUdHFiR05sU0c0MVhoQjJTaFNRSzBJRzlBMEo1V0dqOGlETEZsWnd6SEJCLW9BV2RNRVJnOU90RVFoT05WSHVlUDdaeWp0RXZfaHhfOUg?oc=5",
+   "source": "연합인포맥스",
    "date": "2026-09-04",
-   "datetime": "2026-09-04 11:01 KST",
+   "datetime": "2026-09-04 12:31 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,11 +16,47 @@
    }
   },
   {
-   "title": "채권시장 확산한 'SK하이닉스의 MMF 환매설'…하이닉스 \"사실무근\"",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UekZ0d20wNks4SzBTTUVVd0U3RDYySFpGRDdOa1hyb0xEd0VqTnNJMGxkdXVsMUpLTkFKVmRPM3ZaNFhtSkxrNzlMX2huTDdnbGdMd25BTkRkYjJfekE2RXVpZ3JobkVvMTBBVnRuY1hTUQ?oc=5",
-   "source": "kbthink.com",
+   "title": "2분기 낸드 시장 70% 성장… 삼성·SK하이닉스 1·2위 수성",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ2tDc0pvX3ZhUklVV2hCNTZsOG11M2dJQnhTMmNVdTNibFplZXhkWGwydVBDUjFjUFdWM3g2dlNIbURRdlJpdGRWZWV5bVE3Y3lNSTZuNGVCWmR3WUg0MnZULTR2Y0NER3JibmIwTHVVWnhvTFlWbl9zTE40cEZvQkVn?oc=5",
+   "source": "Chosunbiz",
    "date": "2026-09-04",
-   "datetime": "2026-09-04 10:31 KST",
+   "datetime": "2026-09-04 12:31 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[낸드 리부트]④ 321단·HBF 앞세운 SK하이닉스…1위 추격 속도",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMZTJUeGVRWG1WSE9RUldWak5PeTJjb3AzSnEzQ1A5b09ubVd5eGdRcTdwSGx5VV9pRFlGeFA3Y091Y0ZRMDBBZFRUelRaQVE2bS1MRG5GaktQNDE1SENGVG8yMGhPNEo5eDVsQtIBbEFVX3lxTFBMZTJUeGVRWG1WSE9RUldWak5PeTJjb3AzSnEzQ1A5b09ubVd5eGdRcTdwSGx5VV9pRFlGeFA3Y091Y0ZRMDBBZFRUelRaQVE2bS1MRG5GaktQNDE1SENGVG8yMGhPNEo5eDVsQg?oc=5",
+   "source": "블로터",
+   "date": "2026-09-04",
+   "datetime": "2026-09-04 11:45 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 '솔리다임 중복상장' D-Day … 주가 향방에 '촉각'",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEN5bGJoakhGcHNHTkEwd2pKSnp2R2JNYjFzcGNabTc4ZjRQVlBVbkc5THNiTTZZYmgzVDNnaVBiejNOUEw1amN5a1FJTWtpZklsbTA5NURPQXFvWUNhRkRqalcyQ0ZJSFo5Mm9TRzdVS0ZtZm5hYk03d9IBgAFBVV95cUxQdWxLamdseTZ2aHFqV2lDUXJRSEZjbXRlMjhXbGNoNGdBcVJSNVBGdWM4RXpfaGMyUkNYMFhhamVjVklOcnhqRURfamhBNnZ5eUlFQzdNTVM3VURXVEVnSDAwYkR3ZFpPcm04SkRTem9yN2hVd3VXck9GT1R3UGU3UQ?oc=5",
+   "source": "뉴데일리",
+   "date": "2026-09-04",
+   "datetime": "2026-09-04 10:04 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "엔터프라이즈 SSD 시장 폭발…삼성·SK하이닉스·마이크론 매출 ‘2배’",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zUFNrNllJUWxiVURNcVhNM0h5YWlNWXV0UGJCMXhtQWFYV3pqeFVkaWRiUk45Sk91NnBWOXBfQndoTzdiTEtkdzNTcmczOVl4QXdKQ0tqcjZQX2VFbGhuZ1F2NnlEbnV2?oc=5",
+   "source": "테크월드",
+   "date": "2026-09-04",
+   "datetime": "2026-09-04 09:30 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -52,6 +88,18 @@
    }
   },
   {
+   "title": "‘6조 KODEX’ 변동성 논란부터 ‘40조 소각’ SK하이닉스까지 [머니카운터 7회 방송 예고]",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taF9JQlFnSmJzRDlHT0ZYMS0yd3RuTXlFMGtWVnl6eVdwXzNWUENmV3JseF9pNjdOWFA0b203Y0p6cWpfSWprbE9XYjBGSXJvVUZCSi1ZWDJXTnlDdk9UOEhydG_SAWhBVV95cUxQdGIzNU82V21jbEJ2cmFEYlB5SzdOMG80cTdzOGQ4RlJRQUZ4U01mNVVHQWg0SEQ5anAwTFp5eXhTTV8wRG8yVFpITXFSN3JjSU1JMnk1VXlRenR0NEdYN1RPM1lyZ1cwMg?oc=5",
+   "source": "경인방송 뉴스",
+   "date": "2026-09-04",
+   "datetime": "2026-09-04 07:10 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
    "title": "로이터 \"한국 외환당국, SK하이닉스가 미국 상장으로 조달한 외화 200억 달러 매입\"",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUm90bjRuTXJ2THZxZVlQSmRDX05SaUFhY3N6SVNIU0FRYnVWbVJNZlhGUHBuT0tzLVdGZDNpdFc4ekZIQnNtRmxjeDMtb2pqQ2N5V2hoaF9KVVVfM1RaeE5MbmVKdlpzZk93RlF0WEI2Ujg?oc=5",
    "source": "비즈니스포스트",
@@ -69,54 +117,6 @@
    "source": "메트로신문",
    "date": "2026-09-03",
    "datetime": "2026-09-03 22:37 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[간추린 단신] 알츠하이머 검진 지원 협약…SK하이닉스 기금 기탁 외",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwdzRYMGxoTll4RHVuYld0a1NkQ0dkX0J3NjE1N2NqT3hwYW5WZlJ3ZHJjdEJQa1hGOWF4cnZ1MW83ZF9ZbUg0MDRHZGxNc3IyQVV2OGMtVm8waUE?oc=5",
-   "source": "news.kbs.co.kr",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 20:02 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자 20조·하이닉스 5조…한전, 5년치 전기료 선납 제안",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9manlieV8wSkxvSnA2bjNHNzltcGQtMEJHZHdKLUdXemNfUG12TUo3a2g5QmhYejA1bmN5UGVELUdGOVhNdHhOUTktMUhCQzZ4RnY1bEV4TU9tWXp0MEo2Y0ZoN0NqRG9BaHZ4NQ?oc=5",
-   "source": "한겨레",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 19:21 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자 HBM 맹추격…SK하이닉스와 격차 17%p로 줄었다 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11bzNKNHR3NzZoQTZuNGx5V05qcXZRS1oyTjJGejg2MlpMN3dyUWZBMTkxUEpld2ZiLXZfMGRlaWM5bFJIREh0SHlrRlQ5MG1XMDV4bWFEY0JFa185aThXWVhOdEZMMWtpeEFac9IBckFVX3lxTFBYellHQS1GQ0NfWG15eU82Mm1nb1RBSkE0d216SXNid1JiRU1xZHFxTXZwMjRnYnVRbk9jTnRMTTc4V1pKbm94ZVJTMGR4TzhKOWNseUtCYnM0amVBWWFxdXVoekVxbWRRUzlaUTFxb1ZuQQ?oc=5",
-   "source": "머니투데이",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 19:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 충북 취약계층 노인 알츠하이머 조기검진 지원",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tam1jQ2N1NnpyWUxFS25QQVE2TGZiWk05WmZqTnZvcXNEUVFBU2ZxT0dqRHR4aUU5NVdoVkZHSTlOcTlLX1dtbDRBR3VaNGd1NGdQbTdHWWNIaEdFRzVQd0ZBYTlBc0Rr?oc=5",
-   "source": "cctimes.kr",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 18:58 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
