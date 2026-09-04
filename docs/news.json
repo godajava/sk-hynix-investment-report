@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-04 10:33 KST",
+ "fetchedAt": "2026-09-04 11:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -16,15 +16,27 @@
    }
   },
   {
-   "title": "엔터프라이즈 SSD 시장 폭발…삼성·SK하이닉스·마이크론 매출 ‘2배’",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zUFNrNllJUWxiVURNcVhNM0h5YWlNWXV0UGJCMXhtQWFYV3pqeFVkaWRiUk45Sk91NnBWOXBfQndoTzdiTEtkdzNTcmczOVl4QXdKQ0tqcjZQX2VFbGhuZ1F2NnlEbnV2?oc=5",
-   "source": "테크월드",
+   "title": "[특징주] 삼전·닉스, 미국발 훈풍에 장 초반 2%대 강세",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yVlFNUDdWZE42d2NHanUwMnJleC1sUFJpS1VibFBRM0pheFJkbjc2SGdKRmw1VFhSSEU4ZEdwRnNyOXhhUmZIMUtIalMyd0Y4NE13ZmNtN3JrUW90ZkY4VtIBYEFVX3lxTE5yVlFNUDdWZE42d2NHanUwMnJleC1sUFJpS1VibFBRM0pheFJkbjc2SGdKRmw1VFhSSEU4ZEdwRnNyOXhhUmZIMUtIalMyd0Y4NE13ZmNtN3JrUW90ZkY4Vg?oc=5",
+   "source": "연합뉴스",
    "date": "2026-09-04",
-   "datetime": "2026-09-04 09:30 KST",
+   "datetime": "2026-09-04 09:18 KST",
    "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스를 매도한 이유. (사이클 둔화?)",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTUVpUkc2MHJRWUhKNTJOSk5EQlhweFVlNnNrNk9FcElydFFRRTVvM3JDTVhDZjd2RkZGY0tjTkxFXzdVdUlUVHd0aDFDZ1ppdXFlelIwWWFYdzM1YVhoUTYzLU9iTlBiLXZVajNmVzBzUXVmVG1mY0ZCNzY4Q3FkR1oySHhzdDVoMHlz?oc=5",
+   "source": "네이버 프리미엄콘텐츠",
+   "date": "2026-09-04",
+   "datetime": "2026-09-04 09:07 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   },
   {
@@ -42,7 +54,7 @@
   {
    "title": "SK하이닉스 HBM 점유율 50%로 하락…삼성 33%로 추격",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YMlVHSEl4SzVtd3RYVWxDSzJJWWtLVmg2QTBvOElTdFBYaEZ3cVQzTHNONllMeWZtZFhMYkp6QWVLQnR4M2MxT2YtNEFubVFIdUNIc3p3RDVmTUFsckRzRmlWWU90QmdM0gFuQVVfeXFMUDRSaHB6MXRsNk1pbTU2aXRSTEk2OVpLNG1KTG9NNDI3bjQ5MlhTYzF1Zk44N0t4LWNXdmFleGxBOWNkWlpXMkQ0cTVWY0tJVGhCZmptZDc3LWtTY0J2ZzZ6aG1WM1l4dE1KUUZ1blE?oc=5",
-   "source": "테크수다",
+   "source": "techsuda.com",
    "date": "2026-09-03",
    "datetime": "2026-09-03 23:13 KST",
    "signal": {
@@ -109,18 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자, 2분기 HBM 점유율 33%…1위 SK하이닉스 맹추격",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54ajFUYU1IdTVGY0tTOWwtdUNPMXg3S00xblp1X3VNbXBwck8zM0R3cnpOZUtLV05iSXg4b0c1RzJWdlUxNzFuY2pydFdJQW5WZjE1YUxmMGtXLXMzX2FlSDdXTjHSAWhBVV95cUxQQ2hwcVUtQ3BMY0txNkoyYzhaUlNiZTdMNmpBaDhtQmZrNDJzbDRaT2hYUklaM3oxYTVqWmZXRm5TZk1wSy1WSFVtSnBpMWR3QmFLY2pGbE5JTXcxN2pSdUlPZWtDT1pHUg?oc=5",
-   "source": "매일일보",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 18:46 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
