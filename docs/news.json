@@ -1,12 +1,72 @@
 {
- "fetchedAt": "2026-09-03 21:04 KST",
+ "fetchedAt": "2026-09-04 09:06 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
+   "title": "로이터 \"한국 외환당국, SK하이닉스가 미국 상장으로 조달한 외화 200억 달러 매입\"",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUm90bjRuTXJ2THZxZVlQSmRDX05SaUFhY3N6SVNIU0FRYnVWbVJNZlhGUHBuT0tzLVdGZDNpdFc4ekZIQnNtRmxjeDMtb2pqQ2N5V2hoaF9KVVVfM1RaeE5MbmVKdlpzZk93RlF0WEI2Ujg?oc=5",
+   "source": "비즈니스포스트",
+   "date": "2026-09-04",
+   "datetime": "2026-09-04 05:36 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 HBM 점유율 50%로 하락…삼성 33%로 추격",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YMlVHSEl4SzVtd3RYVWxDSzJJWWtLVmg2QTBvOElTdFBYaEZ3cVQzTHNONllMeWZtZFhMYkp6QWVLQnR4M2MxT2YtNEFubVFIdUNIc3p3RDVmTUFsckRzRmlWWU90QmdM0gFuQVVfeXFMUDRSaHB6MXRsNk1pbTU2aXRSTEk2OVpLNG1KTG9NNDI3bjQ5MlhTYzF1Zk44N0t4LWNXdmFleGxBOWNkWlpXMkQ0cTVWY0tJVGhCZmptZDc3LWtTY0J2ZzZ6aG1WM1l4dE1KUUZ1blE?oc=5",
+   "source": "테크수다",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 23:13 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "“연 5.70% 월수익”…교보증권, SK하이닉스 ELB 공모",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5VUo3Qmc5bVUxTkZ1eGlEclp3TGZNNWVjNEVBUFR1STJaR3BrUnlxQ1F4aUhmblNaY0FzSWN0d3NBTVc3OGlyNk9OVGNQZk5UV01FdER0aGNZV1RCcVV1bQ?oc=5",
+   "source": "메트로신문",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 22:37 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[간추린 단신] 알츠하이머 검진 지원 협약…SK하이닉스 기금 기탁 외",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwdzRYMGxoTll4RHVuYld0a1NkQ0dkX0J3NjE1N2NqT3hwYW5WZlJ3ZHJjdEJQa1hGOWF4cnZ1MW83ZF9ZbUg0MDRHZGxNc3IyQVV2OGMtVm8waUE?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 20:02 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자 20조·하이닉스 5조…한전, 5년치 전기료 선납 제안",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9manlieV8wSkxvSnA2bjNHNzltcGQtMEJHZHdKLUdXemNfUG12TUo3a2g5QmhYejA1bmN5UGVELUdGOVhNdHhOUTktMUhCQzZ4RnY1bEV4TU9tWXp0MEo2Y0ZoN0NqRG9BaHZ4NQ?oc=5",
+   "source": "한겨레",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 19:21 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "삼성전자 HBM 맹추격…SK하이닉스와 격차 17%p로 줄었다 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE11bzNKNHR3NzZoQTZuNGx5V05qcXZRS1oyTjJGejg2MlpMN3dyUWZBMTkxUEpld2ZiLXZfMGRlaWM5bFJIREh0SHlrRlQ5MG1XMDV4bWFEY0JFa185aThXWVhOdEZMMWtpeEFac9IBckFVX3lxTFBYellHQS1GQ0NfWG15eU82Mm1nb1RBSkE0d216SXNid1JiRU1xZHFxTXZwMjRnYnVRbk9jTnRMTTc4V1pKbm94ZVJTMGR4TzhKOWNseUtCYnM0amVBWWFxdXVoekVxbWRRUzlaUTFxb1ZuQQ?oc=5",
-   "source": "mt.co.kr",
+   "source": "머니투데이",
    "date": "2026-09-03",
    "datetime": "2026-09-03 19:00 KST",
    "signal": {
@@ -16,111 +76,51 @@
    }
   },
   {
-   "title": "\"SK하이닉스 따라잡는다\" 삼성전자 맹추격에…'초긴장'",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtOGpqRnZSaFhQY282RktJQVNTLWotYm9EbVpfaWw4c1NpX20teDRsQW9XRUwyNm5PRm1HSDRqVnBVMm5yT1VMVTV1b2xlTVNXTnNiamo0OGtPZw?oc=5",
+   "title": "SK하이닉스, 충북 취약계층 노인 알츠하이머 조기검진 지원",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tam1jQ2N1NnpyWUxFS25QQVE2TGZiWk05WmZqTnZvcXNEUVFBU2ZxT0dqRHR4aUU5NVdoVkZHSTlOcTlLX1dtbDRBR3VaNGd1NGdQbTdHWWNIaEdFRzVQd0ZBYTlBc0Rr?oc=5",
+   "source": "충청타임즈",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 18:58 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자, 2분기 HBM 점유율 33%…1위 SK하이닉스 맹추격",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54ajFUYU1IdTVGY0tTOWwtdUNPMXg3S00xblp1X3VNbXBwck8zM0R3cnpOZUtLV05iSXg4b0c1RzJWdlUxNzFuY2pydFdJQW5WZjE1YUxmMGtXLXMzX2FlSDdXTjHSAWhBVV95cUxQQ2hwcVUtQ3BMY0txNkoyYzhaUlNiZTdMNmpBaDhtQmZrNDJzbDRaT2hYUklaM3oxYTVqWmZXRm5TZk1wSy1WSFVtSnBpMWR3QmFLY2pGbE5JTXcxN2pSdUlPZWtDT1pHUg?oc=5",
+   "source": "매일일보",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 18:46 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "드론 이어 반도체까지…트럼프, ‘관세’로 삼성·SK하이닉스에 美 생산 압박",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50eEtFMVFSOVFyZF82UXFkV001alpJRmlHSFJlRDB0MDRGRmc0TGtsV0xJdWVmX25VcmRYS0R4bDFyaElkaFRMNktWZ1VwTFpXTHpaOF9lMmM5ZXVMY0dodjFuRHJ1TmhqMlY3Znk1MnJwMjJ1emJv0gF3QVVfeXFMTnR4S0UxUVI5UXJkXzZRcWRXTTVqWklGaUdIUmVEMHQwNEZGZzRMa2xXTEl1ZWZfblVyZFhLRHhsMXJoSWRoVEw2S1ZnVXBMWldMelo4X2UyYzlldUxjR2h2MW5EcnVOaGoyVjdmeTUycnAyMnV6Ym8?oc=5",
+   "source": "스트레이트뉴스",
+   "date": "2026-09-03",
+   "datetime": "2026-09-03 18:41 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자 2분기 HBM 점유율 33%…'50%' SK하이닉스 맹추격",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zT0JUbjh6OWVjWDVTMG96aThteGpncW5IOGxzWVFlODBTQ3daQWtHaldmakxISGRDRmZ1NVo1dkhxc3RxSU1pd0wwX1lpOWFxRlR6YXlMbzFSUQ?oc=5",
    "source": "한국경제",
    "date": "2026-09-03",
-   "datetime": "2026-09-03 17:12 KST",
+   "datetime": "2026-09-03 18:03 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "HBM 반격 시작한 삼성전자, SK하이닉스와 17%p 격차",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9od2VXbWRoVW04b3gwQWdQOXdCZVVMa21pMEhrTTU3RXN1dTJCZWlDLXVGRWJ5WGkwLUI1OVY2UU80NkVmNkd2dU1CVTVBSms?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 17:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자 HBM 점유율 33%로 급등…SK하이닉스 50% 1위",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zNTdQWC0tQ0pRb1pFcHpnSjF2bWxEUGN3Vzh3LVZkemhZMEY2UmJuVzJKenZZR3hGWi1wcmxmUzlTLXdrOVFyYl9JeXJuMDB1X09UYzNFN0JZTkZYUGp2Yw?oc=5",
-   "source": "KBC광주방송",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 16:55 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "2분기 HBM 점유율 SK하이닉스 50%·삼성전자 33%·마이크론 18%",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05QkF4OGxhWW5XX05vSmxKck9tUTY0YkhDSFEzZm15Y2ZWaDFqWlpqVjlmektKYWZyV05BOGQ1VUhNODVlZFB1RFRWaFZMQQ?oc=5",
-   "source": "전자신문",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 16:45 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자, 2분기 HBM 점유율 33%로 급등…SK하이닉스와 격차 축소",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sSXd1ZTM4QzRsVWNwejRxa0hxbHRsTmpoMXZGUDBGdHNoN2R5eF9KQzc3VTQtWXlhSzFVZGdVYV9hbjczOW9UYVlWdENoYkI5dlBZRnZR?oc=5",
-   "source": "지디넷코리아",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 16:43 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성 2분기 HBM 점유율 21→33%…SK하이닉스 50%로 1위",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OR2VJVGVFUkhrZFcxMjJaYTQtS191bG9sZ0VGVDlDb1dZNkRWWm1YZnR4ZWx6T2hIODZ5cW9LMkZmMkJQeEtfbG04WklzTERxNzhJTFVxUjBDMU0?oc=5",
-   "source": "KBS 뉴스",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 16:26 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "올해 2분기 HBM 시장서 SK하이닉스 50% 점유율로 1위…삼성전자 33%로 맹추격",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeEJKTVNwYURZUm81RTM5Q1JXdmxrUTJ3RFJmeWg1ZW5ERXRpTUgtT3BVeFBmT0p6VFRzRTk0ZU5vMzdEQjM3WEhLa0ZoSmtMenVMbXZvQ0hzeER2RGtLWm9jNGFZOGRxazR0dy11SVRwU3UwNGxsWlJPWVRZODB1eW1ncFlZQQ?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 16:18 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 2분기 글로벌 HBM 시장 점유율 1위…삼성전자 33%로 추격",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtRjZnZEJsSmV6QjJBdVBPUGhMQmZac3czam9IWVRoMGg5NFVXR3NBU3BDWF9oLVJTMVZMWFdDOGRZOEVKNTQtUkstdVUyRmxrR3hSM2lMNXBXRGN6WFJsOQ?oc=5",
-   "source": "아시아경제",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 16:03 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "삼성전자 2분기 HBM 점유율 21→33%…SK하이닉스 50%로 1위",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aTGRlZFl4VW5xTnp1TlFEci1Ub0tfM0xUejIxMXo0MXE5RHpYMlh1NXNXdkF2emsxWmtXY185WEVmMUR0YkN6WjkzT2lVUWhDLU5uWmN2Sy1Jak94Ykg1SUdfbnh0VVJyNzB1LTZzOVVGeVdz?oc=5",
-   "source": "연합뉴스 한민족센터",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 15:50 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
