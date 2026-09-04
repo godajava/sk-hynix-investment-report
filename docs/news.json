@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-04 13:32 KST",
+ "fetchedAt": "2026-09-04 14:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -40,6 +40,18 @@
    }
   },
   {
+   "title": "2분기 낸드 시장 70%↑…'삼전닉스' 나란히 1·2위",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YeDEzejB5eUdEcVk1c3hxVEcxQ3QxS2ZjMTZpTnM4aDRhSGhFTV9uNF9iNVZsclhHZWU3Q21JV3VVelVGekNzVXUxX2R5SmV6S2dJMzUyUS1ITElIN3lha9IBYEFVX3lxTE5YeDEzejB5eUdEcVk1c3hxVEcxQ3QxS2ZjMTZpTnM4aDRhSGhFTV9uNF9iNVZsclhHZWU3Q21JV3VVelVGekNzVXUxX2R5SmV6S2dJMzUyUS1ITElIN3lhaw?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-04",
+   "datetime": "2026-09-04 11:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스 '솔리다임 중복상장' D-Day … 주가 향방에 '촉각'",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfdEN5bGJoakhGcHNHTkEwd2pKSnp2R2JNYjFzcGNabTc4ZjRQVlBVbkc5THNiTTZZYmgzVDNnaVBiejNOUEw1amN5a1FJTWtpZklsbTA5NURPQXFvWUNhRkRqalcyQ0ZJSFo5Mm9TRzdVS0ZtZm5hYk03d9IBgAFBVV95cUxQdWxLamdseTZ2aHFqV2lDUXJRSEZjbXRlMjhXbGNoNGdBcVJSNVBGdWM4RXpfaGMyUkNYMFhhamVjVklOcnhqRURfamhBNnZ5eUlFQzdNTVM3VURXVEVnSDAwYkR3ZFpPcm04SkRTem9yN2hVd3VXck9GT1R3UGU3UQ?oc=5",
    "source": "뉴데일리",
@@ -61,6 +73,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "코스피, 외인·기관 동반 매수에 1.4%↑…SK하이닉스 2.3% 강세",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lRnNER0NpaWZJbEtnQ3ZqX3p3amRsaG9VcWZxTzBVckltWHdpdFJCVE1YSTJKNE40cUVmQ09VYS1vQ0RsUHVqMy1pa1VWX3BOcDBpWEw5OVlhUlMtRHRiTFM4bXU?oc=5",
+   "source": "디지털데일리",
+   "date": "2026-09-04",
+   "datetime": "2026-09-04 09:26 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
@@ -97,30 +121,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "로이터 \"한국 외환당국, SK하이닉스가 미국 상장으로 조달한 외화 200억 달러 매입\"",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CUm90bjRuTXJ2THZxZVlQSmRDX05SaUFhY3N6SVNIU0FRYnVWbVJNZlhGUHBuT0tzLVdGZDNpdFc4ekZIQnNtRmxjeDMtb2pqQ2N5V2hoaF9KVVVfM1RaeE5MbmVKdlpzZk93RlF0WEI2Ujg?oc=5",
-   "source": "비즈니스포스트",
-   "date": "2026-09-04",
-   "datetime": "2026-09-04 05:36 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“연 5.70% 월수익”…교보증권, SK하이닉스 ELB 공모",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5VUo3Qmc5bVUxTkZ1eGlEclp3TGZNNWVjNEVBUFR1STJaR3BrUnlxQ1F4aUhmblNaY0FzSWN0d3NBTVc3OGlyNk9OVGNQZk5UV01FdER0aGNZV1RCcVV1bQ?oc=5",
-   "source": "메트로신문",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 22:37 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
