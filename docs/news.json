@@ -1,14 +1,26 @@
 {
- "fetchedAt": "2026-09-04 11:32 KST",
+ "fetchedAt": "2026-09-04 12:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "'한국형 브로드컴' 노리는 LG전자, SK하이닉스와 협력 무산",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83U09CUmtxZW9iZVpfNU5CdHVqb2VmVURFbEZLdEt3ZFk2ckszdUxiME16V0p5OVNkMFRXdjBLMXA3Zk1BcDFoZHpfX0RmeWtVcXdJNGpR?oc=5",
-   "source": "지디넷코리아",
+   "title": "2분기 낸드 시장 70%↑…'삼전닉스' 나란히 1·2위",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YeDEzejB5eUdEcVk1c3hxVEcxQ3QxS2ZjMTZpTnM4aDRhSGhFTV9uNF9iNVZsclhHZWU3Q21JV3VVelVGekNzVXUxX2R5SmV6S2dJMzUyUS1ITElIN3lha9IBYEFVX3lxTE5YeDEzejB5eUdEcVk1c3hxVEcxQ3QxS2ZjMTZpTnM4aDRhSGhFTV9uNF9iNVZsclhHZWU3Q21JV3VVelVGekNzVXUxX2R5SmV6S2dJMzUyUS1ITElIN3lhaw?oc=5",
+   "source": "연합뉴스",
    "date": "2026-09-04",
-   "datetime": "2026-09-04 09:50 KST",
+   "datetime": "2026-09-04 11:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "채권시장 확산한 'SK하이닉스의 MMF 환매설'…하이닉스 \"사실무근\"",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UekZ0d20wNks4SzBTTUVVd0U3RDYySFpGRDdOa1hyb0xEd0VqTnNJMGxkdXVsMUpLTkFKVmRPM3ZaNFhtSkxrNzlMX2huTDdnbGdMd25BTkRkYjJfekE2RXVpZ3JobkVvMTBBVnRuY1hTUQ?oc=5",
+   "source": "kbthink.com",
+   "date": "2026-09-04",
+   "datetime": "2026-09-04 10:31 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -52,18 +64,6 @@
    }
   },
   {
-   "title": "SK하이닉스 HBM 점유율 50%로 하락…삼성 33%로 추격",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YMlVHSEl4SzVtd3RYVWxDSzJJWWtLVmg2QTBvOElTdFBYaEZ3cVQzTHNONllMeWZtZFhMYkp6QWVLQnR4M2MxT2YtNEFubVFIdUNIc3p3RDVmTUFsckRzRmlWWU90QmdM0gFuQVVfeXFMUDRSaHB6MXRsNk1pbTU2aXRSTEk2OVpLNG1KTG9NNDI3bjQ5MlhTYzF1Zk44N0t4LWNXdmFleGxBOWNkWlpXMkQ0cTVWY0tJVGhCZmptZDc3LWtTY0J2ZzZ6aG1WM1l4dE1KUUZ1blE?oc=5",
-   "source": "techsuda.com",
-   "date": "2026-09-03",
-   "datetime": "2026-09-03 23:13 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
    "title": "“연 5.70% 월수익”…교보증권, SK하이닉스 ELB 공모",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5VUo3Qmc5bVUxTkZ1eGlEclp3TGZNNWVjNEVBUFR1STJaR3BrUnlxQ1F4aUhmblNaY0FzSWN0d3NBTVc3OGlyNk9OVGNQZk5UV01FdER0aGNZV1RCcVV1bQ?oc=5",
    "source": "메트로신문",
@@ -78,7 +78,7 @@
   {
    "title": "[간추린 단신] 알츠하이머 검진 지원 협약…SK하이닉스 기금 기탁 외",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwdzRYMGxoTll4RHVuYld0a1NkQ0dkX0J3NjE1N2NqT3hwYW5WZlJ3ZHJjdEJQa1hGOWF4cnZ1MW83ZF9ZbUg0MDRHZGxNc3IyQVV2OGMtVm8waUE?oc=5",
-   "source": "KBS 뉴스",
+   "source": "news.kbs.co.kr",
    "date": "2026-09-03",
    "datetime": "2026-09-03 20:02 KST",
    "signal": {
@@ -114,7 +114,7 @@
   {
    "title": "SK하이닉스, 충북 취약계층 노인 알츠하이머 조기검진 지원",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tam1jQ2N1NnpyWUxFS25QQVE2TGZiWk05WmZqTnZvcXNEUVFBU2ZxT0dqRHR4aUU5NVdoVkZHSTlOcTlLX1dtbDRBR3VaNGd1NGdQbTdHWWNIaEdFRzVQd0ZBYTlBc0Rr?oc=5",
-   "source": "충청타임즈",
+   "source": "cctimes.kr",
    "date": "2026-09-03",
    "datetime": "2026-09-03 18:58 KST",
    "signal": {
