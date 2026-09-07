@@ -1,20 +1,8 @@
 {
- "fetchedAt": "2026-09-07 13:32 KST",
+ "fetchedAt": "2026-09-07 14:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
-  {
-   "title": "삼성과 SK하이닉스 직원들은 의사나 변호사만큼이나 인기가 높습니다.",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbEtKSTlGMnRZZk11TWpDMXppNzlTdERRTXRWZm1UY0wzM0YybUxHbThLWmFpblhFdS1iQW81d2dkdDRxNVNXZG1QY1BHM0VadWZBR28yX0t3LUJUZHVtZDVORE5MbVM3c2t1dkczSHJlU2I0U25RbkRfZU0zX0ZyTnZSYw?oc=5",
-   "source": "Vietnam.vn",
-   "date": "2026-09-07",
-   "datetime": "2026-09-07 12:22 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
   {
    "title": "“310만닉스 가나요”…SK하이닉스 목표가 ‘쑥’ [오늘, 이 종목]",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ib3hPWEp2cFVWR2JJU0UtQjRtdTJMWkQyRUpHVjRPcjdvM0hWTlhTdTN5ZjBVR2JtQnN6S2ltRFN1ZmppcTlHaklPNkJ3YkU?oc=5",
@@ -25,18 +13,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“원화 강세보다 HBM이 더 세다”…미래에셋, 삼성전자·SK하이닉스 목표가 상향",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9udWw4Z1NQQjZ5bnZEbTZTR2h6aXRpeWRGTUNMUloyMVlxSXN2cElqNWRQTVdBWEZ6OUQyWEpHTWtXMkZuRnppaERwaE5aYzNfc3laT3JJZWZFSzNJU3BkbUJYVHE?oc=5",
-   "source": "디지털데일리",
-   "date": "2026-09-07",
-   "datetime": "2026-09-07 11:20 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   },
   {
@@ -76,18 +52,6 @@
    }
   },
   {
-   "title": "[특징주] 삼성전자·SK하이닉스 강세…오픈AI發 메모리 수요 기대",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Sa191TGFyemJtX0xXYUdpR0Z6NjdUMGM0TFMyUFhRVkd6SXdLY1NFNElkdGtWQ2lsUHhsU3dlZkJwTzV5bk9SOHBSSFk4ai1kZmhaTVNjRmVLV2Zp?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-07",
-   "datetime": "2026-09-07 10:06 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
    "title": "[특징주] 삼성전자·SK하이닉스, 새 AI 모델 '아스트라' 출시.. '강세'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVEpDdndXajBOaFhpeHg1TFQtSmY1YkZpTG1ocXFnNllfNkt4MnZqU25UZ252RDhXdlZDTHhoOGpFWVBGN1JycWR2MXlRaERYTzhPTVZEbGNUczhON0NZY1V4LUNQaDBQN1JzRkw2aFhRZ1M5ZXB1OVBEclFiRkNYdXpha0ptaThH?oc=5",
    "source": "글로벌이코노믹",
@@ -121,6 +85,42 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 목표가는 230만원 '상향'...삼성전자는 '유지' 왜?",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd3dWWnJYN0d5bFdtamoyTGpxX2VROFk1MTgyYjlKSWM0UXNSVDlpRXptc1JUZDhaUGhObW9GaTFxdGJUcUptVFpHWjNkb2g1bDZPYllZeW1KbnRlMTg5R0J1Wm1tTkFXeTA3aHpaaXo3Y1NvQ215MGNRRU81eW5uMA?oc=5",
+   "source": "edaily.co.kr",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 09:46 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "GPT6발 반도체 랠리…삼성전자·SK하이닉스 강세 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVTndyTldPaHpGaF9yVEtsNk9uTldmSXhRRFlYVHBsckNnWUVBVUdKaEwxQkJDYkVSbFV4ZHJfMTdabEhxTUs5Z29Sa0Z2MDFGYUc5M0VmZXFFMnp2NUd3X0lGclBIZmpBVkdONHRR0gFuQVVfeXFMUFVOd3JOV09oekZoX3JUS2w2T25OV2ZJeFFEWVhUcGxyQ2dZRUFVR0poTDFCQkNiRVJsVXhkcl8xN1psSHFNSzlnb1JrRnYwMUZhRzkzRWZlcUUyenY1R3dfSUZyUEhmakFWR040dFE?oc=5",
+   "source": "머니투데이",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 09:38 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[리포트 브리핑]SK하이닉스, '방향은 유효하다' 목표가 2,300,000원 - DB증권",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FVWNqOUJkM2tSSDhBUHF4bG5jM3lzbjR0aHdCWnBray1WVlV6OWJkdDJWR1FrZFJ5cE5ndWRpaHJKMDZESV8xRnRDOEE5M1hpQ0FnUnhkWHpNdWRi?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 09:33 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   }
  ]
