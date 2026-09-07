@@ -1,12 +1,48 @@
 {
- "fetchedAt": "2026-09-07 09:20 KST",
+ "fetchedAt": "2026-09-07 09:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
+   "title": "[특징주] 삼성전자·SK하이닉스 동반 강세…美 반도체주 훈풍",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92TndNQnByTUN6TGVXSzFiYVJPSE5VMHdBQngzMlE4OGJ1NEN1aVdtS1Nna0VkTWIzOTdtbXZCWW1VeUZuZVZ1U1lNLXM5Y3NVaTQxanJOT2FQMkttM3hKUlFaOA?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 09:21 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "美 AI 훈풍, 삼전·SK하이닉스 쏘아올려 코스피 6900 돌파 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3JBR3VQT2lMc3hUei02dHA0SUt6UktmXzhvQ20wWEhSLUlXeXY5MEk1eW90ZlFaRGp2TWM0Y3UxNktrd3NlcDE1OW1nU1h0RExaMU1sTHRnT0h4Q29odlh5T2VqWmFPcmtRQ2VGMEhsRVRINUs5OEszLTFKcHJDb2VhS3pVNmJs0gGcAUFVX3lxTFBVY09WTVVIazQtMG1MYlNVaW9jeWlrRGpWX0FDUU9VS3Bpei1KTjlhVHE2d3ItZ0tvQWZyQ3RQSGRkdkN6TDYyMHRhQ0RGbE9zeXVNaXRHLTg3QmF5VzB3MFJka0Q4LU1lUkJEZ1Y2d0RfZE5OdEdzYnBheEE5MlI2cG9UeGVsU3FlVXBndkQtNTJNdV9vbU91XzlBTQ?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 09:14 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
    "title": "특징주, 삼성생명-S7(삼성전자/SK하이닉스 등) 테마 상승세에 3.25% ↑",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NT3l1eXpwWTdyQnRhSmNLekxrdDFLLXZLN1JvMkVQVXlNWHU3SVlrZlVIUWc0NVZRbnVCR3RPSVVJa0RTSmk2clctTm9vYkZreEE?oc=5",
    "source": "매일경제 마켓",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 09:07 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[속보] “오픈AI 땡큐” 삼전 4%·SK하이닉스 5%↑…코스피 3% 상승 출발",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vUmlGWGtOYzQ2d3I3NTg0ZThFYzFQcF9YTDVxcnAydUVHelZpajJLZXlvUFZsbTFTV2xRTUszNENDNGhDUmJZcm9CQlVYeV8wbzNRWnJpaV9kS052Sklpd0FwVEZnWElYNXlGbXhaTjMtd1RtbG5nUjF2Umh4Zw?oc=5",
+   "source": "서울신문",
    "date": "2026-09-07",
    "datetime": "2026-09-07 09:07 KST",
    "signal": {
@@ -42,7 +78,7 @@
   {
    "title": "엔비디아·SK하이닉스 호재에도 마이크론 주가 '무반응'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2pyQ3JOU3kzS0U1ejExc2thTXF3eU5KaGFXSTZzaUxiTlliWDdheENPYi13SFI5T21kOXQzcmYxamY4dmpkLXBsc2ZodmgtbUl5ZkJwZnZkUXl6SFIwaXdmblk0VFlfeTZYUlVhSTQ0Vi1UZnl4OGRNdko0bjJTQ0NMRDV1dWo4?oc=5",
-   "source": "g-enews.com",
+   "source": "글로벌이코노믹",
    "date": "2026-09-07",
    "datetime": "2026-09-07 03:00 KST",
    "signal": {
@@ -66,7 +102,7 @@
   {
    "title": "SK하이닉스가 日에 반도체 공장을 지으려는 배경은?…'키옥시아·소부장' 주목",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjQzdVVRaGE1bTM2UzJsZnFvbUVXaVppRWtNZjNmLU1pel9MejR5YkU4ZjFqNXRpdmYtMTlVd0x1UGsyN1hrV0g1dUdReFhsMk5Xa2pEVlVJalRkckZYalJtOXRyUENYWHZOTXZkSzBCYm16eHBGZmFTV0R1TXpVVGdPcV8?oc=5",
-   "source": "g-enews.com",
+   "source": "글로벌이코노믹",
    "date": "2026-09-06",
    "datetime": "2026-09-06 17:00 KST",
    "signal": {
@@ -85,42 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, HBF 표준 공개…낸드가 AI 새 병목 됐다",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTVRnU2pLSmZ3VXMwTkZsbDhaZURDMmNzNHlvWHB1Smt3Wk5fY3hpMEhNV1hCOTFrRUpHSE9hUklZOHByNVp6Wl9xcUxCWDdBajFhODNzYkxkMlVGRmVrRUZUYWJwZDA?oc=5",
-   "source": "자본시장뉴스",
-   "date": "2026-09-06",
-   "datetime": "2026-09-06 13:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스 날았다… 국내 10대 브랜드 가치 2천억달러 육박",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFeDAyYTN4THRYVXhBbGpFYzZWN1lOMV9aN09MS090V1k2cGd1aUJ6aEszdzdKRTBWbTluSHY2NEJ3NXRqS0wyYTlJUHJFSnI5c1N6eTJLRS00ZFBLUnhnVU1hQ2ZMR0puMEE?oc=5",
-   "source": "천지일보",
-   "date": "2026-09-06",
-   "datetime": "2026-09-06 10:45 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“개별주 못 믿겠다”…서학개미, 마이크론·SK하이닉스 팔고 ‘속슬’에 베팅",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLamFrVG44VDdjc091dXdEcVZ1c29zOEM1cTVONTU4QnZxN3VTeUxOZEJadUpUOE02UHNkRWlPamx0ZG5XamRNT2RiODg4WlJ0Z0t0U19Obktrczg?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-09-06",
-   "datetime": "2026-09-06 10:32 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
