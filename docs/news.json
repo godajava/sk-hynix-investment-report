@@ -1,8 +1,56 @@
 {
- "fetchedAt": "2026-09-07 09:11 KST",
+ "fetchedAt": "2026-09-07 09:19 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "특징주, 삼성생명-S7(삼성전자/SK하이닉스 등) 테마 상승세에 3.25% ↑",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NT3l1eXpwWTdyQnRhSmNLekxrdDFLLXZLN1JvMkVQVXlNWHU3SVlrZlVIUWc0NVZRbnVCR3RPSVVJa0RTSmk2clctTm9vYkZreEE?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 09:07 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "특징주, 삼성전기-S7(삼성전자/SK하이닉스 등) 테마 상승세에 3.38% ↑",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCLVFKd1ZjMlpIeDVQekxpNEFaU3JDalBobDhnRmxldFZFR3pWREhCd3BHRXJhRVRLblpua29JSUwyU2k5VUVTSnNWMzQ5U21HTGc?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 09:07 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "특징주, 삼성전자우-S7(삼성전자/SK하이닉스 등) 테마 상승세에 2.74% ↑",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95V0VEdGI3enFBOUlkQlB5dm5rT1V3WUVQZ1FPNE9mbWc1aWJyLUJZdl9mWGlZMVV2ZWNwVUdrWDRfZ2Nna2kwenlXMHhyQ1FQSVE?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 09:07 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "특징주, SK하이닉스-반도체 생산 테마 상승세에 5.18% ↑",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTMFd4RFRlcE1hSl9BWFNyNzlxVWFrbl8xTVFUY00xNnZtQm96cjZNb3VYRlZaMjFlUWFBV1laNUo4ZVl1ZF9SX1pvWlhQQkN3dkE?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 09:07 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "SK하이닉스, 최첨단 D램 비중 확 늘린다… 내년 초 1c가 주력 공정 - 조선비즈",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0M2cTBrMTN1MWR3cEJlQ3loREhKTjd1S2w4ZkQzSjd3aVduM09rUTNiNXVnVkF0NmNYTDU0ZTFfNUNPMEpWRHZVNkRsOGZtb0poLUVENG9KRzB1QzhGbDhiS3lmUHN0aVNvbzZXM1NXdWI2al95clRzS3RhMWtLZDFn0gGWAUFVX3lxTFBuZFphbnpONFZRV0kzcHF0WWlrQU4tQ0QyTzJMM192MVZjTGZyY1pCZ1hZQnRLY3Zyc0VoWGpjX2FaamZRN0FraW9yVmU1eHBCc3ppWVM3Ukt0M0FUb0NMSk1jai1DUzZ5al9YUGRDOW1MeHBhYjZWN1ppT0tRZmFObjVuRVBBNTloblIzNndBc0xJdktxQQ?oc=5",
@@ -30,7 +78,7 @@
   {
    "title": "HBM 이어 낸드도 AI 특수…삼성·SK하이닉스, 시장 절반 차지 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91b0l5dVhZeEJpQUVjNEduUEJuSnlOSzVnc0JSaExaQk9CTGxxSDNsZUZKVDQwTWtxbjI3UXdqdGRmTlF4eFJ0MTlnSWxzM1V2YklRamRLUXlzUThFcW5JcVZvQlhpNmJZYjYxa9IBckFVX3lxTFBSS2JwQzBvNi04ZmtRZThLOEZyaVBub2xDWTVGNDZBMldObEN2cWMtRHhCQU8wUWljUFhjNlo2ZkhUWnRSMTZPbGx0Ukd5bDI5MHZxckRZTlNnNkh1TDRtUjEtS2dBUEtTYkhDallWUnR0UQ?oc=5",
-   "source": "머니투데이",
+   "source": "mt.co.kr",
    "date": "2026-09-06",
    "datetime": "2026-09-06 17:00 KST",
    "signal": {
@@ -66,57 +114,9 @@
   {
    "title": "SK하이닉스, HBF 표준 공개…낸드가 AI 새 병목 됐다",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mTVRnU2pLSmZ3VXMwTkZsbDhaZURDMmNzNHlvWHB1Smt3Wk5fY3hpMEhNV1hCOTFrRUpHSE9hUklZOHByNVp6Wl9xcUxCWDdBajFhODNzYkxkMlVGRmVrRUZUYWJwZDA?oc=5",
-   "source": "자본시장뉴스",
+   "source": "jabon.co.kr",
    "date": "2026-09-06",
    "datetime": "2026-09-06 13:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[영상] '주주환원' 삼성전자가 좋아? SK하이닉스가 좋아?",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iUjJkeFM3cWVzd05wYng1VjlhcV9hYUtUenhaWHQ2NEZrVUZyaEVibHUxMWdpYko2bVpxa3duWWg4QkRibXFCN2Y4Y24tVHNpaHBGb3A0TzNRbldUSjhLWm8zMXrSAWhBVV95cUxNWGhJbWJIajM5RUJwbU5TSnpCV0hNOGtjR2xNMG44dllBQjdwUDJoaVcyd2U3UHM2cEVGVHJ5OXphcnN6ZjhKT1RvVDl2Q3NVZ2JNNGl2Y1E5QU1aTm1fUzBYaHR6akd0Mw?oc=5",
-   "source": "경인방송 뉴스",
-   "date": "2026-09-06",
-   "datetime": "2026-09-06 12:46 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[M-커버스토리] '제2의 SK하이닉스' 싹 자를라…양날의 검 된 '코스닥 상폐' 칼바람",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DbFZLNHlnVS1yRWE1MEh1THdlU1BMR3ZPcGZZSS1IeWw3cGU0QUJqZGppX3B2YlBaQm1pSWNlY2ZyQ0JITFpjM0pCOF9jaHdLNHIwVHZoektiUElVekdtVg?oc=5",
-   "source": "metroseoul.co.kr",
-   "date": "2026-09-06",
-   "datetime": "2026-09-06 11:11 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스 날았다… 국내 10대 브랜드 가치 2천억달러 육박",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFeDAyYTN4THRYVXhBbGpFYzZWN1lOMV9aN09MS090V1k2cGd1aUJ6aEszdzdKRTBWbTluSHY2NEJ3NXRqS0wyYTlJUHJFSnI5c1N6eTJLRS00ZFBLUnhnVU1hQ2ZMR0puMEE?oc=5",
-   "source": "천지일보",
-   "date": "2026-09-06",
-   "datetime": "2026-09-06 10:45 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“개별주 못 믿겠다”…서학개미, 마이크론·SK하이닉스 팔고 ‘속슬’에 베팅",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLamFrVG44VDdjc091dXdEcVZ1c29zOEM1cTVONTU4QnZxN3VTeUxOZEJadUpUOE02UHNkRWlPamx0ZG5XamRNT2RiODg4WlJ0Z0t0U19Obktrczg?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-09-06",
-   "datetime": "2026-09-06 10:32 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
