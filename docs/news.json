@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-07 12:32 KST",
+ "fetchedAt": "2026-09-07 13:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -9,6 +9,18 @@
    "source": "Vietnam.vn",
    "date": "2026-09-07",
    "datetime": "2026-09-07 12:22 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "“310만닉스 가나요”…SK하이닉스 목표가 ‘쑥’ [오늘, 이 종목]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ib3hPWEp2cFVWR2JJU0UtQjRtdTJMWkQyRUpHVjRPcjdvM0hWTlhTdTN5ZjBVR2JtQnN6S2ltRFN1ZmppcTlHaklPNkJ3YkU?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 11:27 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -103,18 +115,6 @@
    "title": "SK하이닉스, HBM4 가격 상승 본격화... 목표가↑-DB",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zYWNnWWViUVdJbzV1WEFJcGJSUVRFWjRDQzlmSVFkSVQzeHdVVnAybkJ0UGRORzZnVXFwTFg1NW1NZ1RSTHljWU5QbzdnZ2g0dFQzSnlkdFIyNF8tTlota1NUUHBfYXdRS0cyR1ZzZWQwbWNvVUE?oc=5",
    "source": "인포스탁데일리",
-   "date": "2026-09-07",
-   "datetime": "2026-09-07 09:46 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 목표가는 230만원 '상향'...삼성전자는 '유지' 왜?",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd3dWWnJYN0d5bFdtamoyTGpxX2VROFk1MTgyYjlKSWM0UXNSVDlpRXptc1JUZDhaUGhObW9GaTFxdGJUcUptVFpHWjNkb2g1bDZPYllZeW1KbnRlMTg5R0J1Wm1tTkFXeTA3aHpaaXo3Y1NvQ215MGNRRU81eW5uMA?oc=5",
-   "source": "edaily.co.kr",
    "date": "2026-09-07",
    "datetime": "2026-09-07 09:46 KST",
    "signal": {
