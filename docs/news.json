@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-09-07 10:32 KST",
+ "fetchedAt": "2026-09-07 11:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "“오픈AI 땡큐” 삼전 4%·SK하이닉스 5%↑…코스피 3% 상승 출발",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vUmlGWGtOYzQ2d3I3NTg0ZThFYzFQcF9YTDVxcnAydUVHelZpajJLZXlvUFZsbTFTV2xRTUszNENDNGhDUmJZcm9CQlVYeV8wbzNRWnJpaV9kS052Sklpd0FwVEZnWElYNXlGbXhaTjMtd1RtbG5nUjF2Umh4Zw?oc=5",
+   "source": "서울신문",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 10:27 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "'7천피' 앞둔 코스피...반도체 훈풍에 SK하이닉스 5%대 강세 [fn오전시황]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jR1JfbkZUR0NNTzMzODVvZzJkTXFnODRXSHZqUXlxZzRSajFmUEQxYUJQZk1uYWZZbzFuVDlfamRPQjRQcjFvUl9GRkJYWms?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 10:22 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "[특징주] 삼성전자·SK하이닉스, 새 AI 모델 '아스트라' 출시.. '강세'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVEpDdndXajBOaFhpeHg1TFQtSmY1YkZpTG1ocXFnNllfNkt4MnZqU25UZ252RDhXdlZDTHhoOGpFWVBGN1JycWR2MXlRaERYTzhPTVZEbGNUczhON0NZY1V4LUNQaDBQN1JzRkw2aFhRZ1M5ZXB1OVBEclFiRkNYdXpha0ptaThH?oc=5",
@@ -28,6 +52,30 @@
    }
   },
   {
+   "title": "SK하이닉스, HBM4 가격 상승 본격화... 목표가↑-DB",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zYWNnWWViUVdJbzV1WEFJcGJSUVRFWjRDQzlmSVFkSVQzeHdVVnAybkJ0UGRORzZnVXFwTFg1NW1NZ1RSTHljWU5QbzdnZ2g0dFQzSnlkdFIyNF8tTlota1NUUHBfYXdRS0cyR1ZzZWQwbWNvVUE?oc=5",
+   "source": "infostockdaily.co.kr",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 09:46 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[리포트 브리핑]SK하이닉스, '방향은 유효하다' 목표가 2,300,000원 - DB증권",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FVWNqOUJkM2tSSDhBUHF4bG5jM3lzbjR0aHdCWnBray1WVlV6OWJkdDJWR1FrZFJ5cE5ndWRpaHJKMDZESV8xRnRDOEE5M1hpQ0FnUnhkWHpNdWRi?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-07",
+   "datetime": "2026-09-07 09:33 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "HBM 이어 낸드도 AI 특수…삼성·SK하이닉스, 시장 절반 차지 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91b0l5dVhZeEJpQUVjNEduUEJuSnlOSzVnc0JSaExaQk9CTGxxSDNsZUZKVDQwTWtxbjI3UXdqdGRmTlF4eFJ0MTlnSWxzM1V2YklRamRLUXlzUThFcW5JcVZvQlhpNmJZYjYxa9IBckFVX3lxTFBSS2JwQzBvNi04ZmtRZThLOEZyaVBub2xDWTVGNDZBMldObEN2cWMtRHhCQU8wUWljUFhjNlo2ZkhUWnRSMTZPbGx0Ukd5bDI5MHZxckRZTlNnNkh1TDRtUjEtS2dBUEtTYkhDallWUnR0UQ?oc=5",
    "source": "머니투데이",
@@ -41,7 +89,7 @@
   },
   {
    "title": "[특징주] 삼성전자·SK하이닉스 동반 강세…美 반도체주 훈풍",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92TndNQnByTUN6TGVXSzFiYVJPSE5VMHdBQngzMlE4OGJ1NEN1aVdtS1Nna0VkTWIzOTdtbXZCWW1VeUZuZVZ1U1lNLXM5Y3NVaTQxanJOT2FQMkttM3hKUlFaOA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lcEY4cEp0eU1EUEJhMmNsWUlIT1hyXzBGV1BmVloxV1ZneFdScl93Nk9raF9xVkJaM0hSVzJCbEJ1aFNwNXBlTWdyTEtfbnF6MlBPNE0xOUFINWs?oc=5",
    "source": "에너지경제신문",
    "date": "2026-09-07",
    "datetime": "2026-09-07 09:21 KST",
@@ -64,18 +112,6 @@
    }
   },
   {
-   "title": "특징주, 삼성전기-S7(삼성전자/SK하이닉스 등) 테마 상승세에 3.38% ↑",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCLVFKd1ZjMlpIeDVQekxpNEFaU3JDalBobDhnRmxldFZFR3pWREhCd3BHRXJhRVRLblpua29JSUwyU2k5VUVTSnNWMzQ5U21HTGc?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-09-07",
-   "datetime": "2026-09-07 09:07 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
    "title": "특징주, 삼성전자우-S7(삼성전자/SK하이닉스 등) 테마 상승세에 2.74% ↑",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95V0VEdGI3enFBOUlkQlB5dm5rT1V3WUVQZ1FPNE9mbWc1aWJyLUJZdl9mWGlZMVV2ZWNwVUdrWDRfZ2Nna2kwenlXMHhyQ1FQSVE?oc=5",
    "source": "매일경제 마켓",
@@ -85,42 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[속보] “오픈AI 땡큐” 삼전 4%·SK하이닉스 5%↑…코스피 3% 상승 출발",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vUmlGWGtOYzQ2d3I3NTg0ZThFYzFQcF9YTDVxcnAydUVHelZpajJLZXlvUFZsbTFTV2xRTUszNENDNGhDUmJZcm9CQlVYeV8wbzNRWnJpaV9kS052Sklpd0FwVEZnWElYNXlGbXhaTjMtd1RtbG5nUjF2Umh4Zw?oc=5",
-   "source": "서울신문",
-   "date": "2026-09-07",
-   "datetime": "2026-09-07 09:07 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "특징주, SK하이닉스-반도체 생산 테마 상승세에 5.18% ↑",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTMFd4RFRlcE1hSl9BWFNyNzlxVWFrbl8xTVFUY00xNnZtQm96cjZNb3VYRlZaMjFlUWFBV1laNUo4ZVl1ZF9SX1pvWlhQQkN3dkE?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-09-07",
-   "datetime": "2026-09-07 09:07 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 최첨단 D램 비중 확 늘린다… 내년 초 1c가 주력 공정 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0M2cTBrMTN1MWR3cEJlQ3loREhKTjd1S2w4ZkQzSjd3aVduM09rUTNiNXVnVkF0NmNYTDU0ZTFfNUNPMEpWRHZVNkRsOGZtb0poLUVENG9KRzB1QzhGbDhiS3lmUHN0aVNvbzZXM1NXdWI2al95clRzS3RhMWtLZDFn0gGWAUFVX3lxTFBuZFphbnpONFZRV0kzcHF0WWlrQU4tQ0QyTzJMM192MVZjTGZyY1pCZ1hZQnRLY3Zyc0VoWGpjX2FaamZRN0FraW9yVmU1eHBCc3ppWVM3Ukt0M0FUb0NMSk1jai1DUzZ5al9YUGRDOW1MeHBhYjZWN1ppT0tRZmFObjVuRVBBNTloblIzNndBc0xJdktxQQ?oc=5",
-   "source": "biz.chosun.com",
-   "date": "2026-09-07",
-   "datetime": "2026-09-07 07:46 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
