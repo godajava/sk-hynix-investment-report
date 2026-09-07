@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-07 09:10 KST",
+ "fetchedAt": "2026-09-07 09:11 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -90,7 +90,7 @@
   {
    "title": "[M-커버스토리] '제2의 SK하이닉스' 싹 자를라…양날의 검 된 '코스닥 상폐' 칼바람",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DbFZLNHlnVS1yRWE1MEh1THdlU1BMR3ZPcGZZSS1IeWw3cGU0QUJqZGppX3B2YlBaQm1pSWNlY2ZyQ0JITFpjM0pCOF9jaHdLNHIwVHZoektiUElVekdtVg?oc=5",
-   "source": "메트로신문",
+   "source": "metroseoul.co.kr",
    "date": "2026-09-06",
    "datetime": "2026-09-06 11:11 KST",
    "signal": {
@@ -102,7 +102,7 @@
   {
    "title": "삼성전자·SK하이닉스 날았다… 국내 10대 브랜드 가치 2천억달러 육박",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFeDAyYTN4THRYVXhBbGpFYzZWN1lOMV9aN09MS090V1k2cGd1aUJ6aEszdzdKRTBWbTluSHY2NEJ3NXRqS0wyYTlJUHJFSnI5c1N6eTJLRS00ZFBLUnhnVU1hQ2ZMR0puMEE?oc=5",
-   "source": "newscj.com",
+   "source": "천지일보",
    "date": "2026-09-06",
    "datetime": "2026-09-06 10:45 KST",
    "signal": {
