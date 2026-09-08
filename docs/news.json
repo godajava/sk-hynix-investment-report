@@ -1,12 +1,12 @@
 {
- "fetchedAt": "2026-09-08 09:17 KST",
+ "fetchedAt": "2026-09-08 09:18 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
    "title": "D램 시장 급성장에 1위 굳힌 삼성..SK하이닉스와 격차도 벌린다 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sTXROZUdiN01wbFhLWXlabDhZcjlUbWJYMGRGa3NjMEk2U3pmV3kwVnJrMTRsdmJmeWNnUElsZUhxZHg3TTJwOHBGSnlUSFFkTnlHXzQ4MURFdWY1azZIenA4SzBFV1hLd25YMtIBckFVX3lxTE5ZR3lZRy1aWXFRLVFpdVg3QXc1NjRmUk9KZmZtcFFXX2MtczJCUjdzNGMxNnctU3BOVFFlT0NWbEVBT3JkeVEzMUFCTm1fSk1LaVYxVnh0cjhsYUFpZmRQdjFHN1UzQ2EyX0pMVlh5S21aUQ?oc=5",
-   "source": "머니투데이",
+   "source": "mt.co.kr",
    "date": "2026-09-08",
    "datetime": "2026-09-08 08:27 KST",
    "signal": {
@@ -52,6 +52,18 @@
    }
   },
   {
+   "title": "[이슈] 삼성전자 vs SK하이닉스, HBM 주도권 경쟁 다시 불붙다",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ValdzcVdDaGVsY3JmSFhPd2ZQa1VJbTZUYk5GSGVqeE1YYTNZZUNpM2wwcDBYd2RJMHJObUdVbUMtdFNTZjh1THJoRVV2a3JwYTh1b0NwT1BUSF8wWERfM0VsTGVTdFlybmEzMnhTZk03Zw?oc=5",
+   "source": "뉴스임팩트",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 06:05 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
    "title": "SK하이닉스, 키옥시아 합병은 '불가능'…두터운 日·中 규제벽",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80MVIzd1RLWE95ZnVwZVMwajVNSmdQOExTMjR3U19hMW5yN1prWGVUS0RmZDV6TnljZldoa2R3U2FDb2VqTGtxemwxN2NyZGc?oc=5",
    "source": "dealsite.co.kr",
@@ -66,7 +78,7 @@
   {
    "title": "외국인 현·선물 5조원 샀다…삼성전자·SK하이닉스, ‘7천피’ 앞 수급 지속이 관건",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41SEk3d2szVERkNlhLcWExeWdTa3BxaG5tLXdTZWxFSXVEanFfTm9UbV9OSVVJY2VseUhFb1F5UHV2aU1uaXNLV1lMZmVqSW4xWkhJRlF3TTJSR2J2UGdSV201UTFYWDdG?oc=5",
-   "source": "녹색경제신문",
+   "source": "greened.kr",
    "date": "2026-09-08",
    "datetime": "2026-09-08 01:34 KST",
    "signal": {
@@ -109,18 +121,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "D램값 급등에 엇갈린 점유율…삼성 오르고 SK하이닉스 내렸다",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GZUphczZfMnRoMzA3Q1RoSWFoMkhub0JUQmg0ODl5U3AxNWtZaDhYR3k1eE9ScXBmRWdpcm1VMnRTbUNHQzN1RmRVbUxLQ1FsWkpQczB1WDM3b1VF?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-07",
-   "datetime": "2026-09-07 17:59 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
