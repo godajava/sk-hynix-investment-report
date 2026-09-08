@@ -1,18 +1,18 @@
 {
- "fetchedAt": "2026-09-08 13:32 KST",
+ "fetchedAt": "2026-09-08 14:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "코스피, 반도체 훈풍에 장중 7100선 위로…SK하이닉스 5%↑",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iSE9DM1FfeVd1QkhjR2hrRk9rRnZvQ3gtdFdiZ2ZxNWhnM1FDc0NlcVFRZEdsaXFhYkNsZVlMb29USnQ4M3ZBUlhsTzRUT3RzeTVwSEw3WVFFdw?oc=5",
-   "source": "한국경제",
+   "title": "최태원 \"SK하이닉스 일본 투자, 조만간 결론…지역·방식 검토 중\"",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KeFRPRWlqNzZINl9TRzhLaTNBdmwyMEtzMVM4eGx3Qk85SFd4bkFFNW5FRml0Q21JcG0ydTgwemRSSG1qcElicm9pdXNzSWN2ZDR1LUo2SXZzZVZlaEh1dWdiU3cyUTZzLUtnTA?oc=5",
+   "source": "한경매거진&북",
    "date": "2026-09-08",
-   "datetime": "2026-09-08 13:21 KST",
+   "datetime": "2026-09-08 13:50 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -42,7 +42,7 @@
   {
    "title": "'삼성전자·SK하이닉스 질주' 코스피 7000 탈환...증권가 목표는 제각각?",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HTHRnNDdaTkhJdGZJRFFycEhvcU5iOWJrcDBWczZUd1dxOG40SDFKNGgtUGlHUnVtVml5ekxRVXRHeW5vUVNkMDFqRVpGVUtabEpUTXRQelRxeDYyU2RZ?oc=5",
-   "source": "joseilbo.com",
+   "source": "조세일보",
    "date": "2026-09-08",
    "datetime": "2026-09-08 10:36 KST",
    "signal": {
@@ -112,15 +112,15 @@
    }
   },
   {
-   "title": "코스피, 3주 만에 7000선 회복...SK하이닉스 180만원 '눈앞'",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bERKMjBkYUMyaUV3SkVrbHJ0MUZDWkwyaWZzWm9Ib0VWZGhRYTVKaVZoUXhrZktRS05Ib0dpUndtZ2NyaUU3TFZZVjBUY25rRV9iR0xfMTZYQ2ZMVGRXUmdWQWIwYnc?oc=5",
-   "source": "녹색경제신문",
+   "title": "잡플래닛, 2026 하반기 어워즈 발표… ‘대상’은 SK하이닉스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9raXZ2SldGSHlmUk9tcUhUbDlFVGk1a3M2SmhMZUM5c1NBTmVLZWljTUFXR0tPT3ZXbS0yU3BqTTdyWFVIX1RWSDEwXzdjVDkzR1pOcnd5NjBCUVBsNnJfam40YzBfazNW?oc=5",
+   "source": "팍스경제TV",
    "date": "2026-09-08",
-   "datetime": "2026-09-08 09:55 KST",
+   "datetime": "2026-09-08 09:35 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   }
  ]
