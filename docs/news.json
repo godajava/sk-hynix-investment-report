@@ -1,14 +1,62 @@
 {
- "fetchedAt": "2026-09-08 09:32 KST",
+ "fetchedAt": "2026-09-08 10:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "곽튜브, SK하이닉스 '-14%' 인증…\"있는 돈 거의 다 때려 박아, 물 탄다\"",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vQmwtQUNBTEJaeFk0enlYbFRGOWRremRVYmpfUlJfVGRuaGZIRjFJbGFxSTR3bGFfNkNpN19TLVFjWEc3OG02ZnJMMWowdFM2MnVzZmRiUVhldTBjaHVr0gFkQVVfeXFMUGt6T2FXbDZ1Z3g0ME5tQ0tXMHNxUnJuRVZpMDEtRVBNQWJDdzdSMmt5WEM2cTB2ZUtDZEtFRzdudC1ZMFAybldlamRhYXY5b3ZYWUV1OGZNU2Y5WXRyZkl1XzBOVg?oc=5",
-   "source": "뉴스1",
+   "title": "삼성전자와 SK하이닉스 장 초반 상승, 글로벌 반도체주 강세 영향",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kem5xYS1SZDJ5U1Y4bFBWd2g1U3o0aU10SHRTX2pMUTlJSTB2WWMyT1ZKWWREd0FjRGlNLVJqSTcwMWRPN2p5dEFPcjhKWjZxWTNGWmtXYXhlNmNvb2V2Rlo0T0Zhbms3?oc=5",
+   "source": "2news.co.kr",
    "date": "2026-09-08",
-   "datetime": "2026-09-08 09:18 KST",
+   "datetime": "2026-09-08 10:02 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, 전·현직 직원 평가도 대학생 선호도도 1위",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxQTRQcWtIMHlhZEdCa2hFdnN3eURhYkxheWVFVklYSjRNSWVkYzc4RjJFWDE1aGJNOFJEdVROYW1UdFFWZEJuZDEtTTg5d0l5OEtpSURMWUNCZzZnckZ2SllB?oc=5",
+   "source": "economist.co.kr",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 10:00 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, '아스트라' 공개 후 사흘째 '강세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzZhNVZiQlV2YktJQVJHZnJRam8zdjA5a1V1STlUa1lmblY3bHhGWm4yM0FaT19sLU5wdzIyMVpXaTh0T0FESW1jS1NXUlNjWUpaelVmSmlMUjVtX0tYQ3hWVlo5RmhmZ1hYSmhhTWVjdjlKVHlyQ040a1BUWmhITGJBbTIzNFdz?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 09:55 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "코스피, 3주 만에 7000선 회복...SK하이닉스 180만원 '눈앞'",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vMFZ3TUVmMWFCLTE2X2pOWjRTOVFHdWNPWXJoWF81T2dDaVBqelhlQXU3dEVGWHZsM21abHI2NTlzOWQ4akNPSDhFY3NFZ0J3cUdnTGV6N2EybkdSTkVqMVFOb01PZ1pz?oc=5",
+   "source": "녹색경제신문",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 09:55 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "잡플래닛, 2026 하반기 어워즈 발표… ‘대상’은 SK하이닉스",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9raXZ2SldGSHlmUk9tcUhUbDlFVGk1a3M2SmhMZUM5c1NBTmVLZWljTUFXR0tPT3ZXbS0yU3BqTTdyWFVIX1RWSDEwXzdjVDkzR1pOcnd5NjBCUVBsNnJfam40YzBfazNW?oc=5",
+   "source": "팍스경제TV",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 09:35 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,11 +64,35 @@
    }
   },
   {
-   "title": "SK하이닉스, 기업 리뷰 기반 '일하기 좋은 기업' 종합 대상",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xeHlhV0lWVVZza3RyYWNMTDNkYTRmdnJHT1FNZ0R2b1NrNXBrQW5HX1VTcm8wT2lQYS0yTjY2cW5sQkZYdWI5SXktaXRPcFB6LVdtUlZLY0Faa24tTnhQSVh1cmtYeXoyLVkwYzdvdkNMNmEt?oc=5",
-   "source": "koreancenter.or.kr",
+   "title": "코스피, 장 초반 7000선 회복…삼성전자·SK하이닉스가 견인",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zcngtU3VrT083bjRZM1U0czMwSHdQRWRBSERlNF9ZLUp1dFNUWVJWbEswY1BtYjNtX09wTHF1bVBCNUdHaVJzOHMxb1FoTlFCcVU4LWd0a1gtT0hYT3Q4ZmVhOHg?oc=5",
+   "source": "디지털데일리",
    "date": "2026-09-08",
-   "datetime": "2026-09-08 09:14 KST",
+   "datetime": "2026-09-08 09:21 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "美·中 AI 경쟁 최대 수혜 '삼성전자·SK하이닉스'",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JZDZzR3gwUGl1Sk41SzVhUmtOWTJkVy1UQzIzSTd4em1ld21OTTJNV0dYZFpuZG5QQlV3SGlTNjJ1aTVTa0FDM3VYVXZ1eEU1VHFzS3NXUHpaWFFFblgyZktqYUNCSHNF?oc=5",
+   "source": "ebn.co.kr",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 09:13 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "잡플래닛, 하반기 '일하기 좋은 기업' 59곳 선정…SK하이닉스 '대상'",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6ck9IT2pNdlJvMDY0Qkdhdm9yQUhjS0p1cEJPU0FiaERLbGtSMlNSVzdBMnQ2eTNaOE9PUHhQZGVScmszemJTOEJ1NzVJUlFVWDRmaThjS2FRYlU1c0lUeldsX3fSAWpBVV95cUxQaGNpak1VRU5ra0JQZlJTekJwaldpU0ludWVpckR0N3BvVVVFTHJsaUhCakhVZ3FtV0pTNk9GZ2hia3FqOTE5THpZYnJhbVJyMk45MElvZ0ZCRHZRanVoSXFFMTVuUlZaN293?oc=5",
+   "source": "뉴스1",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 09:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -49,78 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[이슈] 삼성전자 vs SK하이닉스, HBM 주도권 경쟁 다시 불붙다",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ValdzcVdDaGVsY3JmSFhPd2ZQa1VJbTZUYk5GSGVqeE1YYTNZZUNpM2wwcDBYd2RJMHJObUdVbUMtdFNTZjh1THJoRVV2a3JwYTh1b0NwT1BUSF8wWERfM0VsTGVTdFlybmEzMnhTZk03Zw?oc=5",
-   "source": "뉴스임팩트",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 06:05 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스, 키옥시아 합병은 '불가능'…두터운 日·中 규제벽",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80MVIzd1RLWE95ZnVwZVMwajVNSmdQOExTMjR3U19hMW5yN1prWGVUS0RmZDV6TnljZldoa2R3U2FDb2VqTGtxemwxN2NyZGc?oc=5",
-   "source": "딜사이트",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 06:00 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "외국인 현·선물 5조원 샀다…삼성전자·SK하이닉스, ‘7천피’ 앞 수급 지속이 관건",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41SEk3d2szVERkNlhLcWExeWdTa3BxaG5tLXdTZWxFSXVEanFfTm9UbV9OSVVJY2VseUhFb1F5UHV2aU1uaXNLV1lMZmVqSW4xWkhJRlF3TTJSR2J2UGdSV201UTFYWDdG?oc=5",
-   "source": "greened.kr",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 01:34 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스(000660)",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOREJsOTlGN0VIVVFMOE5kR0dHTEF3eEp3eDljZGdJcTBDRFkwUVVFUjRmTGpZOEVqZ0xVQmRBWjZpQTkta1VhaldIRTdKM3RnbjFwVzVOOER0aXZfdFU5Q2hacHBnSmRkS1F5WHRHYkx2SjNMVU1INGd3MHY0MUFBUjdfVVFoSlF0SHBzZzJpelZCcXRTWm9nWjd3?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 00:27 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "2분기 글로벌 D램 점유율 삼성전자 39.4%·SK하이닉스 24.9%",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1mRGx5ZUJZSFNrVFNFeXl5UXkyNV9yZmI0NnB3TkpIVDJYbWhQN0RjLXlTRlhfdWRfcmYxMVlkQ25PenNvQU1INEdUNEpQQQ?oc=5",
-   "source": "전자신문",
-   "date": "2026-09-07",
-   "datetime": "2026-09-07 18:48 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "용인 반도체 ＇방류수＇ 논란…SK하이닉스 ＂감축 검토＂",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13UGQ4Q0E2MXhhZmFSN3RQZ0dXa0xOYVdoZXY2Wjh5dWQxdXVIcERBR3ZJTzN5Ym9BZkxZYmxNQ3pPeXN6d1ZSelp5akEwOWo5bEM0UGViYWZDbXZLcWxoZTNITWVsS1hnbE1hRkVQSXZUZ2s?oc=5",
-   "source": "한국경제TV",
-   "date": "2026-09-07",
-   "datetime": "2026-09-07 18:13 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
