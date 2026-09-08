@@ -1,8 +1,44 @@
 {
- "fetchedAt": "2026-09-08 10:32 KST",
+ "fetchedAt": "2026-09-08 11:33 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "D램 시장 급성장에 1위 굳힌 삼성..SK하이닉스와 격차도 벌린다 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sTXROZUdiN01wbFhLWXlabDhZcjlUbWJYMGRGa3NjMEk2U3pmV3kwVnJrMTRsdmJmeWNnUElsZUhxZHg3TTJwOHBGSnlUSFFkTnlHXzQ4MURFdWY1azZIenA4SzBFV1hLd25YMtIBckFVX3lxTE5ZR3lZRy1aWXFRLVFpdVg3QXc1NjRmUk9KZmZtcFFXX2MtczJCUjdzNGMxNnctU3BOVFFlT0NWbEVBT3JkeVEzMUFCTm1fSk1LaVYxVnh0cjhsYUFpZmRQdjFHN1UzQ2EyX0pMVlh5S21aUQ?oc=5",
+   "source": "머니투데이",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 11:27 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "“메모리가 없다”…삼성·SK하이닉스 메모리 재고 ‘10일 미만’",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNMWc0T0d4VVhpUlZlbWFHb2VNamN5SDVjSE9fNl9GY1haZXd0bDVaVk8zVFU5dkt2UU55VnFVOGk1YWJScEVuVm9ObkdzZ2hfSktHVjNQWHY2SDBwZzRUR0FueWkxUVdR?oc=5",
+   "source": "테크월드",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 11:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "'삼성전자·SK하이닉스 질주' 코스피 7000 탈환...증권가 목표는 제각각?",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HTHRnNDdaTkhJdGZJRFFycEhvcU5iOWJrcDBWczZUd1dxOG40SDFKNGgtUGlHUnVtVml5ekxRVXRHeW5vUVNkMDFqRVpGVUtabEpUTXRQelRxeDYyU2RZ?oc=5",
+   "source": "joseilbo.com",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 10:36 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "삼성전자와 SK하이닉스 장 초반 상승, 글로벌 반도체주 강세 영향",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kem5xYS1SZDJ5U1Y4bFBWd2g1U3o0aU10SHRTX2pMUTlJSTB2WWMyT1ZKWWREd0FjRGlNLVJqSTcwMWRPN2p5dEFPcjhKWjZxWTNGWmtXYXhlNmNvb2V2Rlo0T0Zhbms3?oc=5",
@@ -18,7 +54,7 @@
   {
    "title": "SK하이닉스, 전·현직 직원 평가도 대학생 선호도도 1위",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxQTRQcWtIMHlhZEdCa2hFdnN3eURhYkxheWVFVklYSjRNSWVkYzc4RjJFWDE1aGJNOFJEdVROYW1UdFFWZEJuZDEtTTg5d0l5OEtpSURMWUNCZzZnckZ2SllB?oc=5",
-   "source": "economist.co.kr",
+   "source": "이코노미스트",
    "date": "2026-09-08",
    "datetime": "2026-09-08 10:00 KST",
    "signal": {
@@ -30,7 +66,7 @@
   {
    "title": "[특징주] 삼성전자·SK하이닉스, '아스트라' 공개 후 사흘째 '강세'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzZhNVZiQlV2YktJQVJHZnJRam8zdjA5a1V1STlUa1lmblY3bHhGWm4yM0FaT19sLU5wdzIyMVpXaTh0T0FESW1jS1NXUlNjWUpaelVmSmlMUjVtX0tYQ3hWVlo5RmhmZ1hYSmhhTWVjdjlKVHlyQ040a1BUWmhITGJBbTIzNFdz?oc=5",
-   "source": "글로벌이코노믹",
+   "source": "g-enews.com",
    "date": "2026-09-08",
    "datetime": "2026-09-08 09:55 KST",
    "signal": {
@@ -42,7 +78,7 @@
   {
    "title": "코스피, 3주 만에 7000선 회복...SK하이닉스 180만원 '눈앞'",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vMFZ3TUVmMWFCLTE2X2pOWjRTOVFHdWNPWXJoWF81T2dDaVBqelhlQXU3dEVGWHZsM21abHI2NTlzOWQ4akNPSDhFY3NFZ0J3cUdnTGV6N2EybkdSTkVqMVFOb01PZ1pz?oc=5",
-   "source": "녹색경제신문",
+   "source": "greened.kr",
    "date": "2026-09-08",
    "datetime": "2026-09-08 09:55 KST",
    "signal": {
@@ -81,42 +117,6 @@
    "source": "ebn.co.kr",
    "date": "2026-09-08",
    "datetime": "2026-09-08 09:13 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "잡플래닛, 하반기 '일하기 좋은 기업' 59곳 선정…SK하이닉스 '대상'",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6ck9IT2pNdlJvMDY0Qkdhdm9yQUhjS0p1cEJPU0FiaERLbGtSMlNSVzdBMnQ2eTNaOE9PUHhQZGVScmszemJTOEJ1NzVJUlFVWDRmaThjS2FRYlU1c0lUeldsX3fSAWpBVV95cUxQaGNpak1VRU5ra0JQZlJTekJwaldpU0ludWVpckR0N3BvVVVFTHJsaUhCakhVZ3FtV0pTNk9GZ2hia3FqOTE5THpZYnJhbVJyMk45MElvZ0ZCRHZRanVoSXFFMTVuUlZaN293?oc=5",
-   "source": "뉴스1",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 09:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "D램 시장 급성장에 1위 굳힌 삼성..SK하이닉스와 격차도 벌린다 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sTXROZUdiN01wbFhLWXlabDhZcjlUbWJYMGRGa3NjMEk2U3pmV3kwVnJrMTRsdmJmeWNnUElsZUhxZHg3TTJwOHBGSnlUSFFkTnlHXzQ4MURFdWY1azZIenA4SzBFV1hLd25YMtIBckFVX3lxTE5ZR3lZRy1aWXFRLVFpdVg3QXc1NjRmUk9KZmZtcFFXX2MtczJCUjdzNGMxNnctU3BOVFFlT0NWbEVBT3JkeVEzMUFCTm1fSk1LaVYxVnh0cjhsYUFpZmRQdjFHN1UzQ2EyX0pMVlh5S21aUQ?oc=5",
-   "source": "머니투데이",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 08:27 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스, 메모리 반도체 재고 열흘 밑돌아…내년 품귀 현실화",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbVFsUVBKLWU5REhrX19Kc1p5UnBqWmZtbVR4QktHU3ZTSWctR0dMM3FtY0ZJVElDZU1mQnVPNGxlTnFwQjFEQVNYOUxRX1FxMlhERkdZc3h0MkpMWEtxNkRPM1BwZVZ4UGZLWF9SbU9HcGozM0Z4T2haVHJZRU1HUE5SSm5LcFk?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 06:40 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
