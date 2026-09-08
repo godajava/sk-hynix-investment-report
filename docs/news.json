@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-08 12:32 KST",
+ "fetchedAt": "2026-09-08 13:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "코스피, 반도체 훈풍에 장중 7100선 위로…SK하이닉스 5%↑",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iSE9DM1FfeVd1QkhjR2hrRk9rRnZvQ3gtdFdiZ2ZxNWhnM1FDc0NlcVFRZEdsaXFhYkNsZVlMb29USnQ4M3ZBUlhsTzRUT3RzeTVwSEw3WVFFdw?oc=5",
+   "source": "한국경제",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 13:21 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "D램 시장 급성장에 1위 굳힌 삼성..SK하이닉스와 격차도 벌린다 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sTXROZUdiN01wbFhLWXlabDhZcjlUbWJYMGRGa3NjMEk2U3pmV3kwVnJrMTRsdmJmeWNnUElsZUhxZHg3TTJwOHBGSnlUSFFkTnlHXzQ4MURFdWY1azZIenA4SzBFV1hLd25YMtIBckFVX3lxTE5ZR3lZRy1aWXFRLVFpdVg3QXc1NjRmUk9KZmZtcFFXX2MtczJCUjdzNGMxNnctU3BOVFFlT0NWbEVBT3JkeVEzMUFCTm1fSk1LaVYxVnh0cjhsYUFpZmRQdjFHN1UzQ2EyX0pMVlh5S21aUQ?oc=5",
@@ -30,13 +42,25 @@
   {
    "title": "'삼성전자·SK하이닉스 질주' 코스피 7000 탈환...증권가 목표는 제각각?",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HTHRnNDdaTkhJdGZJRFFycEhvcU5iOWJrcDBWczZUd1dxOG40SDFKNGgtUGlHUnVtVml5ekxRVXRHeW5vUVNkMDFqRVpGVUtabEpUTXRQelRxeDYyU2RZ?oc=5",
-   "source": "조세일보",
+   "source": "joseilbo.com",
    "date": "2026-09-08",
    "datetime": "2026-09-08 10:36 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
+   }
+  },
+  {
+   "title": "삼성 D램 점유율 40% 육박…SK하이닉스 주춤한 사이 CXMT 10% 눈앞 [비즈360]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vNjFCTHI1Q0JCUTMzUXUtR2RVOVRLYVIySDJEdl9wZHVNYktURkpXM01VUnZSakJkZVB6QkFMNzJ1SEdheGdqdEw2UHkwb1k?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 10:35 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -78,7 +102,7 @@
   {
    "title": "[특징주] 삼성전자·SK하이닉스, '아스트라' 공개 후 사흘째 '강세'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzZhNVZiQlV2YktJQVJHZnJRam8zdjA5a1V1STlUa1lmblY3bHhGWm4yM0FaT19sLU5wdzIyMVpXaTh0T0FESW1jS1NXUlNjWUpaelVmSmlMUjVtX0tYQ3hWVlo5RmhmZ1hYSmhhTWVjdjlKVHlyQ040a1BUWmhITGJBbTIzNFdz?oc=5",
-   "source": "글로벌이코노믹",
+   "source": "g-enews.com",
    "date": "2026-09-08",
    "datetime": "2026-09-08 09:55 KST",
    "signal": {
@@ -93,30 +117,6 @@
    "source": "녹색경제신문",
    "date": "2026-09-08",
    "datetime": "2026-09-08 09:55 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "잡플래닛, 2026 하반기 어워즈 발표… ‘대상’은 SK하이닉스",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9raXZ2SldGSHlmUk9tcUhUbDlFVGk1a3M2SmhMZUM5c1NBTmVLZWljTUFXR0tPT3ZXbS0yU3BqTTdyWFVIX1RWSDEwXzdjVDkzR1pOcnd5NjBCUVBsNnJfam40YzBfazNW?oc=5",
-   "source": "팍스경제TV",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 09:35 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "코스피, 장 초반 7000선 회복…삼성전자·SK하이닉스가 견인",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zcngtU3VrT083bjRZM1U0czMwSHdQRWRBSERlNF9ZLUp1dFNUWVJWbEswY1BtYjNtX09wTHF1bVBCNUdHaVJzOHMxb1FoTlFCcVU4LWd0a1gtT0hYT3Q4ZmVhOHg?oc=5",
-   "source": "디지털데일리",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 09:21 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
