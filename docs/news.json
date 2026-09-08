@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-08 11:33 KST",
+ "fetchedAt": "2026-09-08 12:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -30,9 +30,21 @@
   {
    "title": "'삼성전자·SK하이닉스 질주' 코스피 7000 탈환...증권가 목표는 제각각?",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HTHRnNDdaTkhJdGZJRFFycEhvcU5iOWJrcDBWczZUd1dxOG40SDFKNGgtUGlHUnVtVml5ekxRVXRHeW5vUVNkMDFqRVpGVUtabEpUTXRQelRxeDYyU2RZ?oc=5",
-   "source": "joseilbo.com",
+   "source": "조세일보",
    "date": "2026-09-08",
    "datetime": "2026-09-08 10:36 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "\"SK하이닉스 일하기 좋다\"…리뷰 뜯었더니 '종합 1위'",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90Vi04TEt6TTUzY192T0U4NEZodXFJNnRaY3JtR0EwamRoR3hjbElodVNmcFZuWlQ4RnNxeWtsWnFOVUhid0N1SHZOV1NEV013bUtTaUVOTV9Vdw?oc=5",
+   "source": "한국경제",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 10:05 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -66,7 +78,7 @@
   {
    "title": "[특징주] 삼성전자·SK하이닉스, '아스트라' 공개 후 사흘째 '강세'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMzZhNVZiQlV2YktJQVJHZnJRam8zdjA5a1V1STlUa1lmblY3bHhGWm4yM0FaT19sLU5wdzIyMVpXaTh0T0FESW1jS1NXUlNjWUpaelVmSmlMUjVtX0tYQ3hWVlo5RmhmZ1hYSmhhTWVjdjlKVHlyQ040a1BUWmhITGJBbTIzNFdz?oc=5",
-   "source": "g-enews.com",
+   "source": "글로벌이코노믹",
    "date": "2026-09-08",
    "datetime": "2026-09-08 09:55 KST",
    "signal": {
@@ -77,8 +89,8 @@
   },
   {
    "title": "코스피, 3주 만에 7000선 회복...SK하이닉스 180만원 '눈앞'",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vMFZ3TUVmMWFCLTE2X2pOWjRTOVFHdWNPWXJoWF81T2dDaVBqelhlQXU3dEVGWHZsM21abHI2NTlzOWQ4akNPSDhFY3NFZ0J3cUdnTGV6N2EybkdSTkVqMVFOb01PZ1pz?oc=5",
-   "source": "greened.kr",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bERKMjBkYUMyaUV3SkVrbHJ0MUZDWkwyaWZzWm9Ib0VWZGhRYTVKaVZoUXhrZktRS05Ib0dpUndtZ2NyaUU3TFZZVjBUY25rRV9iR0xfMTZYQ2ZMVGRXUmdWQWIwYnc?oc=5",
+   "source": "녹색경제신문",
    "date": "2026-09-08",
    "datetime": "2026-09-08 09:55 KST",
    "signal": {
@@ -109,18 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "美·中 AI 경쟁 최대 수혜 '삼성전자·SK하이닉스'",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JZDZzR3gwUGl1Sk41SzVhUmtOWTJkVy1UQzIzSTd4em1ld21OTTJNV0dYZFpuZG5QQlV3SGlTNjJ1aTVTa0FDM3VYVXZ1eEU1VHFzS3NXUHpaWFFFblgyZktqYUNCSHNF?oc=5",
-   "source": "ebn.co.kr",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 09:13 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
