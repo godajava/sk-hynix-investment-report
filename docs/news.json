@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-09-08 09:23 KST",
+ "fetchedAt": "2026-09-08 09:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "곽튜브, SK하이닉스 '-14%' 인증…\"있는 돈 거의 다 때려 박아, 물 탄다\"",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vQmwtQUNBTEJaeFk0enlYbFRGOWRremRVYmpfUlJfVGRuaGZIRjFJbGFxSTR3bGFfNkNpN19TLVFjWEc3OG02ZnJMMWowdFM2MnVzZmRiUVhldTBjaHVr0gFkQVVfeXFMUGt6T2FXbDZ1Z3g0ME5tQ0tXMHNxUnJuRVZpMDEtRVBNQWJDdzdSMmt5WEM2cTB2ZUtDZEtFRzdudC1ZMFAybldlamRhYXY5b3ZYWUV1OGZNU2Y5WXRyZkl1XzBOVg?oc=5",
+   "source": "뉴스1",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 09:18 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 기업 리뷰 기반 '일하기 좋은 기업' 종합 대상",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xeHlhV0lWVVZza3RyYWNMTDNkYTRmdnJHT1FNZ0R2b1NrNXBrQW5HX1VTcm8wT2lQYS0yTjY2cW5sQkZYdWI5SXktaXRPcFB6LVdtUlZLY0Faa24tTnhQSVh1cmtYeXoyLVkwYzdvdkNMNmEt?oc=5",
+   "source": "koreancenter.or.kr",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 09:14 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "D램 시장 급성장에 1위 굳힌 삼성..SK하이닉스와 격차도 벌린다 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sTXROZUdiN01wbFhLWXlabDhZcjlUbWJYMGRGa3NjMEk2U3pmV3kwVnJrMTRsdmJmeWNnUElsZUhxZHg3TTJwOHBGSnlUSFFkTnlHXzQ4MURFdWY1azZIenA4SzBFV1hLd25YMtIBckFVX3lxTE5ZR3lZRy1aWXFRLVFpdVg3QXc1NjRmUk9KZmZtcFFXX2MtczJCUjdzNGMxNnctU3BOVFFlT0NWbEVBT3JkeVEzMUFCTm1fSk1LaVYxVnh0cjhsYUFpZmRQdjFHN1UzQ2EyX0pMVlh5S21aUQ?oc=5",
@@ -30,7 +54,7 @@
   {
    "title": "[이슈] 삼성전자 vs SK하이닉스, HBM 주도권 경쟁 다시 불붙다",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ValdzcVdDaGVsY3JmSFhPd2ZQa1VJbTZUYk5GSGVqeE1YYTNZZUNpM2wwcDBYd2RJMHJObUdVbUMtdFNTZjh1THJoRVV2a3JwYTh1b0NwT1BUSF8wWERfM0VsTGVTdFlybmEzMnhTZk03Zw?oc=5",
-   "source": "newsimpact.co.kr",
+   "source": "뉴스임팩트",
    "date": "2026-09-08",
    "datetime": "2026-09-08 06:05 KST",
    "signal": {
@@ -52,21 +76,9 @@
    }
   },
   {
-   "title": "곽튜브, SK하이닉스 -14% 손실 고백…“비행기 타느니 물 탄다”",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YYkRrM2VGSzRiMTIyM1UydklRZHJUdVdDY0pvSFA2c1JtWS1Bc2MyN2NEQnlUaEZNM1NzR3dZWTlGMGQxQW5EZVJGaWdlMzZTd19HaWln?oc=5",
-   "source": "중앙일보",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 05:58 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
    "title": "외국인 현·선물 5조원 샀다…삼성전자·SK하이닉스, ‘7천피’ 앞 수급 지속이 관건",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE41SEk3d2szVERkNlhLcWExeWdTa3BxaG5tLXdTZWxFSXVEanFfTm9UbV9OSVVJY2VseUhFb1F5UHV2aU1uaXNLV1lMZmVqSW4xWkhJRlF3TTJSR2J2UGdSV201UTFYWDdG?oc=5",
-   "source": "녹색경제신문",
+   "source": "greened.kr",
    "date": "2026-09-08",
    "datetime": "2026-09-08 01:34 KST",
    "signal": {
@@ -102,25 +114,13 @@
   {
    "title": "용인 반도체 ＇방류수＇ 논란…SK하이닉스 ＂감축 검토＂",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE13UGQ4Q0E2MXhhZmFSN3RQZ0dXa0xOYVdoZXY2Wjh5dWQxdXVIcERBR3ZJTzN5Ym9BZkxZYmxNQ3pPeXN6d1ZSelp5akEwOWo5bEM0UGViYWZDbXZLcWxoZTNITWVsS1hnbE1hRkVQSXZUZ2s?oc=5",
-   "source": "wowtv.co.kr",
+   "source": "한국경제TV",
    "date": "2026-09-07",
    "datetime": "2026-09-07 18:13 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "D램값 급등에 엇갈린 점유율…삼성 오르고 SK하이닉스 내렸다",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GZUphczZfMnRoMzA3Q1RoSWFoMkhub0JUQmg0ODl5U3AxNWtZaDhYR3k1eE9ScXBmRWdpcm1VMnRTbUNHQzN1RmRVbUxLQ1FsWkpQczB1WDM3b1VF?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-07",
-   "datetime": "2026-09-07 17:59 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
