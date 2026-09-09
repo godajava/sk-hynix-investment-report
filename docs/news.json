@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-09-09 09:32 KST",
+ "fetchedAt": "2026-09-09 10:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 2026 미래포럼…\"고객 시선서 새 가능성 찾자\"",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MdUZ1Tlk4cnlNSlZVNUNnV2NsdGppTVZ4aFlzQ3RpdFB5Z0ZSaS1ZMDFRSkVQQWpTQ2doY2Naa1dIMExxLXNsRGFyZ0JQSlE?oc=5",
-   "source": "v.daum.net",
+   "title": "SK하이닉스 미래포럼…AI 시대 ‘맞춤형·3D 메모리’ 해법 찾는다",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3TklmNXhqWm9MbE1ydlhoWnBSVGJoMHFwd0lBTnY2OEs4ZEVrTzQ1MGppUGI2U05OLW1FcEdMQVdOY0hRV2lxd2N2aHUyRUFvQTMxaVBB?oc=5",
+   "source": "중앙일보",
    "date": "2026-09-09",
-   "datetime": "2026-09-09 09:28 KST",
+   "datetime": "2026-09-09 10:30 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,47 +16,23 @@
    }
   },
   {
-   "title": "[특징주] 삼성전자, 장 초반 0.6% 상승…SK하이닉스는 1.5%↑",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Td2hhaFNUU0UtZEVCQ01wQnhXaU5odUZNNW9IWXZTaTZ5ak42ZWNCd01pMXZfZ3p4R0Y4NXBsUVdyeTJfV1hzMzBtRUpDVHNNeEo3Q3JJdExpbG_SAWBBVV95cUxPSzl0S3JubFJ3T1Bnc2pfd1hrdG5zeXhRV1pRMlNLOF83MWc3VndYTzNhVTRHWXFjQmNKMWhpWXktMGtVSXFYM3AtWFpQNWxvenVvZFMyRFVfbDZOQ21OaTY?oc=5",
-   "source": "연합뉴스",
+   "title": "[특징주] 삼성전자·SK하이닉스, 美 반도체주 상승.. 동반 '강세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbE9XRHBaaHhwNWh2dC0yYUtfelk1clB3aEJ5SlB5V2laSTZWOWhFNzJoNmNCd1Y1aWFVM0xCWUZuUWJoaVNXdHlLdGpZOExhMmVETl9lUllMdzZycFpBOFh0UGgtSE5NSnNka2JRSWxxZmMyTlNSR2xnZ3JULWd5am03V1g0TGdk?oc=5",
+   "source": "글로벌이코노믹",
    "date": "2026-09-09",
-   "datetime": "2026-09-09 09:21 KST",
+   "datetime": "2026-09-09 10:23 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "곽노정 SK하이닉스 사장 “AI 시대 지금이 골든타임⋯변화 속도 맞춰야”",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ld0p2ZklFcXJadWg1enNTVnhfVUpwODF6ZjlIZ3lpRXEwY0xnU0JSLTlRclQ3dS1BUHdDczBFWFpIZ1BJM210b1FZSS1jeGs?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-09",
-   "datetime": "2026-09-09 09:21 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "KB증권 \"AI 모델 경쟁 최대 수혜는 삼성전자·SK하이닉스\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hWDFYMVhqdG5xbWd4WnJWY2tWVEdVUlUzUkFhWTk4di1aTXVoYzkyVU5LcnF4YzhYQ0lrSDQ4WENkaUpTdWFseWRGOFZvSy1CSTB1TWtiMXZmTF9iVDdrd9IBYEFVX3lxTE9hWDFYMVhqdG5xbWd4WnJWY2tWVEdVUlUzUkFhWTk4di1aTXVoYzkyVU5LcnF4YzhYQ0lrSDQ4WENkaUpTdWFseWRGOFZvSy1CSTB1TWtiMXZmTF9iVDdrdw?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-09",
-   "datetime": "2026-09-09 08:32 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   },
   {
    "title": "SK하이닉스, 대형 운용사에 RFP 발송…채권 투자방식 바꿔 들어오나",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tTUdUd0h2Q2ROWU1hSEJkTzlQcHBKbDRMRkJQM0F0U0RpY0JUaWdtdTBUQlhBRWRYU2xyMGdCcnhDNXFsTFZKb0txTEJWcnNMdGlHUmpPM2hjTE1rY2FUSG8tVi1sVnQzXzIzVHA1SGJoUQ?oc=5",
-   "source": "KB Think",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pazBLMnd5LWVleUNXX3pyYy1WN3JKSTV2V0laN3JhQWh1VHU3a2RDcTZZclNaV0tpQU5YU0JNdUVHaFFWVmZpOHFvR0FYOWJNX0E0WU8tSEptcjNXcjd5VlFyaDRydEozd1BvazVQSlk?oc=5",
+   "source": "연합인포맥스",
    "date": "2026-09-09",
-   "datetime": "2026-09-09 08:18 KST",
+   "datetime": "2026-09-09 10:18 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -64,11 +40,11 @@
    }
   },
   {
-   "title": "반도체지수 리밸런싱에 수급 이동…삼성전자·SK하이닉스서 소부장으로",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VNFdHRkVNZGFTSTVwVDJYWjNFV1k5Xy1QTlc1bFB2Y3ViY0I3SERjTGNXRW1MWWFDTlFESldjajBMeWR6NFJYcXpRcDRLeUZEc2c5UFVQREFmckpwQk80MU5HX3hiV1hy?oc=5",
-   "source": "ebn.co.kr",
+   "title": "곽노정 SK하이닉스 사장 \"AI 메모리 시장은 곡선도로…외부 변화에 유연하게 대응해야\"",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45VjMyR3NOSlN1eGFpcEwwVlNTR05hOXJtajA1NVZPZERIWXdWam1oSFQ2ZUtteUlSSXhVTG5oNUx5Ym9SYXVkdmotQmJvZUU?oc=5",
+   "source": "v.daum.net",
    "date": "2026-09-09",
-   "datetime": "2026-09-09 07:57 KST",
+   "datetime": "2026-09-09 10:13 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -76,51 +52,75 @@
    }
   },
   {
-   "title": "스마트폰 원가 40% 삼킨 메모리…삼성·SK하이닉스가 판가 쥐었다",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVpCM01ZN0F1NllvMWRYel9BM3JsZGoxRWEtbFpheXI0Y09WX0RVX0p3aVZhR0hVSG5wVmZUUF9MeTRaY2dMNXBLSlRTS0pLa1labmYzQlBSOWJ5Z3kyeGdUT2dXZFBBcGlrQ0pTLUJOLXRhTUZRMjBBUHR3WkRjTDNsMHp3Rl9p?oc=5",
+   "title": "SK하이닉스, AI 맞춤형 메모리 키운다…HBM·HBF 조합",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ra1dsR1NYZk5ydWRnMjhlbHpEUWo4bVVveEdwazJvNC1lLVlMXzJ2bDlxallGcGFNSjVMLU1CSmtONFBXOGYwUUpxUVJnc0pfWDdxREh2V3pkbmJD?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 10:10 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "곽노정 SK하이닉스 사장 \"외부 관점·속도 중요…AI 메모리서 기회 찾자\"",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDeWFadGRuWDJISVp5SzhxN0xXajl6UTBZZkNOTDV3Z3VDVWkyUWJmNnI0dkZhajk3X044bXdjZjROUUZlVzdWNHgwSDJQZTRNM2hwd3FDR2VMZTFMYTkzZ1hTVVc?oc=5",
+   "source": "서울경제TV",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 09:57 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 곽노정 \"메모리 시장 '곡선도로'…고객 시선서 기회 찾아야\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvbnpBQ0gyZzBFSzNXMWhJTVdEeTNSQ2JxY3lRS0ZKemdBckQxMmdSa09wUmV1SXZRWDVqRWZ4T0dFMW5SUEtLa09ONA?oc=5",
+   "source": "아이뉴스24",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 09:57 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "코스피, 하루 만에 7000선 재탈환…SK하이닉스 1.5%↑",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14bl91VUtxS3FFbWVKQnc0YTNUZTFCTWhrbXlVQm9zX0o1eVJwZ2pYSTlRazlKZmIyR19fVW1fSU50RmRFaUMyaTRIbmdxblNCeGlaSVQ2eHlSMTJ5NEhzU081WDQ?oc=5",
+   "source": "디지털데일리",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 09:56 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, AI 시대 ‘풀 스택 메모리’ 청사진 제시…“경계 넘어야”",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Dd3ZvaklRVzJtLVJBaDFRcEo1Wk9TeDg2aUU1ZGUydm91Q1dYaTRUT3hRSmVYdjUzSnFaZHlqSENtV0lwU2ZGQWxrdmxyS28?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 09:40 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 포럼 열고 기술 방향성 모색…\"고객 시선에서 다시 보자\"",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeW5Kc3pXSHZxVHRXdkk0TWg0Q3JraVRISUlWZ2JCSmkxbzE5eGJBcm1kcXlEWDR2YURpek9qWU9oeUp4TWcwVGxqVXgyS3NaYlhwQXRhMnhZRGhEcVBRSzlneW9VQmVzb0VZcG9ocE9DXzVmbHdLT3BCcmpucXV3TzhkNzE?oc=5",
    "source": "글로벌이코노믹",
    "date": "2026-09-09",
-   "datetime": "2026-09-09 06:30 KST",
+   "datetime": "2026-09-09 09:35 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 차세대 D램 미세공정 승부수…High-NA EUV 도입",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uVnFYMVZvOV9SV25VRTk4X2Z3VTJoN050eG8xNlBVNHZ0aF9EVWlaVnFhVlB6LVJ3TE9XVG1hWWk5STZlQkZMa1o0SmhYbVNKYmx2OElSZXhwOWNV?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 19:24 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 D램 시장 점유율 추락… 2위 자리 넘기나",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4ydFRFcFVHekkxNXp1WWlPM0FlVXRJa1NtRmN1cFVvZUhCdE9WLUh6MTNkVWg1Qmh1WUNRT3JUUzAyYjltb1BzekJLSTBIalpkQ1o5bVhRUzNIQTlRZjUtcTZ4a1Q2RDBmUk1QZDF4WGltS1Fw?oc=5",
-   "source": "부산일보",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 18:08 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 전·현직자 평가도 ‘톱’…대학생 선호도도 1위",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NdnU4Q0ptSVVFZEhsOW5ILVlOV0o2X2Y3eFM5MkFyclJRa0JGRzVNODhoLUVlUEtRSTVrNmxDWTJQSEsyRUkyRVdvWl8wWlpKcUxtbXZZbkxCUGFLb3ZNSF9yWlJ4ZEpiTDlsdzl3ONIBc0FVX3lxTE93ei04Rmw4MkF2REhoQ2hvMUp3LTZPVDl4OHZPdlZxZlk0dmh6dlBPajRVZVUwb1hjRVhXQWRmbU01TjJhYzQ1ME9qQ01yZlV2bVNxVDE4T25QYjhTcmRpd1NwSzFiVVJVYmMwVkxUZnpEYms?oc=5",
-   "source": "시사저널",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 17:21 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
