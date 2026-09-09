@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="400" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
 <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">SK하이닉스 주가 흐름 (7/10 ~ 9/9)</text>
-<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원(9/9는 장중 잠정). 9/9 장중 184.4만(+2.84%), 고점(188.3만) 대비 소폭 조정.</text>
+<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원(9/9는 장중 잠정). 9/9 장중 185.6만(+3.51%), 조정 후 재상승.</text>
 <line x1="88" y1="331.4" x2="724" y2="331.4" stroke="#e1e0d9" stroke-width="1"/>
 <text x="80" y="335.4" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">130만</text>
 <line x1="88" y1="305.2" x2="724" y2="305.2" stroke="#e1e0d9" stroke-width="1"/>
@@ -24,7 +24,7 @@
 <text x="80" y="99.9" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">220만</text>
 <line x1="88" y1="336" x2="724" y2="336" stroke="#c3c2b7" stroke-width="1"/>
 <path d="M88.0,101.1 L103.5,188.8 L119.0,171.0 L134.5,126.8 L150.0,189.6 L165.6,210.0 L181.1,191.1 L196.6,192.7 L212.1,169.4 L227.6,211.3 L243.1,196.4 L258.6,266.0 L274.1,305.0 L289.7,325.6 L305.2,222.0 L320.7,261.5 L336.2,258.9 L351.7,235.1 L367.2,280.4 L382.7,299.5 L398.2,300.0 L413.8,298.7 L429.3,278.0 L444.8,254.7 L460.3,241.1 L475.8,236.7 L491.3,279.0 L506.8,229.1 L522.3,218.9 L537.9,234.3 L553.4,232.5 L568.9,229.9 L584.4,218.9 L599.9,239.0 L615.4,233.5 L630.9,228.5 L646.4,249.5 L662.0,253.9 L677.5,240.6 L693.0,205.3 L708.5,202.4" fill="none" stroke="#2a78d6" stroke-width="2"/>
-<path d="M708.5,202.4 L724.0,189.0" fill="none" stroke="#2a78d6" stroke-width="2" stroke-dasharray="5 4"/>
+<path d="M708.5,202.4 L724.0,185.9" fill="none" stroke="#2a78d6" stroke-width="2" stroke-dasharray="5 4"/>
 <circle cx="88.0" cy="101.1" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="88.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/10</text>
 <text x="88.0" y="89.1" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">218만</text>
@@ -109,9 +109,9 @@
 <text x="693.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/7</text>
 <circle cx="708.5" cy="202.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="708.5" y="356" font-size="11" fill="#898781" text-anchor="middle">9/8</text>
-<circle cx="724.0" cy="189.0" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="724.0" cy="185.9" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/9</text>
-<text x="724.0" y="177.0" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">184만</text>
+<text x="724.0" y="173.9" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">186만</text>
 <circle cx="484" cy="66" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="494" y="70" font-size="11" fill="#52514e">확인 종가</text>
 <circle cx="564" cy="66" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
