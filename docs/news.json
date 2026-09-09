@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-09-09 13:32 KST",
+ "fetchedAt": "2026-09-09 14:33 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "'3조' SK하이닉스 선택은 중장기 크레디트물…\"가장 효율적 방향으로 자금 운용\"",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBETGJhN0VVaTI1VzRNNnZ0NjQtUjM0T280eTFoLTdyazBoQklXeXZSWVpnaG8xUlNHcTdPb01kT2V6V2hDN3kxNlp1RUZyekdCYmdOY3d0dDdvVW93ZUxvdWJxM2RMbkFNT3dqSG9XS044UQ?oc=5",
+   "source": "KB Think",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 14:19 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 노조, 15일 임단협 잠정합의안 재투표",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKZnlPS29Jd1NtbTRweEwzRS1mbHhVbzhpemJVbnpvckk1WVo2OVA3MlRJWkZvT0h2WFZsdXBtMGwtZ1gzeEFscnZpc3VUVzBxay1yb25TT09WTlVHVHlpMm1Vbk9ZNUhzaGJHZDVpZGtGdw?oc=5",
+   "source": "오피니언뉴스",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 13:31 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스 \"3D D램에 파운드리 공정 활용\"",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tajUyazR0dTlWUlJucURoX0REQ0QySTMtRUpaTnprcG9OakpDMkx0ekY1R2gxRGJWNGxOOXY3OFVxM0M1bjJwNTEyRHdCMlVrZ1VjRld3?oc=5",
@@ -18,7 +42,7 @@
   {
    "title": "SK하이닉스, AI 메모리 전략 '풀 스택'으로 전환…HBM 넘어 3D·HBF까지",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYYWRleDNLTUEweHJnbUFtMFc3N2ZDTW9wNHVKMm80WjhpS3JKemgwWEJoYnF2Tzh5RnZudkxUeDRTX2hFQ2dFbmdXZE1nMVh6SzlzQWxjajJMdjQxSEVBbUU2S0lEbGpC?oc=5",
-   "source": "녹색경제신문",
+   "source": "greened.kr",
    "date": "2026-09-09",
    "datetime": "2026-09-09 13:01 KST",
    "signal": {
@@ -28,11 +52,11 @@
    }
   },
   {
-   "title": "SK하이닉스 노사, 임단협 재투표 돌입…추석 전 타결 시도",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DY21LcFptQjliT2pjaFN2V09WUC1pS1MyREZSbi1rNThldElCQ1VtTGo4XzRtcXBZWFUtVGVJd3JmMXZYWUlacFVEZw?oc=5",
-   "source": "아이뉴스24",
+   "title": "“추석전 타결하나” SK하이닉스 노조, 빠르면 15일 임단협 잠정합의안 재투표",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zYzRIejBQM0lHQXpocEp3V1pRaGJiZ3hPZC1XckZKM0gxUTBsTGxhMDY1YVA1R2lWRjZBVHlNQlZldUdzbm42VFBQUWsyb0JxNDNOWmVEWDc4UGtTRWRuY1VHdElRZ9IBZkFVX3lxTE8zYzRIejBQM0lHQXpocEp3V1pRaGJiZ3hPZC1XckZKM0gxUTBsTGxhMDY1YVA1R2lWRjZBVHlNQlZldUdzbm42VFBQUWsyb0JxNDNOWmVEWDc4UGtTRWRuY1VHdElRZw?oc=5",
+   "source": "동아일보",
    "date": "2026-09-09",
-   "datetime": "2026-09-09 11:58 KST",
+   "datetime": "2026-09-09 13:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -53,8 +77,8 @@
   },
   {
    "title": "SK하이닉스 노조, 다음 주 임단협 재투표…추석 전 타결 주목",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSbTBfUkJpWkxURjFzekpSVURkVVl2Vktzb3k1cjF4TVlFM3ExQjdjWmQzdkREQ29xYUIyVDhIZ1B5TTdhZ3ozSHJ4ZXJrSkxCU1E?oc=5",
-   "source": "매일경제 마켓",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OODRUaXZUeVJMNW1TYmNKMDNwdmtMR3JoWGJZcUhvR3l4bkludFdIVk5aYkdWVE1rSTFEVmdkZW9wUGVlQkstX1ZoZVJnWjhLWWxOTHBVdHpWRy1jSUFHUNIBYEFVX3lxTE5OODRUaXZUeVJMNW1TYmNKMDNwdmtMR3JoWGJZcUhvR3l4bkludFdIVk5aYkdWVE1rSTFEVmdkZW9wUGVlQkstX1ZoZVJnWjhLWWxOTHBVdHpWRy1jSUFHUA?oc=5",
+   "source": "연합뉴스",
    "date": "2026-09-09",
    "datetime": "2026-09-09 11:24 KST",
    "signal": {
@@ -78,7 +102,7 @@
   {
    "title": "SK하이닉스 곽노정 “고객 관점에서 새 가능성 찾아야”",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJNHJWWUUzX1BKRFFRemQwSFFmX0VHUXVjUVhQQXRmT2hMQnBydVhSc3ZQckFkdm55VS1hdGZkRVFrT2w4RWVJTWhYejhETXFTdE5PSFZHQ0hnY3c1N0l1Uw?oc=5",
-   "source": "newstomato.com",
+   "source": "뉴스토마토",
    "date": "2026-09-09",
    "datetime": "2026-09-09 10:59 KST",
    "signal": {
@@ -97,30 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 미래포럼…AI 시대 ‘맞춤형·3D 메모리’ 해법 찾는다",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NVkFyS05qUEJOYkxiaXVFWDVHYThHaW9YSHNvUi1LUEJJS3ZUTUZERGhPUWRYeUNjN3cwWkluWVNmVXBuSWJ3b2hlODRJZFk?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-09",
-   "datetime": "2026-09-09 10:32 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 美 반도체주 상승.. 동반 '강세'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbE9XRHBaaHhwNWh2dC0yYUtfelk1clB3aEJ5SlB5V2laSTZWOWhFNzJoNmNCd1Y1aWFVM0xCWUZuUWJoaVNXdHlLdGpZOExhMmVETl9lUllMdzZycFpBOFh0UGgtSE5NSnNka2JRSWxxZmMyTlNSR2xnZ3JULWd5am03V1g0TGdk?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-09",
-   "datetime": "2026-09-09 10:23 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
