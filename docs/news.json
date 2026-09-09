@@ -1,8 +1,92 @@
 {
- "fetchedAt": "2026-09-09 14:33 KST",
+ "fetchedAt": "2026-09-09 15:33 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스 노조 내주 임단협 재투표…추석 전 타결 시도 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WYWlWcUF5TVd4RHJfLTcxeFNkX0ZldS1wYlMzRk5ZX25DbUlPbUFIbEIxaVdLZUxtT1EyQnM5WmFfQXNld3Frd2Y3ZldMWm1NNDgyMXR2d3dYNlM4SENvSFFGemx0QnlXN05VUdIBckFVX3lxTE9DZm1jd2xpUGUwV3BDMUJBNWRKWjhWOUFZR3Z0dHc4TWhvUzlSd3RPTWMzd0M5MEp5d0lfWUtMOVAxaTd0MTktLTFsZHRxNWliU1VRTk51Uy1OV1M3MUFOdUxScWpqRkJhVDJnWnlULWhwQQ?oc=5",
+   "source": "머니투데이",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 15:16 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스 참여…‘대한민국 국제물주간 2026’ 대구서 개막",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5faW15YTlRNDY0ckNubXBJM2s5T2dYanYxRURKbzdRdzFJd0tjN2lxWGU1elBoMl80VlpLVEZYZUhEQk9lUFlzaFFMTVVZMW11?oc=5",
+   "source": "문화일보",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 15:08 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 노조, 다음 주 임단협 재투표한다",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94LU5LNENhU1o2OXRPVTR6cTc3WUZ4SV9qYTJZdDNlRVZWeFp0dER6WHk3MkNLa3V1c3VxN2dlTDhSTGI0YmxKUTIyNG9qdzQ?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 15:03 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 미래포럼 개최… \"메모리 산업 골든타임 놓치지 않을 것\"",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82UndZVU5FdjR5ZDJKb2lUdjA3alVhV3lRSVlGZmJZZENGY0lmUzY5bHpadXNzZjA4T1FZZUVlYS1TV2tEbDlBbFRxbjZXUzB1M1lNWXJpZlZOVkNXZ1E?oc=5",
+   "source": "한국재난안전뉴스",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 14:48 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "곽노정 SK하이닉스 사장 \"AI시대, 고객 시선으로 사업 바라봐야\"",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hZGV5dDVPMU5xRjZKVUR5YU9HQUZrX0RKVVJpYVlFcVVXMzh0ZG1tcTB6SFNBYnFUY3VzMk5zQXN0bElCa3k1LXhRem4wOG5nM1hZU1lONHo4RDdNamp6eXBBRlpOcmN3ZEtEUnhRcw?oc=5",
+   "source": "뉴스웍스",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 14:43 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "키옥시아 CEO, SK하이닉스와 협력 강화 일축...가격 통제 다짐",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EOFdTc1dJeUFtVjVIQV9qc1dxLUNRWmN5czVNcDJ2WjNxRWhYdFE5dEZVTXhaRXZub0YxaldkWDg0bjlJUWpBMU11WU5zWmpQMjJzdUZZZ1A0VnZHVUNXd2dUVUVDM0lMLXBPdFVYTko3eVpkYXhZ?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 14:42 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 곽노정 \"메모리 경쟁, 이제 '곡선 도로'…AI 생태계 변화 읽어야\"",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQb1E0TEVMSzNpbFJHQ3hLNzNUZG4zYkRZMFowUzNXMkQ4cEdzMFVVZFFFY1lDcVZ6empGcDRNcThpcUs5ZTd5OUd1ZFY1SFU?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 14:36 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "'3조' SK하이닉스 선택은 중장기 크레디트물…\"가장 효율적 방향으로 자금 운용\"",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBETGJhN0VVaTI1VzRNNnZ0NjQtUjM0T280eTFoLTdyazBoQklXeXZSWVpnaG8xUlNHcTdPb01kT2V6V2hDN3kxNlp1RUZyekdCYmdOY3d0dDdvVW93ZUxvdWJxM2RMbkFNT3dqSG9XS044UQ?oc=5",
@@ -28,95 +112,11 @@
    }
   },
   {
-   "title": "SK하이닉스 \"3D D램에 파운드리 공정 활용\"",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tajUyazR0dTlWUlJucURoX0REQ0QySTMtRUpaTnprcG9OakpDMkx0ekY1R2gxRGJWNGxOOXY3OFVxM0M1bjJwNTEyRHdCMlVrZ1VjRld3?oc=5",
-   "source": "지디넷코리아",
+   "title": "SK하이닉스 \"AI 전환의 새로운 흐름과 통찰 공유하다\"",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Bc1d3SE1rZFNkTmY5N1c3NDE1YnI3ZUtyNUNlUVBodi1NWnpmdDhhLTdsaVphTjNZZWp2RS1CaTJRRGhQN3RNUTk2QUFZTHcxUkVOSl80YU92dm4zU2RTTjlGTWdrUjdz?oc=5",
+   "source": "한국NGO신문",
    "date": "2026-09-09",
-   "datetime": "2026-09-09 13:08 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, AI 메모리 전략 '풀 스택'으로 전환…HBM 넘어 3D·HBF까지",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYYWRleDNLTUEweHJnbUFtMFc3N2ZDTW9wNHVKMm80WjhpS3JKemgwWEJoYnF2Tzh5RnZudkxUeDRTX2hFQ2dFbmdXZE1nMVh6SzlzQWxjajJMdjQxSEVBbUU2S0lEbGpC?oc=5",
-   "source": "greened.kr",
-   "date": "2026-09-09",
-   "datetime": "2026-09-09 13:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“추석전 타결하나” SK하이닉스 노조, 빠르면 15일 임단협 잠정합의안 재투표",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zYzRIejBQM0lHQXpocEp3V1pRaGJiZ3hPZC1XckZKM0gxUTBsTGxhMDY1YVA1R2lWRjZBVHlNQlZldUdzbm42VFBQUWsyb0JxNDNOWmVEWDc4UGtTRWRuY1VHdElRZ9IBZkFVX3lxTE8zYzRIejBQM0lHQXpocEp3V1pRaGJiZ3hPZC1XckZKM0gxUTBsTGxhMDY1YVA1R2lWRjZBVHlNQlZldUdzbm42VFBQUWsyb0JxNDNOWmVEWDc4UGtTRWRuY1VHdElRZw?oc=5",
-   "source": "동아일보",
-   "date": "2026-09-09",
-   "datetime": "2026-09-09 13:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "개미들 ‘6조’ 팔고 떠난 SK하이닉스…외국인 태우고 187만원 넘었다 [나만없어]",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlQ1ZnTmY5R0JheE94aWNaaEZfRUlLYnhxNmdWRU5HODBjT2hlUV9oZVRQRVk0ZXBzOWJ3ODVma2EyUDNSdEVrYU1wV1k1cFZ6MjY4VndVVU1fdERYSGtpWnR5ZFRuc1V5REhrYmpiYnk2RmNicnNfZHBPZ3pmdw?oc=5",
-   "source": "서울신문",
-   "date": "2026-09-09",
-   "datetime": "2026-09-09 11:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 노조, 다음 주 임단협 재투표…추석 전 타결 주목",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OODRUaXZUeVJMNW1TYmNKMDNwdmtMR3JoWGJZcUhvR3l4bkludFdIVk5aYkdWVE1rSTFEVmdkZW9wUGVlQkstX1ZoZVJnWjhLWWxOTHBVdHpWRy1jSUFHUNIBYEFVX3lxTE5OODRUaXZUeVJMNW1TYmNKMDNwdmtMR3JoWGJZcUhvR3l4bkludFdIVk5aYkdWVE1rSTFEVmdkZW9wUGVlQkstX1ZoZVJnWjhLWWxOTHBVdHpWRy1jSUFHUA?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-09",
-   "datetime": "2026-09-09 11:24 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, '2026 미래포럼' 개최...\"AI 골든타임 '풀스택 AI 메모리'로 도약\"",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tcDBBSjhDU25FTEs3Z3U3ZzQ0R1UtOUoyU01paUV2cEdBcHdYcW1PcWUzdjVidWc2MWxuc3N2OWNKTExqZFBoZVhoLUhiTEFKemcyeGVRQTNoVVl1QjlZclZYQjhxTThyQlUzN2dZYmVPQQ?oc=5",
-   "source": "오피니언뉴스",
-   "date": "2026-09-09",
-   "datetime": "2026-09-09 11:07 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 곽노정 “고객 관점에서 새 가능성 찾아야”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJNHJWWUUzX1BKRFFRemQwSFFmX0VHUXVjUVhQQXRmT2hMQnBydVhSc3ZQckFkdm55VS1hdGZkRVFrT2w4RWVJTWhYejhETXFTdE5PSFZHQ0hnY3c1N0l1Uw?oc=5",
-   "source": "뉴스토마토",
-   "date": "2026-09-09",
-   "datetime": "2026-09-09 10:59 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 '2026 미래포럼' 개최 곽노정 \"곡선주행 AI시대 돌입…고객 시선으로 유연하게 적응해야\"",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZOXBlX0s5QjUwRndualdxU1BuY1E4NEFicXdUM3F1MTFMUVpmSUJMdWo1aDRTWjBUTUE1WVZOUC1BVWlJMTlnNTEzcDFONWtPN29YaUlrZnN5S0VwNUJEVWR0OVBEeTNuVWZRcnhLTnhsZw?oc=5",
-   "source": "인더스트리뉴스",
-   "date": "2026-09-09",
-   "datetime": "2026-09-09 10:47 KST",
+   "datetime": "2026-09-09 13:11 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
