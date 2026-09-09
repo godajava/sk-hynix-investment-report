@@ -27,8 +27,8 @@
 <path d="M130,350 h163.92452830188677 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-163.92452830188677 z" fill="#2a78d6" opacity="1.0"/>
 <text x="305.9" y="367.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">140만 (최저)</text>
 <line x1="130" y1="78" x2="130" y2="386" stroke="#c3c2b7" stroke-width="1"/>
-<line x1="353.1" y1="78" x2="353.1" y2="386" stroke="#0b0b0b" stroke-width="1.5" stroke-dasharray="4 3"/>
-<text x="353.1" y="404" font-size="11" font-weight="600" fill="#0b0b0b" text-anchor="middle">현재가 186만</text>
+<line x1="353.5" y1="78" x2="353.5" y2="386" stroke="#0b0b0b" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="353.5" y="404" font-size="11" font-weight="600" fill="#0b0b0b" text-anchor="middle">현재가 186만</text>
 <line x1="516.2" y1="78" x2="516.2" y2="386" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="516.2" y="404" font-size="11" font-weight="600" fill="#898781" text-anchor="middle">컨센서스 322만</text>
 <text x="24" y="448" font-size="10.5" fill="#898781">출처: 뉴스핌(교보·미래에셋)·newsspace(맥쿼리)·한국경제(9/3 컨센서스)·Investing.com</text>
