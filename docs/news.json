@@ -1,8 +1,104 @@
 {
- "fetchedAt": "2026-09-08 21:06 KST",
+ "fetchedAt": "2026-09-09 09:07 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "KB증권 \"AI 모델 경쟁 최대 수혜는 삼성전자·SK하이닉스\"",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zN2V3UDZFSTFRbFI5SE41bDVIb2ppbVMxdzF3RkxJWVRuMklaRHRGdkhFOTQyNkVmTE9SY2RXX2otZkJkYjJQS1JzYWotRm9vZUE?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 08:32 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 대형 운용사에 RFP 발송…채권 투자방식 바꿔 들어오나",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tTUdUd0h2Q2ROWU1hSEJkTzlQcHBKbDRMRkJQM0F0U0RpY0JUaWdtdTBUQlhBRWRYU2xyMGdCcnhDNXFsTFZKb0txTEJWcnNMdGlHUmpPM2hjTE1rY2FUSG8tVi1sVnQzXzIzVHA1SGJoUQ?oc=5",
+   "source": "kbthink.com",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 08:18 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "반도체지수 리밸런싱에 수급 이동…삼성전자·SK하이닉스서 소부장으로",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VNFdHRkVNZGFTSTVwVDJYWjNFV1k5Xy1QTlc1bFB2Y3ViY0I3SERjTGNXRW1MWWFDTlFESldjajBMeWR6NFJYcXpRcDRLeUZEc2c5UFVQREFmckpwQk80MU5HX3hiV1hy?oc=5",
+   "source": "ebn.co.kr",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 07:57 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "스마트폰 원가 40% 삼킨 메모리…삼성·SK하이닉스가 판가 쥐었다",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVpCM01ZN0F1NllvMWRYel9BM3JsZGoxRWEtbFpheXI0Y09WX0RVX0p3aVZhR0hVSG5wVmZUUF9MeTRaY2dMNXBLSlRTS0pLa1labmYzQlBSOWJ5Z3kyeGdUT2dXZFBBcGlrQ0pTLUJOLXRhTUZRMjBBUHR3WkRjTDNsMHp3Rl9p?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 06:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 298만원에 물렸는데, 어떡해? ‘엔비디아도 같은 늪 건넜다’ [투자360]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4TE1Hb3pDQ3RnNDBRYi0ya1lfcFZYb01xZUdyNEpyckJYVUpQQTZ3RVQtaWk1WmJ2ZllyX1pzSHVfQ3RtOE9SeEtrTW9hUDA?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 20:41 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 차세대 D램 미세공정 승부수…High-NA EUV 도입",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uVnFYMVZvOV9SV25VRTk4X2Z3VTJoN050eG8xNlBVNHZ0aF9EVWlaVnFhVlB6LVJ3TE9XVG1hWWk5STZlQkZMa1o0SmhYbVNKYmx2OElSZXhwOWNV?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 19:24 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 D램 시장 점유율 추락… 2위 자리 넘기나",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4ydFRFcFVHekkxNXp1WWlPM0FlVXRJa1NtRmN1cFVvZUhCdE9WLUh6MTNkVWg1Qmh1WUNRT3JUUzAyYjltb1BzekJLSTBIalpkQ1o5bVhRUzNIQTlRZjUtcTZ4a1Q2RDBmUk1QZDF4WGltS1Fw?oc=5",
+   "source": "부산일보",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 18:08 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 전·현직자 평가도 ‘톱’…대학생 선호도도 1위",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NdnU4Q0ptSVVFZEhsOW5ILVlOV0o2X2Y3eFM5MkFyclJRa0JGRzVNODhoLUVlUEtRSTVrNmxDWTJQSEsyRUkyRVdvWl8wWlpKcUxtbXZZbkxCUGFLb3ZNSF9yWlJ4ZEpiTDlsdzl3ONIBc0FVX3lxTE93ei04Rmw4MkF2REhoQ2hvMUp3LTZPVDl4OHZPdlZxZlk0dmh6dlBPajRVZVUwb1hjRVhXQWRmbU01TjJhYzQ1ME9qQ01yZlV2bVNxVDE4T25QYjhTcmRpd1NwSzFiVVJVYmMwVkxUZnpEYms?oc=5",
+   "source": "시사저널",
+   "date": "2026-09-08",
+   "datetime": "2026-09-08 17:21 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "삼성·SK하이닉스 대구로…‘반도체 초순수’ 시장 선점 나선다",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85MjdOQ2xVbjMyMkRybXFxV3ozMWIxckNSTzVuZEZ5RnRZMVRoZ2ZTVGp2aGRwb0xZdlJGazk4YnZnUExYbXhSdWtYS3h1R0E?oc=5",
@@ -18,109 +114,13 @@
   {
    "title": "미국서 'SK하이닉스 2배' ETF 내놓은 터틀…\"레버리지가 변동성 키운 것 아냐\"",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fbTFaMTMwT2tFTWZaOUpVOFl2MmpJQzFkMTlsdTBHbjI5QkE4My1xZzBGNUU3N1RmbUdNekh1WjVpYUdFUm1WNnBLVGd0elAxbko2amozaV9zU1NfY3p3VQ?oc=5",
-   "source": "뉴스토마토",
+   "source": "newstomato.com",
    "date": "2026-09-08",
    "datetime": "2026-09-08 16:56 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 2028년 D램 공정에 High NA EUV 적용",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxR3VzXzNGUmpRTzRpeUNmcTVhNkI4aXJkUGt4a0tNd0xGT0NtaWR6aDdtSFNfSTdTaDV3WUF3eGVDS1h1UW56cUIyQkxjd3dMSWlZTTFYa1pJLVR5RGJzaDY5d0Fud1ExdkHSAWpBVV95cUxQcUd1c18zRlJqUU80aXlDZnE1YTZCOGlyZFBreGtLTXdMRk9DbWlkemg3bUhTX0k3U2g1d1lBd3hlQ0tYdVFuenFCMkJMY3d3TElpWU0xWGtaSS1UeURic2g2OXdBbndRMXZB?oc=5",
-   "source": "news1.kr",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 16:28 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "‘3조 투척’ 개미들이 옳았나... 5% 오르던 SK하이닉스 돌연 ‘뚝’ 꺾였다 [내가샀다]",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyYnY0SlktRno5aHMxMTQ5RTJBdy1EWXZ4UzVqSkF2QnFjUWEzWE1COWZ0b25yc3FERmRzTUNMRXhtd0tKeERMVGUySkdtc2RUanQ2eEVUZGtEdjFhMHlLM2YzQklZSzZZQ25QS3RNMnFwUmFKZ0FOSWFZV0s0UQ?oc=5",
-   "source": "서울신문",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 16:09 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "AGI 시대 개막, 삼성전자·SK하이닉스 수혜 핵심은...'컴퓨팅 수요 폭발'",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BU1pQaE9lcEZIMWtXaTNhTHZFaGtHVk1Qel9fUk9RS3FGLTI4cC1fdXFvZVpwXzFBb3l4ZE8zYmtCVzVCdXZvbS05NHJITXUxWnFVME80bVV5SGs2VU1KTVBMM0VLbklLOXluUm1qaHZCdw?oc=5",
-   "source": "오피니언뉴스",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 15:34 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "“반도체 전공 아니어도 됩니다”…SK하이닉스 ‘팹의 지휘자’가 찾는 인재는?",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TeS02Tk5OYzBOaS12TEpRYjM1QjI3QWUzSDEwUmVfeE1vWEs1NUFEMnhRVElBWlFzUzhiR3VqaDNFNTNzY1c1Y2R3WnpMNFU?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 15:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[1% 초고수의 선택] 삼성전자 팔고 SK하이닉스 샀다…반도체 '옥석 가리기'",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zQ2dBbFR4NUNERHp2dUs0SHlGWnJiWkZ3VWNpTVJEQi1pYWZpeFNIWDZNOU1yUGtmVVZkVkVqTUFLT0t1djJjWUpqcndhbmxibFpsNzYwaXIxV1R5S2JmVkxNdVF1RG1z?oc=5",
-   "source": "ebn.co.kr",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 14:50 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "최태원 회장 \"SK하이닉스 일본 투자 곧 결론\"",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NYjlSajVNTy1laURLcVZMdm9WU19HRW5CckF1eTR0clpfWmRPbDM2U2xIWEV0WnBoeFJtblc3SWxYd1EwS3VvSmo0dE1pSjNnUmVJWjBsMDZDWnRnV3VReUZTU3l6NFpn?oc=5",
-   "source": "녹색경제신문",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 14:33 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "최태원 \"SK하이닉스 일본 투자, 조만간 결론…지역·방식 검토 중\"",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UMU1wUElVakd2b2NTR0F0X0pmYkJBZy1zN0ZXRzQwMTJNZTJQQnpPd0FNM0xBbHlLV01TLVJnVDBXUzJkaW5jNjZXMDZMbUE?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 13:52 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "D램 시장 급성장에 1위 굳힌 삼성..SK하이닉스와 격차도 벌린다 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sTXROZUdiN01wbFhLWXlabDhZcjlUbWJYMGRGa3NjMEk2U3pmV3kwVnJrMTRsdmJmeWNnUElsZUhxZHg3TTJwOHBGSnlUSFFkTnlHXzQ4MURFdWY1azZIenA4SzBFV1hLd25YMtIBckFVX3lxTE5ZR3lZRy1aWXFRLVFpdVg3QXc1NjRmUk9KZmZtcFFXX2MtczJCUjdzNGMxNnctU3BOVFFlT0NWbEVBT3JkeVEzMUFCTm1fSk1LaVYxVnh0cjhsYUFpZmRQdjFHN1UzQ2EyX0pMVlh5S21aUQ?oc=5",
-   "source": "머니투데이",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 13:38 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
