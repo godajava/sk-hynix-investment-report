@@ -1,12 +1,48 @@
 {
- "fetchedAt": "2026-09-09 09:10 KST",
+ "fetchedAt": "2026-09-09 09:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
+   "title": "SK하이닉스, 2026 미래포럼…\"고객 시선서 새 가능성 찾자\"",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MdUZ1Tlk4cnlNSlZVNUNnV2NsdGppTVZ4aFlzQ3RpdFB5Z0ZSaS1ZMDFRSkVQQWpTQ2doY2Naa1dIMExxLXNsRGFyZ0JQSlE?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 09:28 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자, 장 초반 0.6% 상승…SK하이닉스는 1.5%↑",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Td2hhaFNUU0UtZEVCQ01wQnhXaU5odUZNNW9IWXZTaTZ5ak42ZWNCd01pMXZfZ3p4R0Y4NXBsUVdyeTJfV1hzMzBtRUpDVHNNeEo3Q3JJdExpbG_SAWBBVV95cUxPSzl0S3JubFJ3T1Bnc2pfd1hrdG5zeXhRV1pRMlNLOF83MWc3VndYTzNhVTRHWXFjQmNKMWhpWXktMGtVSXFYM3AtWFpQNWxvenVvZFMyRFVfbDZOQ21OaTY?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 09:21 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "곽노정 SK하이닉스 사장 “AI 시대 지금이 골든타임⋯변화 속도 맞춰야”",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Ld0p2ZklFcXJadWg1enNTVnhfVUpwODF6ZjlIZ3lpRXEwY0xnU0JSLTlRclQ3dS1BUHdDczBFWFpIZ1BJM210b1FZSS1jeGs?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-09",
+   "datetime": "2026-09-09 09:21 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "KB증권 \"AI 모델 경쟁 최대 수혜는 삼성전자·SK하이닉스\"",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zN2V3UDZFSTFRbFI5SE41bDVIb2ppbVMxdzF3RkxJWVRuMklaRHRGdkhFOTQyNkVmTE9SY2RXX2otZkJkYjJQS1JzYWotRm9vZUE?oc=5",
-   "source": "매일경제 마켓",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hWDFYMVhqdG5xbWd4WnJWY2tWVEdVUlUzUkFhWTk4di1aTXVoYzkyVU5LcnF4YzhYQ0lrSDQ4WENkaUpTdWFseWRGOFZvSy1CSTB1TWtiMXZmTF9iVDdrd9IBYEFVX3lxTE9hWDFYMVhqdG5xbWd4WnJWY2tWVEdVUlUzUkFhWTk4di1aTXVoYzkyVU5LcnF4YzhYQ0lrSDQ4WENkaUpTdWFseWRGOFZvSy1CSTB1TWtiMXZmTF9iVDdrdw?oc=5",
+   "source": "연합뉴스",
    "date": "2026-09-09",
    "datetime": "2026-09-09 08:32 KST",
    "signal": {
@@ -52,18 +88,6 @@
    }
   },
   {
-   "title": "SK하이닉스 298만원에 물렸는데, 어떡해? ‘엔비디아도 같은 늪 건넜다’ [투자360]",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4TE1Hb3pDQ3RnNDBRYi0ya1lfcFZYb01xZUdyNEpyckJYVUpQQTZ3RVQtaWk1WmJ2ZllyX1pzSHVfQ3RtOE9SeEtrTW9hUDA?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 20:41 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "SK하이닉스, 차세대 D램 미세공정 승부수…High-NA EUV 도입",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uVnFYMVZvOV9SV25VRTk4X2Z3VTJoN050eG8xNlBVNHZ0aF9EVWlaVnFhVlB6LVJ3TE9XVG1hWWk5STZlQkZMa1o0SmhYbVNKYmx2OElSZXhwOWNV?oc=5",
    "source": "뉴스핌",
@@ -78,7 +102,7 @@
   {
    "title": "SK하이닉스 D램 시장 점유율 추락… 2위 자리 넘기나",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4ydFRFcFVHekkxNXp1WWlPM0FlVXRJa1NtRmN1cFVvZUhCdE9WLUh6MTNkVWg1Qmh1WUNRT3JUUzAyYjltb1BzekJLSTBIalpkQ1o5bVhRUzNIQTlRZjUtcTZ4a1Q2RDBmUk1QZDF4WGltS1Fw?oc=5",
-   "source": "busan.com",
+   "source": "부산일보",
    "date": "2026-09-08",
    "datetime": "2026-09-08 18:08 KST",
    "signal": {
@@ -97,30 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스 대구로…‘반도체 초순수’ 시장 선점 나선다",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85MjdOQ2xVbjMyMkRybXFxV3ozMWIxckNSTzVuZEZ5RnRZMVRoZ2ZTVGp2aGRwb0xZdlJGazk4YnZnUExYbXhSdWtYS3h1R0E?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 17:20 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "미국서 'SK하이닉스 2배' ETF 내놓은 터틀…\"레버리지가 변동성 키운 것 아냐\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fbTFaMTMwT2tFTWZaOUpVOFl2MmpJQzFkMTlsdTBHbjI5QkE4My1xZzBGNUU3N1RmbUdNekh1WjVpYUdFUm1WNnBLVGd0elAxbko2amozaV9zU1NfY3p3VQ?oc=5",
-   "source": "뉴스토마토",
-   "date": "2026-09-08",
-   "datetime": "2026-09-08 16:56 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
