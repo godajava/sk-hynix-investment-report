@@ -149,8 +149,8 @@
 <line x1="724.6" y1="274.4" x2="724.6" y2="290.3" stroke="#d64545" stroke-width="1.2"/>
 <rect x="721.3" y="279.2" width="6.8" height="11.0" fill="#d64545"/>
 <line x1="734.9" y1="273.1" x2="734.9" y2="287.4" stroke="#2a78d6" stroke-width="1.2"/>
-<rect x="731.5" y="275.1" width="6.8" height="4.2" fill="#2a78d6"/>
-<text x="736" y="273.2" font-size="11" font-weight="700" fill="#0b0b0b" text-anchor="end" style="font-variant-numeric:tabular-nums">186만</text>
+<rect x="731.5" y="275.1" width="6.8" height="6.3" fill="#2a78d6"/>
+<text x="736" y="275.4" font-size="11" font-weight="700" fill="#0b0b0b" text-anchor="end" style="font-variant-numeric:tabular-nums">184만</text>
 <line x1="64" y1="470" x2="740" y2="470" stroke="#c3c2b7" stroke-width="1"/>
 <text x="58" y="480" font-size="10" fill="#898781" text-anchor="end">거래량</text>
 <rect x="65.7" y="504.2" width="6.8" height="25.8" fill="#d64545" opacity="0.55"/>
@@ -218,7 +218,7 @@
 <rect x="700.8" y="514.7" width="6.8" height="15.3" fill="#d64545" opacity="0.55"/>
 <rect x="711.0" y="511.7" width="6.8" height="18.3" fill="#2a78d6" opacity="0.55"/>
 <rect x="721.3" y="514.5" width="6.8" height="15.5" fill="#d64545" opacity="0.55"/>
-<rect x="731.5" y="522.0" width="6.8" height="8.0" fill="#2a78d6" opacity="0.55"/>
+<rect x="731.5" y="520.8" width="6.8" height="9.2" fill="#2a78d6" opacity="0.55"/>
 <path d="M263.7,505.4 L274.0,505.3 L284.2,503.8 L294.5,503.9 L304.7,504.0 L314.9,503.0 L325.2,501.5 L335.4,501.1 L345.7,501.1 L355.9,501.5 L366.2,501.6 L376.4,502.3 L386.6,503.1 L396.9,503.5 L407.1,504.2 L417.4,503.6 L427.6,502.0 L437.8,500.8 L448.1,500.2 L458.3,500.8 L468.6,500.5 L478.8,501.0 L489.1,501.4 L499.3,501.6 L509.5,502.0 L519.8,502.9 L530.0,504.2 L540.3,504.5 L550.5,504.7 L560.8,504.9 L571.0,505.0 L581.2,504.8 L591.5,504.8 L601.7,505.0 L612.0,505.0 L622.2,506.2 L632.5,508.2 L642.7,509.5 L652.9,510.9 L663.2,511.5 L673.4,512.1 L683.7,512.4 L693.9,513.0 L704.2,513.3 L714.4,513.1 L724.6,513.2 L734.9,513.8" fill="none" stroke="#008300" stroke-width="2"/>
 <text x="69.1" y="548" font-size="10" fill="#898781" text-anchor="middle">06/09</text>
 <text x="181.8" y="548" font-size="10" fill="#898781" text-anchor="middle">06/24</text>
