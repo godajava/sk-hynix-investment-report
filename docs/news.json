@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-10 13:32 KST",
+ "fetchedAt": "2026-09-10 14:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -30,9 +30,21 @@
   {
    "title": "SK하이닉스, 이천·청주 용수 재이용 확대...2030년까지 6억t 절감",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4a2ZBdUlOLXIzVDZMTlg2T2gzcWxNSFVsUG50cnhWOGpMZGU1NG52VFBidUplcE11eUE5QndNVnF5c3VnVXZtM3pod1VtR0Y2Z2pSMTBGOFZ6c19vcV9nVTVNZmZzUQ?oc=5",
-   "source": "디일렉",
+   "source": "thelec.kr",
    "date": "2026-09-10",
    "datetime": "2026-09-10 11:36 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[오늘의 삼전닉스] SK하이닉스 본주와 ADR의 엇박자에 뼈아픈 하루",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HYzdDLS1qb2VXbHZNY2pBZjZsVFI0UVJDT2dBQUpydTlRUi1tazR6LU1OdWhrSzdEOTAwWFFvdWFiUElqaWxxT0k0RHRSQjFZSnZ5VTJ2a0JkUnBsUno0VU5B?oc=5",
+   "source": "이코노미스트",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 11:30 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -54,7 +66,7 @@
   {
    "title": "SK하이닉스 노사, '현금·주식 5대5' 수정 합의안 마련…15~16일 재투표",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQb1U4Y2hGWlNydjV4R3djUW1PSWJjaDFUUmRSZEwtRjNoVUh2N2xwa1h0aE5EZ21mVlRtdTRURU9kWFM5ZmdBNnp4TzBFMFdHdDVWT0lydGVhbVQ0WkRaMVNzTXFKZU40NjI4YjdqVlg?oc=5",
-   "source": "shinailbo.co.kr",
+   "source": "신아일보",
    "date": "2026-09-10",
    "datetime": "2026-09-10 11:10 KST",
    "signal": {
@@ -78,7 +90,7 @@
   {
    "title": "SK하이닉스, 현금 50%·주식 50% 합의안 마련",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nVWRkSG8zYkVONTZkQXExV2xiNWJFb3dDQWdJcGVIQ3pFWGp1WHl4WUhwM3RZRjdrZDRWeEItOG1ldDJkcXZqdHMxZU5mUEFjOGd0YVdMay1RckhtZzlJUjlnallodw?oc=5",
-   "source": "디일렉",
+   "source": "thelec.kr",
    "date": "2026-09-10",
    "datetime": "2026-09-10 10:55 KST",
    "signal": {
@@ -100,23 +112,11 @@
    }
   },
   {
-   "title": "55만명분 용수 매일 아낀 SK하이닉스 “2030년까지 6억톤 절감”",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4yTEJqV0VzWWYzM19mOGE0UGFwRVFrM2FmY19lS210bElrbkRTbWNmSFZfRkUtNHZrT24xQVZuZWw0Y25LOXViRVdyaHNleENvTE52RVJ1RVh6c184NVJDRUF2NnltM3k2YmtjRmd1eGs3Z0NP0gF0QVVfeXFMTjJMQmpXRXNZZjMzX2Y4YTRQYXBFUWszYWZjX2VLbXRsSWtuRFNtY2ZIVl9GRS00dmtPbjFBVm5lbDRjbks5dWJFV3Joc2V4Q29MTnZFUnVFWHpzXzg1UkNFQXY2eW0zeTZia2NGZ3V4azdnQ08?oc=5",
-   "source": "IT조선",
+   "title": "'25표 차 부결'에 성과급 손봤다…SK하이닉스 노사, 3주 만에 재합의",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JSUZpb0xGZ1pfZnlSRWdvWkJMaFhwbFJhZWM5MzlpMVJhX3FaV2RwdzhKWmZScGxuTUs0Qjd5S3hMOXNWcnI3Y044MXM1SWdhS0hncmt4enYzZnpma0hQbkFHR1VqQ2MzeWY3WQ?oc=5",
+   "source": "비즈워치",
    "date": "2026-09-10",
-   "datetime": "2026-09-10 10:44 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "'7억 성과급' 현금↑·주식 비중 선택…SK하이닉스 노사 수정 합의 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jNTRmM1N6NkpQcHBKZ19OT2dINi13bk9ZT3AwV1k2Vjd0Qy1tQndJWF94MHZyNms5bnNOekk3M0VrUGo1SlVsUlJZMmtFckg0UFNOQW1IQXlsY3hDWHozU043cTZ3ZHlwQkMzY9IBckFVX3lxTFBuNW1wMzNka2xwNndfWjdieUxTTEhGQ1hKc0otN2FhSDFKMGVLV3U4Y1hpSlItOEpjZHFhRFRGUE9LWDc0bU55NGdLT3B1d3lHUXpwZS1zbHpSaTZkOUdHMmhWNVdBa0NPOU1ScTI2Nnk5UQ?oc=5",
-   "source": "머니투데이",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 10:43 KST",
+   "datetime": "2026-09-10 10:48 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
