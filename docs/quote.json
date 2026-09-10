@@ -5,7 +5,7 @@
  "change": 63000,
  "changePercent": 3.51,
  "marketTime": "2026-09-09 15:30 KST",
- "fetchedAt": "2026-09-09 21:18 KST",
+ "fetchedAt": "2026-09-10 09:06 KST",
  "days": [
   {
    "date": "2026-09-08",
@@ -26,13 +26,13 @@
  ],
  "indicators": {
   "macd": {
-   "macd": 8351,
-   "signal": -24661,
-   "hist": 33012,
+   "macd": 8345,
+   "signal": -24670,
+   "hist": 33015,
    "read": "상승 모멘텀 (MACD > 시그널)"
   },
   "atr": {
-   "value": 125423,
+   "value": 125422,
    "pct": 6.8,
    "read": "일 평균 변동폭 6.8% — 변동성 매우 큼"
   },
