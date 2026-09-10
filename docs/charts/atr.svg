@@ -5,18 +5,18 @@
 <line x1="677" y1="24" x2="695" y2="24" stroke="#e87ba4" stroke-width="2"/>
 <text x="700" y="28" font-size="10.5" fill="#52514e">ATR</text>
 <line x1="64" y1="530.0" x2="740" y2="530.0" stroke="#e1e0d9" stroke-width="1"/>
-<text x="58" y="533.5" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">11.2만</text>
+<text x="58" y="533.5" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">11.3만</text>
 <line x1="64" y1="436.8" x2="740" y2="436.8" stroke="#e1e0d9" stroke-width="1"/>
-<text x="58" y="440.3" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">13.9만</text>
+<text x="58" y="440.3" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">14.0만</text>
 <line x1="64" y1="343.6" x2="740" y2="343.6" stroke="#e1e0d9" stroke-width="1"/>
 <text x="58" y="347.1" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">16.7만</text>
 <line x1="64" y1="250.4" x2="740" y2="250.4" stroke="#e1e0d9" stroke-width="1"/>
-<text x="58" y="253.9" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">19.4만</text>
+<text x="58" y="253.9" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">19.5만</text>
 <line x1="64" y1="157.2" x2="740" y2="157.2" stroke="#e1e0d9" stroke-width="1"/>
 <text x="58" y="160.7" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">22.2만</text>
 <line x1="64" y1="64.0" x2="740" y2="64.0" stroke="#e1e0d9" stroke-width="1"/>
 <text x="58" y="67.5" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">24.9만</text>
-<path d="M69.1,400.9 L79.4,383.2 L89.6,371.6 L99.8,360.9 L110.1,358.4 L120.3,370.2 L130.6,362.9 L140.8,349.3 L151.1,339.4 L161.3,327.6 L171.5,270.5 L181.8,255.5 L192.0,213.5 L202.3,186.4 L212.5,196.6 L222.8,198.8 L233.0,196.0 L243.2,156.6 L253.5,111.2 L263.7,118.5 L274.0,111.3 L284.2,107.0 L294.5,117.3 L304.7,140.2 L314.9,112.5 L325.2,106.9 L335.4,101.7 L345.7,96.1 L355.9,116.2 L366.2,134.8 L376.4,147.5 L386.6,173.4 L396.9,185.5 L407.1,209.7 L417.4,195.2 L427.6,155.8 L437.8,167.9 L448.1,124.9 L458.3,143.2 L468.6,162.3 L478.8,185.6 L489.1,192.0 L499.3,211.1 L509.5,239.2 L519.8,267.3 L530.0,283.1 L540.3,296.4 L550.5,315.0 L560.8,320.7 L571.0,320.1 L581.2,308.9 L591.5,326.6 L601.7,338.7 L612.0,348.0 L622.2,370.5 L632.5,384.8 L642.7,403.6 L652.9,416.3 L663.2,436.8 L673.4,451.0 L683.7,461.7 L693.9,472.7 L704.2,470.9 L714.4,475.2 L724.6,484.4 L734.9,497.9" fill="none" stroke="#e87ba4" stroke-width="1.8"/>
+<path d="M69.1,402.6 L79.4,384.8 L89.6,373.1 L99.8,362.3 L110.1,359.8 L120.3,371.7 L130.6,364.3 L140.8,350.7 L151.1,340.8 L161.3,328.8 L171.5,271.4 L181.8,256.4 L192.0,214.1 L202.3,186.9 L212.5,197.1 L222.8,199.4 L233.0,196.6 L243.2,156.9 L253.5,111.3 L263.7,118.6 L274.0,111.4 L284.2,107.0 L294.5,117.4 L304.7,140.5 L314.9,112.6 L325.2,107.0 L335.4,101.7 L345.7,96.1 L355.9,116.3 L366.2,135.1 L376.4,147.8 L386.6,173.8 L396.9,186.0 L407.1,210.3 L417.4,195.7 L427.6,156.1 L437.8,168.3 L448.1,125.0 L458.3,143.4 L468.6,162.7 L478.8,186.1 L489.1,192.6 L499.3,211.7 L509.5,240.0 L519.8,268.2 L530.0,284.1 L540.3,297.5 L550.5,316.2 L560.8,321.9 L571.0,321.3 L581.2,310.0 L591.5,327.9 L601.7,340.0 L612.0,349.4 L622.2,372.0 L632.5,386.4 L642.7,405.3 L652.9,418.1 L663.2,438.7 L673.4,452.9 L683.7,463.7 L693.9,474.7 L704.2,473.0 L714.4,477.2 L724.6,486.5 L734.9,497.9" fill="none" stroke="#e87ba4" stroke-width="1.8"/>
 <text x="69.1" y="548" font-size="10" fill="#898781" text-anchor="middle">06/09</text>
 <text x="181.8" y="548" font-size="10" fill="#898781" text-anchor="middle">06/24</text>
 <text x="294.5" y="548" font-size="10" fill="#898781" text-anchor="middle">07/09</text>

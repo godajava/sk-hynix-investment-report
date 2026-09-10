@@ -1,8 +1,80 @@
 {
- "fetchedAt": "2026-09-10 10:32 KST",
+ "fetchedAt": "2026-09-10 11:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스, 현금 50%·주식 50% 합의안 마련",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nVWRkSG8zYkVONTZkQXExV2xiNWJFb3dDQWdJcGVIQ3pFWGp1WHl4WUhwM3RZRjdrZDRWeEItOG1ldDJkcXZqdHMxZU5mUEFjOGd0YVdMay1RckhtZzlJUjlnallodw?oc=5",
+   "source": "디일렉",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 10:55 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "'7억 성과급' 현금↑·주식 비중 선택…SK하이닉스 노사 수정 합의 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jNTRmM1N6NkpQcHBKZ19OT2dINi13bk9ZT3AwV1k2Vjd0Qy1tQndJWF94MHZyNms5bnNOekk3M0VrUGo1SlVsUlJZMmtFckg0UFNOQW1IQXlsY3hDWHozU043cTZ3ZHlwQkMzY9IBckFVX3lxTFBuNW1wMzNka2xwNndfWjdieUxTTEhGQ1hKc0otN2FhSDFKMGVLV3U4Y1hpSlItOEpjZHFhRFRGUE9LWDc0bU55NGdLT3B1d3lHUXpwZS1zbHpSaTZkOUdHMmhWNVdBa0NPOU1ScTI2Nnk5UQ?oc=5",
+   "source": "머니투데이",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 10:43 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 노사, 수정 잠정합의안 마련…성과급 현금 비중 50%로 확대",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EQUdZWkEydFZNNzBsTWtqUHBaZFU4cVNSNXdHQ21JR0xrRFRrT0o2c1N0N192OVJlR1lUVkx0dFZhaGZIRkxmQUFvS0tiM0U?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 10:35 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 ADR, 200달러 눈 앞…상장 두달 만에 최고가 찍었다 [투자360]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EME9mSnZLOXNlWkEwNmEzckJ6NnNjVFdoNVdtVTNsd2xwSi0tR0dtcXZIWExNMzdpdGplTDd2NTZiWEFvSS1SYkJkZ1Q4SEE?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 10:31 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 노사, '성과급 현금 50%·주식 50%' 잠정합의안 마련",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcHlnTWgtQkwwQW9INlVGUXRDN2tiVkVEV1ZVVGV3b2NITzlhdG1oOXRtdFlDN2lWZVJrczB1VHd6Mnc4ZEw1NjNadDN2bG5fQ3YzV25EbzNCaVdqaXRRdU8wQVB1QzFURlBuY2RDeF9kRnVLLWdTQ3FrUmRZd3FLOWowSkRKZw?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 10:26 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 2030년까지 수자원 6억톤 절감 제시",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxNWQ1N3FhOEVaNjNRbEJrSTZyaEhCN24wUTFQamxfWWpaNXQ4STZzNjZWVUdRRkFXRXZHanUxMGJzOGdVVC1RczBscU9LSXRRaGwtMG9jYWdscGU0dEdhTE9ndDhxVWZ4cDdOSm5HWDY?oc=5",
+   "source": "인천일보",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 10:25 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스 노사, 잠정합의안 수정…주식지급 비율 조정",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05RGMxY2dwWFVYREVIY2htRENtYU00THY4dnBsTWNSUnIzTDMxektadHQ2S3dka3Q2R1JfdmN1N2c2NzRBX1NfelMxdkdIOFdTNEhWODlmdHhVWV9ycU5La29CaXBwWms4eHA4WkVXcmg?oc=5",
@@ -28,11 +100,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 3조 채권 투자 재개하나…신탁 대신 운용사 위탁",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ0tHLTN3REFXQXVlZENhb2RVUGVDSTB0b1BWWDg4dnh2QlV5VWlHZGJDd3djT1hlcEY1Rl9XM3FPdXNyRmtxbUZrZTZ4QzUybkZsb3FIWHVYVzZNV2xXRFJTVURURjdORkUzWGJlNUN0bTVYaWpBRWtXWnUtcUhibUt3?oc=5",
-   "source": "연합뉴스",
+   "title": "SK하이닉스 노사, 성과급 현금 비중 50%로…수정안 마련",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93WUtvTVRmYjJxQy1pV1ViY21oVmdpdGU3N1hrUlZfMW1MU2hPei0waG5ONzdETURzc0pjb3VfYXR2dkZvMlpZZ2t3Wnpzd3ZjRGVDZTY4dkdTd0FuMHlUalBveWU?oc=5",
+   "source": "MTN 머니투데이방송",
    "date": "2026-09-10",
-   "datetime": "2026-09-10 10:10 KST",
+   "datetime": "2026-09-10 10:12 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -40,83 +112,11 @@
    }
   },
   {
-   "title": "[속보] SK하이닉스 노사, 수정 잠정합의안 마련…성과급 주식 선택권 강화",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aZi1jRmtaRF9sRXBRQVgzb1RXaHVCNFFXZVV3MEt4WV9mZXF4R2F6cU1HdDVBVDhUVk9WekpERnRJbkQ1NmJUNGFGeUN4N1VrMlJyTGhadV9obUxjVjluMFlxc0dvMVhP?oc=5",
-   "source": "테크월드",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 10:06 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "반도체 만들며 물도 아낀다…SK하이닉스, 지난해 하루 17만톤 절감",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN1kycEJlOXN0ZWxGRXVidkRDc3RLaDR6WkE5cjVJV1BtNmJGbGY1ZkNZTlhOTWl0VzFKZFJFbzM2by05MjZPYzg1ZkNKU1BLUHBvVlpSX3NiSkUyQU9YWUUzVWlKTFp6RmZ5U3RSNGVmZUN3TmYyLWVaOUN0Q0ZNMW1KWQ?oc=5",
-   "source": "조선일보",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 10:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 하루 17만톤 물 아꼈다…2030년 누적 6억톤 목표 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9tZFc0WkNoal9WVURrODAwNkxSSXBzaGVLNjJVRWpxa19leHVMLWJSRFhhQmU2ME4xOU0xM0x0XzYzWU54UjNyekhkU0hXNE1sT1FTN2xURVl5cFFDMloteml6WXpLTnE3cHBOQtIBckFVX3lxTFBKNW1EMC15bTNLMG1MUzJ3N1B5VnBKaXllTGduSVZJZ2dYZExVZzdxS1hUZUM3b0F1SmhWNHZQNm1fT3JnbGhVbVBuQzRISFE0TFhRbTgtbkc4bEowVmc3MFc1ZTB1bU11aTZhQ3hIUTJBUQ?oc=5",
+   "title": "SK하이닉스 임단협 재합의…성과급 현금 비중 40→50%로 확대 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12QmdMYXdVRVdvT0pQTmJydWZ4N1FOdjNZdkx3T1A0cnpqZzRxSjhyZ0pIQTk3X1lncEo0WFNwZVpVVWJJUWJpaUNSdU92MkQxQ3pJM19GMTB4UC13aVpIVnJVMWxUcnAxcl9NYtIBckFVX3lxTE9pZnNDNEtpcW82OTFWYTVPOUVuVVBrOEowemFUVFNmcWpNeXUtZ25la3F2YklFNFpzcnQ4am92eHNBRnNNRGw2NDg2Z3lSVkk4UEh2aFcwZXlpT0NieTItNGtDQi1fMVZqNDRlR0txSEk0UQ?oc=5",
    "source": "머니투데이",
    "date": "2026-09-10",
-   "datetime": "2026-09-10 09:50 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 하루 17만톤 물 아꼈다…“2030년까지 6억톤 절감”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DUTNNVURFc3VkMEM2S2F6RHlBanRkbmREUEhlaEJMVHBhc2hFaTR6WGwzWUk4TXFPQWt1T09ROGFKeUNER1B4UzRiUW04NEFJaXpQNzByZlo1aDg?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 09:44 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "메모리 품귀에 날개 단 SK하이닉스…ADR 7% 급등하며 상장 후 최고가",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE15SGg3ay1Eb2Q5QkRlMUxlbzlrWm9HNnFKTFhnUzIyTUhrLTBPYmVoelh1T2FOMzExRkZ6MFF5cUpSMnctamxNY2V1RnVsWEJWS180cUtn?oc=5",
-   "source": "중앙일보",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 09:31 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 지난해 하루 용수 사용 17만톤 절감",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLODZaS1RleUFYWDdVSFRjZ1VwUnM1eTlZN0RBV1Bjdm9PVDlMXzk2c1NwS09wT19SVE5ocGg1ZWxqclNCQ1R2RHBmQzAzZw?oc=5",
-   "source": "전자신문",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 09:21 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 작년 하루 용수 17만톤 절감…\"2030년까지 6억톤 아낀다\"",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81ZUUtUjBxT0FpU3dQMmdhT3h6SlFFVG00MWZGOU9GWjgxLWtYY0d6WVVxanpiMXRiZzJaX3lTNjZwU2hRTXA5U3AteFJSVDNVa0xYOWdZTUEtQ0hsVU9CTHQxSWw?oc=5",
-   "source": "서울경제TV",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 09:16 KST",
+   "datetime": "2026-09-10 10:11 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
