@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-10 15:36 KST",
+ "fetchedAt": "2026-09-10 15:39 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -18,21 +18,9 @@
   {
    "title": "SK하이닉스 노사, 임단협 수정안 마련…성과급 현금 비중 50%",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlOGlrRFZsSHM1ZTE1a1NLRDRMZHJLUzZXSGE5NGFIQWdVWjFKX01kUkEwV3pBMGVGSnJRaVlYQWY1R1dEUmF2eW1MVjN0Zw?oc=5",
-   "source": "etnews.com",
+   "source": "전자신문",
    "date": "2026-09-10",
    "datetime": "2026-09-10 14:15 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“이번엔 통할까?” 성과급 현금 50% 던진 SK하이닉스 - magazine.hankyung.com",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uTVVmTTd4U09YWVBvbkNNUUZGWjhSanpZWnQ1czdSNENtaGdpb3hNOFR5T293NXk1aXcyaVg1V01IYlhwZk5YN3pSYzljN2ZWRWV6b1dmVkxpOTAyaEYxdnNzMHJZQVBxSmZIWQ?oc=5",
-   "source": "magazine.hankyung.com",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 13:29 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -54,7 +42,7 @@
   {
    "title": "SK하이닉스 노사, 임단협 수정 합의…‘현금 50%·주식 50%’로 재조정",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2UzA5SDE0cE9yZmZ4c3l3R181dU9sMzFDejlnMzh5VGN1RXd3eEJ3eHFXRF9uVmhheVhmcVU5dXFvVlFjSnNCdGo2dVJqZ1NuM1lreTZKdmpCVEhIY1lDNlBQWdIBY0FVX3lxTFA2UzA5SDE0cE9yZmZ4c3l3R181dU9sMzFDejlnMzh5VGN1RXd3eEJ3eHFXRF9uVmhheVhmcVU5dXFvVlFjSnNCdGo2dVJqZ1NuM1lreTZKdmpCVEhIY1lDNlBQWQ?oc=5",
-   "source": "ichannela.com",
+   "source": "채널A",
    "date": "2026-09-10",
    "datetime": "2026-09-10 11:55 KST",
    "signal": {
@@ -66,7 +54,7 @@
   {
    "title": "SK하이닉스, 이천·청주 용수 재이용 확대...2030년까지 6억t 절감",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4a2ZBdUlOLXIzVDZMTlg2T2gzcWxNSFVsUG50cnhWOGpMZGU1NG52VFBidUplcE11eUE5QndNVnF5c3VnVXZtM3pod1VtR0Y2Z2pSMTBGOFZ6c19vcV9nVTVNZmZzUQ?oc=5",
-   "source": "thelec.kr",
+   "source": "디일렉",
    "date": "2026-09-10",
    "datetime": "2026-09-10 11:36 KST",
    "signal": {
@@ -78,7 +66,7 @@
   {
    "title": "[오늘의 삼전닉스] SK하이닉스 본주와 ADR의 엇박자에 뼈아픈 하루",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HYzdDLS1qb2VXbHZNY2pBZjZsVFI0UVJDT2dBQUpydTlRUi1tazR6LU1OdWhrSzdEOTAwWFFvdWFiUElqaWxxT0k0RHRSQjFZSnZ5VTJ2a0JkUnBsUno0VU5B?oc=5",
-   "source": "economist.co.kr",
+   "source": "이코노미스트",
    "date": "2026-09-10",
    "datetime": "2026-09-10 11:30 KST",
    "signal": {
@@ -121,6 +109,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 ADR, 7%대 급등 최고가 마감…코스피는 하락 출발",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uMi1QNG8xSkNuN3VyUWxVOUVLUHRhUzZIVVU4WEUzNnRrcVpJZGtyU0ZTeUl1VUVmSHc3djdWcGRubzNTaVRYTWpBaEV4RV9sV0d4VWlvemhkeHB6NzZVanpEWDdtMjdoZFI3WWpZQ0pzendVOFHSAWZBVV95cUxNVlZfSlUzekNnM0tVbEswWElnRVppc1hHNHFUNm1yRmYyY2dkODNwTFRhQXBnMDRmTWN6a05JNjRhb1c0QUdxZjFMVE1pLXFnQWdXZV9LSVQwWkh3UVlGTWlSRW9tenc?oc=5",
+   "source": "동아일보",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 11:10 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   }
  ]
