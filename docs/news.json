@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-10 15:33 KST",
+ "fetchedAt": "2026-09-10 15:34 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -28,11 +28,11 @@
    }
   },
   {
-   "title": "티에스이, 삼성전자·SK하이닉스 HBM4·4E 프로브카드 공급 가속 페달",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4RTlfOGc3SHg3aDlvQnA3YW5ORDRiUlhReHdSVndDclBoRUVVdkdsaW56RHowdk1KVjN1cG5fakZuSGVjdG4tOEdBelRwWWNfZnZfZE8yTFMzTUlYci0yMG5KRG5PRHhHc0x3Wnl2SGc1WnhpaGfSAXZBVV95cUxQOEU5XzhnN0h4N2g5b0JwN2FuTkQ0YlJYUXh3UlZ3Q3JQaEVFVXZHbGluekR6MHZNSlYzdXBuX2pGbkhlY3RuLThHQXpUcFljX2Z2X2RPMkxTM01JWHItMjBuSkRuT0R4R3NMd1p5dkhnNVp4aWhn?oc=5",
-   "source": "시사저널e",
+   "title": "“이번엔 통할까?” 성과급 현금 50% 던진 SK하이닉스",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uTVVmTTd4U09YWVBvbkNNUUZGWjhSanpZWnQ1czdSNENtaGdpb3hNOFR5T293NXk1aXcyaVg1V01IYlhwZk5YN3pSYzljN2ZWRWV6b1dmVkxpOTAyaEYxdnNzMHJZQVBxSmZIWQ?oc=5",
+   "source": "한경매거진&북",
    "date": "2026-09-10",
-   "datetime": "2026-09-10 14:09 KST",
+   "datetime": "2026-09-10 13:29 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
