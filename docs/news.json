@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-10 15:42 KST",
+ "fetchedAt": "2026-09-10 15:51 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -54,7 +54,7 @@
   {
    "title": "SK하이닉스 노사, 임단협 수정 합의…‘현금 50%·주식 50%’로 재조정",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2UzA5SDE0cE9yZmZ4c3l3R181dU9sMzFDejlnMzh5VGN1RXd3eEJ3eHFXRF9uVmhheVhmcVU5dXFvVlFjSnNCdGo2dVJqZ1NuM1lreTZKdmpCVEhIY1lDNlBQWdIBY0FVX3lxTFA2UzA5SDE0cE9yZmZ4c3l3R181dU9sMzFDejlnMzh5VGN1RXd3eEJ3eHFXRF9uVmhheVhmcVU5dXFvVlFjSnNCdGo2dVJqZ1NuM1lreTZKdmpCVEhIY1lDNlBQWQ?oc=5",
-   "source": "채널A",
+   "source": "ichannela.com",
    "date": "2026-09-10",
    "datetime": "2026-09-10 11:55 KST",
    "signal": {
@@ -66,7 +66,7 @@
   {
    "title": "SK하이닉스, 이천·청주 용수 재이용 확대...2030년까지 6억t 절감",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4a2ZBdUlOLXIzVDZMTlg2T2gzcWxNSFVsUG50cnhWOGpMZGU1NG52VFBidUplcE11eUE5QndNVnF5c3VnVXZtM3pod1VtR0Y2Z2pSMTBGOFZ6c19vcV9nVTVNZmZzUQ?oc=5",
-   "source": "디일렉",
+   "source": "thelec.kr",
    "date": "2026-09-10",
    "datetime": "2026-09-10 11:36 KST",
    "signal": {
@@ -78,7 +78,7 @@
   {
    "title": "[오늘의 삼전닉스] SK하이닉스 본주와 ADR의 엇박자에 뼈아픈 하루",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HYzdDLS1qb2VXbHZNY2pBZjZsVFI0UVJDT2dBQUpydTlRUi1tazR6LU1OdWhrSzdEOTAwWFFvdWFiUElqaWxxT0k0RHRSQjFZSnZ5VTJ2a0JkUnBsUno0VU5B?oc=5",
-   "source": "이코노미스트",
+   "source": "economist.co.kr",
    "date": "2026-09-10",
    "datetime": "2026-09-10 11:30 KST",
    "signal": {
