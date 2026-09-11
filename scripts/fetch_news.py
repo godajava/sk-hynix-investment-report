@@ -220,10 +220,15 @@ def main():
         xml_bytes = r.read()
 
     items = parse_rss(xml_bytes)
+    raw_count = len(items)
     items = dedup(items)
-    # 최신순 정렬(발행일 있는 항목 우선) 후 같은 주제 기사는 최신 1건만 남긴다
+    # 최신순 정렬(발행일 있는 항목 우선) 후 같은 주제 기사는 최신 1건만 남긴다.
+    # limit으로 자르기 전에 전체 수집분을 대상으로 주제 중복을 제거하므로,
+    # 제거된 만큼 원본 풀에 남아있는 다른(중복 아닌) 기사로 자연히 채워진다 —
+    # 원본 풀 자체가 부족할 때만(최근 7일간 보도가 적을 때) limit보다 적게 나온다.
     items.sort(key=lambda x: x["_sort"], reverse=True)
     items = dedup_topic(items)
+    topic_unique_count = len(items)
     items = items[:limit]
     for it in items:
         it.pop("_sort", None)
@@ -239,7 +244,12 @@ def main():
     }
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
-    print(f"생성: {out_path} — 뉴스 {len(items)}건 (최신 {items[0]['date']} ~)")
+    print(
+        f"생성: {out_path} — 뉴스 {len(items)}건(요청 {limit}건, 원본 {raw_count}건 → "
+        f"주제 중복 제거 후 {topic_unique_count}건) (최신 {items[0]['date']} ~)"
+    )
+    if topic_unique_count < limit:
+        print(f"참고: 최근 7일 보도에서 서로 다른 주제가 {topic_unique_count}건뿐이라 {limit}건을 채우지 못함")
 
 
 if __name__ == "__main__":
