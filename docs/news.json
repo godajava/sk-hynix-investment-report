@@ -1,30 +1,30 @@
 {
- "fetchedAt": "2026-09-11 09:56 KST",
+ "fetchedAt": "2026-09-11 10:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
-  {
-   "title": "[특징주] 삼성전자 3%·SK하이닉스 4%↓⋯유가·美 금리 쇼크",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLS3lDbnNYSGJMVlJic0thTTVmbVF5R29IYThNbDFVYWlSRkMyRUo5MndYSHdjV1V5SkxCSnVqTVYwdUZ6Q0pacnBySQ?oc=5",
-   "source": "아이뉴스24",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 09:21 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
   {
    "title": "\"SK하이닉스·마이크론 제쳤다\"… 中 CXMT, 2분기 영업이익률 82%로 '수익성 1위' 등극",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTU1xQnVlTmJOSDgzNl9GNGZiLXFGSGNiMnZHR21pbC1VTDMtZjJYYXMxV1RsWGxZOVNrbmEybjdYR0dWTFpDUEpKci1mZ1R4RTFGOFNXZEJrTHlmR0lIVjlNYl9uSXBNVUpqaWJUZnVBNU8tQnJZczJ0V1lMY05Geml1Vng5UHFQ?oc=5",
    "source": "글로벌이코노믹",
    "date": "2026-09-11",
-   "datetime": "2026-09-11 08:15 KST",
+   "datetime": "2026-09-11 09:56 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 미 기술주 삭풍에 삼성전자 3.8% 하락…하이닉스도 4%↓",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40ME1IQ0YyWC1yaVowUjVzWmFkRHFLZDJYSm9iQ1hIZm5sbWRSX2Ryd0lzcTVZSEV0bHJtSFNfTEROVnZicV9maUxXdXZNQ2NEMktONWNhQ3NlTVc3OEs5UtIBYEFVX3lxTE40ME1IQ0YyWC1yaVowUjVzWmFkRHFLZDJYSm9iQ1hIZm5sbWRSX2Ryd0lzcTVZSEV0bHJtSFNfTEROVnZicV9maUxXdXZNQ2NEMktONWNhQ3NlTVc3OEs5Ug?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 09:18 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   },
   {
