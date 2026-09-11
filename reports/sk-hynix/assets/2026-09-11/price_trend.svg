@@ -24,7 +24,7 @@
 <text x="80" y="99.9" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">220만</text>
 <line x1="88" y1="336" x2="724" y2="336" stroke="#c3c2b7" stroke-width="1"/>
 <path d="M88.0,101.1 L102.8,188.8 L117.6,171.0 L132.4,126.8 L147.2,189.6 L162.0,210.0 L176.7,191.1 L191.5,192.7 L206.3,169.4 L221.1,211.3 L235.9,196.4 L250.7,266.0 L265.5,305.0 L280.3,325.6 L295.1,222.0 L309.9,261.5 L324.7,258.9 L339.4,235.1 L354.2,280.4 L369.0,299.5 L383.8,300.0 L398.6,298.7 L413.4,278.0 L428.2,254.7 L443.0,241.1 L457.8,236.7 L472.6,279.0 L487.3,229.1 L502.1,218.9 L516.9,234.3 L531.7,232.5 L546.5,229.9 L561.3,218.9 L576.1,239.0 L590.9,233.5 L605.7,228.5 L620.5,249.5 L635.3,253.9 L650.0,240.6 L664.8,205.3 L679.6,202.4 L694.4,185.9 L709.2,186.7" fill="none" stroke="#2a78d6" stroke-width="2"/>
-<path d="M709.2,186.7 L724.0,205.0" fill="none" stroke="#2a78d6" stroke-width="2" stroke-dasharray="5 4"/>
+<path d="M709.2,186.7 L724.0,200.5" fill="none" stroke="#2a78d6" stroke-width="2" stroke-dasharray="5 4"/>
 <circle cx="88.0" cy="101.1" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="88.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/10</text>
 <text x="88.0" y="89.1" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">218만</text>
@@ -113,9 +113,9 @@
 <text x="694.4" y="356" font-size="11" fill="#898781" text-anchor="middle">9/9</text>
 <circle cx="709.2" cy="186.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="709.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/10</text>
-<circle cx="724.0" cy="205.0" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="724.0" cy="200.5" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/11</text>
-<text x="724.0" y="193.0" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">178만</text>
+<text x="724.0" y="188.5" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">180만</text>
 <circle cx="484" cy="66" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="494" y="70" font-size="11" fill="#52514e">확인 종가</text>
 <circle cx="564" cy="66" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
