@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-11 11:32 KST",
+ "fetchedAt": "2026-09-11 12:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스 주가, 오늘 왜 하락했나?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXdmNvazdhX2kwdko5ZV9XRF9kdEFzOXZ3TXNNRjdvU2F4OUZBaFZfVWNBY29tc0lSd1VNS05OWTB5OVpaUXh1WjhCSGY2ZzZLRzBkRUltUW1IUDlIUnZ3OTVsc1ltNHNuaGpDenNZN2RVN2M1SzFj?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 11:55 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "\"SK하이닉스·마이크론 제쳤다\"… 中 CXMT, 2분기 영업이익률 82%로 '수익성 1위' 등극",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTU1xQnVlTmJOSDgzNl9GNGZiLXFGSGNiMnZHR21pbC1VTDMtZjJYYXMxV1RsWGxZOVNrbmEybjdYR0dWTFpDUEpKci1mZ1R4RTFGOFNXZEJrTHlmR0lIVjlNYl9uSXBNVUpqaWJUZnVBNU8tQnJZczJ0V1lMY05Geml1Vng5UHFQ?oc=5",
@@ -13,6 +25,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자 3%·SK하이닉스 4%↓⋯유가·美 금리 쇼크",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLS3lDbnNYSGJMVlJic0thTTVmbVF5R29IYThNbDFVYWlSRkMyRUo5MndYSHdjV1V5SkxCSnVqTVYwdUZ6Q0pacnBySQ?oc=5",
+   "source": "아이뉴스24",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 09:21 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   },
   {
@@ -66,7 +90,7 @@
   {
    "title": "SK하이닉스 성과급 현금 비율 40%→50%로",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUExyNjNubUduRTYxMUp1U3pVR3dZNFB6SkxLMFk5Z3Z5OGZqQ1N1WVZreDJtdzQyZEFSQS1TT1dtR19zSm9SZ1FJU3pwM0VjLS01bWdDSWU1NWItYjAxNmNCVFk1MERQeEZ1YV9xVll5dk5fcXhlRVVHNmk3RGdwdnFyOA?oc=5",
-   "source": "조선일보",
+   "source": "chosun.com",
    "date": "2026-09-11",
    "datetime": "2026-09-11 00:36 KST",
    "signal": {
@@ -93,30 +117,6 @@
    "source": "인천일보",
    "date": "2026-09-10",
    "datetime": "2026-09-10 17:58 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스 130조 원 쐈는데… 코스피는 왜 여전히 제자리일까",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWk5MTNCSlpSckNaampXLTg5Mi1FdWcyQ3YxNFNSV1JHVmFlR1FtRUJ4YnE0VEt5dEpqRHh1UklzVTFJNHBkcFp2a1lrM28wdmpzREw0NWJ0REVZXzJMOWdUcFAyZkJsRzdGbjllTU13OW5aRnJXVmhsY3A0NVdKc3BFajNGcGxn?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 17:47 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 하이브리드 본딩 적용 시점…“기술 아닌 고객 수요·표준이 결정”",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qRmxSenQ2UDFzOVdGSlp5QWlZMUsyUVlXVjZ0ODVZQ3QwZkdEUmtkZ3QtMU5UNjZLRXRaaUJpQmF1OUs4QmNpTUJvMVlmb0RHQnd5dWlydllxVHNVcHNxZ3lqeS1OWnpnVnVocnVrZ1c2SEEtcjNJ0gF3QVVfeXFMTWpGbFJ6dDZQMXM5V0ZKWnlBaVkxSzJRWVdWNnQ4NVlDdDBmR0RSa2RndC0xTlQ2NktFdFppQmlCYXU5SzhCY2lNQm8xWWZvREdCd3l1aXJ2WXFUc1Vwc3FneWp5LU5aemdWdWhydWtnVzZIQS1yM0k?oc=5",
-   "source": "스트레이트뉴스",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 16:49 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
