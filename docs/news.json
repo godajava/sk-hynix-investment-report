@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-11 10:32 KST",
+ "fetchedAt": "2026-09-11 11:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -9,6 +9,18 @@
    "source": "글로벌이코노믹",
    "date": "2026-09-11",
    "datetime": "2026-09-11 09:56 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "파두 '뻥튀기 상장' 3차 공판서 의견 엇갈린 SK하이닉스와 파두",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzVXFrTU9OWDMxTkpMV1IyMHBXeTZhU0xHOEZlNFpMVHlqcEtCaVhURnlQaE14M0hIMkxJbTlCY0Y3UDBSVk5iQkZWUVdEamFIZUlDSWowR2UxNlZob2g1R2huY0VRY0RLc1F2Y3U1SWxKT1QwcHfSAXZBVV95cUxQc1Vxa01PTlgzMU5KTFdSMjBwV3k2YVNMRzhGZTRaTFR5anBLQmlYVEZ5UGhNeDNISDJMSW05QmNGN1AwUlZOYkJGVlFXRGphSGVJQ0lqMEdlMTZWaG9oNUdobmNFUWNES3NRdmN1NUlsSk9UMHB3?oc=5",
+   "source": "시사저널e",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 09:20 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -56,7 +68,7 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUExyNjNubUduRTYxMUp1U3pVR3dZNFB6SkxLMFk5Z3Z5OGZqQ1N1WVZreDJtdzQyZEFSQS1TT1dtR19zSm9SZ1FJU3pwM0VjLS01bWdDSWU1NWItYjAxNmNCVFk1MERQeEZ1YV9xVll5dk5fcXhlRVVHNmk3RGdwdnFyOA?oc=5",
    "source": "조선일보",
    "date": "2026-09-11",
-   "datetime": "2026-09-11 00:33 KST",
+   "datetime": "2026-09-11 00:36 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -105,18 +117,6 @@
    "source": "스트레이트뉴스",
    "date": "2026-09-10",
    "datetime": "2026-09-10 16:49 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 노사, 잠정합의안 도출…현금보상 늘리고 복지혜택 강화",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iazZIU004R25yVy1pU0VlQU9TTlVvOUUyWm4tSmh3VVl1ZUp5aWRsM3N6N1VKLVg0SHphVlFybXQxMTE3TVlNTFk4cU05N2R0bGs5TzBRdVRPaUlVWGFDSzdacUJQZkwxMktTa3NGd0l0emdjSEHSAWZBVV95cUxPU1BjQnptREtkbTRDYktXTmpsZG8xYjRYTnJkTTE2cjRIbFJ0enVmU3F0eURLLU82akxOYW1hWGs0eEF0ckRYUkF6cTVwejRDMW5aOW1kSVRlOVphX2VCc0lIbnp3bFE?oc=5",
-   "source": "동아일보",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 15:07 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
