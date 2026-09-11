@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-11 15:47 KST",
+ "fetchedAt": "2026-09-11 15:50 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -88,6 +88,18 @@
    }
   },
   {
+   "title": "[특징주] 미 기술주 삭풍에 삼성전자 3.8% 하락…하이닉스도 4%↓",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40ME1IQ0YyWC1yaVowUjVzWmFkRHFLZDJYSm9iQ1hIZm5sbWRSX2Ryd0lzcTVZSEV0bHJtSFNfTEROVnZicV9maUxXdXZNQ2NEMktONWNhQ3NlTVc3OEs5UtIBYEFVX3lxTE40ME1IQ0YyWC1yaVowUjVzWmFkRHFLZDJYSm9iQ1hIZm5sbWRSX2Ryd0lzcTVZSEV0bHJtSFNfTEROVnZicV9maUxXdXZNQ2NEMktONWNhQ3NlTVc3OEs5Ug?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 09:18 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
    "title": "\"SK하이닉스·마이크론 제쳤다\"… 中 CXMT, 2분기 영업이익률 82%로 '수익성 1위' 등극",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTU1xQnVlTmJOSDgzNl9GNGZiLXFGSGNiMnZHR21pbC1VTDMtZjJYYXMxV1RsWGxZOVNrbmEybjdYR0dWTFpDUEpKci1mZ1R4RTFGOFNXZEJrTHlmR0lIVjlNYl9uSXBNVUpqaWJUZnVBNU8tQnJZczJ0V1lMY05Geml1Vng5UHFQ?oc=5",
    "source": "글로벌이코노믹",
@@ -109,18 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 담은 월가가 주목한 '알짜 ETF' 2선은?",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVMwYzFBUmdHTVRhUU80MlZjd2puaHJUN0ZIMEI5MklHODZFLUxjc1BXWXhMZEx5R2dQZ0liZ0d4SWd6UnZUaGZhdDZOSGU3Sk84V1RGWnR2cEpqcWlIMXZLdjBRdV83QlhxMGVRVzBYVWs3ZFNrdjdRbW94ejMwZjd2SFhwV3BS?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 06:57 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
