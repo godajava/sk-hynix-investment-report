@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-11 09:31 KST",
+ "fetchedAt": "2026-09-11 09:48 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[특징주] 삼성전자 3%·SK하이닉스 4%↓⋯유가·美 금리 쇼크",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLS3lDbnNYSGJMVlJic0thTTVmbVF5R29IYThNbDFVYWlSRkMyRUo5MndYSHdjV1V5SkxCSnVqTVYwdUZ6Q0pacnBySQ?oc=5",
+   "source": "아이뉴스24",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 09:21 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "\"SK하이닉스·마이크론 제쳤다\"… 中 CXMT, 2분기 영업이익률 82%로 '수익성 1위' 등극",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTU1xQnVlTmJOSDgzNl9GNGZiLXFGSGNiMnZHR21pbC1VTDMtZjJYYXMxV1RsWGxZOVNrbmEybjdYR0dWTFpDUEpKci1mZ1R4RTFGOFNXZEJrTHlmR0lIVjlNYl9uSXBNVUpqaWJUZnVBNU8tQnJZczJ0V1lMY05Geml1Vng5UHFQ?oc=5",
@@ -13,6 +25,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "“반도체 투자 정점은 2028년으로 전망… 하반기는 SK하이닉스에 기대”",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpc1N0ay14aFRQbEhGSUpTbXQ4QzFCNi1iS19tOGN1WGxHZ19MQjFBVWNSMHFTTkxMdDR2RlU2aVZ0OUhXTXhWVUxjS21IVExnN1BPWE5kLWtOUnNsbjJ0U200TEFjMEtE?oc=5",
+   "source": "주간동아",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 07:00 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
@@ -42,7 +66,7 @@
   {
    "title": "SK하이닉스 주식, 오늘 급락하는 이유는?",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0dmljRFl6RGxRd1B4SE5QZHlmZXp4VHJRTVN4RUYxNWQzRnlvTkJBYUhjZHBMQU5zSG1IaU5TbmxEQlpKelI3Q0hfeFlqZUZ3QWJEOGpfWDZZOURsRUUySHRnWVdoRGp4Y2pJUS1qWXFMM2NONDhB?oc=5",
-   "source": "kr.investing.com",
+   "source": "Investing.com 한국어",
    "date": "2026-09-10",
    "datetime": "2026-09-10 23:11 KST",
    "signal": {
@@ -54,7 +78,7 @@
   {
    "title": "이천시, SK하이닉스·청주시 고향사랑기부 협약…‘전국 최초’ 상호 기부 체결",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16bW9zb2h4LWJtMV9NOWYxWGl5eWkyX2lTUEpsRVloQ2NZUUkwM1cxY0lzaWREdl8wRE1YT091dG5YbUxBS1JWdGdrQkZBbHg5TXMyT252Z005c2E0djVvMERoaXFRTVFGVnNXWG0wLUk?oc=5",
-   "source": "incheonilbo.com",
+   "source": "인천일보",
    "date": "2026-09-10",
    "datetime": "2026-09-10 17:58 KST",
    "signal": {
@@ -76,15 +100,27 @@
    }
   },
   {
-   "title": "SK하이닉스, 반도체 배관 유지보수 '최저가 입찰' 논란",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkc0xCZHlkeWhFcXdURXgxSXpkZnByNnZ5c2NTNFNVM0pqcER0NDlPaE5nYTAyakg1Ym9tdlR6RTMzSm0xMHFnNEpGZFlnc3N6R1g3c2lKUWpncG9xb0Ewd0RXUGFMWEZvR3BwMFpCdm1IcS1lWXhN?oc=5",
-   "source": "OhmyNews",
+   "title": "SK하이닉스, 하이브리드 본딩 적용 시점…“기술 아닌 고객 수요·표준이 결정”",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qRmxSenQ2UDFzOVdGSlp5QWlZMUsyUVlXVjZ0ODVZQ3QwZkdEUmtkZ3QtMU5UNjZLRXRaaUJpQmF1OUs4QmNpTUJvMVlmb0RHQnd5dWlydllxVHNVcHNxZ3lqeS1OWnpnVnVocnVrZ1c2SEEtcjNJ0gF3QVVfeXFMTWpGbFJ6dDZQMXM5V0ZKWnlBaVkxSzJRWVdWNnQ4NVlDdDBmR0RSa2RndC0xTlQ2NktFdFppQmlCYXU5SzhCY2lNQm8xWWZvREdCd3l1aXJ2WXFUc1Vwc3FneWp5LU5aemdWdWhydWtnVzZIQS1yM0k?oc=5",
+   "source": "straightnews.co.kr",
    "date": "2026-09-10",
-   "datetime": "2026-09-10 16:55 KST",
+   "datetime": "2026-09-10 16:49 KST",
    "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 노사, 잠정합의안 도출…현금보상 늘리고 복지혜택 강화",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iazZIU004R25yVy1pU0VlQU9TTlVvOUUyWm4tSmh3VVl1ZUp5aWRsM3N6N1VKLVg0SHphVlFybXQxMTE3TVlNTFk4cU05N2R0bGs5TzBRdVRPaUlVWGFDSzdacUJQZkwxMktTa3NGd0l0emdjSEHSAWZBVV95cUxPU1BjQnptREtkbTRDYktXTmpsZG8xYjRYTnJkTTE2cjRIbFJ0enVmU3F0eURLLU82akxOYW1hWGs0eEF0ckRYUkF6cTVwejRDMW5aOW1kSVRlOVphX2VCc0lIbnp3bFE?oc=5",
+   "source": "동아일보",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 15:07 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   }
  ]
