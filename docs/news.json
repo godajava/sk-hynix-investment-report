@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-11 15:50 KST",
+ "fetchedAt": "2026-09-11 21:11 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스, 채권 투자체계 고도화…증권사와 API 구축",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByWlRXUTJtanBlNnhkV1UzekdfVG1DcTYwTHhzXzEzQnZWNUgxQThUSGMtbEhIYnR0elhtZDY4aTB3LW4tNkVJOFlDN3FaVVhJeXNQNE05OC1CLUxSVlRkLWdyUDhGSWFVY1hzeW9GUVY?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 15:10 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락했나?",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXdmNvazdhX2kwdko5ZV9XRF9kdEFzOXZ3TXNNRjdvU2F4OUZBaFZfVWNBY29tc0lSd1VNS05OWTB5OVpaUXh1WjhCSGY2ZzZLRzBkRUltUW1IUDlIUnZ3OTVsc1ltNHNuaGpDenNZN2RVN2M1SzFj?oc=5",
@@ -16,21 +28,9 @@
    }
   },
   {
-   "title": "'삼성전자·SK하이닉스채권혼합50' ETF, 151원 분배",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB0SlpGNjJIeXVIcUxMY003SmVkUldTOHBwaktfaHc2bXFlQkp4Q3Q0QjJJZVdjS1JYbWFWNm1GOEEtVWFZWE5Od0V0d2VHUUhXbFMxSDJpSW5XdkFE?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 11:34 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "[SK하이닉스] 지난해 하루 용수 사용 17만m³ 절감…\"2030년까지 6억m³ 아낀다\"",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UdWhkOEd1Y0tCYjQtalYwY2hFaU1oTGk0N2FTU0M3Mjc5aUU0VDZTZGQxWWJMclNpbGpvdDRyY1RoRXB2ZWlOcXA0UVhHX3lUdzUwN2VWcjJxcFhmUC1mR05aN2RKTDgwbk5SeUNmZmE2MzRMbGc?oc=5",
-   "source": "waterjournal.co.kr",
+   "source": "워터저널",
    "date": "2026-09-11",
    "datetime": "2026-09-11 10:59 KST",
    "signal": {
@@ -76,18 +76,6 @@
    }
   },
   {
-   "title": "파두 '뻥튀기 상장' 3차 공판서 의견 엇갈린 SK하이닉스와 파두",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzVXFrTU9OWDMxTkpMV1IyMHBXeTZhU0xHOEZlNFpMVHlqcEtCaVhURnlQaE14M0hIMkxJbTlCY0Y3UDBSVk5iQkZWUVdEamFIZUlDSWowR2UxNlZob2g1R2huY0VRY0RLc1F2Y3U1SWxKT1QwcHfSAXZBVV95cUxQc1Vxa01PTlgzMU5KTFdSMjBwV3k2YVNMRzhGZTRaTFR5anBLQmlYVEZ5UGhNeDNISDJMSW05QmNGN1AwUlZOYkJGVlFXRGphSGVJQ0lqMEdlMTZWaG9oNUdobmNFUWNES3NRdmN1NUlsSk9UMHB3?oc=5",
-   "source": "시사저널e",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 09:20 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "[특징주] 미 기술주 삭풍에 삼성전자 3.8% 하락…하이닉스도 4%↓",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40ME1IQ0YyWC1yaVowUjVzWmFkRHFLZDJYSm9iQ1hIZm5sbWRSX2Ryd0lzcTVZSEV0bHJtSFNfTEROVnZicV9maUxXdXZNQ2NEMktONWNhQ3NlTVc3OEs5UtIBYEFVX3lxTE40ME1IQ0YyWC1yaVowUjVzWmFkRHFLZDJYSm9iQ1hIZm5sbWRSX2Ryd0lzcTVZSEV0bHJtSFNfTEROVnZicV9maUxXdXZNQ2NEMktONWNhQ3NlTVc3OEs5Ug?oc=5",
    "source": "연합뉴스",
@@ -100,11 +88,23 @@
    }
   },
   {
-   "title": "\"SK하이닉스·마이크론 제쳤다\"… 中 CXMT, 2분기 영업이익률 82%로 '수익성 1위' 등극",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTU1xQnVlTmJOSDgzNl9GNGZiLXFGSGNiMnZHR21pbC1VTDMtZjJYYXMxV1RsWGxZOVNrbmEybjdYR0dWTFpDUEpKci1mZ1R4RTFGOFNXZEJrTHlmR0lIVjlNYl9uSXBNVUpqaWJUZnVBNU8tQnJZczJ0V1lMY05Geml1Vng5UHFQ?oc=5",
-   "source": "글로벌이코노믹",
+   "title": "파두 '뻥튀기 상장' 3차 공판서 의견 엇갈린 SK하이닉스와 파두",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lbEN5eGd5anVnX0tPbjctbWtzOUd1TFNKMF92cHlYZ1hCYk1yVGEyaFF0a0Jwd0pNVzFMangzODE2MXhKSE5tWEFDa1BxSXN6LXpjZFR6RUMtb0lkVTg1LWU1elYtZ0phSlBUeWxyNnJ4UdIBdkFVX3lxTFBzVXFrTU9OWDMxTkpMV1IyMHBXeTZhU0xHOEZlNFpMVHlqcEtCaVhURnlQaE14M0hIMkxJbTlCY0Y3UDBSVk5iQkZWUVdEamFIZUlDSWowR2UxNlZob2g1R2huY0VRY0RLc1F2Y3U1SWxKT1QwcHc?oc=5",
+   "source": "시사저널e",
    "date": "2026-09-11",
-   "datetime": "2026-09-11 08:15 KST",
+   "datetime": "2026-09-11 09:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[증시키워드] SK하이닉스 성과급 잠정합의·최태원 등판한 SK이노…삼성SDI는 보상체계 개편",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fQWNQU01WOTNrMzRwb1ZhVjhNdzhJYlZxQk5uQVdsSEtMUi1CN2loVFBvN0g5ZGx5N240Y25WR2dhS1d0dFZrSEQwa0l0cHBjZENrWA?oc=5",
+   "source": "이투데이",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 08:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
