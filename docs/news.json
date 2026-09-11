@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-09-10 15:51 KST",
+ "fetchedAt": "2026-09-11 09:06 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 지난해 하루 평균 17만t 용수 절감",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mOS1pZnpUN28zMUlBOGpmV20tSmZVRzhUY3BEWk41dWFnR19EaXBsMUtJeG83ZDNnT0RRMTZIZVdmVXZJdTJKQ0N1djgyWld0YWJMUVZEc2N0ejkxTUNyYkdwTljSAWhBVV95cUxNdUlPcEVFR00yUFMyVkpmMVJacW9vWDlzcExYTC1XU0hXb1hDSjVoeHlCYjNpNW5zclJITkJQWEptZENlTnhGMjh2UUp4c244ZG5ybkYxMEZySjNWZzl1VjZMN3pYem5BNw?oc=5",
-   "source": "매일일보",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 14:17 KST",
+   "title": "\"SK하이닉스·마이크론 제쳤다\"… 中 CXMT, 2분기 영업이익률 82%로 '수익성 1위' 등극",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTU1xQnVlTmJOSDgzNl9GNGZiLXFGSGNiMnZHR21pbC1VTDMtZjJYYXMxV1RsWGxZOVNrbmEybjdYR0dWTFpDUEpKci1mZ1R4RTFGOFNXZEJrTHlmR0lIVjlNYl9uSXBNVUpqaWJUZnVBNU8tQnJZczJ0V1lMY05Geml1Vng5UHFQ?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 08:15 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,11 +16,11 @@
    }
   },
   {
-   "title": "SK하이닉스 노사, 임단협 수정안 마련…성과급 현금 비중 50%",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBlOGlrRFZsSHM1ZTE1a1NLRDRMZHJLUzZXSGE5NGFIQWdVWjFKX01kUkEwV3pBMGVGSnJRaVlYQWY1R1dEUmF2eW1MVjN0Zw?oc=5",
-   "source": "전자신문",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 14:15 KST",
+   "title": "SK하이닉스 담은 월가가 주목한 '알짜 ETF' 2선은?",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZVMwYzFBUmdHTVRhUU80MlZjd2puaHJUN0ZIMEI5MklHODZFLUxjc1BXWXhMZEx5R2dQZ0liZ0d4SWd6UnZUaGZhdDZOSGU3Sk84V1RGWnR2cEpqcWlIMXZLdjBRdV83QlhxMGVRVzBYVWs3ZFNrdjdRbW94ejMwZjd2SFhwV3BS?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 06:57 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -28,11 +28,11 @@
    }
   },
   {
-   "title": "티에스이, 삼성전자·SK하이닉스 HBM4·4E 프로브카드 공급 가속 페달",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4RTlfOGc3SHg3aDlvQnA3YW5ORDRiUlhReHdSVndDclBoRUVVdkdsaW56RHowdk1KVjN1cG5fakZuSGVjdG4tOEdBelRwWWNfZnZfZE8yTFMzTUlYci0yMG5KRG5PRHhHc0x3Wnl2SGc1WnhpaGfSAXZBVV95cUxQOEU5XzhnN0h4N2g5b0JwN2FuTkQ0YlJYUXh3UlZ3Q3JQaEVFVXZHbGluekR6MHZNSlYzdXBuX2pGbkhlY3RuLThHQXpUcFljX2Z2X2RPMkxTM01JWHItMjBuSkRuT0R4R3NMd1p5dkhnNVp4aWhn?oc=5",
-   "source": "시사저널e",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 14:09 KST",
+   "title": "SK하이닉스 성과급 현금 비율 40%→50%로",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUExyNjNubUduRTYxMUp1U3pVR3dZNFB6SkxLMFk5Z3Z5OGZqQ1N1WVZreDJtdzQyZEFSQS1TT1dtR19zSm9SZ1FJU3pwM0VjLS01bWdDSWU1NWItYjAxNmNCVFk1MERQeEZ1YV9xVll5dk5fcXhlRVVHNmk3RGdwdnFyOA?oc=5",
+   "source": "조선일보",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 00:33 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -40,87 +40,87 @@
    }
   },
   {
-   "title": "SK하이닉스 노사, 임단협 수정안 마련…현금 성과급 50%로 상향",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ULWVYeHFwQ3p1Wnp6WnFKaUdkemRCTkw3cHI1eW91aDByb3FUTlRkZDBkNEYyRUcxeVBMWGgtUmM3d0JIdF91aVg4c21iaDQ?oc=5",
-   "source": "v.daum.net",
+   "title": "SK하이닉스 주식, 오늘 급락하는 이유는?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0dmljRFl6RGxRd1B4SE5QZHlmZXp4VHJRTVN4RUYxNWQzRnlvTkJBYUhjZHBMQU5zSG1IaU5TbmxEQlpKelI3Q0hfeFlqZUZ3QWJEOGpfWDZZOURsRUUySHRnWVdoRGp4Y2pJUS1qWXFMM2NONDhB?oc=5",
+   "source": "Investing.com 한국어",
    "date": "2026-09-10",
-   "datetime": "2026-09-10 13:12 KST",
+   "datetime": "2026-09-10 23:11 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "이천시, SK하이닉스·청주시 고향사랑기부 협약…‘전국 최초’ 상호 기부 체결",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16bW9zb2h4LWJtMV9NOWYxWGl5eWkyX2lTUEpsRVloQ2NZUUkwM1cxY0lzaWREdl8wRE1YT091dG5YbUxBS1JWdGdrQkZBbHg5TXMyT252Z005c2E0djVvMERoaXFRTVFGVnNXWG0wLUk?oc=5",
+   "source": "인천일보",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 17:58 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성·SK하이닉스 130조 원 쐈는데… 코스피는 왜 여전히 제자리일까",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeWk5MTNCSlpSckNaampXLTg5Mi1FdWcyQ3YxNFNSV1JHVmFlR1FtRUJ4YnE0VEt5dEpqRHh1UklzVTFJNHBkcFp2a1lrM28wdmpzREw0NWJ0REVZXzJMOWdUcFAyZkJsRzdGbjllTU13OW5aRnJXVmhsY3A0NVdKc3BFajNGcGxn?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 17:47 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "이천·청주시, SK하이닉스 매개로 고향사랑기부금 '교차 기부'",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EQ2xzbHVUSm01NWlqbWFDUXF6eVRiUmxOajJIQklSTnVZT3ZGWHE2anpsallNRktEcmZ5LU85S191YWN6RFJJcjNEUnRoZEpFUWszZGpRbFdjN3pFNnlPZtIBYEFVX3lxTE5EQ2xzbHVUSm01NWlqbWFDUXF6eVRiUmxOajJIQklSTnVZT3ZGWHE2anpsallNRktEcmZ5LU85S191YWN6RFJJcjNEUnRoZEpFUWszZGpRbFdjN3pFNnlPZg?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 17:19 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "이천시·청주시·SK하이닉스, 서로의 도시에 고향사랑기부",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TN2Npd2tJVmdJWmw0ZzFEZkdZYnRLemVSYXNITUdKVzFEZjYwXzA5QWZNVzBuVXgzLWkwT3A4NVluTTlhOXgwYlN2UVdHbk8xRHc3NDdkOWdpZDNkTEhwYg?oc=5",
+   "source": "아시아경제",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 17:11 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 반도체 배관 유지보수 '최저가 입찰' 논란",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkc0xCZHlkeWhFcXdURXgxSXpkZnByNnZ5c2NTNFNVM0pqcER0NDlPaE5nYTAyakg1Ym9tdlR6RTMzSm0xMHFnNEpGZFlnc3N6R1g3c2lKUWpncG9xb0Ewd0RXUGFMWEZvR3BwMFpCdm1IcS1lWXhN?oc=5",
+   "source": "OhmyNews",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 16:55 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스 노사, 성과급 현금 50%로 상향",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0aV9JbVB4TTBzeTR3VlpvcUIybFB0SkJaU1UwbkdQMUNEOFVPUDQ1VkZtQU4tZkd3U3lRLVpLN2JYTk1SelhLZFJIWkJ2MmxobEQyaWp1bXVrN19oQjltMA?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 16:50 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 노사, 임단협 수정 합의…‘현금 50%·주식 50%’로 재조정",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2UzA5SDE0cE9yZmZ4c3l3R181dU9sMzFDejlnMzh5VGN1RXd3eEJ3eHFXRF9uVmhheVhmcVU5dXFvVlFjSnNCdGo2dVJqZ1NuM1lreTZKdmpCVEhIY1lDNlBQWdIBY0FVX3lxTFA2UzA5SDE0cE9yZmZ4c3l3R181dU9sMzFDejlnMzh5VGN1RXd3eEJ3eHFXRF9uVmhheVhmcVU5dXFvVlFjSnNCdGo2dVJqZ1NuM1lreTZKdmpCVEhIY1lDNlBQWQ?oc=5",
-   "source": "ichannela.com",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 11:55 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 이천·청주 용수 재이용 확대...2030년까지 6억t 절감",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA4a2ZBdUlOLXIzVDZMTlg2T2gzcWxNSFVsUG50cnhWOGpMZGU1NG52VFBidUplcE11eUE5QndNVnF5c3VnVXZtM3pod1VtR0Y2Z2pSMTBGOFZ6c19vcV9nVTVNZmZzUQ?oc=5",
-   "source": "thelec.kr",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 11:36 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[오늘의 삼전닉스] SK하이닉스 본주와 ADR의 엇박자에 뼈아픈 하루",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HYzdDLS1qb2VXbHZNY2pBZjZsVFI0UVJDT2dBQUpydTlRUi1tazR6LU1OdWhrSzdEOTAwWFFvdWFiUElqaWxxT0k0RHRSQjFZSnZ5VTJ2a0JkUnBsUno0VU5B?oc=5",
-   "source": "economist.co.kr",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 11:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 성과급 절반 현금으로…노사 수정안 마련",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tVEtTeVNVQ0JaZm15UkYtMy1FZU9qbm9Gb1FVU2ROSlowRWw1QzNvakxKUHQ4cVhLVWdXaTlNQVdTRk5xWS1OUVFPdXlfT2dBbDFjRlRzdUVyZTlydEM1QmJCSU04WTk2WmxNdUhyQkM2ZEHSAXNBVV95cUxNLVRLU3lTVUNCWmZteVJGLTMtRWVPam5vRm9RVVNkTkpaMEVsNUMzb2pMSlB0OHFYS1VnV2k5TUFXU0ZOcVktTlFRT3V5X09nQWwxY0ZUc3VFcmU5cnRDNUJiQklNOFk5NlpsTXVIckJDNmRB?oc=5",
-   "source": "시사저널",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 11:21 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 지난해 하루 17만톤 물 아꼈다…2030년 누적 6억톤 목표",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zeTM3engyQ0VDS0ZqdjRRLTZkR1ktUTFsdV9zZHA2RVRqV0RwYjFTMnpHS1p4b3UzSE5OUWRBVFNpZGxMc25CNUpQQ043VnBQdmt0aldLZmpDenRxcENoM1hIaHp2MzVvZ0VValV2Um5HRGh4Tmow0gF3QVVfeXFMTTN5Mzd6eDJDRUNLRmp2NFEtNmRHWS1RMWx1X3NkcDZFVGpXRHBiMVMyekdLWnhvdTNITk5RZEFUU2lkbExzbkI1SlBDTjdWcFB2a3RqV0tmakN6dHFwQ2gzWEhoenYzNW9nRVVqVXZSbkdEaHhOajA?oc=5",
-   "source": "스트레이트뉴스",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 11:11 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 노사, '현금·주식 5대5' 수정 합의안 마련…15~16일 재투표",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQb1U4Y2hGWlNydjV4R3djUW1PSWJjaDFUUmRSZEwtRjNoVUh2N2xwa1h0aE5EZ21mVlRtdTRURU9kWFM5ZmdBNnp4TzBFMFdHdDVWT0lydGVhbVQ0WkRaMVNzTXFKZU40NjI4YjdqVlg?oc=5",
-   "source": "신아일보",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 11:10 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
