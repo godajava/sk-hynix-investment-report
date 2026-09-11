@@ -1,20 +1,8 @@
 {
- "fetchedAt": "2026-09-11 14:32 KST",
+ "fetchedAt": "2026-09-11 15:33 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
-  {
-   "title": "SK하이닉스, 채권 투자체계 고도화…증권사와 API 구축",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yX2FTWXQ5eVVTOE5SN0w4ZjczZmMwbGFhVGZfejlpTEVrUHJHNlNBam5DS3VDY1VrcFVORl9VRVJDelA2RWJjRDNMYVhtMnFqN1BueEM1amJ0d1M5ZURNdGZmc2NVaGwwT2x0S2Z0TEo2dw?oc=5",
-   "source": "KB Think",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 13:10 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
   {
    "title": "SK하이닉스 주가, 오늘 왜 하락했나?",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXdmNvazdhX2kwdko5ZV9XRF9kdEFzOXZ3TXNNRjdvU2F4OUZBaFZfVWNBY29tc0lSd1VNS05OWTB5OVpaUXh1WjhCSGY2ZzZLRzBkRUltUW1IUDlIUnZ3OTVsc1ltNHNuaGpDenNZN2RVN2M1SzFj?oc=5",
@@ -90,7 +78,7 @@
   {
    "title": "파두 '뻥튀기 상장' 3차 공판서 의견 엇갈린 SK하이닉스와 파두",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzVXFrTU9OWDMxTkpMV1IyMHBXeTZhU0xHOEZlNFpMVHlqcEtCaVhURnlQaE14M0hIMkxJbTlCY0Y3UDBSVk5iQkZWUVdEamFIZUlDSWowR2UxNlZob2g1R2huY0VRY0RLc1F2Y3U1SWxKT1QwcHfSAXZBVV95cUxQc1Vxa01PTlgzMU5KTFdSMjBwV3k2YVNMRzhGZTRaTFR5anBLQmlYVEZ5UGhNeDNISDJMSW05QmNGN1AwUlZOYkJGVlFXRGphSGVJQ0lqMEdlMTZWaG9oNUdobmNFUWNES3NRdmN1NUlsSk9UMHB3?oc=5",
-   "source": "sisajournal-e.com",
+   "source": "시사저널e",
    "date": "2026-09-11",
    "datetime": "2026-09-11 09:20 KST",
    "signal": {
@@ -121,6 +109,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "“반도체 투자 정점은 2028년으로 전망… 하반기는 SK하이닉스에 기대”",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpc1N0ay14aFRQbEhGSUpTbXQ4QzFCNi1iS19tOGN1WGxHZ19MQjFBVWNSMHFTTkxMdDR2RlU2aVZ0OUhXTXhWVUxjS21IVExnN1BPWE5kLWtOUnNsbjJ0U200TEFjMEtE?oc=5",
+   "source": "주간동아",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 07:00 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   }
  ]
