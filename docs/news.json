@@ -76,30 +76,6 @@
    }
   },
   {
-   "title": "이천·청주시, SK하이닉스 매개로 고향사랑기부금 '교차 기부'",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EQ2xzbHVUSm01NWlqbWFDUXF6eVRiUmxOajJIQklSTnVZT3ZGWHE2anpsallNRktEcmZ5LU85S191YWN6RFJJcjNEUnRoZEpFUWszZGpRbFdjN3pFNnlPZtIBYEFVX3lxTE5EQ2xzbHVUSm01NWlqbWFDUXF6eVRiUmxOajJIQklSTnVZT3ZGWHE2anpsallNRktEcmZ5LU85S191YWN6RFJJcjNEUnRoZEpFUWszZGpRbFdjN3pFNnlPZg?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 17:19 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "이천시·청주시·SK하이닉스, 서로의 도시에 고향사랑기부",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TN2Npd2tJVmdJWmw0ZzFEZkdZYnRLemVSYXNITUdKVzFEZjYwXzA5QWZNVzBuVXgzLWkwT3A4NVluTTlhOXgwYlN2UVdHbk8xRHc3NDdkOWdpZDNkTEhwYg?oc=5",
-   "source": "아시아경제",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 17:11 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "SK하이닉스, 반도체 배관 유지보수 '최저가 입찰' 논란",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkc0xCZHlkeWhFcXdURXgxSXpkZnByNnZ5c2NTNFNVM0pqcER0NDlPaE5nYTAyakg1Ym9tdlR6RTMzSm0xMHFnNEpGZFlnc3N6R1g3c2lKUWpncG9xb0Ewd0RXUGFMWEZvR3BwMFpCdm1IcS1lWXhN?oc=5",
    "source": "OhmyNews",
@@ -109,18 +85,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스 노사, 성과급 현금 50%로 상향",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0aV9JbVB4TTBzeTR3VlpvcUIybFB0SkJaU1UwbkdQMUNEOFVPUDQ1VkZtQU4tZkd3U3lRLVpLN2JYTk1SelhLZFJIWkJ2MmxobEQyaWp1bXVrN19oQjltMA?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 16:50 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]

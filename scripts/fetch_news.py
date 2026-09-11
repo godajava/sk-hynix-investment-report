@@ -100,6 +100,34 @@ def dedup(items):
     return out
 
 
+# 같은 사안을 다른 언론사가 다른 제목으로 보도하면(예: "노사, 임단협 수정안
+# 마련…현금 50%" vs "성과급 절반 현금으로…노사 수정안 마련") 위 dedup()의
+# 정확 일치 방식으로는 걸러지지 않는다. 제목을 글자 2-gram 집합으로 바꿔
+# 겹침 비율을 비교하는 방식은 조사(은/는/을/를 등)가 붙어 단어가 달라져도
+# 흔들리지 않고, 형태소 분석기 등 외부 의존성도 필요 없다.
+_TOPIC_STRIP = re.compile(r"SK하이닉스|하이닉스")
+_NON_KO_NUM = re.compile(r"[^가-힣0-9]")
+
+
+def _bigrams(title):
+    s = _NON_KO_NUM.sub("", _TOPIC_STRIP.sub("", title))
+    return {s[i:i + 2] for i in range(len(s) - 1)} or {s}
+
+
+def dedup_topic(items, threshold=0.45):
+    """같은 주제를 다룬 기사가 여럿이면 가장 최신 1건만 남긴다.
+    호출 전 items는 최신순으로 정렬돼 있어야 한다(각 클러스터의 대표로
+    가장 최근 기사가 남도록)."""
+    kept, kept_bg = [], []
+    for it in items:
+        bg = _bigrams(it["title"])
+        if any(len(bg & prev) / min(len(bg), len(prev)) >= threshold for prev in kept_bg):
+            continue
+        kept.append(it)
+        kept_bg.append(bg)
+    return kept
+
+
 # 제목 키워드 기반 신호등 자동 분류(참고용) — 호재🟢 / 악재🔴 / 중립⚪
 #
 # 3단계로 판정한다:
@@ -193,8 +221,9 @@ def main():
 
     items = parse_rss(xml_bytes)
     items = dedup(items)
-    # 최신순 정렬(발행일 있는 항목 우선)
+    # 최신순 정렬(발행일 있는 항목 우선) 후 같은 주제 기사는 최신 1건만 남긴다
     items.sort(key=lambda x: x["_sort"], reverse=True)
+    items = dedup_topic(items)
     items = items[:limit]
     for it in items:
         it.pop("_sort", None)
