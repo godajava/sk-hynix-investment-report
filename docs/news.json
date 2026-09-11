@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-11 09:17 KST",
+ "fetchedAt": "2026-09-11 09:21 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -13,6 +13,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "“반도체 투자 정점은 2028년으로 전망… 하반기는 SK하이닉스에 기대”",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpc1N0ay14aFRQbEhGSUpTbXQ4QzFCNi1iS19tOGN1WGxHZ19MQjFBVWNSMHFTTkxMdDR2RlU2aVZ0OUhXTXhWVUxjS21IVExnN1BPWE5kLWtOUnNsbjJ0U200TEFjMEtE?oc=5",
+   "source": "주간동아",
+   "date": "2026-09-11",
+   "datetime": "2026-09-11 07:00 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
@@ -76,6 +88,18 @@
    }
   },
   {
+   "title": "이천·청주시, SK하이닉스 매개로 고향사랑기부금 '교차 기부'",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EQ2xzbHVUSm01NWlqbWFDUXF6eVRiUmxOajJIQklSTnVZT3ZGWHE2anpsallNRktEcmZ5LU85S191YWN6RFJJcjNEUnRoZEpFUWszZGpRbFdjN3pFNnlPZtIBYEFVX3lxTE5EQ2xzbHVUSm01NWlqbWFDUXF6eVRiUmxOajJIQklSTnVZT3ZGWHE2anpsallNRktEcmZ5LU85S191YWN6RFJJcjNEUnRoZEpFUWszZGpRbFdjN3pFNnlPZg?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-10",
+   "datetime": "2026-09-10 17:19 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "이천시·청주시·SK하이닉스, 서로의 도시에 고향사랑기부",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TN2Npd2tJVmdJWmw0ZzFEZkdZYnRLemVSYXNITUdKVzFEZjYwXzA5QWZNVzBuVXgzLWkwT3A4NVluTTlhOXgwYlN2UVdHbk8xRHc3NDdkOWdpZDNkTEhwYg?oc=5",
    "source": "아시아경제",
@@ -88,39 +112,15 @@
    }
   },
   {
-   "title": "SK하이닉스 노사 ‘성과급 현금 50%·주식 50%’ 합의안 마련 外",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80NW9rMGxDeXVycU0tUDBjaU83cUZ4TUxMd1BJNWx0c1hVdHRQTkpWTjFXWHlrZWRFYWtfTUs4bmxwVTgyd0tsajMyTVFmTEtq?oc=5",
-   "source": "톱데일리",
+   "title": "SK하이닉스, 반도체 배관 유지보수 '최저가 입찰' 논란",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkc0xCZHlkeWhFcXdURXgxSXpkZnByNnZ5c2NTNFNVM0pqcER0NDlPaE5nYTAyakg1Ym9tdlR6RTMzSm0xMHFnNEpGZFlnc3N6R1g3c2lKUWpncG9xb0Ewd0RXUGFMWEZvR3BwMFpCdm1IcS1lWXhN?oc=5",
+   "source": "OhmyNews",
    "date": "2026-09-10",
-   "datetime": "2026-09-10 15:46 KST",
+   "datetime": "2026-09-10 16:55 KST",
    "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 지난해 하루 17만톤 용수 절감…2030년 누적 6억톤 목표",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KelI2aW8xbDhuUlBFazhGNTh2aE5lMlBtVEEyU19pWXRaNUNzazdmb3JxWVdNQ3lPVEtNTFNwc2NnOW5qR3Q2Q2s4cGpNbFZkMkx0aFZR?oc=5",
-   "source": "지디넷코리아",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 14:57 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[그래픽] 삼성전자·SK하이닉스 코스피 등락 기여율",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQUlfekFweno3NTFtbmpudkhFb1NxcHU0N29EbW9qNXowYnZxYXdIM1paQ0tUbXV4czY5YktkY25NdmxhdWlzc0xYZWdiQzctWHRkRzJUS0Z3TUnSAWBBVV95cUxOZ0VvOGZHQWlVeFJvLWFuTE5MUk5BdC1IQ2xqNkJDUldLZ1lHSldOY0dqVG1zSEJySUl3VGQwUWExaGVRN29OVlF2Q1BNcl9aT1l5ZkQyYWQxRVV5c05paUw?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-10",
-   "datetime": "2026-09-10 14:51 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   }
  ]
