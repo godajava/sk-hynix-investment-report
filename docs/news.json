@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-14 15:33 KST",
+ "fetchedAt": "2026-09-14 15:34 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -64,18 +64,6 @@
    }
   },
   {
-   "title": "'현금 50%·주식 50%' SK하이닉스 성과급 수정안, 찬반투표 문턱 넘을까",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1INXV3YjBxUWZUVl9nQ2Q5ODZ1ZGU0SGZ2cUd1QmkzSGRfeUh1ZDdIMkJON25NYnZaT1J2Ui05VDh4OEhqY0NsaTh5TFBPbkU?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-14",
-   "datetime": "2026-09-14 11:24 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "삼성전자와 SK하이닉스 메모리반도체 중국에 우위 장담 어렵다, '공급망 장악' 위협적",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hOW00ZFktLUNBdEoxSFoxdHZPcER5amtxbzNvU3l5Q1B2ckNUdDh0YXBlSGxPeXhOaDRWMUV0QnMwbEI3Z3hRd0xWN1IwMTVNQ1o2RVFQOGFFeTdCWUNvdURwNWpTaHRiQlpPV0xpMUx6Mnc?oc=5",
    "source": "비즈니스포스트",
@@ -121,6 +109,18 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 美 국채 금리 상승 여파.. '약세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2EzUkl2bXFjTFcxeW54ZjBIR0phUFFIemVXdldlZ2NvLVFoSVdGamoyWWpaWjhUN1hXdTNWV0UxTzM4SWNzTnhXai1WM2U0VUpWT2d3WkdCbWc4RkRfSVlVelQ4VkpQczF6a2VjdVRrQzd3M1hfalR3LUNDbmlmd1ZmVVUzVzdo?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 10:05 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   }
  ]
