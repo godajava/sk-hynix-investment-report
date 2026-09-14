@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-14 10:24 KST",
+ "fetchedAt": "2026-09-14 10:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "삼성전자·SK하이닉스 \"5년치 25조 전기료 달라\" 한전 요구 거절",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0b0Rack1PUmFjdUFyNHpiaG9LN0dtUmxjdmpRMm1LdmJpM0ppU3UxeG44clNiTVltTTg1T2lySXBWMk5vTEVMNlJiZXVOWkZ0cWdlM2FFbFlWaVVyMFh0NWlIS3VjM3NHYVJuVURnZ2lwQQ?oc=5",
+   "source": "opinionnews.co.kr",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 10:17 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[특징주] 삼성전자·SK하이닉스, 美 국채 금리 상승 여파.. '약세'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2EzUkl2bXFjTFcxeW54ZjBIR0phUFFIemVXdldlZ2NvLVFoSVdGamoyWWpaWjhUN1hXdTNWV0UxTzM4SWNzTnhXai1WM2U0VUpWT2d3WkdCbWc4RkRfSVlVelQ4VkpQczF6a2VjdVRrQzd3M1hfalR3LUNDbmlmd1ZmVVUzVzdo?oc=5",
@@ -30,25 +42,13 @@
   {
    "title": "삼성전자 장 초반 3%대 급락…SK하이닉스도 5%↓",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9udG5BSEtWTElDN1kzVXpuQ0pYVVlxdzlDRXpzYUFCa2g0NjJja19EcTFpZkQ3QkU0RWNhX3dMaFFoTnNGZXF1SlpaRVg1T29RSWdqUjZQbkdSeEUyU09yV1N3?oc=5",
-   "source": "매일신문",
+   "source": "imaeil.com",
    "date": "2026-09-14",
    "datetime": "2026-09-14 09:51 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스, ‘25조 전기료 선납’ 한전 제안 거절",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BMjUxZDNkM0NScjBseWxGenF2bGNZaW9EbUh1YXgxRU9UWjZPOGUxRGRmc2RhLUJZUnpfVjdGM0JTRDNuMWtocjdoaG1GUnlFUkVlZ1lMN3lvLWs?oc=5",
-   "source": "KBS 뉴스",
-   "date": "2026-09-14",
-   "datetime": "2026-09-14 09:45 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   },
   {
@@ -64,11 +64,11 @@
    }
   },
   {
-   "title": "\"전기료 25조 미리 내달라\"…한전 요청에 삼성·SK하이닉스가 내린 결론",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nUlV3UXNHREc1dmg4V3BnNXNLaTV0a29fSHFsNXgtS1dyNDllbjRFcTh1MERmYVlxOUQzaXZkLXI5VDIzWXlidnJFWXQtbmc?oc=5",
-   "source": "v.daum.net",
+   "title": "[속보]삼성전자·SK하이닉스, 한국전력의 25조원 전기료 선납 제안 거절",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16eXhvTEl5RDYtb1BpN1dvMlJjeFQ4U3pDTlVmckxBb3ExU255U2dEWjNUNW5WdnQ4eUs3YjZnNDRXV1pRNUNqRERUTE9HNTFqcC1hV0hNZ0Zud2M?oc=5",
+   "source": "강원일보",
    "date": "2026-09-14",
-   "datetime": "2026-09-14 08:28 KST",
+   "datetime": "2026-09-14 08:27 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
