@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-09-14 10:32 KST",
+ "fetchedAt": "2026-09-14 11:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "삼성전자·SK하이닉스 \"5년치 25조 전기료 달라\" 한전 요구 거절",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0b0Rack1PUmFjdUFyNHpiaG9LN0dtUmxjdmpRMm1LdmJpM0ppU3UxeG44clNiTVltTTg1T2lySXBWMk5vTEVMNlJiZXVOWkZ0cWdlM2FFbFlWaVVyMFh0NWlIS3VjM3NHYVJuVURnZ2lwQQ?oc=5",
-   "source": "opinionnews.co.kr",
+   "title": "“전기료 25조 미리 내달라”…삼성전자·SK하이닉스, 한전 제안 거절",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yb2JCcmxzdDkxZ0RyaEJ6QmVKR1RVMDNRekZUSEtpZS1PUVRPYlFOYXJFYjB3V2ZPa3FJZ3dnTGVhZzR2ZHBfaW52bE5UVGNX?oc=5",
+   "source": "문화일보",
    "date": "2026-09-14",
-   "datetime": "2026-09-14 10:17 KST",
+   "datetime": "2026-09-14 11:29 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -42,7 +42,7 @@
   {
    "title": "삼성전자 장 초반 3%대 급락…SK하이닉스도 5%↓",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9udG5BSEtWTElDN1kzVXpuQ0pYVVlxdzlDRXpzYUFCa2g0NjJja19EcTFpZkQ3QkU0RWNhX3dMaFFoTnNGZXF1SlpaRVg1T29RSWdqUjZQbkdSeEUyU09yV1N3?oc=5",
-   "source": "imaeil.com",
+   "source": "매일신문",
    "date": "2026-09-14",
    "datetime": "2026-09-14 09:51 KST",
    "signal": {
@@ -64,21 +64,21 @@
    }
   },
   {
-   "title": "[속보]삼성전자·SK하이닉스, 한국전력의 25조원 전기료 선납 제안 거절",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16eXhvTEl5RDYtb1BpN1dvMlJjeFQ4U3pDTlVmckxBb3ExU255U2dEWjNUNW5WdnQ4eUs3YjZnNDRXV1pRNUNqRERUTE9HNTFqcC1hV0hNZ0Zud2M?oc=5",
-   "source": "강원일보",
+   "title": "삼성전자·SK하이닉스 증설 본격화…반도체 팹 인프라 수주 확대 전망",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9vZmhVRFJQY09BSk9iVjNDdWVwTlhMVnlLbEpRSzUxU25xOW9KQXZhR01KSW84OWZPVDVVUndrZkxtbkhhWTBHaU8zRGJyMzRXanJPY3pxNnZkam5NOXZnSm15WjRlUE5w?oc=5",
+   "source": "ebn.co.kr",
    "date": "2026-09-14",
-   "datetime": "2026-09-14 08:27 KST",
+   "datetime": "2026-09-14 08:33 KST",
    "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
    "title": "[특징주] AI 속도조절론에 S7 일제히 약세…SK하이닉스 2.6%↓",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rVHZkRUp2N0gxR2NNNEo1TEFLbmpIaW9SXzdGWEEzZ3RYWXVQZzZoRTI4UnQtOFJpN3h3Q19CNVh5OHBKZ2pZUUJzNjZDY1UwZUtiMlRiWFlSOFFU?oc=5",
-   "source": "뉴스핌",
+   "source": "newspim.com",
    "date": "2026-09-14",
    "datetime": "2026-09-14 08:24 KST",
    "signal": {
@@ -100,6 +100,18 @@
    }
   },
   {
+   "title": "[단독] \"5년치 전기료 25조 선납\" 한전 제안에 삼전닉스 \"NO\"",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjhYZUkzSlFrNDlLWE1HeWV5M09wV3ZsRG1GaVh4RzJBN2piNTI3dC14QW9NaFpEOXZlYVZhSFduY1ZQaFdVUlBCM3pkR1R6UkRnMkJ2VkxFR3BGdkQ4WmtxTjlxR1paV3BuR3NSLTN3dlJYQVczc0ZHdVVIYzFTX1Z4NWp1bl9BRlFLUUxwMA?oc=5",
+   "source": "조선일보",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 05:07 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "아셴브레너의 귀환...SK하이닉스에 다시 베팅",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QQkdnVEw5clFYRjE4eW5iRWlrejdMT2NYWEFqSUxBdXpfTFNUX2VVT2Y0dnVYZUNCVGZBX1ljS3llc3JlZG5IaS1TaXQtaDQ?oc=5",
    "source": "v.daum.net",
@@ -109,18 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "AI 속도 조절론, SK하이닉스 등 무기한 선물상품 강타…오픈AI 최대 13% 급락",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KdkttcDFHWkZzZngxVzdLNXEyeGFJVzdnN3NhWDRvS253VE1iQ3NfUmZYN0JxYVE3TjdJNTBIeE00NGo4ZTBwalk2M3FxSWlaSlBaaUhEUTQ?oc=5",
-   "source": "블록미디어",
-   "date": "2026-09-13",
-   "datetime": "2026-09-13 19:39 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
