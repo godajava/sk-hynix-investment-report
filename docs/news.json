@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-09-11 21:11 KST",
+ "fetchedAt": "2026-09-14 10:24 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 채권 투자체계 고도화…증권사와 API 구축",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByWlRXUTJtanBlNnhkV1UzekdfVG1DcTYwTHhzXzEzQnZWNUgxQThUSGMtbEhIYnR0elhtZDY4aTB3LW4tNkVJOFlDN3FaVVhJeXNQNE05OC1CLUxSVlRkLWdyUDhGSWFVY1hzeW9GUVY?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 15:10 KST",
+   "title": "[특징주] 삼성전자·SK하이닉스, 美 국채 금리 상승 여파.. '약세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2EzUkl2bXFjTFcxeW54ZjBIR0phUFFIemVXdldlZ2NvLVFoSVdGamoyWWpaWjhUN1hXdTNWV0UxTzM4SWNzTnhXai1WM2U0VUpWT2d3WkdCbWc4RkRfSVlVelQ4VkpQczF6a2VjdVRrQzd3M1hfalR3LUNDbmlmd1ZmVVUzVzdo?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 10:05 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,35 +16,11 @@
    }
   },
   {
-   "title": "SK하이닉스 주가, 오늘 왜 하락했나?",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXdmNvazdhX2kwdko5ZV9XRF9kdEFzOXZ3TXNNRjdvU2F4OUZBaFZfVWNBY29tc0lSd1VNS05OWTB5OVpaUXh1WjhCSGY2ZzZLRzBkRUltUW1IUDlIUnZ3OTVsc1ltNHNuaGpDenNZN2RVN2M1SzFj?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 11:55 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[SK하이닉스] 지난해 하루 용수 사용 17만m³ 절감…\"2030년까지 6억m³ 아낀다\"",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UdWhkOEd1Y0tCYjQtalYwY2hFaU1oTGk0N2FTU0M3Mjc5aUU0VDZTZGQxWWJMclNpbGpvdDRyY1RoRXB2ZWlOcXA0UVhHX3lUdzUwN2VWcjJxcFhmUC1mR05aN2RKTDgwbk5SeUNmZmE2MzRMbGc?oc=5",
-   "source": "워터저널",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 10:59 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 기존 '현금 중심 PS' 완전 정리…자사주 포함 새 체계로",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRX2hnN2ZqWGV5d00yR2VGWXBVUlJ2NWRsem9CeExZRk1Ua1VsU0NwbjJoQVJBdEhtU1RHb3p5WUQ3SGU0a0tFdFdSbw?oc=5",
+   "title": "코스피 6700 아래 '털썩'⋯장 초반 삼성전자 3%·SK하이닉스5%↓",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wQXFkZzF3U2l0b0hCeGlfd2llb18wZTlGNDlLcXZaM2QwX3VWZjJNVEJfNzNNUEFTZjUxV2RYdkhZdVhZS3diM25uVQ?oc=5",
    "source": "아이뉴스24",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 10:49 KST",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 09:53 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -52,11 +28,11 @@
    }
   },
   {
-   "title": "“삼성전자·SK하이닉스 4%대 급락”…코스피, 6800선으로 밀려",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQOXd5M3VpMlgyX0U4U1BIUFNRZ2VxNXZBWHVIOFUycGJWOHVKTVVpYVNHX3pvbEdKV1ZfMG85WFF3Ul9MZU9GOGRpZFk4S3JxRmNxY25oeHJNZ01KUWpTQXB2SWI?oc=5",
-   "source": "디지털데일리",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 09:27 KST",
+   "title": "삼성전자 장 초반 3%대 급락…SK하이닉스도 5%↓",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9udG5BSEtWTElDN1kzVXpuQ0pYVVlxdzlDRXpzYUFCa2g0NjJja19EcTFpZkQ3QkU0RWNhX3dMaFFoTnNGZXF1SlpaRVg1T29RSWdqUjZQbkdSeEUyU09yV1N3?oc=5",
+   "source": "매일신문",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 09:51 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -64,35 +40,11 @@
    }
   },
   {
-   "title": "[특징주] 삼성전자 3%·SK하이닉스 4%↓⋯유가·美 금리 쇼크",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLS3lDbnNYSGJMVlJic0thTTVmbVF5R29IYThNbDFVYWlSRkMyRUo5MndYSHdjV1V5SkxCSnVqTVYwdUZ6Q0pacnBySQ?oc=5",
-   "source": "아이뉴스24",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 09:21 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[특징주] 미 기술주 삭풍에 삼성전자 3.8% 하락…하이닉스도 4%↓",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40ME1IQ0YyWC1yaVowUjVzWmFkRHFLZDJYSm9iQ1hIZm5sbWRSX2Ryd0lzcTVZSEV0bHJtSFNfTEROVnZicV9maUxXdXZNQ2NEMktONWNhQ3NlTVc3OEs5UtIBYEFVX3lxTE40ME1IQ0YyWC1yaVowUjVzWmFkRHFLZDJYSm9iQ1hIZm5sbWRSX2Ryd0lzcTVZSEV0bHJtSFNfTEROVnZicV9maUxXdXZNQ2NEMktONWNhQ3NlTVc3OEs5Ug?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 09:18 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "파두 '뻥튀기 상장' 3차 공판서 의견 엇갈린 SK하이닉스와 파두",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lbEN5eGd5anVnX0tPbjctbWtzOUd1TFNKMF92cHlYZ1hCYk1yVGEyaFF0a0Jwd0pNVzFMangzODE2MXhKSE5tWEFDa1BxSXN6LXpjZFR6RUMtb0lkVTg1LWU1elYtZ0phSlBUeWxyNnJ4UdIBdkFVX3lxTFBzVXFrTU9OWDMxTkpMV1IyMHBXeTZhU0xHOEZlNFpMVHlqcEtCaVhURnlQaE14M0hIMkxJbTlCY0Y3UDBSVk5iQkZWUVdEamFIZUlDSWowR2UxNlZob2g1R2huY0VRY0RLc1F2Y3U1SWxKT1QwcHc?oc=5",
-   "source": "시사저널e",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 09:00 KST",
+   "title": "삼성전자·SK하이닉스, ‘25조 전기료 선납’ 한전 제안 거절",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BMjUxZDNkM0NScjBseWxGenF2bGNZaW9EbUh1YXgxRU9UWjZPOGUxRGRmc2RhLUJZUnpfVjdGM0JTRDNuMWtocjdoaG1GUnlFUkVlZ1lMN3lvLWs?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 09:45 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -100,11 +52,23 @@
    }
   },
   {
-   "title": "[증시키워드] SK하이닉스 성과급 잠정합의·최태원 등판한 SK이노…삼성SDI는 보상체계 개편",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fQWNQU01WOTNrMzRwb1ZhVjhNdzhJYlZxQk5uQVdsSEtMUi1CN2loVFBvN0g5ZGx5N240Y25WR2dhS1d0dFZrSEQwa0l0cHBjZENrWA?oc=5",
-   "source": "이투데이",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 08:00 KST",
+   "title": "[속보] ‘유가 쇼크’ 코스피 -3% 급락 출발…SK하이닉스 -5%↓",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlTHlDczdHQjU1aTFzeDNXa2NoRnFQZ2RPaGxWWEZ0U1BMVk1TU25hYXJmcjhCeUV2UU9wM2k2M3ltR19ua3NFUzNoaWRxTldTNmhseFhqWDRONFdwRzdVVlVmWnoxemkwZlNlRlZLRktkREJkaTVZcjJONzAwQQ?oc=5",
+   "source": "서울신문",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 09:05 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "\"전기료 25조 미리 내달라\"…한전 요청에 삼성·SK하이닉스가 내린 결론",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nUlV3UXNHREc1dmg4V3BnNXNLaTV0a29fSHFsNXgtS1dyNDllbjRFcTh1MERmYVlxOUQzaXZkLXI5VDIzWXlidnJFWXQtbmc?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 08:28 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -112,15 +76,51 @@
    }
   },
   {
-   "title": "“반도체 투자 정점은 2028년으로 전망… 하반기는 SK하이닉스에 기대”",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpc1N0ay14aFRQbEhGSUpTbXQ4QzFCNi1iS19tOGN1WGxHZ19MQjFBVWNSMHFTTkxMdDR2RlU2aVZ0OUhXTXhWVUxjS21IVExnN1BPWE5kLWtOUnNsbjJ0U200TEFjMEtE?oc=5",
-   "source": "주간동아",
-   "date": "2026-09-11",
-   "datetime": "2026-09-11 07:00 KST",
+   "title": "[특징주] AI 속도조절론에 S7 일제히 약세…SK하이닉스 2.6%↓",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rVHZkRUp2N0gxR2NNNEo1TEFLbmpIaW9SXzdGWEEzZ3RYWXVQZzZoRTI4UnQtOFJpN3h3Q19CNVh5OHBKZ2pZUUJzNjZDY1UwZUtiMlRiWFlSOFFU?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 08:24 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스, 장비 공급망 선점…2년 후 수요까지 확보",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwQ0h6NHRGUjlMMVRCR3BMa0VuMFZGMl9VYVVtUUNNb0Mxa3BiZnZBV3JVYVBhZGFlWENoLVYwUFdzMVFLNmZQYmQwakVxcmc?oc=5",
+   "source": "딜사이트",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 08:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "아셴브레너의 귀환...SK하이닉스에 다시 베팅",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QQkdnVEw5clFYRjE4eW5iRWlrejdMT2NYWEFqSUxBdXpfTFNUX2VVT2Y0dnVYZUNCVGZBX1ljS3llc3JlZG5IaS1TaXQtaDQ?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 04:54 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "AI 속도 조절론, SK하이닉스 등 무기한 선물상품 강타…오픈AI 최대 13% 급락",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KdkttcDFHWkZzZngxVzdLNXEyeGFJVzdnN3NhWDRvS253VE1iQ3NfUmZYN0JxYVE3TjdJNTBIeE00NGo4ZTBwalk2M3FxSWlaSlBaaUhEUTQ?oc=5",
+   "source": "블록미디어",
+   "date": "2026-09-13",
+   "datetime": "2026-09-13 19:39 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   }
  ]
