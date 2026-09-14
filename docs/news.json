@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-14 15:44 KST",
+ "fetchedAt": "2026-09-14 15:48 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "씨케이솔루션 美 자회사, SK하이닉스 인디애나 팹 인프라 공사 1477억원 수주",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IYTN6aTlkcHBUVHlIVHpldjBaRGZkQUxQYjI1LW9hV19mODh1bDRNRzcyX0ZyamZXSHpJSWhFcy1zb2RiTEVIOHFfLXB3RVlzN1NGWDlEOXBLdw?oc=5",
+   "source": "한국경제",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 15:39 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "용인특례시-SK하이닉스-(재)지관, ‘용인 지관서가’ 조성 위해 업무협약",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ydF9yZkc2RlZHdFV4ZlBJNGc2UElRQWhCYmwyWFNqSUthX19iQlowX3JmRVltZXExQ2xzV1FqOFkyWWJMa3VpZS1Ec0lTOWdQTUpzekIzNjFmUlpJckVMMWlDamJTRlE0amN1UmxqZFI?oc=5",
@@ -109,18 +121,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 美 국채 금리 상승 여파.. '약세'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2EzUkl2bXFjTFcxeW54ZjBIR0phUFFIemVXdldlZ2NvLVFoSVdGamoyWWpaWjhUN1hXdTNWV0UxTzM4SWNzTnhXai1WM2U0VUpWT2d3WkdCbWc4RkRfSVlVelQ4VkpQczF6a2VjdVRrQzd3M1hfalR3LUNDbmlmd1ZmVVUzVzdo?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-14",
-   "datetime": "2026-09-14 10:05 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
