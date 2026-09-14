@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-14 11:32 KST",
+ "fetchedAt": "2026-09-14 12:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스 주가, 오늘 급락 이유는?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11S0hPOVI2c3dXX1hnV3ZvVjQ4cUpuNHY3MVhCV043aWhhbUl1bUl1NzRVUHBzOVJ0aDc0dkpPU281UTJROGdqWEZLVWJBYVo0VXFjekg2YjlVVTdPVklfRkhua1dvbWpKam5QWDk3UExfNzVzdmVJ?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 12:05 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "“전기료 25조 미리 내달라”…삼성전자·SK하이닉스, 한전 제안 거절",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0yb2JCcmxzdDkxZ0RyaEJ6QmVKR1RVMDNRekZUSEtpZS1PUVRPYlFOYXJFYjB3V2ZPa3FJZ3dnTGVhZzR2ZHBfaW52bE5UVGNX?oc=5",
@@ -13,6 +25,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "“인류 멸망” 경고에 SK하이닉스 6%↓…삼전닉스 발목 잡은 ‘속도 조절론’ [내가샀다]",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1pMGhUY3hVbjZZS0FCWmRYODRTZGpEdk9xWnNucFNySnpoWk51TTMyWGticDYxWWgtc25nRElDSnhlSnhyM2JtWmgweFh0TDRvNnRLME5YcF9mc0lDckR1NU9lUTVSenVqd1NjcU5pamhZcnUxdU14VWJfb2Y3UQ?oc=5",
+   "source": "서울신문",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 11:17 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   },
   {
@@ -76,51 +100,27 @@
    }
   },
   {
+   "title": "SK하이닉스, 장비 공급망 선점…2년 후 수요까지 확보",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwQ0h6NHRGUjlMMVRCR3BMa0VuMFZGMl9VYVVtUUNNb0Mxa3BiZnZBV3JVYVBhZGFlWENoLVYwUFdzMVFLNmZQYmQwakVxcmc?oc=5",
+   "source": "딜사이트",
+   "date": "2026-09-14",
+   "datetime": "2026-09-14 08:29 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "[특징주] AI 속도조절론에 S7 일제히 약세…SK하이닉스 2.6%↓",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rVHZkRUp2N0gxR2NNNEo1TEFLbmpIaW9SXzdGWEEzZ3RYWXVQZzZoRTI4UnQtOFJpN3h3Q19CNVh5OHBKZ2pZUUJzNjZDY1UwZUtiMlRiWFlSOFFU?oc=5",
-   "source": "newspim.com",
+   "source": "뉴스핌",
    "date": "2026-09-14",
    "datetime": "2026-09-14 08:24 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스, 장비 공급망 선점…2년 후 수요까지 확보",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwQ0h6NHRGUjlMMVRCR3BMa0VuMFZGMl9VYVVtUUNNb0Mxa3BiZnZBV3JVYVBhZGFlWENoLVYwUFdzMVFLNmZQYmQwakVxcmc?oc=5",
-   "source": "딜사이트",
-   "date": "2026-09-14",
-   "datetime": "2026-09-14 08:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[단독] \"5년치 전기료 25조 선납\" 한전 제안에 삼전닉스 \"NO\"",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjhYZUkzSlFrNDlLWE1HeWV5M09wV3ZsRG1GaVh4RzJBN2piNTI3dC14QW9NaFpEOXZlYVZhSFduY1ZQaFdVUlBCM3pkR1R6UkRnMkJ2VkxFR3BGdkQ4WmtxTjlxR1paV3BuR3NSLTN3dlJYQVczc0ZHdVVIYzFTX1Z4NWp1bl9BRlFLUUxwMA?oc=5",
-   "source": "조선일보",
-   "date": "2026-09-14",
-   "datetime": "2026-09-14 05:07 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "아셴브레너의 귀환...SK하이닉스에 다시 베팅",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QQkdnVEw5clFYRjE4eW5iRWlrejdMT2NYWEFqSUxBdXpfTFNUX2VVT2Y0dnVYZUNCVGZBX1ljS3llc3JlZG5IaS1TaXQtaDQ?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-14",
-   "datetime": "2026-09-14 04:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
