@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-15 15:49 KST",
+ "fetchedAt": "2026-09-15 15:55 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "범용이 HBM 격차 메운다…삼성, D램 실적 SK하이닉스 추월 전망",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBERUk4ZDMyWjFuQ1VIXzRveDA1VUpONVNuWmlYTDEtcEd4RE1YSWdrQTlFQzJydzhhbm0ydnlaT0tPRmVmaXQ4aTlJMXRON2ZreXlYUXc3cFVPUnFMT0RmZFR5UkozT214blFyWtIBbEFVX3lxTFBERUk4ZDMyWjFuQ1VIXzRveDA1VUpONVNuWmlYTDEtcEd4RE1YSWdrQTlFQzJydzhhbm0ydnlaT0tPRmVmaXQ4aTlJMXRON2ZreXlYUXc3cFVPUnFMT0RmZFR5UkozT214blFyWg?oc=5",
+   "source": "블로터",
+   "date": "2026-09-15",
+   "datetime": "2026-09-15 14:36 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스 이어 키옥시아도 美로…14조원 조달 검토",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KUk15OEJfOG9mblh1VFNfaTVaZGo3YnJueGJZVG5XWk5mYkxON2hfWUx0Y08yQnhwUnVYLVlIYmNvN0JtYm1mVkpIaw?oc=5",
@@ -42,7 +54,7 @@
   {
    "title": "[특징주] 삼성전자·SK하이닉스, 美 증시 충격 딛고 장 초반 강보합",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ybTNYM1V3d2VjNEhPclNGTGZhLU9lTHU3NEk4aWRjMm9xTDRacGJrMGg2UUQ4d1N6SXlRNGNZUWQzVUNvdnEyNUlpUk5pb3dfelJ3NzREbkXSAVhBVV95cUxOcm0zWDNVd3dlYzRIT3JTRkxmYS1PZUx1NzRJOGlkYzJvcUw0WnBiazBoNlFEOHdTekl5UTRjWVFkM1VDb3ZxMjVJaVJOaW93X3pSdzc0RG5F?oc=5",
-   "source": "ajunews.com",
+   "source": "아주경제",
    "date": "2026-09-15",
    "datetime": "2026-09-15 10:04 KST",
    "signal": {
@@ -105,18 +117,6 @@
    "source": "YTN",
    "date": "2026-09-15",
    "datetime": "2026-09-15 08:39 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[와글와글 플러스] 삼성전자·SK하이닉스 '25조 전기료 선납' 거절",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IVWVQb0dBSUc3dW1WbkZ6YjloTExqSlhUNk9HX3I5NFhrRVZ3YnI1Z2ljdGplaFZ3VUU3S1A5ZzF3VXp4WFZGOXlQZ1lhT3h0WFFKcFluMUFDYVk4Q3BkMHA0cklMUWx5NjQwcVc1MU1QMXZEUXVmLTFR0gF6QVVfeXFMUHZaMXo2OEJVcUd3SGxvMUdHN3ZVZGZ5V3g2cU5EZklYdnBLVXFCbE9rUWtac3BUTVVtRjF3UWlYOVNRb19QYU9lZ21PNmx2M3lCNXpOMm82akhNdHBNaVJnekVOdWVSS0pyYVdSOTB0X3pJQjlLcHhGVkE?oc=5",
-   "source": "MBC 뉴스",
-   "date": "2026-09-15",
-   "datetime": "2026-09-15 07:28 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
