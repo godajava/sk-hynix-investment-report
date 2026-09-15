@@ -156,9 +156,34 @@ th {
   font-weight: 600; padding: 8px 12px; border-bottom: 1px solid var(--hairline-strong);
   white-space: nowrap;
 }
-td { padding: 9px 12px; border-bottom: 1px solid var(--hairline); vertical-align: top; }
+td { padding: 9px 12px; border-bottom: 1px solid var(--hairline); vertical-align: top; word-break: keep-all; }
 td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 .bullbear td:first-child { border-right: 1px solid var(--hairline); }
+.bullbear td { width: 50%; }
+
+/* 키-값 요약 테이블(항목/내용, 2열) — 첫 열은 짧은 라벨(줄바꿈 없이), 둘째 열은 문장이라 반드시 줄바꿈 허용 */
+.kv th:first-child, .kv td:first-child { width: 26%; white-space: nowrap; color: var(--muted); font-weight: 600; }
+.kv td:not(:first-child) { font-weight: 400; white-space: normal; word-break: keep-all; }
+@media (max-width: 640px) {
+  .kv th:first-child, .kv td:first-child { width: 30%; white-space: normal; }
+}
+
+/* 방향성 4요소 테이블(요소/방향/근거, 3열) — 근거 열이 문장이라 폭을 넉넉히 배정 */
+.factors th:nth-child(1), .factors td:nth-child(1) { width: 17%; white-space: nowrap; }
+.factors th:nth-child(2), .factors td:nth-child(2) { width: 15%; white-space: nowrap; }
+.factors th:nth-child(3), .factors td:nth-child(3) { width: 68%; }
+@media (max-width: 640px) {
+  .factors th:nth-child(1), .factors td:nth-child(1) { width: 22%; white-space: normal; }
+  .factors th:nth-child(2), .factors td:nth-child(2) { width: 22%; white-space: normal; }
+  .factors th:nth-child(3), .factors td:nth-child(3) { width: 56%; }
+}
+
+@media (max-width: 640px) {
+  table { font-size: 12.5px; }
+  table:not(.tech-indicators) th, table:not(.tech-indicators) td { padding: 7px 8px; }
+  /* 시가/고가/저가/종가/등락/거래량 6열 숫자 테이블 — 좁은 화면에서 가로 스크롤을 최소화하도록 더 촘촘하게 */
+  table.ohlcv th, table.ohlcv td { padding: 6px 5px; font-size: 11.5px; }
+}
 
 /* 기술적 지표 테이블 — 지표/값/해석 3열, 모바일에서 폭이 좁아 가로 스크롤 없이 읽히도록 % 기반 폭 + 줄바꿈 허용 */
 .tech-indicators th:nth-child(1), .tech-indicators td:nth-child(1) { width: 26%; }
@@ -858,7 +883,7 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 </svg></div>
 
 <div class="tablewrap">
-<table>
+<table class="ohlcv">
   <tr><th colspan="6">전일(9/14, 월) 확정 시세 — 15:30 종가 기준 · 출처: 야후 파이낸스</th></tr>
   <tr><th>시가</th><th>고가</th><th>저가</th><th>종가</th><th>등락</th><th>거래량</th></tr>
   <tr>
@@ -890,13 +915,13 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <p>미국 증시는 지수 자체는 견조했습니다(나스닥 +1%, S&amp;P500 +0.9%). 그러나 반도체 섹터만 따로 보면 SOX 지수가 -5.9% 급락하며 지수 상승과 완전히 괴리된 흐름을 보였습니다. 엔비디아(-3.4%), 마이크론(-5%대), 브로드컴(-5%) 등 AI 밸류체인 핵심 종목이 일제히 급락했습니다.</p>
 
 <div class="tablewrap">
-<table>
+<table class="kv">
   <tr><th colspan="2">간밤 시황 요약</th></tr>
-  <tr><th style="width:230px">항목</th><th>내용</th></tr>
-  <tr><td>지수</td><td class="num" style="font-weight:400">나스닥 +1%·S&amp;P500 +0.9% (상승) vs SOX(반도체) -5.9% (급락) — 반도체만 집중 타격</td></tr>
-  <tr><td>개별 종목</td><td class="num" style="font-weight:400">엔비디아 -3.4%, 마이크론 -5%대, 브로드컴 -5%. SK하이닉스 ADR도 큰 폭 하락</td></tr>
-  <tr><td>촉매</td><td class="num" style="font-weight:400">Anthropic·OpenAI·xAI 경영진의 AI 개발 속도조절 공개 촉구(안트로픽 CEO 다리오 아모데이 에세이)</td></tr>
-  <tr><td>매크로</td><td class="num" style="font-weight:400">美 10년물 국채금리 2023년 이후 최초 5% 상회</td></tr>
+  <tr><th>항목</th><th>내용</th></tr>
+  <tr><td>지수</td><td>나스닥 +1%·S&amp;P500 +0.9% (상승) vs SOX(반도체) -5.9% (급락) — 반도체만 집중 타격</td></tr>
+  <tr><td>개별 종목</td><td>엔비디아 -3.4%, 마이크론 -5%대, 브로드컴 -5%. SK하이닉스 ADR도 큰 폭 하락</td></tr>
+  <tr><td>촉매</td><td>Anthropic·OpenAI·xAI 경영진의 AI 개발 속도조절 공개 촉구(안트로픽 CEO 다리오 아모데이 에세이)</td></tr>
+  <tr><td>매크로</td><td>美 10년물 국채금리 2023년 이후 최초 5% 상회</td></tr>
 </table>
 </div>
 <p><strong>해석</strong> — 어제(9/14) SK하이닉스 -6.35% 급락을 촉발했던 'AI 속도조절론'이 하루 만에 진정되기는커녕 오히려 심화된 것으로, 오늘 국내 반도체주 전반에 추가 하방 압력으로 작용할 가능성이 높습니다(방향성 참고 전망이며 정밀한 가격 예측은 아닙니다).</p>
@@ -1082,7 +1107,7 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <div class="verdict" style="border-left-color:var(--up)">
   <div class="head">의견: <em style="color:var(--up)">매수 유지</em> <small>· 방향성 4요소(9/14 종가 기준, 오늘 장중 데이터로 재확인 예정) · 전일 종가 169.7만(-6.35%)</small></div>
   <div class="tablewrap" style="margin-bottom:10px">
-  <table>
+  <table class="factors">
     <tr><th>요소</th><th>방향</th><th>근거</th></tr>
     <tr><td>① 추세/모멘텀</td><td class="num" style="color:var(--down)">부정</td><td>DMI 데드크로스(격차 -2.3)·KDJ 데드크로스(격차 -3.0) 모두 9/14 종가 기준 심화</td></tr>
     <tr><td>② 밸류에이션 갭</td><td class="num" style="color:var(--up)">상승여력</td><td>컨센서스 322만 대비 전일 종가 괴리율 <strong>+89.7%</strong></td></tr>
