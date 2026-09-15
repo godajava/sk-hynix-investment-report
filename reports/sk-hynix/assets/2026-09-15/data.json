@@ -184,6 +184,11 @@
             {
                 "date": "9/14",
                 "close": 1697000
+            },
+            {
+                "date": "9/15",
+                "close": 1702000,
+                "intraday": true
             }
         ],
         "current": 1697000
