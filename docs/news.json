@@ -1,12 +1,12 @@
 {
- "fetchedAt": "2026-09-15 15:33 KST",
+ "fetchedAt": "2026-09-15 15:35 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
    "title": "SK하이닉스 이어 키옥시아도 美로…14조원 조달 검토",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KUk15OEJfOG9mblh1VFNfaTVaZGo3YnJueGJZVG5XWk5mYkxON2hfWUx0Y08yQnhwUnVYLVlIYmNvN0JtYm1mVkpIaw?oc=5",
-   "source": "아이뉴스24",
+   "source": "inews24.com",
    "date": "2026-09-15",
    "datetime": "2026-09-15 11:33 KST",
    "signal": {
@@ -18,7 +18,7 @@
   {
    "title": "SK하이닉스, 협력사 80여곳에 커피차…전국 돌며 2만잔 쏜다",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBfR2tCUVQxMm9wVHIzMDdJb1JGakJVd1l3UmJiRXo3NEI4bE9fNlROV096eEdMdWhFNHE2cVBhU3pWSGxYeUlhMEtxVQ?oc=5",
-   "source": "아이뉴스24",
+   "source": "inews24.com",
    "date": "2026-09-15",
    "datetime": "2026-09-15 10:51 KST",
    "signal": {
