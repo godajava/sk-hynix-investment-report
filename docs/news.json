@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-16 15:33 KST",
+ "fetchedAt": "2026-09-16 15:34 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -42,21 +42,9 @@
   {
    "title": "'25표'로 부결→'2165표' 차로 가결…SK하이닉스 임단협 마무리 수순 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iOUJKTG01MjJtSXlad0xSMENTY2t2R05BS2NwclN0am51SVZHTVl1MkZLd1QyWkVHMGVYTG53a19OMlkzcFdFRURNOThCeVlMekJEM2RZWWQyTDA1d3ZfUDVCR20xY1VJU29DYtIBckFVX3lxTE9MNVN5dG9jWEIxVzdtLS1CVDRqQTVXZ3F3WDdRUlVZWFFoMjh0bDFHcFd6bmMzZTh2V2pQLXNlcEJFRE1TSmd0ZVhKM2NYSnhVUzN3bXY1MzR4YThNVXdHZzhWdDk0VktfXzMyU1Eta29DQQ?oc=5",
-   "source": "mt.co.kr",
+   "source": "머니투데이",
    "date": "2026-09-16",
    "datetime": "2026-09-16 14:25 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 임단협 재투표 가결…‘25표차’ 부결 뒤 최종 타결",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55NFFUejhqNllJYlM1SzdTNlA2Xzk4WUVjSEcwSThmbkRmbmU0eDRrb1p3NnZwdEVwNGFvaEVuY1NERHVMdlBzYy1sWGtEWllxbmFMX0NsbXYzM081QzRyUQ?oc=5",
-   "source": "뉴스토마토",
-   "date": "2026-09-16",
-   "datetime": "2026-09-16 13:57 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -90,7 +78,7 @@
   {
    "title": "현금 비중 10%p 늘렸다…SK하이닉스 노사, 임단협 최종 타결",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBibHlNS09Jc0M4RWN2OTB4MkNJc1psU0VOcWVDb1gyZVRNOVJUQ2ZxS0Ewcm1seFBZc21jOGpUOUgweUtubzRCNktDb2FGMGV6OHhGS1hCN3llMW8?oc=5",
-   "source": "에너지경제신문",
+   "source": "ekn.kr",
    "date": "2026-09-16",
    "datetime": "2026-09-16 11:41 KST",
    "signal": {
@@ -102,7 +90,7 @@
   {
    "title": "금통위원 \"SK하이닉스 ADR 빼면 외화자금 순유출로 보여\"…환율 반등 우려",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15STRiNnFVVHVLZFZhZXBSUDJ1THlTbHVzXzlXSTVMYnFzSUZVRHZDWFRraC1QN1hWM2RhVjB2MDRVWDhVRXpoTXh3NnBvS2hyZkJEWndSbzJVVzV6NFlkdjU5V2VxWEFTclJiM0RwclnSAXRBVV95cUxOanNDQVlfNFA1cTVkWDJBd280blVKWWNZLUF6Q0RXd2FWaFIyVUR4S0tiV2h6YzdVQ1hQTXYyTFhZM3NIUm5jeVY2LTk0WDEyNEQ3NU9IZ1VuTXc1VndYUXZ4ZmZkYmYtQ2Q1eTI0d1VIdHhPZQ?oc=5",
-   "source": "연합인포맥스",
+   "source": "news.einfomax.co.kr",
    "date": "2026-09-16",
    "datetime": "2026-09-16 11:30 KST",
    "signal": {
@@ -121,6 +109,18 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스 ‘N% 성과급’…‘현금·주식 절반씩‘ 수정안 57% 가결",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JU2MxNTJqNTJLMTRFVFFSbkx4Z1hBR1NCOVJ4REw1VVRmOXZjVThVdWtjanc0SFllN1F4SEdGcFl2c1BrTkJ0cjZLT19veFBZcFE3SjNR?oc=5",
+   "source": "중앙일보",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 10:19 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   }
  ]
