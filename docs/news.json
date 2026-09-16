@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-16 15:38 KST",
+ "fetchedAt": "2026-09-16 15:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -52,6 +52,18 @@
    }
   },
   {
+   "title": "SK하이닉스, 임단협 수정안 가결…성과급 주식 50~100% 선택(종합)",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KT0tnT2tkd0NfUnMtOG9WYUI1UFRCSXR0OUJpV3VnMk5TSU53Z3lydTA4alQ5Sk5OWGd2WmtMZ05la0E4RnB5VTJyQkFpVk9uUmdmSDhSb1pmaG1wLVRtag?oc=5",
+   "source": "아시아경제",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 14:34 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "'25표'로 부결→'2165표' 차로 가결…SK하이닉스 임단협 마무리 수순 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iOUJKTG01MjJtSXlad0xSMENTY2t2R05BS2NwclN0am51SVZHTVl1MkZLd1QyWkVHMGVYTG53a19OMlkzcFdFRURNOThCeVlMekJEM2RZWWQyTDA1d3ZfUDVCR20xY1VJU29DYtIBckFVX3lxTE9MNVN5dG9jWEIxVzdtLS1CVDRqQTVXZ3F3WDdRUlVZWFFoMjh0bDFHcFd6bmMzZTh2V2pQLXNlcEJFRE1TSmd0ZVhKM2NYSnhVUzN3bXY1MzR4YThNVXdHZzhWdDk0VktfXzMyU1Eta29DQQ?oc=5",
    "source": "mt.co.kr",
@@ -69,18 +81,6 @@
    "source": "뉴스토마토",
    "date": "2026-09-16",
    "datetime": "2026-09-16 13:57 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 임단협 수정안 가결…성과급 현금 비중 40→50%로 조정",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zVjNPaWNGRlN6eUhYX0VBUmx3cGQtTVIweXZ0a2NtZDZ0TzJfYWJ0ZnlkRkNrNGhuVExDek40d0J3cElsLUViYVpMd3hWR0ZpUkZya2pPM1FYczNaVWxMRjBVVzRSb0IzRDRTbTVSZU9MTHNwVGfSAWZBVV95cUxNdFdFQ0RhWWFWUVR6ZDdsY3lXUzFGQzA4c19JdzBvLTVjM1lBaUpEVzEtNVFzRndjTW9uREJqdkxiVnVPdjJrckltQWRvLWJyOTBoRlE0bmQ0dXF6cDZQcm5zYk9kMGc?oc=5",
-   "source": "동아일보",
-   "date": "2026-09-16",
-   "datetime": "2026-09-16 12:42 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
