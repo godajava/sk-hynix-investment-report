@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-16 15:34 KST",
+ "fetchedAt": "2026-09-16 15:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "\"SK하이닉스, 인텔과 손잡고 '미국 내 첫 메모리 생산' 논의\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FMFU2c1BTbVByV1VxRlhwTnc0OTBTRVBRRFE2V25SeWJwZmtJVWhjeFhIVC1BSE9HYk1jRTg1amVESEhTSlZLa1EtN0pmaFRTMG0taGNIb1Q2bVJ3?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 15:16 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "\"인텔 공장 빌려 칩 만든다\"...SK하이닉스, 사상 첫 미국 생산 추진",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkSUhCS2ZQakFfdGlOZDVmVmU3eDk3R3NzcmRGLWFiZUYwdGpaNW5nc1ZnRFRESzljMzZ0Tmhkakh6T3FRS0pzb1Zndm5HSmNQWlgyTHRPUV83bkNaUWc?oc=5",
@@ -42,9 +54,21 @@
   {
    "title": "'25표'로 부결→'2165표' 차로 가결…SK하이닉스 임단협 마무리 수순 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iOUJKTG01MjJtSXlad0xSMENTY2t2R05BS2NwclN0am51SVZHTVl1MkZLd1QyWkVHMGVYTG53a19OMlkzcFdFRURNOThCeVlMekJEM2RZWWQyTDA1d3ZfUDVCR20xY1VJU29DYtIBckFVX3lxTE9MNVN5dG9jWEIxVzdtLS1CVDRqQTVXZ3F3WDdRUlVZWFFoMjh0bDFHcFd6bmMzZTh2V2pQLXNlcEJFRE1TSmd0ZVhKM2NYSnhVUzN3bXY1MzR4YThNVXdHZzhWdDk0VktfXzMyU1Eta29DQQ?oc=5",
-   "source": "머니투데이",
+   "source": "mt.co.kr",
    "date": "2026-09-16",
    "datetime": "2026-09-16 14:25 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 임단협 재투표 가결…‘25표차’ 부결 뒤 최종 타결",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55NFFUejhqNllJYlM1SzdTNlA2Xzk4WUVjSEcwSThmbkRmbmU0eDRrb1p3NnZwdEVwNGFvaEVuY1NERHVMdlBzYy1sWGtEWllxbmFMX0NsbXYzM081QzRyUQ?oc=5",
+   "source": "뉴스토마토",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 13:57 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -78,7 +102,7 @@
   {
    "title": "현금 비중 10%p 늘렸다…SK하이닉스 노사, 임단협 최종 타결",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBibHlNS09Jc0M4RWN2OTB4MkNJc1psU0VOcWVDb1gyZVRNOVJUQ2ZxS0Ewcm1seFBZc21jOGpUOUgweUtubzRCNktDb2FGMGV6OHhGS1hCN3llMW8?oc=5",
-   "source": "ekn.kr",
+   "source": "에너지경제신문",
    "date": "2026-09-16",
    "datetime": "2026-09-16 11:41 KST",
    "signal": {
@@ -93,30 +117,6 @@
    "source": "news.einfomax.co.kr",
    "date": "2026-09-16",
    "datetime": "2026-09-16 11:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 임단협 타결, '주식 50%+현금 50%'...\"적자시 고통분담 명문화\"",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPbzNnUjBERG9BTXVoMlk3SGZpMVRMTUhNWWNGQVFoN2F1QV9VT2d2RkdHZEZlNHloNVhhZjN4T0dMV3lJcXFxbmVuUVB1MHJYaHFlYzl2U2JfbS11NkRKdU1nd2xoTU5CY2d0cnJzeDc?oc=5",
-   "source": "오피니언뉴스",
-   "date": "2026-09-16",
-   "datetime": "2026-09-16 10:22 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스 ‘N% 성과급’…‘현금·주식 절반씩‘ 수정안 57% 가결",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JU2MxNTJqNTJLMTRFVFFSbkx4Z1hBR1NCOVJ4REw1VVRmOXZjVThVdWtjanc0SFllN1F4SEdGcFl2c1BrTkJ0cjZLT19veFBZcFE3SjNR?oc=5",
-   "source": "중앙일보",
-   "date": "2026-09-16",
-   "datetime": "2026-09-16 10:19 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
