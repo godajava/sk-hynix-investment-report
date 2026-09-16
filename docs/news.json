@@ -1,126 +1,126 @@
 {
- "fetchedAt": "2026-09-15 21:38 KST",
+ "fetchedAt": "2026-09-16 15:33 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "하이닉스 하락 적중했던 그 증권사…삼성전자 목표가 '싸늘' [지금이뉴스]",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UTmxLMTRGZlRnMzdYS3RxeXUyRnVxVk1XbklBeXY3ZExyXzkybWlLejhrSFVRMV8zR1Jtdi1TLXpJSzhOUDBuTHczVUZ3Um5wbWtJYlNrWjlKRWxmWEdlcm8xSndrQ21XMXRvUE10RU5XV1Jvc1E?oc=5",
-   "source": "ytn.co.kr",
-   "date": "2026-09-15",
-   "datetime": "2026-09-15 17:50 KST",
+   "title": "\"인텔 공장 빌려 칩 만든다\"...SK하이닉스, 사상 첫 미국 생산 추진",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkSUhCS2ZQakFfdGlOZDVmVmU3eDk3R3NzcmRGLWFiZUYwdGpaNW5nc1ZnRFRESzljMzZ0Tmhkakh6T3FRS0pzb1Zndm5HSmNQWlgyTHRPUV83bkNaUWc?oc=5",
+   "source": "YTN",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 15:14 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"SK하이닉스, 인텔과 미국서 메모리칩 생산 방안 협의\"",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oYVRxSExGSFZyNGh1cDRRQkZoZ05KQUUzV3BnbWRqVTZJQkJ0V2U3RjZZR0lVU0tnVllUTFFuQkM2UzlHRV83eTByR0N2amc?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 15:06 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 미국 메모리 반도체 생산 위해 인텔과 협상 중",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2NnZtY3pvckNkaUd5YWM3YWVGT0ZaSUQwc1p6Y3A3dFVLaEJpbnRVZ0ZVclZUQ0VkcW10MERJbWJkMmNiUlpQaEhrMTJXYVk1WXBuS1Z3NFJMNHFYNlBmX3lGQXlSbldCSjc5dDZ0TFE?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 14:48 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "'25표'로 부결→'2165표' 차로 가결…SK하이닉스 임단협 마무리 수순 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iOUJKTG01MjJtSXlad0xSMENTY2t2R05BS2NwclN0am51SVZHTVl1MkZLd1QyWkVHMGVYTG53a19OMlkzcFdFRURNOThCeVlMekJEM2RZWWQyTDA1d3ZfUDVCR20xY1VJU29DYtIBckFVX3lxTE9MNVN5dG9jWEIxVzdtLS1CVDRqQTVXZ3F3WDdRUlVZWFFoMjh0bDFHcFd6bmMzZTh2V2pQLXNlcEJFRE1TSmd0ZVhKM2NYSnhVUzN3bXY1MzR4YThNVXdHZzhWdDk0VktfXzMyU1Eta29DQQ?oc=5",
+   "source": "mt.co.kr",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 14:25 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 임단협 재투표 가결…‘25표차’ 부결 뒤 최종 타결",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55NFFUejhqNllJYlM1SzdTNlA2Xzk4WUVjSEcwSThmbkRmbmU0eDRrb1p3NnZwdEVwNGFvaEVuY1NERHVMdlBzYy1sWGtEWllxbmFMX0NsbXYzM081QzRyUQ?oc=5",
+   "source": "뉴스토마토",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 13:57 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 임단협 수정안 가결…성과급 현금 비중 40→50%로 조정",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zVjNPaWNGRlN6eUhYX0VBUmx3cGQtTVIweXZ0a2NtZDZ0TzJfYWJ0ZnlkRkNrNGhuVExDek40d0J3cElsLUViYVpMd3hWR0ZpUkZya2pPM1FYczNaVWxMRjBVVzRSb0IzRDRTbTVSZU9MTHNwVGfSAWZBVV95cUxNdFdFQ0RhWWFWUVR6ZDdsY3lXUzFGQzA4c19JdzBvLTVjM1lBaUpEVzEtNVFzRndjTW9uREJqdkxiVnVPdjJrckltQWRvLWJyOTBoRlE0bmQ0dXF6cDZQcm5zYk9kMGc?oc=5",
+   "source": "동아일보",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 12:42 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 두번째 임단협 잠정합의안 가결…성장가도 ‘파란불’",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2eWhHZ1FTTHgxOERHRHoyVGpaM21Idi1qLWpCdEl6VGxPS1NOUDRBMzdBdkQ3YkJ3SDhERGxzQy16Xzc3bWhpZ0RvTTlJX2t6S1lGR25LRlcyeTR1VW85UE1qejNQU1BuS1pycDdxZ3VoWW9H0gF0QVVfeXFMUHZ5aEdnUVNMeDE4REdEejJUalozbUh2LWotakJ0SXpUbE9LU05QNEEzN0F2RDdiQndIOEREbHNDLXpfNzdtaGlnRG9NOUlfa3pLWUZHbktGVzJ5NHVVbzlQTWp6M1BTUG5LWnJwN3FndWhZb0c?oc=5",
+   "source": "주간한국",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 12:10 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "현금 비중 10%p 늘렸다…SK하이닉스 노사, 임단협 최종 타결",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBibHlNS09Jc0M4RWN2OTB4MkNJc1psU0VOcWVDb1gyZVRNOVJUQ2ZxS0Ewcm1seFBZc21jOGpUOUgweUtubzRCNktDb2FGMGV6OHhGS1hCN3llMW8?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 11:41 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "금통위원 \"SK하이닉스 ADR 빼면 외화자금 순유출로 보여\"…환율 반등 우려",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15STRiNnFVVHVLZFZhZXBSUDJ1THlTbHVzXzlXSTVMYnFzSUZVRHZDWFRraC1QN1hWM2RhVjB2MDRVWDhVRXpoTXh3NnBvS2hyZkJEWndSbzJVVzV6NFlkdjU5V2VxWEFTclJiM0RwclnSAXRBVV95cUxOanNDQVlfNFA1cTVkWDJBd280blVKWWNZLUF6Q0RXd2FWaFIyVUR4S0tiV2h6YzdVQ1hQTXYyTFhZM3NIUm5jeVY2LTk0WDEyNEQ3NU9IZ1VuTXc1VndYUXZ4ZmZkYmYtQ2Q1eTI0d1VIdHhPZQ?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 11:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 임단협 타결, '주식 50%+현금 50%'...\"적자시 고통분담 명문화\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPbzNnUjBERG9BTXVoMlk3SGZpMVRMTUhNWWNGQVFoN2F1QV9VT2d2RkdHZEZlNHloNVhhZjN4T0dMV3lJcXFxbmVuUVB1MHJYaHFlYzl2U2JfbS11NkRKdU1nd2xoTU5CY2d0cnJzeDc?oc=5",
+   "source": "오피니언뉴스",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 10:22 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스 성과급 재투표 돌입…삼성·마이크론도 노조 진통",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DSk43VElSbUpPLUZKS0xmSS1xekhyM0UtVDBlRHBobEhUd3NodF9VQ0tiQ0JsUFNHX3BzaUlzeko3T1ZGdkhrd1BHanUwV0RCdVE?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-09-15",
-   "datetime": "2026-09-15 17:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스, 차세대 D램 ‘원가 전쟁’…5000억 High-NA에 승부",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS0hrd0hPMVlsZGhjVWFrS0FEb2ZNRXZpVVB5LUFsYkR1ei1GYTQ4M1dRb1dpaG1CSDdWRDIxUHotYTJwaU9PYVp3ZWNBbDBOOWtMX2dSY2tMZWEwWUNGd1JlaHdMWDJaS3NCOUs2RWVzdnF0TnRkSURFblIxVlBxTnZzSjJHZw?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-15",
-   "datetime": "2026-09-15 16:04 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "D램에 연산 맡겼더니…SK하이닉스, AI 추론 3.2배↑",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54bWNYM2pPQTUyQVBSVmpjZzRJRFducmQ3Wk93VUc1T0N2dXhHdTFQTmlhZllETkt1XzBZcTdXeDhCQ25uNFcwOHVPOWFNY241NWZwTFlhUmppLW1FNGN2TA?oc=5",
-   "source": "뉴스토마토",
-   "date": "2026-09-15",
-   "datetime": "2026-09-15 15:44 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "사이렌 울리자 2천500명 우르르…SK하이닉스 방재훈련 첫 공개",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3MFN6QXFiX2M5UXo3LU5Gd3l5MjFXcGg3Q2RxMkxrdkprMzJCLXpDX1dxa0I0NXltZmF1N2JnM250YldrSjVJVnMtakh6V2pheENWWTBpYXBzVzFDWF83UTFVUWRMTXU4bkVJYnJmSUZZc0VnT2FtTA?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-15",
-   "datetime": "2026-09-15 15:31 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스처럼…日 키옥시아, 美 ADR 상장 검토 \"세부사항 조율 중\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VbVdOWjRHdjVCX2YtdEN4QUZEX2dmSGZGa1BNUTduS3BNZzZfSTJrM0ZZa0U1SURhNzdrU3J6NVhvVEtCQUJtZnpodXRpZ05TYmZ0SjZOWXNScHlNTldjbw?oc=5",
-   "source": "아시아경제",
-   "date": "2026-09-15",
-   "datetime": "2026-09-15 14:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "졸업만 하면 하이닉스…역대 최다 8994명 몰린 ‘취업 보장’ 학과",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hRG5UUWxHWVYxbVFBdks3aGFfTUhQS3hLdXhNRUc4dURzSFh5YnlqZEJ3R2Z4ODJlajYzSWpfMk9VNGRyaF9QV293X2tDQ0VFa0hMSXJ3?oc=5",
-   "source": "중앙일보",
-   "date": "2026-09-15",
-   "datetime": "2026-09-15 11:59 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 협력사 80여곳에 커피차…전국 돌며 2만잔 쏜다",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81d3VmcThmaGlzZi1sdV9raXRxbk9FTmtJN2FJOW1NZkY1blVoZ2lSdHVYM0xaQjJQdzFVa2d3Z211cGJYZVNGSl9pMTloc3M?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-15",
-   "datetime": "2026-09-15 10:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "수시에서도 SK하이닉스 상한가…27.3%↑",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE16QTlQZXFiZkFJUnZ6LUIwVTJFRThGdmRqZktROXdRSjJPUnNhQ28wWmxMWmRYRE9MZ3RSeDQtTzN0NmlDZUNBX1V5WVRzRVE?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-15",
-   "datetime": "2026-09-15 10:09 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 美 증시 충격 딛고 장 초반 강보합",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ybTNYM1V3d2VjNEhPclNGTGZhLU9lTHU3NEk4aWRjMm9xTDRacGJrMGg2UUQ4d1N6SXlRNGNZUWQzVUNvdnEyNUlpUk5pb3dfelJ3NzREbkXSAVhBVV95cUxOcm0zWDNVd3dlYzRIT3JTRkxmYS1PZUx1NzRJOGlkYzJvcUw0WnBiazBoNlFEOHdTekl5UTRjWVFkM1VDb3ZxMjVJaVJOaW93X3pSdzc0RG5F?oc=5",
-   "source": "아주경제",
-   "date": "2026-09-15",
-   "datetime": "2026-09-15 10:04 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
