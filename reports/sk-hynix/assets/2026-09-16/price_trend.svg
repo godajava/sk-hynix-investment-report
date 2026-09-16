@@ -23,8 +23,7 @@
 <line x1="88" y1="95.9" x2="724" y2="95.9" stroke="#e1e0d9" stroke-width="1"/>
 <text x="80" y="99.9" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">220만</text>
 <line x1="88" y1="336" x2="724" y2="336" stroke="#c3c2b7" stroke-width="1"/>
-<path d="M88.0,101.1 L101.8,188.8 L115.7,171.0 L129.5,126.8 L143.3,189.6 L157.1,210.0 L171.0,191.1 L184.8,192.7 L198.6,169.4 L212.4,211.3 L226.3,196.4 L240.1,266.0 L253.9,305.0 L267.7,325.6 L281.6,222.0 L295.4,261.5 L309.2,258.9 L323.0,235.1 L336.9,280.4 L350.7,299.5 L364.5,300.0 L378.3,298.7 L392.2,278.0 L406.0,254.7 L419.8,241.1 L433.7,236.7 L447.5,279.0 L461.3,229.1 L475.1,218.9 L489.0,234.3 L502.8,232.5 L516.6,229.9 L530.4,218.9 L544.3,239.0 L558.1,233.5 L571.9,228.5 L585.7,249.5 L599.6,253.9 L613.4,240.6 L627.2,205.3 L641.0,202.4 L654.9,185.9 L668.7,186.7 L682.5,197.4 L696.3,227.5 L710.2,229.3" fill="none" stroke="#2a78d6" stroke-width="2"/>
-<path d="M710.2,229.3 L724.0,217.3" fill="none" stroke="#2a78d6" stroke-width="2" stroke-dasharray="5 4"/>
+<path d="M88.0,101.1 L101.8,188.8 L115.7,171.0 L129.5,126.8 L143.3,189.6 L157.1,210.0 L171.0,191.1 L184.8,192.7 L198.6,169.4 L212.4,211.3 L226.3,196.4 L240.1,266.0 L253.9,305.0 L267.7,325.6 L281.6,222.0 L295.4,261.5 L309.2,258.9 L323.0,235.1 L336.9,280.4 L350.7,299.5 L364.5,300.0 L378.3,298.7 L392.2,278.0 L406.0,254.7 L419.8,241.1 L433.7,236.7 L447.5,279.0 L461.3,229.1 L475.1,218.9 L489.0,234.3 L502.8,232.5 L516.6,229.9 L530.4,218.9 L544.3,239.0 L558.1,233.5 L571.9,228.5 L585.7,249.5 L599.6,253.9 L613.4,240.6 L627.2,205.3 L641.0,202.4 L654.9,185.9 L668.7,186.7 L682.5,197.4 L696.3,227.5 L710.2,229.3 L724.0,211.3" fill="none" stroke="#2a78d6" stroke-width="2"/>
 <circle cx="88.0" cy="101.1" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="88.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/10</text>
 <text x="88.0" y="89.1" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">218만</text>
@@ -119,9 +118,9 @@
 <text x="696.3" y="356" font-size="11" fill="#898781" text-anchor="middle">9/14</text>
 <circle cx="710.2" cy="229.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="710.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/15</text>
-<circle cx="724.0" cy="217.3" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="724.0" cy="211.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/16</text>
-<text x="724.0" y="205.3" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">174만</text>
+<text x="724.0" y="199.3" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">176만</text>
 <circle cx="484" cy="66" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="494" y="70" font-size="11" fill="#52514e">확인 종가</text>
 <circle cx="564" cy="66" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
