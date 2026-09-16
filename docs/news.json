@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-16 15:44 KST",
+ "fetchedAt": "2026-09-16 15:49 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "로이터 \"SK하이닉스, 인텔 美 오하이오 공장 임대해 칩 생산 논의\"",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQy1nMkZTel9PQkdoT2g0dW5yLTlTNGJ0UlVFc0lkTU1FVWdkbzY5R1pKQTZ4dHdCa1VJS3ViU1RtSXd6QjA4eWduZmp6bDNjQnloQi1OY280dE43bWF4cllDenlJTkdhcFNtV2FWXzFkVS1jSE5aVGRTdDdTYlliZmEzSQ?oc=5",
+   "source": "조선일보",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 15:41 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "\"SK하이닉스, 인텔과 손잡고 '미국 내 첫 메모리 생산' 논의\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FMFU2c1BTbVByV1VxRlhwTnc0OTBTRVBRRFE2V25SeWJwZmtJVWhjeFhIVC1BSE9HYk1jRTg1amVESEhTSlZLa1EtN0pmaFRTMG0taGNIb1Q2bVJ3?oc=5",
@@ -66,21 +78,9 @@
   {
    "title": "'25표'로 부결→'2165표' 차로 가결…SK하이닉스 임단협 마무리 수순 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iOUJKTG01MjJtSXlad0xSMENTY2t2R05BS2NwclN0am51SVZHTVl1MkZLd1QyWkVHMGVYTG53a19OMlkzcFdFRURNOThCeVlMekJEM2RZWWQyTDA1d3ZfUDVCR20xY1VJU29DYtIBckFVX3lxTE9MNVN5dG9jWEIxVzdtLS1CVDRqQTVXZ3F3WDdRUlVZWFFoMjh0bDFHcFd6bmMzZTh2V2pQLXNlcEJFRE1TSmd0ZVhKM2NYSnhVUzN3bXY1MzR4YThNVXdHZzhWdDk0VktfXzMyU1Eta29DQQ?oc=5",
-   "source": "mt.co.kr",
+   "source": "머니투데이",
    "date": "2026-09-16",
    "datetime": "2026-09-16 14:25 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 임단협 재투표 가결…‘25표차’ 부결 뒤 최종 타결",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55NFFUejhqNllJYlM1SzdTNlA2Xzk4WUVjSEcwSThmbkRmbmU0eDRrb1p3NnZwdEVwNGFvaEVuY1NERHVMdlBzYy1sWGtEWllxbmFMX0NsbXYzM081QzRyUQ?oc=5",
-   "source": "뉴스토마토",
-   "date": "2026-09-16",
-   "datetime": "2026-09-16 13:57 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
