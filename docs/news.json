@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-09-17 09:33 KST",
+ "fetchedAt": "2026-09-17 10:31 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 협력사 직원·가족 3만명 초청 감사 행사 개최",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Fc2pGZWM2bkJSNi1uaWd3WmVPZlg2dUUzVHdvQjJiWElkTnRrNEoyUHh5RWNZQTdpZi13Y01ycVhzWVczOXp0b3FDbmZjaWVqODZmMVJ3SFRFRWRw?oc=5",
-   "source": "뉴스핌",
+   "title": "SK하이닉스 美·日 전공정팹 잇단 진출설…복잡해지는 생산전략",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT3Frek1wb05KNms4b3Fmamx0U3JzWENOdlBfU01ob2hLOEEyZ21WdVpmQ00yYjhudDBWd2dqMEpCUkFPeVpCMEhDeEYwRTNWbVZ0Q25HWG5ZbkhmT0MybXg4dHAtM2FkY2ExTUNsazhfeVl6akJtaFN3SW1MVV94MU1jRQ?oc=5",
+   "source": "인베스트조선",
    "date": "2026-09-17",
-   "datetime": "2026-09-17 08:56 KST",
+   "datetime": "2026-09-17 10:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,11 +16,95 @@
    }
   },
   {
+   "title": "SK하이닉스, 협력사 구성원·가족 감사 초청행사…3만명 초청",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZRWtFbmVKWUo3ZFBLWFpQbjVkcXBXekNmTU52YjlONUx4VERHNVp2Tzl3QWp2bkpqWE85cmNtV21oR2x2Y0ExeEl6dmhWdjg5ZFhZZkNGdDRtUDlrM0N3UGNRVHByQXc?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 10:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 \"연산하는 메모리로 AI 데이터 병목 해결\"",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFUEs0N0UtYjRyUDJOVzJKWXRFMHpJVUg3X19tMXg5TFlmQ1hoaGxPWTZNUWdUSHlZYThTTFg1ckRBbkQtczBlcjRDTnNSY3RqbW5oMnhEMldqdTI1UFE?oc=5",
+   "source": "YTN",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 09:53 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 130여 협력사 직원·가족 사은행사 연다",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HZ0dzcnlWYnRncFZtdk16ajdQUUo3dGFMVENwaG8zTTIzWWpTdVNmSnY5T3M2eHhpUzVrLWZ3SGdHYXgxaVVIWVF2OUZlZEFC?oc=5",
+   "source": "문화일보",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 09:42 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"외국인은 이미 발 뺐다?\"…삼전·하이닉스 '10조' 던진 이유 [종목+]",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MS0x3X1FydGdBdENUbGdVcU4zYzFNSDNYVkpTVHl3NDBCY1dRMmxGd0UxcVl4YXRtRXRSMjdHVG1KMnBDcnhJNlZ0VE5TMXVjOUw3TDVaLWdkUQ?oc=5",
+   "source": "hankyung.com",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 09:31 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 16단 HBM4 양산 선점… 패키징 병목이 가를 승부처",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1B3eTR0TVpkTk9fbFJJVFQwbHFVcFpxWVp5WDdzbGVjY2lNcW9PaFRuQkZIc08zSER0aXFrcUJMRlFXbEpDeDI4TzM4VnY3VVJQREl3bUN0MXpJYl9QclNEUjhwWHpQMWc5aUtDY3FBT1pKTkJqdXdnVDJfZ3h6al9wN1htX3lt?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 09:28 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "채권시장 ‘큰손’ 된 SK하이닉스...시장 쏠림 우려도",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDRTalFqYmpEdW5yUjBldlU2Q3Fod3F6M0ZpSHN0emxaelk4LTlCVlJ0RC1HXzVzNDRZNWVkMkdCTkQ2UG9xQ0s1dWlRdzNHVlNsMjNIYXJEbGNjSzVBU25YcTdlQnR1aTYzYmdjbGRUSzJGcEE4TUlDOWRCTlBJVWdid18weklxMXhF?oc=5",
+   "source": "조선일보",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 08:54 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
    "title": "SK하이닉스 美·日 저울질 속…호남 470조 투자 유인책은",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSjZlNkhoSnlmYjNSR3otOUFfakQtd1NBOUVZZ0ExZ3RsTDRXaXRGRXc2VnhMRnoxejlEQ2lGdjRmNnBjZVhjSmxLWkJsNjY5RlBqNWZxYzdSVlV4aUhuTDZBQWtwRFNHS0xTZTJCbzI?oc=5",
-   "source": "연합인포맥스",
+   "source": "news.einfomax.co.kr",
    "date": "2026-09-17",
    "datetime": "2026-09-17 08:47 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"협력사 노력 없이 성과 못 이뤄\"…SK하이닉스, 협력사 가족 3만 명 서울랜드 초청",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45WVg1VlhpLXFEejNsMVpuZUJoMzE5a01oeDBkVWlMU05GeDdvcFJVVHU1bmFQNkd2RnlmSWR5UjlsbE1UNjVOUWoweTJpcGlBMEZfM3VhY0U5bWo5VEtNZQ?oc=5",
+   "source": "아시아경제",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 08:39 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -37,90 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스 독주 계속된다...빅테크 \"HBM 대체기술은 보완재일 뿐\"",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wcGhWWUJ3SW80aUxKWWhHRWJtX0wzVjliNVJON0J5ZmgtdU8tSWxaZUgwR19XUVVJa1VYM0x2R2luMnQxZ2x2VjNwUVZIQmdDSDVPWHd0MFNrZWpFQnM1bVMwRk52TTZCa1YwYWdEdw?oc=5",
-   "source": "YTN",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 07:38 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[외신 헤드라인] \"SK하이닉스, 인텔과 美서 메모리칩 생산방안 협의중\"",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9RWVh6MkRpWFpHdk5GZ3ZXdHNyMldYWEc2VVhta2szV2hHRVlrNjdQRF9MSkE3Ty03TXN3WFRDNWVkVmdUWDBaWnVSbHB6SEk?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 06:31 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[글로벌 비즈 브리핑] \"SK하이닉스, 인텔과 美서 메모리 생산 논의\" 外",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51SXZVSjc2eDFkM09HM21LU3dIODNMeTFyN2ZqbDJtMzEtanhuaDNCbjlDUTlmX21UcXpGS29jYlNOQVhkb2VhUV9HWkl5OTQ?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 04:51 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스(000660)",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcXdEdEFDM0JuYURtUDB6Y2hPRjUxZ1FSMXlyYVREdUs4MElNcFdXeko3UjNxeHBydVR3OGRHZDlOendXcGFSMHNqVHhkdHZsQ29QeGxZV1k1NWswVzl0aFk5djNLbVV4V2hibHBhTlFTcGlzRHUwX3dFbDdIajUtRFN6YmZPakstTFlLU3hPN0xzRXpsQzNv?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 00:11 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 임단협 가결...성과급 50% 현금으로",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iekpHYzBleHdyV2RhWTFWNGtuZWljOVpPU29hLXBNMzVzRDcxSUZ1NGE5VS1wSHR5SERqOFdhckN6bEYzdW8tQnBWQ0JRMnJBQkRfV2NjQ2N3VDRuc3c?oc=5",
-   "source": "YTN",
-   "date": "2026-09-16",
-   "datetime": "2026-09-16 23:13 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 미국 내 메모리 생산 현실화?...\"한국 정부가 관건\"",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ILWNwSWxGNHQ3NXpuQ1p4M3VsLWVzQlJ2OW1aaEIxMUhqM3BmV0EwbGxPZXlvSjhwa0tkN0hKVW1hVGxNcWJOeTdzNU9BQzVITTJiaWlieU90cThlblE?oc=5",
-   "source": "YTN",
-   "date": "2026-09-16",
-   "datetime": "2026-09-16 22:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "애프터마켓도 반도체 강세…삼성전자 2%·SK하이닉스 4%↑",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2SndFek1vWFhLQ21xQUZpc2E4X3VQRVJFUGctd3lHY3dMMEMyOEN0OUhwTlJQNWhQcjQxcVd3UllmeVdqWEE?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-16",
-   "datetime": "2026-09-16 20:12 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
