@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-09-17 14:32 KST",
+ "fetchedAt": "2026-09-17 15:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 협력사 가족 3만명 초청 행사 개최",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52cWpPWmhMRlBmVWNMMndQdzZPVGhGRGtxQ0RQNDNISWRXR3VFSUVocTEtMU1oZjFXSUV5VWpHelNfQjhwNTczWm03MENxbUNTQVN5LXZ4ZXVsWHZHSl9XTVdsOEw4Yk1CZjhENTN1ekFqMFlG0gF0QVVfeXFMTnZxak9aaExGUGZVY0wyd1B3Nk9UaEZEa3FDRFA0M0hJZFdHdUVJRWhxMS0xTWhmMVdJRXlVakd6U19COHA1NzNabTcwQ3FtQ1NBU3ktdnhldWxYdkdKX1dNV2w4TDhiTUJmOEQ1M3V6QWowWUY?oc=5",
-   "source": "IT조선",
+   "title": "SK하이닉스, 내달 130여개 협력사 임직원·가족 3만명 초청행사",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52ZUZYV3NzbVlSMkd5WDZYcTZ1YnZzeUVVdl9rWWdsRlh0N2w2RGdpY0twSEZXMTFqb3RobnNXaEpNVnA2RXBlTjdaQVN0anEyaGJ6X1JnV2MtOE5DSWoxYnBuX2Qtdw?oc=5",
+   "source": "디일렉",
    "date": "2026-09-17",
-   "datetime": "2026-09-17 12:03 KST",
+   "datetime": "2026-09-17 14:44 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -29,7 +29,7 @@
   },
   {
    "title": "SK하이닉스·인텔 美생산 협상 보도에 나란히 주가 상승",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YbkRTc2pfNlVQZE9vdXNza3BINDEtb2ZwdXJITnN0a21YR1ZJZW9PaDRkSHlhSjNXY1FxWGZBczBKVV9NNm9qZ0xUMjQwVEl3TjJFSUpfblVna0JFbi1KblFfN0pRQjlqVWpndG40TXdJZjMx0gF0QVVfeXFMTlhITVk0aXg1RFpUSFdCcjVPcy0wR2ZWaEVPdzNrRW5SUmtDZ0N0aEJSUmtmUDJEdTlTbkxIVVprcldvSm5aRDNtWDh2SDNlWVZiYW02QTdWcXk2N0tiUEszTXZCb25ZQXJYcjg1ZXpNVDEwRTM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YSE1ZNGl4NURaVEhXQnI1T3MtMEdmVmhFT3cza0VuUlJrQ2dDdGhCUlJrZlAyRHU5U25MSFVaa3JXb0puWkQzbVg4dkgzZVlWYmFtNkE3VnF5NjdLYlBLM012Qm9uWUFyWHI4NWV6TVQxMEUz0gF0QVVfeXFMTlhITVk0aXg1RFpUSFdCcjVPcy0wR2ZWaEVPdzNrRW5SUmtDZ0N0aEJSUmtmUDJEdTlTbkxIVVprcldvSm5aRDNtWDh2SDNlWVZiYW02QTdWcXk2N0tiUEszTXZCb25ZQXJYcjg1ZXpNVDEwRTM?oc=5",
    "source": "MBC 뉴스",
    "date": "2026-09-17",
    "datetime": "2026-09-17 11:09 KST",
@@ -76,18 +76,6 @@
    }
   },
   {
-   "title": "SK하이닉스, 130여 협력사 직원·가족 사은행사 연다",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HZ0dzcnlWYnRncFZtdk16ajdQUUo3dGFMVENwaG8zTTIzWWpTdVNmSnY5T3M2eHhpUzVrLWZ3SGdHYXgxaVVIWVF2OUZlZEFC?oc=5",
-   "source": "문화일보",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 09:42 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "SK하이닉스, 16단 HBM4 양산 선점… 패키징 병목이 가를 승부처",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1B3eTR0TVpkTk9fbFJJVFQwbHFVcFpxWVp5WDdzbGVjY2lNcW9PaFRuQkZIc08zSER0aXFrcUJMRlFXbEpDeDI4TzM4VnY3VVJQREl3bUN0MXpJYl9QclNEUjhwWHpQMWc5aUtDY3FBT1pKTkJqdXdnVDJfZ3h6al9wN1htX3lt?oc=5",
    "source": "글로벌이코노믹",
@@ -121,6 +109,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "채권시장 ‘큰손’ 된 SK하이닉스...시장 쏠림 우려도",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDRTalFqYmpEdW5yUjBldlU2Q3Fod3F6M0ZpSHN0emxaelk4LTlCVlJ0RC1HXzVzNDRZNWVkMkdCTkQ2UG9xQ0s1dWlRdzNHVlNsMjNIYXJEbGNjSzVBU25YcTdlQnR1aTYzYmdjbGRUSzJGcEE4TUlDOWRCTlBJVWdid18weklxMXhF?oc=5",
+   "source": "조선일보",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 08:54 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   }
  ]
