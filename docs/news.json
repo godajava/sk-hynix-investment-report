@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-17 09:05 KST",
+ "fetchedAt": "2026-09-17 09:33 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -16,35 +16,11 @@
    }
   },
   {
-   "title": "채권시장 ‘큰손’ 된 SK하이닉스...시장 쏠림 우려도 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ2JXVnlvaUpqVWcxMllDaG1mMGtlU0NDeWQtTzNRM3FfVzY4ejlSZzEtT3g3a2I3VUlfOUpic1h4NkVFbl9IMHN1V0hGM3NHM2FRdFNCUklNUm1WU3V3T3U3eGZaUFhjUEFYMXoyS3RUTm5mUFo2WnVDNFRveHoyTkRqSFdzWGJW0gGcAUFVX3lxTE5UVHNSQWxYdFFTWHJuWGVEam5WVHNQSERLa2c4bHEyd1BZZkVOXzRIWDQyelZxWmpXbUpEd2dyTWtMSi1YX1JTS3NrdzlfSXRPYUVVS3ZYR2t1bkxEYWNNcnp0VlRBdEZIbkNoREVvc2l1bFFNakZ4bzlpTXd5N0xNQm42cElqYnJEcnVVMVF0dlJEWHBaN29qNTNNTg?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 08:54 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
    "title": "SK하이닉스 美·日 저울질 속…호남 470조 투자 유인책은",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hSjZlNkhoSnlmYjNSR3otOUFfakQtd1NBOUVZZ0ExZ3RsTDRXaXRGRXc2VnhMRnoxejlEQ2lGdjRmNnBjZVhjSmxLWkJsNjY5RlBqNWZxYzdSVlV4aUhuTDZBQWtwRFNHS0xTZTJCbzI?oc=5",
    "source": "연합인포맥스",
    "date": "2026-09-17",
    "datetime": "2026-09-17 08:47 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"협력사 노력 없이 성과 못 이뤄\"…SK하이닉스, 협력사 가족 3만 명 서울랜드 초청",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45WVg1VlhpLXFEejNsMVpuZUJoMzE5a01oeDBkVWlMU05GeDdvcFJVVHU1bmFQNkd2RnlmSWR5UjlsbE1UNjVOUWoweTJpcGlBMEZfM3VhY0U5bWo5VEtNZQ?oc=5",
-   "source": "아시아경제",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 08:39 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -100,18 +76,6 @@
    }
   },
   {
-   "title": "SK하이닉스 임단협 가결, ‘성과급 현금 50%’ 확정",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ubldyRDAxMWFrZU1YWGtYWFJ0eWY3Q0laeG80V0ZvQzRjVk5QMy0yVFV3Y3ppdHU3RG5ud1c5MmlsNVhVRWhlbVZ6c3lPemtEbUtqcjlCWFZRUzNrMzVQQXNlcTZlSEdiRUVpSjJyenRoOGM1VlHSAWZBVV95cUxNa3VGOFlzZ21kbXNqb3FOY3NQSjluZURSM1pwdXk4TkZvcmpQX1dXNTVyd3RHNXhMTmpGTTA1YXNTVjFzUmgzX3dpazFjV2lLMHR0d0lnT0NzSXo4NlRYZ3R6RkY1WlE?oc=5",
-   "source": "동아일보",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 00:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "SK하이닉스(000660)",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcXdEdEFDM0JuYURtUDB6Y2hPRjUxZ1FSMXlyYVREdUs4MElNcFdXeko3UjNxeHBydVR3OGRHZDlOendXcGFSMHNqVHhkdHZsQ29QeGxZV1k1NWswVzl0aFk5djNLbVV4V2hibHBhTlFTcGlzRHUwX3dFbDdIajUtRFN6YmZPakstTFlLU3hPN0xzRXpsQzNv?oc=5",
    "source": "매일경제 마켓",
@@ -121,6 +85,42 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 임단협 가결...성과급 50% 현금으로",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iekpHYzBleHdyV2RhWTFWNGtuZWljOVpPU29hLXBNMzVzRDcxSUZ1NGE5VS1wSHR5SERqOFdhckN6bEYzdW8tQnBWQ0JRMnJBQkRfV2NjQ2N3VDRuc3c?oc=5",
+   "source": "YTN",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 23:13 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 미국 내 메모리 생산 현실화?...\"한국 정부가 관건\"",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ILWNwSWxGNHQ3NXpuQ1p4M3VsLWVzQlJ2OW1aaEIxMUhqM3BmV0EwbGxPZXlvSjhwa0tkN0hKVW1hVGxNcWJOeTdzNU9BQzVITTJiaWlieU90cThlblE?oc=5",
+   "source": "YTN",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 22:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "애프터마켓도 반도체 강세…삼성전자 2%·SK하이닉스 4%↑",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2SndFek1vWFhLQ21xQUZpc2E4X3VQRVJFUGctd3lHY3dMMEMyOEN0OUhwTlJQNWhQcjQxcVd3UllmeVdqWEE?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-16",
+   "datetime": "2026-09-16 20:12 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   }
  ]
