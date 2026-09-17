@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-17 15:36 KST",
+ "fetchedAt": "2026-09-17 15:40 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -13,6 +13,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 美서 반도체 만드나…인텔 '방긋', 주가 4% 급등 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5ck11LW5pMURKak90VWtIdTNNSHV2Vm9MaWR3VTZIRFAyd2R6NkNBQjQ0MHFqQnNkVFRIQi1HUWtYUE9FQ1dLbWlWb1N6c1RnOVN0WnZwZU0zNl9DbXBSc0RCQVFqa1JL0gFuQVVfeXFMTVp5eGJjWFBfQmttcTBjMWpNVDUwWTZIck5ndWpUX3BVeS1tbXFGT1lQMjhiWmRfYzF5R0wtTDJTdWcwbC10bFlqOENSY3FOeWVpRDJPVkQ3OFRoWk1YQUs3WFFJazRvWnFHckVEclE?oc=5",
+   "source": "머니투데이",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 11:42 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
@@ -109,18 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "채권시장 ‘큰손’ 된 SK하이닉스...시장 쏠림 우려도",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDRTalFqYmpEdW5yUjBldlU2Q3Fod3F6M0ZpSHN0emxaelk4LTlCVlJ0RC1HXzVzNDRZNWVkMkdCTkQ2UG9xQ0s1dWlRdzNHVlNsMjNIYXJEbGNjSzVBU25YcTdlQnR1aTYzYmdjbGRUSzJGcEE4TUlDOWRCTlBJVWdid18weklxMXhF?oc=5",
-   "source": "조선일보",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 08:54 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
