@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-17 13:31 KST",
+ "fetchedAt": "2026-09-17 14:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스, 협력사 가족 3만명 초청 행사 개최",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52cWpPWmhMRlBmVWNMMndQdzZPVGhGRGtxQ0RQNDNISWRXR3VFSUVocTEtMU1oZjFXSUV5VWpHelNfQjhwNTczWm03MENxbUNTQVN5LXZ4ZXVsWHZHSl9XTVdsOEw4Yk1CZjhENTN1ekFqMFlG0gF0QVVfeXFMTnZxak9aaExGUGZVY0wyd1B3Nk9UaEZEa3FDRFA0M0hJZFdHdUVJRWhxMS0xTWhmMVdJRXlVakd6U19COHA1NzNabTcwQ3FtQ1NBU3ktdnhldWxYdkdKX1dNV2w4TDhiTUJmOEQ1M3V6QWowWUY?oc=5",
+   "source": "IT조선",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 12:03 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스, 인텔과 미국서 메모리 반도체 생산 논의...\"확정된 바 없어\"",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZVMyYmVySGVMQ3BpUGxZR2F2YzVpelUwZ3QzOFQ2NGZqMlZUXzFjdTZscWEyMmF6VmhndXhPY3BVYzBCQ3FUUVRleUFVZUtNekdBYTR2bnd6VkxrQ1VySXhlLXhDeU1ia0E?oc=5",
@@ -37,18 +49,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 협력사 가족 3만명 초청 행사…1.4조 상생지원 이어간다",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tX3NGb2FrcVpCNy1NNlFfeWtpRndoNmJhVFZ0a29fdjhqUFNuTE9wV2oxOGlxNmMtN0RQVFpRNUVHMXM2WjhKX3pzVFp0QVhadDZkamFYTWtPYmxZbTVNaGtLVHYxT2JBZy01X0hTYU5tZW_SAXdBVV95cUxNbDEtUHdOcWw4YmNoU0N3bXppTG9oNk5FcFVjdXlMNGxCdmhGMUI4TWJrR192b0x1bWl1QzBTUTZJNlVvUUhocGdIYXEtRkhJQmN6dHQzWWJ0bk81WTZCd1o4WFMweU9JOGdtR1JCMHJsLUV3cjk4Yw?oc=5",
-   "source": "스트레이트뉴스",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 10:34 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   },
   {
@@ -90,7 +90,7 @@
   {
    "title": "SK하이닉스, 16단 HBM4 양산 선점… 패키징 병목이 가를 승부처",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1B3eTR0TVpkTk9fbFJJVFQwbHFVcFpxWVp5WDdzbGVjY2lNcW9PaFRuQkZIc08zSER0aXFrcUJMRlFXbEpDeDI4TzM4VnY3VVJQREl3bUN0MXpJYl9QclNEUjhwWHpQMWc5aUtDY3FBT1pKTkJqdXdnVDJfZ3h6al9wN1htX3lt?oc=5",
-   "source": "g-enews.com",
+   "source": "글로벌이코노믹",
    "date": "2026-09-17",
    "datetime": "2026-09-17 09:28 KST",
    "signal": {
@@ -114,7 +114,7 @@
   {
    "title": "SK하이닉스 美·日 저울질 속…호남 470조 투자 유인책은",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jM3dSajlCNVFKamdETkJVY3VSc3pvcDVOWDBVYVBiUm1lbTFsal80RXBISWtlMzRkY01yM09mX295eWRKaHNjbmZ6Nm1BdW03Z21SOTY1NkZWdmxyYlhIRTVHTVFycXZuWlA0X0xIb21MWHRp?oc=5",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "date": "2026-09-17",
    "datetime": "2026-09-17 08:54 KST",
    "signal": {
