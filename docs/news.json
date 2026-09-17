@@ -1,8 +1,44 @@
 {
- "fetchedAt": "2026-09-17 15:50 KST",
+ "fetchedAt": "2026-09-17 21:34 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "인텔은 웃었지만…SK하이닉스 미국 생산, 한국 메모리 주도권 흔드나",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ME1kYnVrTFVISGpnYm42T0M1Z0VvQ3QzT05IVGVQZlh0TFJJYWRGSGJGdW51bG5PZmlWSEFfWXZ1VHkwaGs3Z09EZnFhMkdUTVE?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 16:49 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼전·닉스, 등락 거듭하다 0.4∼0.8% 하락 마감(종합)",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IczhRZ2tCRE9lX0tzdE52RE85cVlpYnBtM2dnYWFyQkRxVl83VWFqdVVTSXF6V0pIbUhHQ1ZFXzd3dVhMbVhIYk9HWWFlZ19sNjlUNFQ4R2lyWDU2cl9TRdIBYEFVX3lxTE1IczhRZ2tCRE9lX0tzdE52RE85cVlpYnBtM2dnYWFyQkRxVl83VWFqdVVTSXF6V0pIbUhHQ1ZFXzd3dVhMbVhIYk9HWWFlZ19sNjlUNFQ4R2lyWDU2cl9TRQ?oc=5",
+   "source": "yna.co.kr",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 15:51 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스, 美 메모리 생산 '우회로' 찾나…인텔 오하이오 팹 주목",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xbnc3Y1ZVV1BETnRKQjVCUnZVRkJ6UEhsRVNFcjFBcWFnczNLZU92UnRPMF9tSThMaTIxdUVKMThlb2ZyVUlSTUZSd2x0bGtZS2k2U052SEg1c2lRcDJhWFljSWIwVVpr?oc=5",
+   "source": "녹색경제신문",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 14:57 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스, 내달 130여개 협력사 임직원·가족 3만명 초청행사",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52ZUZYV3NzbVlSMkd5WDZYcTZ1YnZzeUVVdl9rWWdsRlh0N2w2RGdpY0twSEZXMTFqb3RobnNXaEpNVnA2RXBlTjdaQVN0anEyaGJ6X1JnV2MtOE5DSWoxYnBuX2Qtdw?oc=5",
@@ -16,7 +52,7 @@
    }
   },
   {
-   "title": "SK하이닉스 美서 반도체 만드나…인텔 '방긋', 주가 4% 급등 - 머니투데이",
+   "title": "SK하이닉스, 미국서 반도체 만드나...인텔 '골칫거리' 해결? 주가 급등 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5ck11LW5pMURKak90VWtIdTNNSHV2Vm9MaWR3VTZIRFAyd2R6NkNBQjQ0MHFqQnNkVFRIQi1HUWtYUE9FQ1dLbWlWb1N6c1RnOVN0WnZwZU0zNl9DbXBSc0RCQVFqa1JL0gFuQVVfeXFMTVp5eGJjWFBfQmttcTBjMWpNVDUwWTZIck5ndWpUX3BVeS1tbXFGT1lQMjhiWmRfYzF5R0wtTDJTdWcwbC10bFlqOENSY3FOeWVpRDJPVkQ3OFRoWk1YQUs3WFFJazRvWnFHckVEclE?oc=5",
    "source": "머니투데이",
    "date": "2026-09-17",
@@ -81,42 +117,6 @@
    "source": "인베스트조선",
    "date": "2026-09-17",
    "datetime": "2026-09-17 10:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 16단 HBM4 양산 선점… 패키징 병목이 가를 승부처",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR1B3eTR0TVpkTk9fbFJJVFQwbHFVcFpxWVp5WDdzbGVjY2lNcW9PaFRuQkZIc08zSER0aXFrcUJMRlFXbEpDeDI4TzM4VnY3VVJQREl3bUN0MXpJYl9QclNEUjhwWHpQMWc5aUtDY3FBT1pKTkJqdXdnVDJfZ3h6al9wN1htX3lt?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 09:28 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자, 장 초반 0.7% 상승…SK하이닉스는 0.6%↓",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xcGE4Z1FWSmVMRVlaRGdJUzdDVkxpbWg4SkRjVTVSSmdpX3dUdkQyVVpOSnVQa01SN1lFX1J0ZGtic0NYTHphVGpManpUZ1ZPZHV5RThfRUNBU1XSAWBBVV95cUxOakF0YjdJbmNxZ2Mwa0FiZlZaS2N3Zk00M1pwMkthc0pWV3BUMzJZT1FFbFo3YWl1NDhyN1BpLVdHa2ZlTHFLMGk0WWdwYWd6UHlJM1Z5Ti04M3Jyb05xSVQ?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 09:16 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 美·日 저울질 속…호남 470조 투자 유인책은",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jM3dSajlCNVFKamdETkJVY3VSc3pvcDVOWDBVYVBiUm1lbTFsal80RXBISWtlMzRkY01yM09mX295eWRKaHNjbmZ6Nm1BdW03Z21SOTY1NkZWdmxyYlhIRTVHTVFycXZuWlA0X0xIb21MWHRp?oc=5",
-   "source": "news.einfomax.co.kr",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 08:54 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
