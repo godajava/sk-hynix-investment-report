@@ -1,8 +1,92 @@
 {
- "fetchedAt": "2026-09-17 21:34 KST",
+ "fetchedAt": "2026-09-18 09:06 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK그룹 부회장 3인, 연말 인사 앞두고 하이닉스行",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSUpaTjViY3NSLWpzSFBBZU1tVHZjNTFOUTJDWmJfcUh1dlU1WVUyRjhUeHJocnJadVA3ZjR5Q1BBLUI5azVXRGNSaTFtMnRvbTBtVDQweGZ1WHJGU2tsa0FfX213Smd6TktfVy1aUnJtX0lUWlBsbWxmUHoxQVFodkZfNA?oc=5",
+   "source": "investchosun.com",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 08:52 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK그룹 전문경영인 부회장 3명 SK하이닉스로 보임",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTFZZYUY2cjQ0V2V5ZTQwTnJwOHdiaHZsR0pmSlZIbjhRZmczdm5TRW14ZDcwUEpNblZETFR5ZTNRWXhyNlBVR1E5aGpzX3ppYU5CSlcxOG1KQUnSAWBBVV95cUxPa01QdjNoMFNHcGlMOFZQZjUteVQ4SURyczFaZ3pnbE1yQ1NmV2dBbWxvd3JUN094TFZBR1NrcU1UQVhNRE9JV05mTjRNdUZxWl93ckw1VGZFeGdwQXZZWmQ?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 08:47 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "‘호남 400조’ 발 묶인 SK하이닉스, 美·日로 눈 돌리는 속사정은",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pVXNvb01YVXlWOUkzT2xaSGJjMl85SmY3MkVzenZOMEFYdE42c09WS3NOd3EycUtZdUZRdk1yWnZWSU05c0lmWXFWWms4SjJOYkNCbUxyWXF1ZV9vZi12eERiUFF5czVTenEtZ0FSMzPSAXRBVV95cUxOWHNFMktSYk9NRDFUckJ6N3BiVjBhSXFQd3dJRFREeFpXSGZ0ZkdEZkM4cE1iNTRWM3FWWnBtVWpHYTVLNDNNZzV2LTR4cV9QVUpCRGI5azcxbzhoTVhvajN0OEdlWlo4UUxvWDNwbnlZeHdFZw?oc=5",
+   "source": "IT조선",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 08:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "인텔·SK하이닉스 '오하이오 빅딜설'에 반도체주 '불기둥'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzJINzd1ZXBadGU4RlZscWxiMV9mUVZmTl9iaU5ka2RycW1jSGU1dC1ZSGl6Zl82dGpSZVI4am9MMnMzYXlaaTFPekY2M0pZbnotTEpfbWJDU1hwS3l5MHEzSmxlRTZzWTByVjlpMjdSVFk5ekNYNWx4VWNxUUFzV2Z6eUdGaUxR?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 06:18 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[단독] SK그룹 핵심 부회장 3人, 하이닉스에 일제히 합류",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLW1PVVFZU1dieWtfbTJIWDM5dDhYR3d1enBLaHdhVlNBSzBfVXVidFViY1E4eU95LUJDZXB6RUM0YnZZQ245WU1QU0NIMl90NHNDckRRQUNlVGd1Zmg1blJZT0U3QnRnSmVTZFJyUEFvcmdtaHFiRjlHVlluYWE2Q2tKX2ZtSHNDcE4yaTBxcw?oc=5",
+   "source": "조선일보",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 05:16 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 인텔 손잡나?...\"투자 압박 해소\" \"기술유출 우려\"",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yT0JkelptMGJ0bFhIZ1NXZlNsRXRuWGVDSDZDZHpQZXNPS3dCM3E2Rkt3RlhlOUFSRUlKN20zLU1idUlLOWNZTUc3c3VwVndpd0k0bjRDOVp4QVhHc1dtdHI5dUpqRlpUekNjUXdlOA?oc=5",
+   "source": "ytn.co.kr",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 00:09 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스 주가, 오늘 급등하는 이유는?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fU0ppQ2VzbEJvZVliQkZ1UURoWkg4MER5SzdhU1htcHZ6WnBNVENVcENfQ3RtM0lKOWtYRC1ncFA5LXd5OFJuM0o3d25jRE1xZWhOdDdkaEpVelpKcVFJUU9yQU5DQXRhbkFsV3ZEQ3NJandIWHBF?oc=5",
+   "source": "kr.investing.com",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 23:28 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "인텔은 웃었지만…SK하이닉스 미국 생산, 한국 메모리 주도권 흔드나",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ME1kYnVrTFVISGpnYm42T0M1Z0VvQ3QzT05IVGVQZlh0TFJJYWRGSGJGdW51bG5PZmlWSEFfWXZ1VHkwaGs3Z09EZnFhMkdUTVE?oc=5",
@@ -18,7 +102,7 @@
   {
    "title": "삼전·닉스, 등락 거듭하다 0.4∼0.8% 하락 마감(종합)",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IczhRZ2tCRE9lX0tzdE52RE85cVlpYnBtM2dnYWFyQkRxVl83VWFqdVVTSXF6V0pIbUhHQ1ZFXzd3dVhMbVhIYk9HWWFlZ19sNjlUNFQ4R2lyWDU2cl9TRdIBYEFVX3lxTE1IczhRZ2tCRE9lX0tzdE52RE85cVlpYnBtM2dnYWFyQkRxVl83VWFqdVVTSXF6V0pIbUhHQ1ZFXzd3dVhMbVhIYk9HWWFlZ19sNjlUNFQ4R2lyWDU2cl9TRQ?oc=5",
-   "source": "yna.co.kr",
+   "source": "연합뉴스",
    "date": "2026-09-17",
    "datetime": "2026-09-17 15:51 KST",
    "signal": {
@@ -28,99 +112,15 @@
    }
   },
   {
-   "title": "SK하이닉스, 美 메모리 생산 '우회로' 찾나…인텔 오하이오 팹 주목",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xbnc3Y1ZVV1BETnRKQjVCUnZVRkJ6UEhsRVNFcjFBcWFnczNLZU92UnRPMF9tSThMaTIxdUVKMThlb2ZyVUlSTUZSd2x0bGtZS2k2U052SEg1c2lRcDJhWFljSWIwVVpr?oc=5",
-   "source": "녹색경제신문",
+   "title": "코스피 하락 마감, 6,715.41P (-0.04%↓) KRX SK하이닉스 TR 지수, 코스피 전기·전자 등 하락 주도",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvLWQ2aURXRmhSNF9rZlJyWlVQWUM5NHBQZzB3WmNzbFZ6ZWNfUWNjT1I3OU5hTVRjeTZwR19zV1dLNVZiOFBXLUh4amc4NTNTcmc?oc=5",
+   "source": "매일경제 마켓",
    "date": "2026-09-17",
-   "datetime": "2026-09-17 14:57 KST",
+   "datetime": "2026-09-17 15:37 KST",
    "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 내달 130여개 협력사 임직원·가족 3만명 초청행사",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52ZUZYV3NzbVlSMkd5WDZYcTZ1YnZzeUVVdl9rWWdsRlh0N2w2RGdpY0twSEZXMTFqb3RobnNXaEpNVnA2RXBlTjdaQVN0anEyaGJ6X1JnV2MtOE5DSWoxYnBuX2Qtdw?oc=5",
-   "source": "디일렉",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 14:44 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 미국서 반도체 만드나...인텔 '골칫거리' 해결? 주가 급등 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5ck11LW5pMURKak90VWtIdTNNSHV2Vm9MaWR3VTZIRFAyd2R6NkNBQjQ0MHFqQnNkVFRIQi1HUWtYUE9FQ1dLbWlWb1N6c1RnOVN0WnZwZU0zNl9DbXBSc0RCQVFqa1JL0gFuQVVfeXFMTVp5eGJjWFBfQmttcTBjMWpNVDUwWTZIck5ndWpUX3BVeS1tbXFGT1lQMjhiWmRfYzF5R0wtTDJTdWcwbC10bFlqOENSY3FOeWVpRDJPVkQ3OFRoWk1YQUs3WFFJazRvWnFHckVEclE?oc=5",
-   "source": "머니투데이",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 11:42 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 인텔과 미국서 메모리 반도체 생산 논의...\"확정된 바 없어\"",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nZVMyYmVySGVMQ3BpUGxZR2F2YzVpelUwZ3QzOFQ2NGZqMlZUXzFjdTZscWEyMmF6VmhndXhPY3BVYzBCQ3FUUVRleUFVZUtNekdBYTR2bnd6VkxrQ1VySXhlLXhDeU1ia0E?oc=5",
-   "source": "AI타임스",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 11:26 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스·인텔 美생산 협상 보도에 나란히 주가 상승",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YSE1ZNGl4NURaVEhXQnI1T3MtMEdmVmhFT3cza0VuUlJrQ2dDdGhCUlJrZlAyRHU5U25MSFVaa3JXb0puWkQzbVg4dkgzZVlWYmFtNkE3VnF5NjdLYlBLM012Qm9uWUFyWHI4NWV6TVQxMEUz0gF0QVVfeXFMTlhITVk0aXg1RFpUSFdCcjVPcy0wR2ZWaEVPdzNrRW5SUmtDZ0N0aEJSUmtmUDJEdTlTbkxIVVprcldvSm5aRDNtWDh2SDNlWVZiYW02QTdWcXk2N0tiUEszTXZCb25ZQXJYcjg1ZXpNVDEwRTM?oc=5",
-   "source": "MBC 뉴스",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 11:09 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 집중매수한 초고수…반등한 삼성전자는 팔았다",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3TWtubWp1eE8xQkptWk92T1FoU1pUQzJGeTFrMVhuRGlmNUNDcE1EYi1XOEY5YTZWdFgycEhPUHNiNkVOcTNEZXpNWFNBamhSaGozZGV2S3JGUQ?oc=5",
-   "source": "한국경제",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 11:09 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "발표하는 임의철 SK하이닉스 부사장",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nRVNFNEJNdWVweV9rQXE5YTlJczNOc3ctX2VmYTNBSUxFb0I2WnJHb0VHYkF1VWJQeG9hR2FlNDU1Z3c2VXFER0VGTEoxcXV2VGFmVUR1bDJNblQ4dE0xYXRRZDM2RTRMV1k1WlRpV1FfbmpJ?oc=5",
-   "source": "연합뉴스 한민족센터",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 10:16 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 美·日 전공정팹 잇단 진출설…복잡해지는 생산전략",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT3Frek1wb05KNms4b3Fmamx0U3JzWENOdlBfU01ob2hLOEEyZ21WdVpmQ00yYjhudDBWd2dqMEpCUkFPeVpCMEhDeEYwRTNWbVZ0Q25HWG5ZbkhmT0MybXg4dHAtM2FkY2ExTUNsazhfeVl6akJtaFN3SW1MVV94MU1jRQ?oc=5",
-   "source": "인베스트조선",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 10:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   }
  ]
