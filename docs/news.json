@@ -1,14 +1,50 @@
 {
- "fetchedAt": "2026-09-18 15:50 KST",
+ "fetchedAt": "2026-09-18 21:12 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스 美자회사 솔리다임, 미국에 첫 낸드공장 검토",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBudDJTSGZUX2wxVE1WM1FaZC1tQmhwdDJ5RERXbU1mcG1ReHQ1cEk4bkxrbUdIWkFlc1RpdjE2YXkzLVhoQURPWm9RZ2RGbFV1UVVmekJjWFFJSzJ2Y0taXzJSaUVZSm9OWHRBNkhiWGM?oc=5",
-   "source": "news.einfomax.co.kr",
+   "title": "SK하이닉스 손자회사 솔리다임, 美 낸드 공장 구축 검토",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhX2RKRFNmSjMtZEVscGhEVEFlWlhEbmg2QUpMeEgySW9OVVdwbGRRUnpJU3FOVkhfdzlERkFnQWlPNExkMlpVRC1XT1J4TXFkMHhDNTZSZUhNZGFDQlN4S1Mtd1laQQ?oc=5",
+   "source": "디일렉",
    "date": "2026-09-18",
-   "datetime": "2026-09-18 15:27 KST",
+   "datetime": "2026-09-18 18:39 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자, 3.4% 급등 마감…SK하이닉스는 6.4% 뛰어(종합)",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BU242U0QzN3c2Zm5CN0lkMVZieWNIemJNRW13RUxwZVl4MV9UTHdmd2pUYjIydllVLXl2M0Fua1NMQTNrS0doY0JsQ09sSEotWE9WRQ?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 15:54 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "인텔 협력 이어 美 낸드 공장까지? SK하이닉스, 미국 행보 ‘속도’",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ldEJQSllvTW50Nm9Gd0NfNnBhTXA5bGwwNDhtY2dfdllLNHl0azdtczVPMEIwR1JXeTcyNnNYaGFnM1llTzZVSUhDZEc2cXRPeDZKOEVFUzkzUkpxWGswU3hQX09FMkxjay1zQg?oc=5",
+   "source": "한경매거진&북",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 15:42 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK그룹 부회장단, SK하이닉스 합류…반도체 전략 지원",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jZlJfWHpaUzBjNFJNaTNfUGdfbEJ4V2tvUW9uSElhUWw1ZVlQM0F6YUJLOEM4S1hnMjlYYXI3OS10ZlJvZ182MkRubEFaRE1TTTRTWUNDRjlhcjhRQkthUHc5b0c?oc=5",
+   "source": "MTN 머니투데이방송",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 15:04 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -18,7 +54,7 @@
   {
    "title": "SK그룹 부회장 3인, SK하이닉스 집결…글로벌 전략·AI 사업 역량 강화",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44eDMwSExlZmNtYS1sRmJSU3NnbDBGVEJuR0VQeVhVUUh5Xy1wY2c4VlhUR1BadWdMNHN5Qll1Z2RrTHJYc1hmV3Rxem9sX0s3bVRiZFBUQXZ4T3pqcjI2U1E2a1doSW1Y?oc=5",
-   "source": "greened.kr",
+   "source": "녹색경제신문",
    "date": "2026-09-18",
    "datetime": "2026-09-18 14:02 KST",
    "signal": {
@@ -52,6 +88,18 @@
    }
   },
   {
+   "title": "HBF 역할 선명해졌다…SK하이닉스 \"장문·대규모 AI 추론 겨냥\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BQUczTzJQYlJ2OGs0SFBoellIN1ZNVkxjNkpJemlFbXJKTURhVHZORXI4aVRVekZtYlh0VE9PR19TQWlaMENCNUhsbkR5S241QXFKcXgxU2lEbi1t?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 10:48 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스, 오는 10월15일 ‘Thanks FULL Day’ 개최",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nZ1M1a1d3em9CUG1jRENWWlJCaVJ0SE16YjJlRWwxUVM0b2ptTU40ZXJGYW1VYUlWWENxODlZaGtHM1JIZ18xWkh5RmZvYzA?oc=5",
    "source": "v.daum.net",
@@ -66,61 +114,13 @@
   {
    "title": "SK하이닉스 미국서 '반도체 풀공정' 가능해지나...인텔과 협상설에 '술렁' [자막뉴스]",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ta1puakdESGZvdHVzOEhQOXlZZ2lCbFc0VHNjRXA3ak5JekY3aVZfZU5Ja00wRFFSdVNWQjVRMVVVdlMxcW9FemVfVFoyc01rZ0hDeFBuQllFUGJEZUNCbW1qTQ?oc=5",
-   "source": "ytn.co.kr",
+   "source": "YTN",
    "date": "2026-09-18",
    "datetime": "2026-09-18 10:04 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 장 초반 4% 넘게 급등…삼성전자도 2%대 상승",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54NUdBY01Oemx3X2ZfTDdVT1JDeVo3TkVEUU9tT0N3ZUp1OUp5Sng0eFZtY18yYTlDakUzZV85YVgyNU9WcEpsT2xtRUplUjA?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-18",
-   "datetime": "2026-09-18 10:00 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "코스피 2%대 상승 출발, SK하이닉스는 4%대 급등",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSHVSb2txOEFXUnZycFJpWHZTUkc1M2ZQXy1uNHJOTlV6cXE1TjBUSDV6S3NnLVRKXzdyV05aNzA3OHZ5VTZraFFmRGV0R3BQNkYwVV9VVU5YUHZ6bzFsWk1lQWZxdXpOY2JiZnB0NFZDUkVjMUpacUxIeTdQdGJ0SQ?oc=5",
-   "source": "조선일보",
-   "date": "2026-09-18",
-   "datetime": "2026-09-18 09:33 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "최태원, 3명 부회장단 묶어서 SK하이닉스로 이동 속내는",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53X01zc2Z4ZURjX0ZwdTRZa3RqM1FkRExjR3pKWUNFTUNVN1k3cUctNDZkOVpIMVVSaHd2a0x0XzNlV1d5WUxBNnl3TkhrQXJ6aGc5NDN5aTY4SURJZlJLcEVR?oc=5",
-   "source": "이코노미스트",
-   "date": "2026-09-18",
-   "datetime": "2026-09-18 09:25 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[개장시황] 美 기술주 훈풍에 코스피 2%↑…SK하이닉스 180만원 돌파",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VUXotMUNzTW9sWW94dWtlc29nWmdaazA3ekdqaUVBRWdUWXl0Z2NiZTItaGl1Zjc4NWxMRHJjQUE5N0pRN1hvbmlMTmhhSU5Mdzl3WGxHZDNteXYy?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-18",
-   "datetime": "2026-09-18 09:19 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
