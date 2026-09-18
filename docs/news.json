@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-18 12:32 KST",
+ "fetchedAt": "2026-09-18 13:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -18,7 +18,7 @@
   {
    "title": "SK하이닉스 미국서 '반도체 풀공정' 가능해지나...인텔과 협상설에 '술렁' [자막뉴스]",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ta1puakdESGZvdHVzOEhQOXlZZ2lCbFc0VHNjRXA3ak5JekY3aVZfZU5Ja00wRFFSdVNWQjVRMVVVdlMxcW9FemVfVFoyc01rZ0hDeFBuQllFUGJEZUNCbW1qTQ?oc=5",
-   "source": "ytn.co.kr",
+   "source": "YTN",
    "date": "2026-09-18",
    "datetime": "2026-09-18 10:04 KST",
    "signal": {
@@ -37,18 +37,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK그룹 부회장 3인, SK하이닉스 합류…AI·반도체 힘 싣는다 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pc19qRHlGSGMzSzB4bm9EamJmQV9GeFpBUGNOV2QzQzVlQWE5aE1RQnZyc2tOSVdRTFdyZndpb1VxN0tqcURYdmJEQjhkVWc2NVVidk1ENzB2SFhxdjJnM1o2Y1N2QmlKMVRNNdIBckFVX3lxTFBGUlN5bnE2TFNydWNOZWlOazBDUDNKZW9wSkptTzV3a1d1Sm84bjZOUW9pUkdZcFZ4dVJrYkdrOHhvRllOV244N1RxY19kVUgzTlFkaWczQWNNaXpET0tmX0hSZG81THFNQ0pSYWNxbEtQZw?oc=5",
-   "source": "머니투데이",
-   "date": "2026-09-18",
-   "datetime": "2026-09-18 09:59 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   },
   {
@@ -112,11 +100,23 @@
    }
   },
   {
-   "title": "‘호남 400조’ 발 묶인 SK하이닉스, 美·日로 눈 돌리는 속사정은",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pVXNvb01YVXlWOUkzT2xaSGJjMl85SmY3MkVzenZOMEFYdE42c09WS3NOd3EycUtZdUZRdk1yWnZWSU05c0lmWXFWWms4SjJOYkNCbUxyWXF1ZV9vZi12eERiUFF5czVTenEtZ0FSMzPSAXRBVV95cUxOWHNFMktSYk9NRDFUckJ6N3BiVjBhSXFQd3dJRFREeFpXSGZ0ZkdEZkM4cE1iNTRWM3FWWnBtVWpHYTVLNDNNZzV2LTR4cV9QVUpCRGI5azcxbzhoTVhvajN0OEdlWlo4UUxvWDNwbnlZeHdFZw?oc=5",
-   "source": "IT조선",
+   "title": "SK그룹 부회장 3인, 연말 인사 앞두고 하이닉스行",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSUpaTjViY3NSLWpzSFBBZU1tVHZjNTFOUTJDWmJfcUh1dlU1WVUyRjhUeHJocnJadVA3ZjR5Q1BBLUI5azVXRGNSaTFtMnRvbTBtVDQweGZ1WHJGU2tsa0FfX213Smd6TktfVy1aUnJtX0lUWlBsbWxmUHoxQVFodkZfNA?oc=5",
+   "source": "인베스트조선",
    "date": "2026-09-18",
-   "datetime": "2026-09-18 08:00 KST",
+   "datetime": "2026-09-18 08:52 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[단독] SK그룹 핵심 부회장 3人, 하이닉스에 일제히 합류",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLW1PVVFZU1dieWtfbTJIWDM5dDhYR3d1enBLaHdhVlNBSzBfVXVidFViY1E4eU95LUJDZXB6RUM0YnZZQ245WU1QU0NIMl90NHNDckRRQUNlVGd1Zmg1blJZT0U3QnRnSmVTZFJyUEFvcmdtaHFiRjlHVlluYWE2Q2tKX2ZtSHNDcE4yaTBxcw?oc=5",
+   "source": "조선일보",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 05:16 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
