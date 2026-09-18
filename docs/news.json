@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-18 09:09 KST",
+ "fetchedAt": "2026-09-18 09:13 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -21,18 +21,6 @@
    "source": "연합뉴스",
    "date": "2026-09-18",
    "datetime": "2026-09-18 08:47 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "‘호남 400조’ 발 묶인 SK하이닉스, 美·日로 눈 돌리는 속사정은",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pVXNvb01YVXlWOUkzT2xaSGJjMl85SmY3MkVzenZOMEFYdE42c09WS3NOd3EycUtZdUZRdk1yWnZWSU05c0lmWXFWWms4SjJOYkNCbUxyWXF1ZV9vZi12eERiUFF5czVTenEtZ0FSMzPSAXRBVV95cUxOWHNFMktSYk9NRDFUckJ6N3BiVjBhSXFQd3dJRFREeFpXSGZ0ZkdEZkM4cE1iNTRWM3FWWnBtVWpHYTVLNDNNZzV2LTR4cV9QVUpCRGI5azcxbzhoTVhvajN0OEdlWlo4UUxvWDNwbnlZeHdFZw?oc=5",
-   "source": "IT조선",
-   "date": "2026-09-18",
-   "datetime": "2026-09-18 08:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -121,6 +109,18 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스, 내달 130여개 협력사 임직원·가족 3만명 초청행사",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52ZUZYV3NzbVlSMkd5WDZYcTZ1YnZzeUVVdl9rWWdsRlh0N2w2RGdpY0twSEZXMTFqb3RobnNXaEpNVnA2RXBlTjdaQVN0anEyaGJ6X1JnV2MtOE5DSWoxYnBuX2Qtdw?oc=5",
+   "source": "디일렉",
+   "date": "2026-09-17",
+   "datetime": "2026-09-17 14:44 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   }
  ]
