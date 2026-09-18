@@ -1,14 +1,26 @@
 {
- "fetchedAt": "2026-09-18 15:40 KST",
+ "fetchedAt": "2026-09-18 15:45 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스 자회사 솔리다임, 미국에 첫 낸드공장 검토",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5yeURYS0lQeFB1MHVjbmpSS2xnQnVFcGFhMElNQU9wUklUb01nS1hjS2hWS21obWdVTWRhY0p2Z3h4OEhyRk5oVTV0eG5MSWRfc1FHcGdqZkl3WjZ1UWhxSDF2ZlE3QWU0bFpGUHhMempnWTlM?oc=5",
-   "source": "연합뉴스 한민족센터",
+   "title": "SK하이닉스 美자회사 솔리다임, 미국에 첫 낸드공장 검토",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBudDJTSGZUX2wxVE1WM1FaZC1tQmhwdDJ5RERXbU1mcG1ReHQ1cEk4bkxrbUdIWkFlc1RpdjE2YXkzLVhoQURPWm9RZ2RGbFV1UVVmekJjWFFJSzJ2Y0taXzJSaUVZSm9OWHRBNkhiWGM?oc=5",
+   "source": "news.einfomax.co.kr",
    "date": "2026-09-18",
-   "datetime": "2026-09-18 14:39 KST",
+   "datetime": "2026-09-18 15:27 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK그룹 부회장 3인, SK하이닉스 집결…글로벌 전략·AI 사업 역량 강화",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44eDMwSExlZmNtYS1sRmJSU3NnbDBGVEJuR0VQeVhVUUh5Xy1wY2c4VlhUR1BadWdMNHN5Qll1Z2RrTHJYc1hmV3Rxem9sX0s3bVRiZFBUQXZ4T3pqcjI2U1E2a1doSW1Y?oc=5",
+   "source": "greened.kr",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 14:02 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -30,7 +42,7 @@
   {
    "title": "SK그룹 부회장 3명 SK하이닉스로…반도체에 힘 싣는다",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1BZW1Jd01tU2dPd1dzZEEyZTlrY2FoTmNiNGtZejlNYmhJTnRrMElBSnBWdUlCTFk5R2hxR3IyWXctRUpQd1NQd1VBYkNNejgxWHBfRFJiSFZMQWRPVE9GOXRKS1l0d1FxdUh0a0J0cTZidlHSAXNBVV95cUxNQWVtSXdNbVNnT3dXc2RBMmU5a2NhaE5jYjRrWXo5TWJoSU50azBJQUpwVnVJQkxZOUdocUdyMll3LUVKUHdTUHdVQWJDTXo4MVhwX0RSYkhWTEFkT1RPRjl0SktZdHdRcXVIdGtCdHE2YnZR?oc=5",
-   "source": "시사저널",
+   "source": "sisajournal.com",
    "date": "2026-09-18",
    "datetime": "2026-09-18 11:18 KST",
    "signal": {
@@ -54,7 +66,7 @@
   {
    "title": "SK하이닉스 미국서 '반도체 풀공정' 가능해지나...인텔과 협상설에 '술렁' [자막뉴스]",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ta1puakdESGZvdHVzOEhQOXlZZ2lCbFc0VHNjRXA3ak5JekY3aVZfZU5Ja00wRFFSdVNWQjVRMVVVdlMxcW9FemVfVFoyc01rZ0hDeFBuQllFUGJEZUNCbW1qTQ?oc=5",
-   "source": "YTN",
+   "source": "ytn.co.kr",
    "date": "2026-09-18",
    "datetime": "2026-09-18 10:04 KST",
    "signal": {
@@ -88,23 +100,11 @@
    }
   },
   {
-   "title": "최태원, 3명 부회장단 묶어서 SK하이닉스로 이동 속내는",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53X01zc2Z4ZURjX0ZwdTRZa3RqM1FkRExjR3pKWUNFTUNVN1k3cUctNDZkOVpIMVVSaHd2a0x0XzNlV1d5WUxBNnl3TkhrQXJ6aGc5NDN5aTY4SURJZlJLcEVR?oc=5",
-   "source": "이코노미스트",
+   "title": "[특징주] 삼성전자·SK하이닉스 동반 강세…美 반도체주 훈풍",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mZWZHQ1k4WTF5N0pXZUR6VG93eEJoMGc2XzkwUG50Z3RBRHZ1TFBtUzE5UzczZ1JHN3Nrdmx6ZnJ4d2R2LXAtZTRsZVVWMXJISzQ3Q3AzR09Na2dkUlVIMV9DMA?oc=5",
+   "source": "에너지경제신문",
    "date": "2026-09-18",
    "datetime": "2026-09-18 09:25 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[개장시황] 美 기술주 훈풍에 코스피 2%↑…SK하이닉스 180만원 돌파",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VUXotMUNzTW9sWW94dWtlc29nWmdaazA3ekdqaUVBRWdUWXl0Z2NiZTItaGl1Zjc4NWxMRHJjQUE5N0pRN1hvbmlMTmhhSU5Mdzl3WGxHZDNteXYy?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-18",
-   "datetime": "2026-09-18 09:19 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -112,11 +112,11 @@
    }
   },
   {
-   "title": "SK그룹 부회장 3人 하이닉스 합류…임원 전원 1대1 면담",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOQTlnbXpzS0xwUHJibk4zeFJWbXpVVmlGTkZ2V1BCR2hrRnN4YVVjalRoYkt6NGkwdFh0X1FJSVdTcUZ2VXdEbDE4ek4xV1QtelpKUVRncklhWWRzQWlwV1psVmRPcVhiNjlnQ1BEYS1iNjdm?oc=5",
-   "source": "연합인포맥스",
+   "title": "최태원, 3명 부회장단 묶어서 SK하이닉스로 이동 속내는",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53X01zc2Z4ZURjX0ZwdTRZa3RqM1FkRExjR3pKWUNFTUNVN1k3cUctNDZkOVpIMVVSaHd2a0x0XzNlV1d5WUxBNnl3TkhrQXJ6aGc5NDN5aTY4SURJZlJLcEVR?oc=5",
+   "source": "이코노미스트",
    "date": "2026-09-18",
-   "datetime": "2026-09-18 09:18 KST",
+   "datetime": "2026-09-18 09:25 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
