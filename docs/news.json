@@ -1,38 +1,50 @@
 {
- "fetchedAt": "2026-09-18 09:13 KST",
+ "fetchedAt": "2026-09-18 09:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스 동반 강세…美 반도체주 훈풍",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mZWZHQ1k4WTF5N0pXZUR6VG93eEJoMGc2XzkwUG50Z3RBRHZ1TFBtUzE5UzczZ1JHN3Nrdmx6ZnJ4d2R2LXAtZTRsZVVWMXJISzQ3Q3AzR09Na2dkUlVIMV9DMA?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 09:25 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자 장 초반 2.6% 급등…SK하이닉스는 4.2%↑",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91Y2NHOUNLeFlUMTJfQ1BQY05QREx4cVNmWkREb2NuTWhpN25yNUhrVEstVF9KRktrY25qV0o4cDQ4TnVhbGJVYzdCX3JKOHUzN3N3R3NxckFhbE3SAWBBVV95cUxQbWxMa0d4dEpQUXNsV2p2dU9nNWdla0o4VXJRTTk4T2lnanFrdExHZ3dreks1VkcweXdPbG1IOGRNcl9jMkdnckhJaXVWUVlqZ250aHQtc3l2amQtSTBReU4?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 09:18 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK그룹 부회장 3명, SK하이닉스로 보임…\"비전 수립 지원\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJZEFDSDNpeUw4WXFzcEItMV9wYS01SjNtMDVYSjBDR1M2a0lFMzlFZGtSM0VWNkNrX0sxX0ZxRnRPS2xzcTRhUFpsMXM1bXpGdmNhRFBESFEtQ3dkbXI0bXd2ZXpYZms?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 09:18 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK그룹 부회장 3인, 연말 인사 앞두고 하이닉스行",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSUpaTjViY3NSLWpzSFBBZU1tVHZjNTFOUTJDWmJfcUh1dlU1WVUyRjhUeHJocnJadVA3ZjR5Q1BBLUI5azVXRGNSaTFtMnRvbTBtVDQweGZ1WHJGU2tsa0FfX213Smd6TktfVy1aUnJtX0lUWlBsbWxmUHoxQVFodkZfNA?oc=5",
    "source": "인베스트조선",
    "date": "2026-09-18",
    "datetime": "2026-09-18 08:52 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK그룹 전문경영인 부회장 3명 SK하이닉스로 보임",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfTFZZYUY2cjQ0V2V5ZTQwTnJwOHdiaHZsR0pmSlZIbjhRZmczdm5TRW14ZDcwUEpNblZETFR5ZTNRWXhyNlBVR1E5aGpzX3ppYU5CSlcxOG1KQUnSAWBBVV95cUxPa01QdjNoMFNHcGlMOFZQZjUteVQ4SURyczFaZ3pnbE1yQ1NmV2dBbWxvd3JUN094TFZBR1NrcU1UQVhNRE9JV05mTjRNdUZxWl93ckw1VGZFeGdwQXZZWmQ?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-18",
-   "datetime": "2026-09-18 08:47 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "인텔·SK하이닉스 '오하이오 빅딜설'에 반도체주 '불기둥'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzJINzd1ZXBadGU4RlZscWxiMV9mUVZmTl9iaU5ka2RycW1jSGU1dC1ZSGl6Zl82dGpSZVI4am9MMnMzYXlaaTFPekY2M0pZbnotTEpfbWJDU1hwS3l5MHEzSmxlRTZzWTByVjlpMjdSVFk5ekNYNWx4VWNxUUFzV2Z6eUdGaUxR?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-18",
-   "datetime": "2026-09-18 06:18 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -109,18 +121,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스, 내달 130여개 협력사 임직원·가족 3만명 초청행사",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52ZUZYV3NzbVlSMkd5WDZYcTZ1YnZzeUVVdl9rWWdsRlh0N2w2RGdpY0twSEZXMTFqb3RobnNXaEpNVnA2RXBlTjdaQVN0anEyaGJ6X1JnV2MtOE5DSWoxYnBuX2Qtdw?oc=5",
-   "source": "디일렉",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 14:44 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
