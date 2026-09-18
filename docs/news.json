@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-18 15:45 KST",
+ "fetchedAt": "2026-09-18 15:50 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -90,21 +90,9 @@
   {
    "title": "코스피 2%대 상승 출발, SK하이닉스는 4%대 급등",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSHVSb2txOEFXUnZycFJpWHZTUkc1M2ZQXy1uNHJOTlV6cXE1TjBUSDV6S3NnLVRKXzdyV05aNzA3OHZ5VTZraFFmRGV0R3BQNkYwVV9VVU5YUHZ6bzFsWk1lQWZxdXpOY2JiZnB0NFZDUkVjMUpacUxIeTdQdGJ0SQ?oc=5",
-   "source": "chosun.com",
+   "source": "조선일보",
    "date": "2026-09-18",
    "datetime": "2026-09-18 09:33 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스 동반 강세…美 반도체주 훈풍",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mZWZHQ1k4WTF5N0pXZUR6VG93eEJoMGc2XzkwUG50Z3RBRHZ1TFBtUzE5UzczZ1JHN3Nrdmx6ZnJ4d2R2LXAtZTRsZVVWMXJISzQ3Q3AzR09Na2dkUlVIMV9DMA?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-09-18",
-   "datetime": "2026-09-18 09:25 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -121,6 +109,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[개장시황] 美 기술주 훈풍에 코스피 2%↑…SK하이닉스 180만원 돌파",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VUXotMUNzTW9sWW94dWtlc29nWmdaazA3ekdqaUVBRWdUWXl0Z2NiZTItaGl1Zjc4NWxMRHJjQUE5N0pRN1hvbmlMTmhhSU5Mdzl3WGxHZDNteXYy?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 09:19 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   }
  ]
