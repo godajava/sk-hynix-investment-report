@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-09-18 09:32 KST",
+ "fetchedAt": "2026-09-18 10:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK그룹 부회장 3인, SK하이닉스 합류…AI·반도체 힘 싣는다 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pc19qRHlGSGMzSzB4bm9EamJmQV9GeFpBUGNOV2QzQzVlQWE5aE1RQnZyc2tOSVdRTFdyZndpb1VxN0tqcURYdmJEQjhkVWc2NVVidk1ENzB2SFhxdjJnM1o2Y1N2QmlKMVRNNdIBckFVX3lxTFBGUlN5bnE2TFNydWNOZWlOazBDUDNKZW9wSkptTzV3a1d1Sm84bjZOUW9pUkdZcFZ4dVJrYkdrOHhvRllOV244N1RxY19kVUgzTlFkaWczQWNNaXpET0tmX0hSZG81THFNQ0pSYWNxbEtQZw?oc=5",
+   "source": "머니투데이",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 09:59 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "코스피 2%대 상승 출발, SK하이닉스는 4%대 급등",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSHVSb2txOEFXUnZycFJpWHZTUkc1M2ZQXy1uNHJOTlV6cXE1TjBUSDV6S3NnLVRKXzdyV05aNzA3OHZ5VTZraFFmRGV0R3BQNkYwVV9VVU5YUHZ6bzFsWk1lQWZxdXpOY2JiZnB0NFZDUkVjMUpacUxIeTdQdGJ0SQ?oc=5",
+   "source": "조선일보",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 09:33 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "[특징주] 삼성전자·SK하이닉스 동반 강세…美 반도체주 훈풍",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mZWZHQ1k4WTF5N0pXZUR6VG93eEJoMGc2XzkwUG50Z3RBRHZ1TFBtUzE5UzczZ1JHN3Nrdmx6ZnJ4d2R2LXAtZTRsZVVWMXJISzQ3Q3AzR09Na2dkUlVIMV9DMA?oc=5",
@@ -40,11 +64,23 @@
    }
   },
   {
-   "title": "SK그룹 부회장 3인, 연말 인사 앞두고 하이닉스行",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSUpaTjViY3NSLWpzSFBBZU1tVHZjNTFOUTJDWmJfcUh1dlU1WVUyRjhUeHJocnJadVA3ZjR5Q1BBLUI5azVXRGNSaTFtMnRvbTBtVDQweGZ1WHJGU2tsa0FfX213Smd6TktfVy1aUnJtX0lUWlBsbWxmUHoxQVFodkZfNA?oc=5",
-   "source": "인베스트조선",
+   "title": "‘호남 400조’ 발 묶인 SK하이닉스, 美·日로 눈 돌리는 속사정은",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pVXNvb01YVXlWOUkzT2xaSGJjMl85SmY3MkVzenZOMEFYdE42c09WS3NOd3EycUtZdUZRdk1yWnZWSU05c0lmWXFWWms4SjJOYkNCbUxyWXF1ZV9vZi12eERiUFF5czVTenEtZ0FSMzPSAXRBVV95cUxOWHNFMktSYk9NRDFUckJ6N3BiVjBhSXFQd3dJRFREeFpXSGZ0ZkdEZkM4cE1iNTRWM3FWWnBtVWpHYTVLNDNNZzV2LTR4cV9QVUpCRGI5azcxbzhoTVhvajN0OEdlWlo4UUxvWDNwbnlZeHdFZw?oc=5",
+   "source": "IT조선",
    "date": "2026-09-18",
-   "datetime": "2026-09-18 08:52 KST",
+   "datetime": "2026-09-18 08:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "인텔·SK하이닉스 '오하이오 빅딜설'에 반도체주 '불기둥'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzJINzd1ZXBadGU4RlZscWxiMV9mUVZmTl9iaU5ka2RycW1jSGU1dC1ZSGl6Zl82dGpSZVI4am9MMnMzYXlaaTFPekY2M0pZbnotTEpfbWJDU1hwS3l5MHEzSmxlRTZzWTByVjlpMjdSVFk5ekNYNWx4VWNxUUFzV2Z6eUdGaUxR?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 06:18 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -85,42 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "인텔은 웃었지만…SK하이닉스 미국 생산, 한국 메모리 주도권 흔드나",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ME1kYnVrTFVISGpnYm42T0M1Z0VvQ3QzT05IVGVQZlh0TFJJYWRGSGJGdW51bG5PZmlWSEFfWXZ1VHkwaGs3Z09EZnFhMkdUTVE?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 16:49 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼전·닉스, 등락 거듭하다 0.4∼0.8% 하락 마감(종합)",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IczhRZ2tCRE9lX0tzdE52RE85cVlpYnBtM2dnYWFyQkRxVl83VWFqdVVTSXF6V0pIbUhHQ1ZFXzd3dVhMbVhIYk9HWWFlZ19sNjlUNFQ4R2lyWDU2cl9TRdIBYEFVX3lxTE1IczhRZ2tCRE9lX0tzdE52RE85cVlpYnBtM2dnYWFyQkRxVl83VWFqdVVTSXF6V0pIbUhHQ1ZFXzd3dVhMbVhIYk9HWWFlZ19sNjlUNFQ4R2lyWDU2cl9TRQ?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 15:51 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "코스피 하락 마감, 6,715.41P (-0.04%↓) KRX SK하이닉스 TR 지수, 코스피 전기·전자 등 하락 주도",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvLWQ2aURXRmhSNF9rZlJyWlVQWUM5NHBQZzB3WmNzbFZ6ZWNfUWNjT1I3OU5hTVRjeTZwR19zV1dLNVZiOFBXLUh4amc4NTNTcmc?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-09-17",
-   "datetime": "2026-09-17 15:37 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
