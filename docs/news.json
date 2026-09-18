@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-18 11:32 KST",
+ "fetchedAt": "2026-09-18 12:32 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -18,7 +18,7 @@
   {
    "title": "SK하이닉스 미국서 '반도체 풀공정' 가능해지나...인텔과 협상설에 '술렁' [자막뉴스]",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ta1puakdESGZvdHVzOEhQOXlZZ2lCbFc0VHNjRXA3ak5JekY3aVZfZU5Ja00wRFFSdVNWQjVRMVVVdlMxcW9FemVfVFoyc01rZ0hDeFBuQllFUGJEZUNCbW1qTQ?oc=5",
-   "source": "YTN",
+   "source": "ytn.co.kr",
    "date": "2026-09-18",
    "datetime": "2026-09-18 10:04 KST",
    "signal": {
@@ -57,18 +57,6 @@
    "source": "조선일보",
    "date": "2026-09-18",
    "datetime": "2026-09-18 09:33 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스 동반 강세…美 반도체주 훈풍",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1mZWZHQ1k4WTF5N0pXZUR6VG93eEJoMGc2XzkwUG50Z3RBRHZ1TFBtUzE5UzczZ1JHN3Nrdmx6ZnJ4d2R2LXAtZTRsZVVWMXJISzQ3Q3AzR09Na2dkUlVIMV9DMA?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-09-18",
-   "datetime": "2026-09-18 09:25 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -117,6 +105,18 @@
    "source": "연합뉴스TV",
    "date": "2026-09-18",
    "datetime": "2026-09-18 09:18 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "‘호남 400조’ 발 묶인 SK하이닉스, 美·日로 눈 돌리는 속사정은",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pVXNvb01YVXlWOUkzT2xaSGJjMl85SmY3MkVzenZOMEFYdE42c09WS3NOd3EycUtZdUZRdk1yWnZWSU05c0lmWXFWWms4SjJOYkNCbUxyWXF1ZV9vZi12eERiUFF5czVTenEtZ0FSMzPSAXRBVV95cUxOWHNFMktSYk9NRDFUckJ6N3BiVjBhSXFQd3dJRFREeFpXSGZ0ZkdEZkM4cE1iNTRWM3FWWnBtVWpHYTVLNDNNZzV2LTR4cV9QVUpCRGI5azcxbzhoTVhvajN0OEdlWlo4UUxvWDNwbnlZeHdFZw?oc=5",
+   "source": "IT조선",
+   "date": "2026-09-18",
+   "datetime": "2026-09-18 08:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
