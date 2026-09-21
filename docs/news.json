@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-09-21 12:38 KST",
+ "fetchedAt": "2026-09-21 13:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "삼성전자·SK하이닉스 35조 자사주 매입 ‘속도’…10월 중순 끝나면 코스피 버팀목 사라지나",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96X3ljV1BnWmY0bUt5eUVvZHg3MmR2M0pJRHlMUnRwWnVvVVUwT0RHWjVfd2lPSDZqbXlJeHNHdU5leVE2UFZ1VmFDVWYwTVBxX2lMWU5SSmJXZHZ5WGdnSlhQeDRwRi16bXVvZ1pxZw?oc=5",
+   "source": "진일보",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 13:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 총상금 1억원 AI 해커톤 개최",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5landSVDR3cWZBbTlOTExoRkI2OFNBcG5LN19keUVhQVdkRkhrSENyc2RkZm10alRnenpmaVN1MkthWkUteEd2ei1NVWJHdw?oc=5",
+   "source": "전자신문",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 13:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "\"수십억짜리 술 마셨네\"…SK하이닉스 신입 4명, 연수 중 음주로 해고",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPQmpFY2locHA2bmRMVE1XODRDMDFzcmdDaGFhQ1FhUFJuM1lycHlVemwyYUp4SzBlVFpjV1NTMDF2ZFJvcEk5U01DaUJYbzlaalF5WlJYZFJvUTUtai16NUhR0gFnQVVfeXFMTkI4YTdQMkRQa1Z2dS1SR2pRYzA2eVNBNEZWUHBhcGVYdWhUZkY4NVg0VUkwOXQ3UmFaWndlYUtVLXZiMUI5THFPV1BhYmc3cVI3NnlnLWpXdUZYdTZPWVY2TDRUM1pCcw?oc=5",
@@ -21,6 +45,18 @@
    "source": "오피니언뉴스",
    "date": "2026-09-21",
    "datetime": "2026-09-21 11:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "KODEX 미국반도체, 'SK하이닉스 ADR' 신규 편입",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDh0QkZCdFdfWm5EYU5wbF83TXNLcDJBWTZjWjEzRTRSYkFaUG9pVUZiNXdIUDFrS0FPbHdTMUdHSEk2N2dMRmQ4ZFA1c3VQbkZYNUxCaVpXZGFnRER1dDJOX2EwTzhqbDFSZW9UaDBSZmtvN2swMGxyQnhyRmFuOGl6LUlqenM?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 10:56 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -52,18 +88,6 @@
    }
   },
   {
-   "title": "SK하이닉스, AI 실전 역량 겨루는 해커톤 개최…총상금 1억원",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jQmdXcGJjXzVfbmFtQ2VKRXBoVHdKdmxmZjVVdlFMcVl1bDdud0lxdXllbXl1ZTFya1BQMjFndkliS0dYSDBmUXFiWjd4Y0FkbTM0bkR5QnVXSXJIRDJhMmFZaTdISjNDWWlJQjZLamg?oc=5",
-   "source": "news.einfomax.co.kr",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 10:25 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "곽노정 사장 \"SK하이닉스, 차세대 메모리로 AI 새로운 가능성 열 것\"",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOU9oeUF3WWtRbDluRlVLbGMwSUxYeWtkRVBXQTNUZktBMzVDaFcwbEExOUlRSlB4ODNycnBVZEpkaENtMUtCYWJOckJ0MDZ6VnRaZW5qcFFPUk5nQ3cyTWhoZWhuXzRxNDE1SjA2UXNvZC1nSUpwNkJTUFdWQTlZUkNxZjZXQQ?oc=5",
    "source": "글로벌이코노믹",
@@ -78,7 +102,7 @@
   {
    "title": "\"메모리 없이는 AI 산업도 없다\"…SK하이닉스 '자신감'",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4ZHNWVHpMVUJ3a1poVUhOcDB4a05pNXpzRWtDTUdxNmJ3LWhiVmZqOElyQkNlbkk5Rm9RWlJNRUhleGFfWFdZbFlKdTN6V09SZTMtdExOTTVTQQ?oc=5",
-   "source": "한국경제",
+   "source": "hankyung.com",
    "date": "2026-09-21",
    "datetime": "2026-09-21 10:22 KST",
    "signal": {
@@ -88,35 +112,11 @@
    }
   },
   {
-   "title": "SK하이닉스·삼성전자 자사주 매입, 내달 중순 종료 전망",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CdU1CMVppTXZPN29XZEpRNklxVl9RMEVhOTRFcndnRlFtMG1rYjN2eG9VbGx1Wkhhb0NGUmJWaC1fUkVtY200cUdha0l4R0tweTdzbnpRZm9EZmVuT0RoUkZobHA?oc=5",
-   "source": "서울경제TV",
+   "title": "SK하이닉스, 학력 안 보는 AI 해커톤…우수자 채용 연계",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnlya2dEb21Ia2sxX0dQY1lQNE94T0dSLXllcXVpQXVCR2R5NmtUMTNLemJCMWVVMUhaQkMwUG1lRVhtLS0tbkNYNXFkQnE1eG85cDRHRnBMNGxBVDh5M0lxbHRUMUJqeHJPbHo2Y3o4dVBOVlY2YVlqbkxLRWdBV1JheEE?oc=5",
+   "source": "글로벌이코노믹",
    "date": "2026-09-21",
-   "datetime": "2026-09-21 10:17 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, AI 해커톤 개최…학력 안 보고 실전 역량 평가 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWQ0VW91ZWFzUnd5Wi10czdrTUlGbWYydXgyVy1VZHZxOU1YR1JPNTM4a3AzejdtMlVReV8xLWk0bkd6TU1xNUJvR3FYNWJkakEtbkJoNUZ6RWhIVWxhazc2RjVVMllYb18tS2JwU0wzVU1nTUlRa1ZkaVlYUUUtOGwySFRETlltRHRTaEdVSDVXemx3dVHSAZYBQVVfeXFMT3lkNFVvdWVhc1J3eVotdHM3a01JRm1mMnV4MlctVWR2cTlNWEdSTzUzOGtwM3o3bTJVUXlfMS1pNG5Hek1NcTVCb0dxWDViZGpBLW5CaDVGekVoSFVsYWs3NkY1VTJZWG9fLUticFNMM1VNZ01JUWtWZGlZWFFFLThsMkhURE5ZbUR0U2hHVUg1V3psd3VR?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 10:13 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성운용 'KODEX 미국반도체' SK하이닉스 ADR 신규 편입",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wMi1yTzFBYVZfSEk2ZWUwMHNocEhZRHd3VlpYbGZOVzRvX2xmY0lUSm1zdWJwTl9mUjkzdnotZ3ctLUFFS1Z6SllwQllpVm9aczVWMVhSNFN4SjhMY0tKbkFJUWpMdlRBRWR0Y0RBR21lMElC0gF0QVVfeXFMTnAyLXJPMUFhVl9ISTZlZTAwc2hwSFlEd3dWWlhsZk5XNG9fbGZjSVRKbXN1YnBOX2ZSOTN2ei1ndy0tQUVLVnpKWXBCWWlWb1pzNVYxWFI0U3hKOExjS0puQUlRakx2VEFFZHRjREFHbWUwSUI?oc=5",
-   "source": "주간한국",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 10:06 KST",
+   "datetime": "2026-09-21 10:21 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
