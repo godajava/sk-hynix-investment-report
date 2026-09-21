@@ -1,14 +1,38 @@
 {
- "fetchedAt": "2026-09-21 10:41 KST",
+ "fetchedAt": "2026-09-21 11:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "’빅쇼트’ 아이스만, SK하이닉스 주목 \"AI 시대엔 칼 쓰는 기업보다 칼 파는 기업이 승자\" By The Guru",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TMEJOaDlfWU43UUd4cmRCR24tZ2NwRWgwbUI2SVMzUTMxRFdwc0dRdGd5UUJ5bDgwbGw3V0s4SUtNMi14N1lZd2lYUnRrT1FEdUU0dVNLOUhJSHdYblI3TjlFRE5zY1VGSEdvbmtFSUE?oc=5",
-   "source": "Investing.com 한국어",
+   "title": "\"수십억짜리 술 마셨네\"…SK하이닉스 신입 4명, 연수 중 음주로 해고",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPQmpFY2locHA2bmRMVE1XODRDMDFzcmdDaGFhQ1FhUFJuM1lycHlVemwyYUp4SzBlVFpjV1NTMDF2ZFJvcEk5U01DaUJYbzlaalF5WlJYZFJvUTUtai16NUhR0gFnQVVfeXFMTkI4YTdQMkRQa1Z2dS1SR2pRYzA2eVNBNEZWUHBhcGVYdWhUZkY4NVg0VUkwOXQ3UmFaWndlYUtVLXZiMUI5THFPV1BhYmc3cVI3NnlnLWpXdUZYdTZPWVY2TDRUM1pCcw?oc=5",
+   "source": "뉴스1",
    "date": "2026-09-21",
-   "datetime": "2026-09-21 10:27 KST",
+   "datetime": "2026-09-21 11:05 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스 동반 강세…코스피 7000선 회복",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oRUFwVXNiVUZpNVNzNm1HaUFzb3Q5ZjJ6UkRfQ3JoUGpsWWxQdkVJeXZ3SFlRS3lOYTl0MmFQOUluVGtva2JmUDJGVlJNcXV5LWpwQ3RkeUZ1ODZKT0hTTi1PYw?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 10:35 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "AI 실전 역량 겨룬다…SK하이닉스 '해커톤' 28일까지 접수",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iSkU5VWxEQTM1aU5LdG5oZ0l3LWNNWnIzd2cxU256TTRRdTRtaUQyUTVLanVBT3VVT2Nfcy04VV9CZHdYYmFhV3NRWVlpekE?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 10:30 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -18,9 +42,21 @@
   {
    "title": "SK하이닉스, AI 실전 역량 겨루는 해커톤 개최…총상금 1억원",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jQmdXcGJjXzVfbmFtQ2VKRXBoVHdKdmxmZjVVdlFMcVl1bDdud0lxdXllbXl1ZTFya1BQMjFndkliS0dYSDBmUXFiWjd4Y0FkbTM0bkR5QnVXSXJIRDJhMmFZaTdISjNDWWlJQjZLamg?oc=5",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "date": "2026-09-21",
    "datetime": "2026-09-21 10:25 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 곽노정 \"차세대 메모리로 AI 가능성 열 것\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lY1B3d3J2YTZ0dE5JMzFqRW8tbTlKaEcyaEtQMjlqNE42bU1DRUJFbEhKX250SW9XRjU2VGxMUmJldHdtcU00MWgzOHZBRjIyWU1XOWFtNHI2Wnh0SzdJVzNlSEdicms?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 10:23 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -64,47 +100,11 @@
    }
   },
   {
-   "title": "SK하이닉스 곽노정 \"차세대 메모리로 AI 새로운 가능성 열 것\"",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDc2FWQmJTMmRncjRsdWFIOG16WVhTOGI1bW44azB1dmV1bGxraFotUzFUbVh5a0xyTFgtNVBCRjZZdWpDQWxkWTlvSUxKOEk?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 10:05 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 美 반도체주 강세.. 동반 '상승'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb0ZvYlBwNzVlc1lNNkJrS1o2ZnZnWWZmV19rT2h6dkNPSmcwUko5YnhPWDh0cUJ3eS1Cb0JsNTRiZlJMWm8wYklEa1U1OU5rMVV2NnJVUi02UzVLVWc2djIwRnk4cTI1eUdyMVkzS0RZbU8wYTdEUS1HdHBXVk1PdHZPZTE3Z243?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 09:45 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
    "title": "곽노정 SK하이닉스 사장 \"글로벌 인재와 AI 기술 한계 극복할 것\"",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzM1YyekpHLVBGMjJNUV9tR2VIblYxQTRValdpUk4zdHlNQU94VjVUS3FVWFkyTS1SdzhrOWRkLVVISHlLeGM5Vk5kZmFCbkE?oc=5",
    "source": "v.daum.net",
    "date": "2026-09-21",
    "datetime": "2026-09-21 09:21 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한미글로벌, SK하이닉스 美 인디애나 HBM 공장 건설사업관리 수행",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tN19kQmJ0TmRtYzlrdUpJTDRxeDJlazBWdU9kUTFsQ0VKZWJ6UXVBWXdHcWlDYjc5MVZlOFRWR1VZbGxtWDNpM3J5d2xFZmZ4Ml9EMmFYcjRMQWI0LXA0Qw?oc=5",
-   "source": "아시아경제",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 09:17 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
