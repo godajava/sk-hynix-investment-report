@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-21 13:38 KST",
+ "fetchedAt": "2026-09-21 14:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -9,6 +9,18 @@
    "source": "진일보",
    "date": "2026-09-21",
    "datetime": "2026-09-21 13:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 \"메모리 없인 AI도 없다\"…美서 차세대 기술 청사진",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd2NuMVFTOEJ1ZkhyR2V1Q2NpdEtmMFk2YUQtWk1IakhTUm10cndlYmVpc3JQd0lhMnpNNHBicHNMY051eG8zSGxZRm5KeHN6c0RrT3hEOTdCc0V4?oc=5",
+   "source": "newspim.com",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 13:01 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -78,7 +90,7 @@
   {
    "title": "한미글로벌, SK하이닉스 미국 인디애나 HBM 공장 건설 PM 수행",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fQ052NzU2a0tfZXlTVVBQWTlFVDV5ZWFSTjUzYlF4b1JpMk9KWmpBZlpFOWdHNkdjWGZrSXdzeHU2Zlp1WVhjUHlUYTZvZ0pFZGdPQUZveTB0QVVLZ1U0RDFsUVpLNnVWOFc0b1dNVWtpVXdV0gF0QVVfeXFMTV9DTnY3NTZrS19leVNVUFBZOUVUNXllYVJONTNiUXhvUmkyT0paakFmWkU5Z0c2R2NYZmtJd3N4dTZmWnVZWGNQeVRhNm9nSkVkZ09BRm95MHRBVUtnVTREMWxRWks2dVY4VzRvV01Va2lVd1U?oc=5",
-   "source": "주간한국",
+   "source": "weekly.hankooki.com",
    "date": "2026-09-21",
    "datetime": "2026-09-21 10:26 KST",
    "signal": {
@@ -102,21 +114,9 @@
   {
    "title": "\"메모리 없이는 AI 산업도 없다\"…SK하이닉스 '자신감'",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4ZHNWVHpMVUJ3a1poVUhOcDB4a05pNXpzRWtDTUdxNmJ3LWhiVmZqOElyQkNlbkk5Rm9RWlJNRUhleGFfWFdZbFlKdTN6V09SZTMtdExOTTVTQQ?oc=5",
-   "source": "hankyung.com",
+   "source": "한국경제",
    "date": "2026-09-21",
    "datetime": "2026-09-21 10:22 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 학력 안 보는 AI 해커톤…우수자 채용 연계",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYnlya2dEb21Ia2sxX0dQY1lQNE94T0dSLXllcXVpQXVCR2R5NmtUMTNLemJCMWVVMUhaQkMwUG1lRVhtLS0tbkNYNXFkQnE1eG85cDRHRnBMNGxBVDh5M0lxbHRUMUJqeHJPbHo2Y3o4dVBOVlY2YVlqbkxLRWdBV1JheEE?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 10:21 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
