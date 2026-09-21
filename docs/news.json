@@ -1,14 +1,50 @@
 {
- "fetchedAt": "2026-09-21 14:38 KST",
+ "fetchedAt": "2026-09-21 15:33 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스 “신규 글로벌 생산 거점으로 시장지배력 지켜나갈 것”",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51LTJNMzdzblpRRmdEaTBVemNhZmg4UV85bUNtbHNxUHc3Y1RuR0NyNEt1VWs3dUxTODlBOHpjZmZIMU1NTG96VHFaNzRvejlKcVdvZG1fNzNIUdIBX0FVX3lxTFB1LWpIdkVLbXhuWlNCT0tEMmFpMnJxN0lOd3pCYXc5dU84VUtIQUNfY0VLRERzbjNnbnpUVUpvTnRfM0R5UHpURFVIRjdIdWw3Z0JnVkNfRm1ZUlM3OUNr?oc=5",
+   "source": "경향신문",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 15:12 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, AI 해커톤 개최…우수자 채용 패스트트랙 제공",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rcm1Qbm1OSkhIMFRiOU9DNjdJdGo2TWE4bWE2d1A1LVQwcUdzNVVYRkR4MlpOQXN6Ul9BVXFhRFRJSDdLR0d4eUwxRGJ0WVpsM3U2T3NPZjFEWG84V0VsSDNKODE?oc=5",
+   "source": "서울경제TV",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 14:52 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "삼성전자·SK하이닉스 35조 자사주 매입 ‘속도’…10월 중순 끝나면 코스피 버팀목 사라지나",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96X3ljV1BnWmY0bUt5eUVvZHg3MmR2M0pJRHlMUnRwWnVvVVUwT0RHWjVfd2lPSDZqbXlJeHNHdU5leVE2UFZ1VmFDVWYwTVBxX2lMWU5SSmJXZHZ5WGdnSlhQeDRwRi16bXVvZ1pxZw?oc=5",
    "source": "진일보",
    "date": "2026-09-21",
    "datetime": "2026-09-21 13:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "곽노정 SK하이닉스 사장 “메모리 없이 AI 없다”",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nckFHdDlsRHVvNV9SWWtsTXlRaU1Qb3c1RUU5LU5fZ1pzQmhJQjgwenJ5MEM0LVNuTXpRd2FhYWxQREJ2Y0Ffc2o3YWk5LVdtUURHUFdWOUgzT3NTUXZVVDNVbGlyS0Vva3MzYmVQQm9Ba3Ji0gF0QVVfeXFMTmdyQUd0OWxEdW81X1JZa2xNeVFpTVBvdzVFRTktTl9nWnNCaElCODB6cnkwQzQtU25NelF3YWFhbFBEQnZjQV9zajdhaTktV21RREdQV1Y5SDNPc1NRdlVUM1VsaXJLRW9rczNiZVBCb0FrcmI?oc=5",
+   "source": "주간한국",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 13:01 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -81,42 +117,6 @@
    "source": "v.daum.net",
    "date": "2026-09-21",
    "datetime": "2026-09-21 10:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한미글로벌, SK하이닉스 미국 인디애나 HBM 공장 건설 PM 수행",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fQ052NzU2a0tfZXlTVVBQWTlFVDV5ZWFSTjUzYlF4b1JpMk9KWmpBZlpFOWdHNkdjWGZrSXdzeHU2Zlp1WVhjUHlUYTZvZ0pFZGdPQUZveTB0QVVLZ1U0RDFsUVpLNnVWOFc0b1dNVWtpVXdV0gF0QVVfeXFMTV9DTnY3NTZrS19leVNVUFBZOUVUNXllYVJONTNiUXhvUmkyT0paakFmWkU5Z0c2R2NYZmtJd3N4dTZmWnVZWGNQeVRhNm9nSkVkZ09BRm95MHRBVUtnVTREMWxRWks2dVY4VzRvV01Va2lVd1U?oc=5",
-   "source": "weekly.hankooki.com",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 10:26 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "곽노정 사장 \"SK하이닉스, 차세대 메모리로 AI 새로운 가능성 열 것\"",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOU9oeUF3WWtRbDluRlVLbGMwSUxYeWtkRVBXQTNUZktBMzVDaFcwbEExOUlRSlB4ODNycnBVZEpkaENtMUtCYWJOckJ0MDZ6VnRaZW5qcFFPUk5nQ3cyTWhoZWhuXzRxNDE1SjA2UXNvZC1nSUpwNkJTUFdWQTlZUkNxZjZXQQ?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 10:24 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"메모리 없이는 AI 산업도 없다\"…SK하이닉스 '자신감'",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4ZHNWVHpMVUJ3a1poVUhOcDB4a05pNXpzRWtDTUdxNmJ3LWhiVmZqOElyQkNlbkk5Rm9RWlJNRUhleGFfWFdZbFlKdTN6V09SZTMtdExOTTVTQQ?oc=5",
-   "source": "한국경제",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 10:22 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
