@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-21 11:38 KST",
+ "fetchedAt": "2026-09-21 12:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -16,15 +16,15 @@
    }
   },
   {
-   "title": "[특징주] 삼성전자·SK하이닉스 동반 강세…코스피 7000선 회복",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oRUFwVXNiVUZpNVNzNm1HaUFzb3Q5ZjJ6UkRfQ3JoUGpsWWxQdkVJeXZ3SFlRS3lOYTl0MmFQOUluVGtva2JmUDJGVlJNcXV5LWpwQ3RkeUZ1ODZKT0hTTi1PYw?oc=5",
-   "source": "에너지경제신문",
+   "title": "SK하이닉스 \"메모리 없는 AI는 없다\"... 美 ‘2026 글로벌 포럼’ 개최",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DVW8zR0dzS2ZleXczXy1JZFNjWS1qZWZGa3JZbUhKSmRmd3Q5b2ZsV0hUWTRabzZyX0FPbUxNcHM5SG9mRTZFS3g5RFdZbkl3YnhtckhSZ1lPY1ZJeENHb0JJRnhNYnV0TlNzb0I5QVkydw?oc=5",
+   "source": "오피니언뉴스",
    "date": "2026-09-21",
-   "datetime": "2026-09-21 10:35 KST",
+   "datetime": "2026-09-21 11:00 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -40,9 +40,21 @@
    }
   },
   {
+   "title": "한미글로벌, SK하이닉스 미국 인디애나 HBM 공장 건설 PM 수행",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fQ052NzU2a0tfZXlTVVBQWTlFVDV5ZWFSTjUzYlF4b1JpMk9KWmpBZlpFOWdHNkdjWGZrSXdzeHU2Zlp1WVhjUHlUYTZvZ0pFZGdPQUZveTB0QVVLZ1U0RDFsUVpLNnVWOFc0b1dNVWtpVXdV0gF0QVVfeXFMTV9DTnY3NTZrS19leVNVUFBZOUVUNXllYVJONTNiUXhvUmkyT0paakFmWkU5Z0c2R2NYZmtJd3N4dTZmWnVZWGNQeVRhNm9nSkVkZ09BRm95MHRBVUtnVTREMWxRWks2dVY4VzRvV01Va2lVd1U?oc=5",
+   "source": "주간한국",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 10:26 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스, AI 실전 역량 겨루는 해커톤 개최…총상금 1억원",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jQmdXcGJjXzVfbmFtQ2VKRXBoVHdKdmxmZjVVdlFMcVl1bDdud0lxdXllbXl1ZTFya1BQMjFndkliS0dYSDBmUXFiWjd4Y0FkbTM0bkR5QnVXSXJIRDJhMmFZaTdISjNDWWlJQjZLamg?oc=5",
-   "source": "연합인포맥스",
+   "source": "news.einfomax.co.kr",
    "date": "2026-09-21",
    "datetime": "2026-09-21 10:25 KST",
    "signal": {
@@ -52,11 +64,11 @@
    }
   },
   {
-   "title": "SK하이닉스 곽노정 \"차세대 메모리로 AI 가능성 열 것\"",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lY1B3d3J2YTZ0dE5JMzFqRW8tbTlKaEcyaEtQMjlqNE42bU1DRUJFbEhKX250SW9XRjU2VGxMUmJldHdtcU00MWgzOHZBRjIyWU1XOWFtNHI2Wnh0SzdJVzNlSEdicms?oc=5",
-   "source": "연합뉴스TV",
+   "title": "곽노정 사장 \"SK하이닉스, 차세대 메모리로 AI 새로운 가능성 열 것\"",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOU9oeUF3WWtRbDluRlVLbGMwSUxYeWtkRVBXQTNUZktBMzVDaFcwbEExOUlRSlB4ODNycnBVZEpkaENtMUtCYWJOckJ0MDZ6VnRaZW5qcFFPUk5nQ3cyTWhoZWhuXzRxNDE1SjA2UXNvZC1nSUpwNkJTUFdWQTlZUkNxZjZXQQ?oc=5",
+   "source": "글로벌이코노믹",
    "date": "2026-09-21",
-   "datetime": "2026-09-21 10:23 KST",
+   "datetime": "2026-09-21 10:24 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -89,7 +101,7 @@
   },
   {
    "title": "SK하이닉스, AI 해커톤 개최…학력 안 보고 실전 역량 평가 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeW1oeTZjTjdjQm90djBQelZLU0UtUmxrZm9KY3NQOVptTlZUdmhIanp5c3lRdDdGOE5MZXpqZUVyTUlwSTVpM1AwOTFVSlg0R0hsSm1mc2JySUtzX3BmSHQyeDB3bWdnLWVKQXNoLVF4c0NpXzQzR1ZaUlNVS1lYS3V30gGWAUFVX3lxTE95ZDRVb3VlYXNSd3laLXRzN2tNSUZtZjJ1eDJXLVVkdnE5TVhHUk81MzhrcDN6N20yVVF5XzEtaTRuR3pNTXE1Qm9HcVg1YmRqQS1uQmg1RnpFaEhVbGFrNzZGNVUyWVhvXy1LYnBTTDNVTWdNSVFrVmRpWVhRRS04bDJIVEROWW1EdFNoR1VINVd6bHd1UQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeWQ0VW91ZWFzUnd5Wi10czdrTUlGbWYydXgyVy1VZHZxOU1YR1JPNTM4a3AzejdtMlVReV8xLWk0bkd6TU1xNUJvR3FYNWJkakEtbkJoNUZ6RWhIVWxhazc2RjVVMllYb18tS2JwU0wzVU1nTUlRa1ZkaVlYUUUtOGwySFRETlltRHRTaEdVSDVXemx3dVHSAZYBQVVfeXFMT3lkNFVvdWVhc1J3eVotdHM3a01JRm1mMnV4MlctVWR2cTlNWEdSTzUzOGtwM3o3bTJVUXlfMS1pNG5Hek1NcTVCb0dxWDViZGpBLW5CaDVGekVoSFVsYWs3NkY1VTJZWG9fLUticFNMM1VNZ01JUWtWZGlZWFFFLThsMkhURE5ZbUR0U2hHVUg1V3psd3VR?oc=5",
    "source": "Chosunbiz",
    "date": "2026-09-21",
    "datetime": "2026-09-21 10:13 KST",
@@ -100,27 +112,15 @@
    }
   },
   {
-   "title": "곽노정 SK하이닉스 사장 \"글로벌 인재와 AI 기술 한계 극복할 것\"",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzM1YyekpHLVBGMjJNUV9tR2VIblYxQTRValdpUk4zdHlNQU94VjVUS3FVWFkyTS1SdzhrOWRkLVVISHlLeGM5Vk5kZmFCbkE?oc=5",
-   "source": "v.daum.net",
+   "title": "삼성운용 'KODEX 미국반도체' SK하이닉스 ADR 신규 편입",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wMi1yTzFBYVZfSEk2ZWUwMHNocEhZRHd3VlpYbGZOVzRvX2xmY0lUSm1zdWJwTl9mUjkzdnotZ3ctLUFFS1Z6SllwQllpVm9aczVWMVhSNFN4SjhMY0tKbkFJUWpMdlRBRWR0Y0RBR21lMElC0gF0QVVfeXFMTnAyLXJPMUFhVl9ISTZlZTAwc2hwSFlEd3dWWlhsZk5XNG9fbGZjSVRKbXN1YnBOX2ZSOTN2ei1ndy0tQUVLVnpKWXBCWWlWb1pzNVYxWFI0U3hKOExjS0puQUlRakx2VEFFZHRjREFHbWUwSUI?oc=5",
+   "source": "주간한국",
    "date": "2026-09-21",
-   "datetime": "2026-09-21 09:21 KST",
+   "datetime": "2026-09-21 10:06 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자, 장초반 3%대 급등…SK하이닉스도 1.29%↑",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FNGo5NnlQVTNuU0lLSkY2TTgxMDd4TEdHajR0VGg4RTM5UWg2VUFIalRqNVFJZUFQNG10X1JZSTdXMmw5QmRqZnBWZFpGVVJEOFE?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 09:13 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
