@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-09-21 09:20 KST",
+ "fetchedAt": "2026-09-21 09:31 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "한미글로벌, SK하이닉스 40억 달러 美 HBM 공장 PM 용역 총괄 수행",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oOGp4ZG1ndnVLMGFPc2E0UF8ycUFLTEtmcXhkMEF6bnA2RnNGNWhmSVk5NlZHSm9raERTTUJSbDFGT251WkN3cVFoS0lnQTJvbVU0NVFFS2t1WlVkM2ppdl9lWDZ5UVhM?oc=5",
-   "source": "팍스경제TV",
+   "title": "곽노정 SK하이닉스 사장 \"글로벌 인재와 AI 기술 한계 극복할 것\"",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzM1YyekpHLVBGMjJNUV9tR2VIblYxQTRValdpUk4zdHlNQU94VjVUS3FVWFkyTS1SdzhrOWRkLVVISHlLeGM5Vk5kZmFCbkE?oc=5",
+   "source": "v.daum.net",
    "date": "2026-09-21",
-   "datetime": "2026-09-21 09:08 KST",
+   "datetime": "2026-09-21 09:21 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,11 +16,23 @@
    }
   },
   {
-   "title": "한미글로벌, SK하이닉스 인디애나 HBM 공장 건설사업관리",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11bF9ZNHBYWERsQ19SdUQ5UzNaVm5ZQ0dZcW94M2s5dlBlcllHZHh4NjhoTjJTWnpCemV5M2V0OEpxRDhOdnFiQ0NJS25PdW1pNjRLUWZRUERUWmxpeDcxdXo1c3p4Q2M?oc=5",
-   "source": "yonhapnewstv.co.kr",
+   "title": "한미글로벌, SK하이닉스 美 인디애나 HBM 공장 건설사업관리 수행",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tN19kQmJ0TmRtYzlrdUpJTDRxeDJlazBWdU9kUTFsQ0VKZWJ6UXVBWXdHcWlDYjc5MVZlOFRWR1VZbGxtWDNpM3J5d2xFZmZ4Ml9EMmFYcjRMQWI0LXA0Qw?oc=5",
+   "source": "asiae.co.kr",
    "date": "2026-09-21",
-   "datetime": "2026-09-21 09:01 KST",
+   "datetime": "2026-09-21 09:17 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "한미글로벌, SK하이닉스 40억 달러 美 HBM 공장 PM 용역 총괄 수행",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oOGp4ZG1ndnVLMGFPc2E0UF8ycUFLTEtmcXhkMEF6bnA2RnNGNWhmSVk5NlZHSm9raERTTUJSbDFGT251WkN3cVFoS0lnQTJvbVU0NVFFS2t1WlVkM2ppdl9lWDZ5UVhM?oc=5",
+   "source": "팍스경제TV",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 09:08 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -105,18 +117,6 @@
    "source": "브릿지경제",
    "date": "2026-09-20",
    "datetime": "2026-09-20 14:08 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "‘신중론’에도 끊이지 않는 미·일 투자설…SK하이닉스 생산기지 주목",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hbzFmMC1DZUZIazlyS2lCcS1MRnZ0eHpvU3ZKMDY1QjItV096bDJfSXpVSzQ3RlpURFRpQ3RuelN1MENnRG95QVhUcFBUbWpzRjEzUjNpQVJTZno0bzVWRg?oc=5",
-   "source": "뉴스토마토",
-   "date": "2026-09-20",
-   "datetime": "2026-09-20 13:46 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
