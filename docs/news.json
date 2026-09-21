@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-21 15:46 KST",
+ "fetchedAt": "2026-09-21 15:51 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -16,11 +16,23 @@
    }
   },
   {
-   "title": "SK하이닉스, AI 해커톤 개최…우수자 채용 패스트트랙 제공",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rcm1Qbm1OSkhIMFRiOU9DNjdJdGo2TWE4bWE2d1A1LVQwcUdzNVVYRkR4MlpOQXN6Ul9BVXFhRFRJSDdLR0d4eUwxRGJ0WVpsM3U2T3NPZjFEWG84V0VsSDNKODE?oc=5",
-   "source": "서울경제TV",
+   "title": "곽노정 SK하이닉스 사장 “메모리 없인 AI도 없다”",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1TWXdMODJDTWxUaTRPbjZISjE3QmFUdEh4c01Ta2Vidm5vS0xUUlEzUy1VVzh1NFZtSTNSR2VhRFkzZVhycm1RYXBNcDYtN01xakJkNVBCM2pyVy1nQWNuc0FKM3B2V0ZI0gFoQVVfeXFMTVNZd0w4MkNNbFRpNE9uNkhKMTdCYVR0SHhzTVNrZWJ2bm9LTFRSUTNTLVVXOHU0Vm1JM1JHZWFEWTNlWHJybVFhcE1wNi03TXFqQmQ1UEIzanJXLWdBY25zQUozcHZXRkg?oc=5",
+   "source": "매일일보",
    "date": "2026-09-21",
-   "datetime": "2026-09-21 14:52 KST",
+   "datetime": "2026-09-21 14:46 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "학벌·스펙 지우고 실력 겨룬다…SK하이닉스, AI 해커톤 2026 개최",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfenJTMGRMQlc2UVNwLXpFMFZmUkJ6T1prNDVSbWRkb19PUlp0N2VJcThfVG9lSjVtWU01LWNUUUtIU2tQWk5od0tCSGVEU3NBbVVpU3E2bTlQRmw2OXVBQzRMdlZhNHlQSFZ3LU9qb2tUWkJF0gF0QVVfeXFMUF96clMwZExCVzZRU3AtekUwVmZSQnpPWms0NVJtZGRvX09SWnQ3ZUlxOF9Ub2VKNW1ZTTUtY1RRS0hTa1BaTmh3S0JIZURTc0FtVWlTcTZtOVBGbDY5dUFDNEx2VmE0eVBIVnctT2pva1RaQkU?oc=5",
+   "source": "it.chosun.com",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 14:42 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -45,30 +57,6 @@
    "source": "진일보",
    "date": "2026-09-21",
    "datetime": "2026-09-21 13:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "곽노정 SK하이닉스 사장 “메모리 없이 AI 없다”",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nckFHdDlsRHVvNV9SWWtsTXlRaU1Qb3c1RUU5LU5fZ1pzQmhJQjgwenJ5MEM0LVNuTXpRd2FhYWxQREJ2Y0Ffc2o3YWk5LVdtUURHUFdWOUgzT3NTUXZVVDNVbGlyS0Vva3MzYmVQQm9Ba3Ji0gF0QVVfeXFMTmdyQUd0OWxEdW81X1JZa2xNeVFpTVBvdzVFRTktTl9nWnNCaElCODB6cnkwQzQtU25NelF3YWFhbFBEQnZjQV9zajdhaTktV21RREdQV1Y5SDNPc1NRdlVUM1VsaXJLRW9rczNiZVBCb0FrcmI?oc=5",
-   "source": "주간한국",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 13:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 \"메모리 없인 AI도 없다\"…美서 차세대 기술 청사진",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vd2NuMVFTOEJ1ZkhyR2V1Q2NpdEtmMFk2YUQtWk1IakhTUm10cndlYmVpc3JQd0lhMnpNNHBicHNMY051eG8zSGxZRm5KeHN6c0RrT3hEOTdCc0V4?oc=5",
-   "source": "newspim.com",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 13:01 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -121,6 +109,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스 동반 강세…코스피 7000선 회복",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52SXNQZjNBcDBBb19TLVBDaTh2MWV6aG9YdjM4ZVZSeE14cjQxMlhQWmdLRlFwenJjWVp1NWYwYzBHTlBkYXVOc3FQNm8xNjFGVXRMUWpLS2xVc2s?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-09-21",
+   "datetime": "2026-09-21 10:35 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   }
  ]
