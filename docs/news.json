@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-22 15:36 KST",
+ "fetchedAt": "2026-09-22 15:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -54,7 +54,7 @@
   {
    "title": "SK하이닉스 신입사원 4명 해고…\"인생에서 가장 비싼 술\"",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlNWdZSFpHcHE2V0lCaWhTRE15VnAyZFBwUWJoenN6ZlJLRnNDaUJnQWU0cndMT2pIb00wSFFYamhBamxQX3ZiSHJUODlKaEIzQ1QyUXpzYWRvVnVIQy0xMFdVVEVQeHM?oc=5",
-   "source": "연합뉴스TV",
+   "source": "yonhapnewstv.co.kr",
    "date": "2026-09-22",
    "datetime": "2026-09-22 10:02 KST",
    "signal": {
@@ -66,7 +66,7 @@
   {
    "title": "[특징주] 삼성전자, 장초반 2.4% 급등…SK하이닉스는 3% 뛰어",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBhQkJfV3FtdmRhdXZ3RWF0WWVRUlkwM2ltQzV6d1FFeUxib0NVeDVqSGZvaTFnNHlyNHNKVWF5VlduV0k4Tk1HT3ZKWTV2UVNGUFl4Q1VUa04xZzDSAWBBVV95cUxPOFRnVWhfb010WDg2S0xMMXdqQXVmb2pfSF9HOEZDSXFDc09id1paQnFNZVhxcFRadmFVSG5DUGp1UDg2VkhKZ2xHTE90UlZzQ1BGQURpMWZRQTY1TlVkSzk?oc=5",
-   "source": "yna.co.kr",
+   "source": "연합뉴스",
    "date": "2026-09-22",
    "datetime": "2026-09-22 09:14 KST",
    "signal": {
@@ -102,7 +102,7 @@
   {
    "title": "SK하이닉스, GDDR7 기판 공급망 넓힌다…코리아써키트 합류",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MVDA3Qk9EeC1aVVVxUThYTWgxZ1FiYW4yVGRtM2psdEpBVzh0MHNOODZiREpyT29nTmRkQzNNeHlTTE1YRWJsUWx0SG9RZUE?oc=5",
-   "source": "dealsite.co.kr",
+   "source": "딜사이트",
    "date": "2026-09-22",
    "datetime": "2026-09-22 07:20 KST",
    "signal": {
