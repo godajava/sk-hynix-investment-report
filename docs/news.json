@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-09-22 09:38 KST",
+ "fetchedAt": "2026-09-22 10:42 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스 신입사원 4명 해고…\"인생에서 가장 비싼 술\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlNWdZSFpHcHE2V0lCaWhTRE15VnAyZFBwUWJoenN6ZlJLRnNDaUJnQWU0cndMT2pIb00wSFFYamhBamxQX3ZiSHJUODlKaEIzQ1QyUXpzYWRvVnVIQy0xMFdVVEVQeHM?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-09-22",
+   "datetime": "2026-09-22 10:02 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자, 장초반 2.4% 급등…SK하이닉스는 3% 뛰어",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84VGdVaF9vTXRYODZLTEwxd2pBdWZval9IX0c4RkNJcUNzT2J3WlpCcU1lWHFwVFp2YVVIbkNQanVQODZWSEpnbEdMT3RSVnNDUEZBRGkxZlFBNjVOVWRLOdIBYEFVX3lxTE84VGdVaF9vTXRYODZLTEwxd2pBdWZval9IX0c4RkNJcUNzT2J3WlpCcU1lWHFwVFp2YVVIbkNQanVQODZWSEpnbEdMT3RSVnNDUEZBRGkxZlFBNjVOVWRLOQ?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-22",
+   "datetime": "2026-09-22 09:14 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "삼성전자·SK하이닉스, 고성능 GDDR7로 소니 차세대 콘솔 'PS6' D램 공급 정조준",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4RWxla3pXUkZDYVFBWkhaNGJmZlNVQ281NUR3NzJzQUlkbUh6LVFLNlg3NGVBVXAzSVV1RFUycWZSZXVyWTVoejhNY2hsSWFiRkw4bTJYYmJwd3AwZVd4dU9rSQ?oc=5",
@@ -16,9 +40,21 @@
    }
   },
   {
+   "title": "[서치 e종목] 에프에스티, SK하이닉스 Y1 등의 대규모 증설로 주가 동력 얻나",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GVjM4X3hFR1RXd2VMWkhQUkFvTkhUQ091NzRPSHRpYUVwMUltU3Z2YjBCT2lnaEhUMEU3XzdBNnhWQUpDZEJoVUNqNmdsSVZFNmU4aURTRXdRWjRsU1VhN0Y2ellTdTk3dlBPcNIBb0FVX3lxTE5xZ1lYQm9EMnUzenB0SzJmNFY4SVdRVWZveHBGRzNkRHpCRE5xNVVtcnYwbjFMMW1TeWJoSHZzb1FjMHZtdFNlYnR4c01TU0ItLVNrMmtnOG92TDl4TVZndUV4VDFmYWJuTXZQZjZPTQ?oc=5",
+   "source": "데일리인베스트",
+   "date": "2026-09-22",
+   "datetime": "2026-09-22 08:15 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "한미글로벌, SK하이닉스 웨스트라피엣 공장 PM 맡았다",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SanZqTjZNSXd0emZlb2RjWUFnOHVTVjlKSzktemotODRnQWEteUxpcExoRUo3bm1LSzhvQ3BsNTZXdWUtLS03QXh3OXFKeVRYeUZUSDhSTWlUZHg3N29VZ0lSQVZwdw?oc=5",
-   "source": "디일렉",
+   "source": "thelec.kr",
    "date": "2026-09-22",
    "datetime": "2026-09-22 07:49 KST",
    "signal": {
@@ -45,18 +81,6 @@
    "source": "Chosunbiz",
    "date": "2026-09-22",
    "datetime": "2026-09-22 06:06 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 “차세대 메모리로 새 AI시대 개척”",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5iTmQ3TVZkMmdRNVU5MktKazVZWnVVZ0ZUMjhBVjR1by03ZUVYSGp6UEJ5aTliQkRzUzZCV1VZcVJJODFnSTlwd3hsdUZyRHZxX0JUZHZndnJtRGZyRENzVkZ5bk1tZ9IBZkFVX3lxTE5iTmQ3TVZkMmdRNVU5MktKazVZWnVVZ0ZUMjhBVjR1by03ZUVYSGp6UEJ5aTliQkRzUzZCV1VZcVJJODFnSTlwd3hsdUZyRHZxX0JUZHZndnJtRGZyRENzVkZ5bk1tZw?oc=5",
-   "source": "동아일보",
-   "date": "2026-09-22",
-   "datetime": "2026-09-22 00:30 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -93,30 +117,6 @@
    "source": "Chosunbiz",
    "date": "2026-09-21",
    "datetime": "2026-09-21 17:37 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 'AI 실전 역량 강화' 해커톤 개최",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KU0R4ak1sMnMzZUFHWWdndTNUZjkwN1dTeTdJYU1tRm5yYXp2VzdhWS1XTVB1WVJSWWVvN3ZyWVlrcHdEVEJua3VpQWZ3eWkyY1ZvUkZEVldEUDk3ek12cjFQRHFGS2lCVVVyZURYZW8?oc=5",
-   "source": "신아일보",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 17:16 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“학력·경력 모두 안 본다”…SK하이닉스, ‘총 상금 1억’ AI 해커톤 개최",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1iUGNjbzRNbGk2bFd5Z3BvNHhmM2x1TFM5UHpPQTdOOVV6bHl0VmtsRThVb0p5VW1pX2RJblV2R05UQVlSOUtMNm11bzRPTjByMElaQ0NVc0FlMXNtYWJxd0ZvTUFZNkFKMmpMbkxScHc0QUNsS1HSAWZBVV95cUxOTGNHdWhwNnlKR2JsOFZCQldnSWVSejFDUXFESUdJVjFoc2pPREh3cklSVzdTYlhTQ0UxaWNhRXpzdjFNbkM0WjA3T3dybVg3aFJUX2p0dDQ4elBpbzRkSTg3V2VzUHc?oc=5",
-   "source": "동아일보",
-   "date": "2026-09-21",
-   "datetime": "2026-09-21 17:05 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
