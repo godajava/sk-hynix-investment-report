@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-22 13:42 KST",
+ "fetchedAt": "2026-09-22 14:42 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -30,7 +30,7 @@
   {
    "title": "반도체 화학사고 5년간 12건…1건 빼고는 SK하이닉스·삼성전자",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13bjE0N1hBQzNKTnlqR3BSc3RKX1kwLWhIOUhfMVJ5Rks0ZG1JSjZYTHJwaVpHVEVQS25yWU9zTDhRc0FkVDdkaU90dkdKMVYzX1JsNA?oc=5",
-   "source": "JTBC뉴스",
+   "source": "JTBC",
    "date": "2026-09-22",
    "datetime": "2026-09-22 11:54 KST",
    "signal": {
@@ -54,7 +54,7 @@
   {
    "title": "SK하이닉스 신입사원 4명 해고…\"인생에서 가장 비싼 술\"",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlNWdZSFpHcHE2V0lCaWhTRE15VnAyZFBwUWJoenN6ZlJLRnNDaUJnQWU0cndMT2pIb00wSFFYamhBamxQX3ZiSHJUODlKaEIzQ1QyUXpzYWRvVnVIQy0xMFdVVEVQeHM?oc=5",
-   "source": "연합뉴스TV",
+   "source": "yonhapnewstv.co.kr",
    "date": "2026-09-22",
    "datetime": "2026-09-22 10:02 KST",
    "signal": {
@@ -73,18 +73,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스, 고성능 GDDR7로 소니 차세대 콘솔 'PS6' D램 공급 정조준",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4RWxla3pXUkZDYVFBWkhaNGJmZlNVQ281NUR3NzJzQUlkbUh6LVFLNlg3NGVBVXAzSVV1RFUycWZSZXVyWTVoejhNY2hsSWFiRkw4bTJYYmJwd3AwZVd4dU9rSQ?oc=5",
-   "source": "더구루",
-   "date": "2026-09-22",
-   "datetime": "2026-09-22 08:22 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   },
   {
@@ -117,6 +105,18 @@
    "source": "글로벌이코노믹",
    "date": "2026-09-22",
    "datetime": "2026-09-22 06:53 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스, D램 생산량 HBM에 묶인 사이 中 범용 D램 시장 침투 가속 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDRqZm51SUtvNm1DajFVSnJyOGY3MXRsNzI3UVNZdk9mYnJNLUJ6cnhQdTNvckwxclZlMjcwaFowNU5qR3RWQkRZcVV1cW1QVnkwa0tCUTZVekJJVE5lTUhIVDJOOUZtQ01NMW5rVEdVOGpXVkRxQ0JkSHBIWWJXaV930gGWAUFVX3lxTE56UURXeEg2RV9kbi1UNU5QNWxCRU8xQU1rNUJJMFQ5SkhxV2VyLWI0dVU1LU9ERTlsSFZPRzdGRmE2MnkwTzNwMEVMVGpzNHUyUTZNcTZmUUNOME51aFdRUHhmWGZfWWpXZWEyaTVfXzMyOGJpOUlSZ2J2SkJ6MVZuQlNSSjhNOWtESlBJdXZCT0c4OW1Fdw?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-09-22",
+   "datetime": "2026-09-22 06:06 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
