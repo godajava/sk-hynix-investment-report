@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-22 15:42 KST",
+ "fetchedAt": "2026-09-22 15:47 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -42,7 +42,7 @@
   {
    "title": "SK하이닉스 ADR, 美 반도체지수 조기편입…개미 '최애' SOXL에도 담겼다",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tanVmMWxzWkg0dnluTW9hVkhrQWpNcjl0M1VmbS1EME5pYVhOcE5ib2dMb1gtajB5dy1JZjJ6VE00ZVVrZ3JRQTFqbmRDeVJmNXpwWlpvTGNmQjgyc0s1eXdCQnQ1YnNUamlUSXBYZEE?oc=5",
-   "source": "연합인포맥스",
+   "source": "news.einfomax.co.kr",
    "date": "2026-09-22",
    "datetime": "2026-09-22 11:20 KST",
    "signal": {
@@ -54,7 +54,7 @@
   {
    "title": "SK하이닉스 신입사원 4명 해고…\"인생에서 가장 비싼 술\"",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlNWdZSFpHcHE2V0lCaWhTRE15VnAyZFBwUWJoenN6ZlJLRnNDaUJnQWU0cndMT2pIb00wSFFYamhBamxQX3ZiSHJUODlKaEIzQ1QyUXpzYWRvVnVIQy0xMFdVVEVQeHM?oc=5",
-   "source": "연합뉴스TV",
+   "source": "yonhapnewstv.co.kr",
    "date": "2026-09-22",
    "datetime": "2026-09-22 10:02 KST",
    "signal": {
