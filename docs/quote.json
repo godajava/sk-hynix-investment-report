@@ -4,8 +4,8 @@
  "previousClose": 1868000.0,
  "change": -27000,
  "changePercent": -1.45,
- "marketTime": "2026-09-22 15:17 KST",
- "fetchedAt": "2026-09-22 15:38 KST",
+ "marketTime": "2026-09-22 15:19 KST",
+ "fetchedAt": "2026-09-22 15:42 KST",
  "days": [
   {
    "date": "2026-09-21",
@@ -21,7 +21,7 @@
    "high": 1935000.0,
    "low": 1832000.0,
    "close": 1841000.0,
-   "volume": 2784316
+   "volume": 2809280
   }
  ],
  "indicators": {
@@ -49,7 +49,7 @@
    "read": "중립 구간 · K > D (단기 상승 우위)"
   },
   "volume": {
-   "today": 2784316,
+   "today": 2809280,
    "ma20": 3334053,
    "ratio": 0.84,
    "read": "20일 평균 대비 0.8배 — 평균 수준"
