@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-23 09:23 KST",
+ "fetchedAt": "2026-09-23 09:42 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -18,7 +18,7 @@
   {
    "title": "[이 시각 핫뉴스] 연수기간 술 마신 SK하이닉스 신입 4명 해고 外",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16VGJRV204SzhSaE5FRmlyaEdWOExYRDQ4OTlfNDhLbTI0QXUxUnZSZ1RNN1A3bS1yU3RYbHNfbkEwVEJpV3lEbUlmMTNzbFg0bDlxQ0tLdWpiZUdiM3hjemdjSWhWNUU?oc=5",
-   "source": "yonhapnewstv.co.kr",
+   "source": "연합뉴스TV",
    "date": "2026-09-23",
    "datetime": "2026-09-23 05:45 KST",
    "signal": {
@@ -42,7 +42,7 @@
   {
    "title": "[DM왔어요] \"술 때문에 SK하이닉스를\"…신입사원 해고, 무슨 일? 外",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZkpBc0RCVmZxQVhYSURhbFA0MnliUFFoNWxfN3Z3cTcxZzU4Sm1kYmx5TFlqUHVuelhLdFVuMHdpWHl6clhkNWV4a0dsejRqY2JPT2NSYTcyZWduZDNEOHM0YnllMEU?oc=5",
-   "source": "yonhapnewstv.co.kr",
+   "source": "연합뉴스TV",
    "date": "2026-09-22",
    "datetime": "2026-09-22 18:48 KST",
    "signal": {
@@ -90,7 +90,7 @@
   {
    "title": "“청주시민 위협하는 SK하이닉스 산업안전보건법 위반 규탄“",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS29vaFNHZkZWd3pPWGo5RGVGNlBPaXY4emRiT2ZUcEVONGtMWjQxeXpxRFpoQnZ6YzdtYjM5M285ekxOMmNNOVhYbFY2SDhsazNnRVUtSUV4YzQ4UlZjZ2FTRmpZVXlNZS1RM0VEVTZWUQ?oc=5",
-   "source": "굿모닝충청",
+   "source": "goodmorningcc.com",
    "date": "2026-09-22",
    "datetime": "2026-09-22 16:21 KST",
    "signal": {
