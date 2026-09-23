@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-23 14:42 KST",
+ "fetchedAt": "2026-09-23 15:43 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -88,6 +88,18 @@
    }
   },
   {
+   "title": "SK하이닉스, 잇단 해외 팹 투자설…곽노정 \"신규 거점 준비 중\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE53OE4wblpoNDhzVGY0V0psYkZnT0RLU3J6TFpFRVgwM3pVNzdOYk9jMnZONVJaNFE4Rk9VTkdCc0p2bVl5SjdRWWJsbw?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-22",
+   "datetime": "2026-09-22 17:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "술 때문에 ‘꿈의 직장’ 날렸다…SK하닉 신입 4명 해고된 사연",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90R0RNRzZPWExUVmFRQ3l0MGRCd1ROOC1YenBJYlRDN3RDb2haN2NxUFRUVVFDbVZ2bVJxSkFHckN2SGZTUDJBWDJ3ZmR3bkNmeWxDaThR?oc=5",
    "source": "중앙일보",
@@ -105,18 +117,6 @@
    "source": "굿모닝충청",
    "date": "2026-09-22",
    "datetime": "2026-09-22 16:21 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "AI 훈풍에도 ‘팔자’에 뒷심 떨어진 코스피…SK하이닉스 하락 마감",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94NkNuM21IcThsUHlDdkMzZkRvMTZnMFpUckpWbEpUWnpKaE95LXZnZms1bmV1SFRwRzZaQ0llSlMzbW5VNS11NE5UNFVlRE80ZlE?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-09-22",
-   "datetime": "2026-09-22 16:10 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
