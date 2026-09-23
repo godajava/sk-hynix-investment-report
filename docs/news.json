@@ -1,8 +1,44 @@
 {
- "fetchedAt": "2026-09-22 21:34 KST",
+ "fetchedAt": "2026-09-23 09:15 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "美 반도체주 일제히 상승…마이크론 5%·SK하이닉스 3.45% 급등",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44ZDJiX2JVXzJtSk0zd3V4Q1ZDMWpwdUt0S2ZvT1NnQkNycnNpNkpibVgtSkpTS1lIXy1kLVZWNGtqR09Vbk1KQkZiMVMtQ19qZm02OG5WaDMxbzJOWVJRMGRUbEM3dlXSAWxBVV95cUxOV2R4V0xiMnJHRFlvWVg5TEFMcThreWdGZGF6UFotTG5rM2gwak5kUmd3S3FrbVFBMGJSQVliSjVReTNKMm1pcXJxT3c3bmxPcm1OeWE2a0RQSGYwNjNJdXM3dGRBdUR4MU1EZ24?oc=5",
+   "source": "뉴스1",
+   "date": "2026-09-23",
+   "datetime": "2026-09-23 05:49 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[이 시각 핫뉴스] 연수기간 술 마신 SK하이닉스 신입 4명 해고 外",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16VGJRV204SzhSaE5FRmlyaEdWOExYRDQ4OTlfNDhLbTI0QXUxUnZSZ1RNN1A3bS1yU3RYbHNfbkEwVEJpV3lEbUlmMTNzbFg0bDlxQ0tLdWpiZUdiM3hjemdjSWhWNUU?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-09-23",
+   "datetime": "2026-09-23 05:45 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스(000660)",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3p3MVhCNlBiWmdJQUx4dmxFQ19waTY2c0RsRFEySEF4M25kcWJEMXdLeF9QTHNYV2p2NkhwVkFEUjBMMGduajhFQVNwNDQtVEZpSDR5d1pQaWdTeHFocFF6ZTJPUndtR011RzQ5SkptQ1BVVTZXTFNhVWVyRnNBWTZGT3BZd0ZIYmNEUlpCc2lTWnN6MV9abQ?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-09-23",
+   "datetime": "2026-09-23 00:29 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[DM왔어요] \"술 때문에 SK하이닉스를\"…신입사원 해고, 무슨 일? 外",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZkpBc0RCVmZxQVhYSURhbFA0MnliUFFoNWxfN3Z3cTcxZzU4Sm1kYmx5TFlqUHVuelhLdFVuMHdpWHl6clhkNWV4a0dsejRqY2JPT2NSYTcyZWduZDNEOHM0YnllMEU?oc=5",
@@ -28,11 +64,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 잇단 해외 팹 투자설…곽노정 \"신규 거점 준비 중\"",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5FdWFyOExCQjljVXVTVU54UjBreXFLeWktQ3pZOGwxWjdrLVFwcXU2em1ZU3B0RU1zdW1JU1ZLaVZCaWdFOWc?oc=5",
-   "source": "v.daum.net",
+   "title": "술 때문에 ‘꿈의 직장’ 날렸다…SK하닉 신입 4명 해고된 사연",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90R0RNRzZPWExUVmFRQ3l0MGRCd1ROOC1YenBJYlRDN3RDb2haN2NxUFRUVVFDbVZ2bVJxSkFHckN2SGZTUDJBWDJ3ZmR3bkNmeWxDaThR?oc=5",
+   "source": "중앙일보",
    "date": "2026-09-22",
-   "datetime": "2026-09-22 17:01 KST",
+   "datetime": "2026-09-22 16:47 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -85,42 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "연수 중 ‘금지된 음주’…SK하이닉스 신입 4명 ‘해고’",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NTzl1UDk1S3Jud01kd3hhRVl2bXpfb2lWVHJMdjJfSld4WWM1RUx2TGdoaGxtUXNaRzEtajY5WTlXNjU3cFlHNmtlSThfNGhmS1ZsMjdMOFFjNjBkNEs2aVVpRHFuM19hdUR6Tll6VQ?oc=5",
-   "source": "시사저널",
-   "date": "2026-09-22",
-   "datetime": "2026-09-22 12:55 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "반도체 화학사고 5년간 12건…1건 빼고는 SK하이닉스·삼성전자",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13bjE0N1hBQzNKTnlqR3BSc3RKX1kwLWhIOUhfMVJ5Rks0ZG1JSjZYTHJwaVpHVEVQS25yWU9zTDhRc0FkVDdkaU90dkdKMVYzX1JsNA?oc=5",
-   "source": "JTBC",
-   "date": "2026-09-22",
-   "datetime": "2026-09-22 11:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한양대 한재덕 교수, SK하이닉스 ‘2026 산학연구과제 우수발명 시상식’서 장려상 수상",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ua081U1ItaTMwU2xBbS1kSklFcGtUUGJRekZTVlR3Ni0xQ1FKcXFRLVhQOHJOdEV5cnQ2TEZydGN3Y1k2M0YyLUdxdFZmM3lJSTQ2UlZUdTg4LTd1NzRpZmp6cklPLW45ZnJR?oc=5",
-   "source": "뉴스H",
-   "date": "2026-09-22",
-   "datetime": "2026-09-22 11:34 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
