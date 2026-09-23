@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-23 13:42 KST",
+ "fetchedAt": "2026-09-23 14:42 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[사건현장] SK하이닉스 신입사원 연수 중 4명 해고…무슨 일?",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrU0VXU1p4OHVRSTl1SkYza1NDRFcweXJ4d082QzJhNXJNSzVzRkhzYU56ZzVoY0JOMVNNVXlRUmN4ME1VWi1aNHdUelVOdzlRZjFjRnluUU16OHhHdm1DNkFVbHNxN2c?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-09-23",
+   "datetime": "2026-09-23 14:33 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "\"메타가 불 지폈다\"…삼성전자·SK하이닉스 다시 '들썩'",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNUZxNkFTZ2k2Z0d1QkJCdFVkSGx1dW9UcVR0bG9DbDN1OS0tTHhrcG5kN0dwVXNmdm8tS3NCV3pBcG5wVHZMTjRuaE1ZVzNKWVVOZFdPUlVMUQ?oc=5",
@@ -52,18 +64,6 @@
    }
   },
   {
-   "title": "\"수억대 연봉 날아갔다\"…SK하이닉스 신입 4명 결국 짐 쌌다",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10aWFReURrM0R5SUx0NExYOFRLZ0U5ek9hQXNKODVJYkJ3X0JPeVJ2bkY3LXA0a1F3N0VHTS1GdGdCRVB0UlpOOGEzUlVxcFNBdTN1VUtyNGtNdw?oc=5",
-   "source": "한국경제",
-   "date": "2026-09-22",
-   "datetime": "2026-09-22 19:12 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "[DM왔어요] \"술 때문에 SK하이닉스를\"…신입사원 해고, 무슨 일? 外",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OZkpBc0RCVmZxQVhYSURhbFA0MnliUFFoNWxfN3Z3cTcxZzU4Sm1kYmx5TFlqUHVuelhLdFVuMHdpWHl6clhkNWV4a0dsejRqY2JPT2NSYTcyZWduZDNEOHM0YnllMEU?oc=5",
    "source": "연합뉴스TV",
@@ -100,11 +100,11 @@
    }
   },
   {
-   "title": "삼성전자 소폭 상승…SK하이닉스는 6거래일 만에 하락",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBNeXlaZmRvSDdtd3RmWHVXTmhuNVQ5R0Yza2ZFRVRFTGNVVzFsZXJfaTFhZk9DQWxRQlVoaWdQMHQtZ2VHV0VLb21yOE40dzQ?oc=5",
-   "source": "v.daum.net",
+   "title": "“청주시민 위협하는 SK하이닉스 산업안전보건법 위반 규탄“",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS29vaFNHZkZWd3pPWGo5RGVGNlBPaXY4emRiT2ZUcEVONGtMWjQxeXpxRFpoQnZ6YzdtYjM5M285ekxOMmNNOVhYbFY2SDhsazNnRVUtSUV4YzQ4UlZjZ2FTRmpZVXlNZS1RM0VEVTZWUQ?oc=5",
+   "source": "굿모닝충청",
    "date": "2026-09-22",
-   "datetime": "2026-09-22 16:27 KST",
+   "datetime": "2026-09-22 16:21 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -112,11 +112,11 @@
    }
   },
   {
-   "title": "“청주시민 위협하는 SK하이닉스 산업안전보건법 위반 규탄“",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IS29vaFNHZkZWd3pPWGo5RGVGNlBPaXY4emRiT2ZUcEVONGtMWjQxeXpxRFpoQnZ6YzdtYjM5M285ekxOMmNNOVhYbFY2SDhsazNnRVUtSUV4YzQ4UlZjZ2FTRmpZVXlNZS1RM0VEVTZWUQ?oc=5",
-   "source": "goodmorningcc.com",
+   "title": "AI 훈풍에도 ‘팔자’에 뒷심 떨어진 코스피…SK하이닉스 하락 마감",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94NkNuM21IcThsUHlDdkMzZkRvMTZnMFpUckpWbEpUWnpKaE95LXZnZms1bmV1SFRwRzZaQ0llSlMzbW5VNS11NE5UNFVlRE80ZlE?oc=5",
+   "source": "매일경제 마켓",
    "date": "2026-09-22",
-   "datetime": "2026-09-22 16:21 KST",
+   "datetime": "2026-09-22 16:10 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
