@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-23 21:43 KST",
+ "fetchedAt": "2026-09-24 21:41 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "마이크론, 매출 또 신기록 쓰나…HBM4로 삼성·SK하이닉스 ‘맹추격’",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5EYjVkV1Z6Wk94ZVdnaWtXYS0wRlR2SzFnbUdXYVlwem1OV0lYZDA2VHNuLVhDb1VOa1hHbVN2LS1JYVJqWFE?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-24",
+   "datetime": "2026-09-24 06:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "삼성전자, 연휴 앞두고 3%대 급등마감…SK하이닉스도 1.2%↑(종합)",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QU1ZzbUZZYnZpcFk0M2pObi1MR1BwV0V3SnRpQ05lMHRyX1FzUTBHUk92ekFQQldzSEhsdTFvWTh2NjZBZWU3WVdZeG0xZHpDWnQ3Qmw2NEU5aTTSAWBBVV95cUxPWnNxV0s4WU9FREQ1X3RFRWdsc0kyZmNFd2VYc1BoVFYxSHhTekRRR1IwdHA0ZWpZUWdZM0JHbVY4ZHFuQWVyNEE3TzR1R1Z4UkJRaHNGN1U5WUhjdVZ6dnI?oc=5",
@@ -18,7 +30,7 @@
   {
    "title": "[사건현장] SK하이닉스 신입사원 연수 중 4명 해고…무슨 일?",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrU0VXU1p4OHVRSTl1SkYza1NDRFcweXJ4d082QzJhNXJNSzVzRkhzYU56ZzVoY0JOMVNNVXlRUmN4ME1VWi1aNHdUelVOdzlRZjFjRnluUU16OHhHdm1DNkFVbHNxN2c?oc=5",
-   "source": "연합뉴스TV",
+   "source": "yonhapnewstv.co.kr",
    "date": "2026-09-23",
    "datetime": "2026-09-23 14:33 KST",
    "signal": {
@@ -40,8 +52,20 @@
    }
   },
   {
+   "title": "‘SK하이닉스 ADR, 이 정도일 줄’ 프리미엄 무려 40% 육박…3배 레버리지 ‘속슬’에도 편입[투자360]",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDR25SY2ttT2ltbFp6bDFhRk8zMGwzbWJYXzkwLXRVRzZvTjN5UFZpNWtNNF9RUGpjZWFDc2RMak5ScDNsSGc?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-23",
+   "datetime": "2026-09-23 13:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "환경단체, 안전보건법 위반 SK하이닉스 규탄",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lZWdUSHl5bEZReU1aZUExLWNGVHBGSDNON0RuVDRsNnpKVHNUWlMtSklXTTEzaFpqNFJIb3FWSDhoVXpyV21QNUlEd1g3Y1hBZUxhSnhUcW1hRU0?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMZzJ5VWstTjEzbGlMQkRqQzUwd1k4eFVRSDdlaWdXTVlHZlZVbW1mZ3hmX01xcGs5amRON3FFYy1kQjhVMG5pOXI1QzF0UGlLdHNqWWlzc1JCczJXQjczQXNPeXUwQQ?oc=5",
    "source": "KBS 뉴스",
    "date": "2026-09-23",
    "datetime": "2026-09-23 10:28 KST",
@@ -52,9 +76,33 @@
    }
   },
   {
+   "title": "특징주, SK스퀘어-S7(삼성전자/SK하이닉스 등) 테마 상승세에 5.03% ↑",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oMHlFU0FiVlA0Smk4dWsydWRIbGU0OWRkYzZGWFRlOGxwb0NQdkU1UEgtbDdSTkhMdHBwWGp1aWt2aTVzd2NVRDBqR0N1a2p3c0E?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-09-23",
+   "datetime": "2026-09-23 09:43 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 메모리 반도체 수요 증가.. '강세\"",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNjdieWtyTmduS3IzZTFKako4U3NyT2pUNU5lYVZmMVJNWHJVUndPWFZ1TlpnQzRKRVZzWVpwT283SG85OVZCdzhnZkRuTHVySlZtOVotV0xHMUxDQ1dXRERXWXp4WnR1aTBOQk5DTWlwRVZmSkg5cUw5dzgwcnRGaVBpYjhQSEpw?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-23",
+   "datetime": "2026-09-23 09:36 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
    "title": "\"메타가 불 지폈다\"…삼성전자·SK하이닉스 다시 '들썩'",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LNUZxNkFTZ2k2Z0d1QkJCdFVkSGx1dW9UcVR0bG9DbDN1OS0tTHhrcG5kN0dwVXNmdm8tS3NCV3pBcG5wVHZMTjRuaE1ZVzNKWVVOZFdPUlVMUQ?oc=5",
-   "source": "hankyung.com",
+   "source": "한국경제",
    "date": "2026-09-23",
    "datetime": "2026-09-23 09:34 KST",
    "signal": {
@@ -69,54 +117,6 @@
    "source": "v.daum.net",
    "date": "2026-09-23",
    "datetime": "2026-09-23 07:24 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "美 반도체주 일제히 상승…마이크론 5%·SK하이닉스 3.45% 급등",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44ZDJiX2JVXzJtSk0zd3V4Q1ZDMWpwdUt0S2ZvT1NnQkNycnNpNkpibVgtSkpTS1lIXy1kLVZWNGtqR09Vbk1KQkZiMVMtQ19qZm02OG5WaDMxbzJOWVJRMGRUbEM3dlXSAWxBVV95cUxOV2R4V0xiMnJHRFlvWVg5TEFMcThreWdGZGF6UFotTG5rM2gwak5kUmd3S3FrbVFBMGJSQVliSjVReTNKMm1pcXJxT3c3bmxPcm1OeWE2a0RQSGYwNjNJdXM3dGRBdUR4MU1EZ24?oc=5",
-   "source": "뉴스1",
-   "date": "2026-09-23",
-   "datetime": "2026-09-23 05:49 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[이 시각 핫뉴스] 연수기간 술 마신 SK하이닉스 신입 4명 해고 外",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16VGJRV204SzhSaE5FRmlyaEdWOExYRDQ4OTlfNDhLbTI0QXUxUnZSZ1RNN1A3bS1yU3RYbHNfbkEwVEJpV3lEbUlmMTNzbFg0bDlxQ0tLdWpiZUdiM3hjemdjSWhWNUU?oc=5",
-   "source": "연합뉴스TV",
-   "date": "2026-09-23",
-   "datetime": "2026-09-23 05:45 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스(000660)",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS3p3MVhCNlBiWmdJQUx4dmxFQ19waTY2c0RsRFEySEF4M25kcWJEMXdLeF9QTHNYV2p2NkhwVkFEUjBMMGduajhFQVNwNDQtVEZpSDR5d1pQaWdTeHFocFF6ZTJPUndtR011RzQ5SkptQ1BVVTZXTFNhVWVyRnNBWTZGT3BZd0ZIYmNEUlpCc2lTWnN6MV9abQ?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-09-23",
-   "datetime": "2026-09-23 00:29 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"수억대 연봉 날아갔다\"…SK하이닉스 신입 4명 결국 짐 쌌다",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10aWFReURrM0R5SUx0NExYOFRLZ0U5ek9hQXNKODVJYkJ3X0JPeVJ2bkY3LXA0a1F3N0VHTS1GdGdCRVB0UlpOOGEzUlVxcFNBdTN1VUtyNGtNdw?oc=5",
-   "source": "hankyung.com",
-   "date": "2026-09-22",
-   "datetime": "2026-09-22 19:12 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
