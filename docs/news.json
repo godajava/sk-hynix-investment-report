@@ -1,8 +1,44 @@
 {
- "fetchedAt": "2026-09-28 13:38 KST",
+ "fetchedAt": "2026-09-28 14:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스, TSMC와 AI 메모리 협력 강화…‘3D 패브릭-HBM’ 2년 연속 파트너상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJYnM5NWRFdFhtazF5M2VRVGxvOEkzb0pSaUNZSzM5VkdTaVY2TlIyVFJIWTUxVTFkT09zUGdjTmhqRGtYNTlTanVHdklYZU0?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 14:34 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "10조 매입 솔리다임, 210조 몸값 도전…SK하이닉스 美 IPO 시동",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mU2thTjJIVWdIQkJsaThlQWthelJ0SkRnbWZjWC04MmFDMkZKbkMzSHh2SzVab0VuZllRT3pIUzB1RDJhUTdRak02dGROSzg?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 14:16 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "주주환원·중복상장 불만에… SK하이닉스에 등 돌린 개미들",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuRTRLVWxEbGpRZS1Qcjg1bFllczc4UmFGVXJhblo3M1I1UUZZWndZb0F2Qi1UWVBRSEJHa09mTEtrQkhaNzl6WTdpbXJ6T2F0dGtESGl4NUtlVXpRbFc0M2hHTDFVZi13ZFBqb3NsZkrSAXRBVV95cUxNYXhHalo3RGQxYlV0TFJua0MyTXN4UE9vblo4ZnlMT2VZUGEyNnVHNURaN2oyM0V2NWt6b0FnY3NOaS1VbTU2LTIwQUxGLTNUYW54VFNFODdlZVFMaHp3UHI0cXNZOE15cE9IMXBfV2pQcERuMw?oc=5",
+   "source": "IT조선",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 14:04 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "\"SK하이닉스 HBM처럼\"…공대생도 '특허' 배운다",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUFNGRmhhT0Y1cFlfX2g1ci0wOU54UzZZQVlqbWtUU2tMeHdnVTdCTjB5UEZkekVLVW5ocl82TFo2X2ZDWTZBb3JfbmprSmRqZ3A0UUd1RlBQYno1T2VKeQ?oc=5",
@@ -81,42 +117,6 @@
    "source": "v.daum.net",
    "date": "2026-09-28",
    "datetime": "2026-09-28 09:45 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[리포트 브리핑]SK하이닉스, '소음보다 방향성에' 목표가 3,200,000원 - 대신증권",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YR0RiMHFrVlZWakNEMkpaeU5zNUhkOG9xeTJ2cVd3eHRzRmlPWDB3WUI1OUVKS2x3cGhneUdOcUlnVGxhV1J0M29aR2M2UUgzdDQ1LWgzN0llRDlO?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 09:44 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "솔리다임 IPO 추진설에…SK하이닉스, 장 초반 '약세'",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5leEF0SzRCUHhZa1N3LWZPb29Dd0pPbE5lY2dzZnY5UjdtNC13U21VcEkwRGd1WXVfWWt1djI1djF6QmxUUW9ONnpLRWxvUkxpZ1laazR0bHpXdw?oc=5",
-   "source": "한국경제",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 09:39 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "'美 국채금리 부담'…삼성전자·SK하이닉스 동반 하락[개장시황]",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Bc3hEUE54T2pHak94bXU2TGh5Z1hEZXZ2b0pFWFhGWEd6UEk4TGtmQndvcENLd1FiT28tQjBmSWNJNTdINVNtVGtxWXd5aUtycTNwY3pwb29ja1nSAWBBVV95cUxONnlnajhHVFY3SzNwY3lrVVd5anppb1MxYUludTRTZjVIaE56VVVrQ1o2c3VwYzJPaFd1bWMwREdURUN1RkRWXzcxNzczOGMza3BLMVFtREFBNktEUnhiOWw?oc=5",
-   "source": "뉴스1",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 09:37 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
