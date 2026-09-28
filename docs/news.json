@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-28 15:40 KST",
+ "fetchedAt": "2026-09-28 15:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -65,10 +65,10 @@
   },
   {
    "title": "주주환원·중복상장 불만에… SK하이닉스에 등 돌린 개미들",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1heEdqWjdEZDFiVXRMUm5rQzJNc3hQT29uWjhmeUxPZVlQYTI2dUc1RFo3ajIzRXY1a3pvQWdjc05pLVVtNTYtMjBBTEYtM1RhbnhUU0U4N2VlUUxoendQcjRxc1k4TXlwT0gxcF9XalBwRG4z0gF0QVVfeXFMTWF4R2paN0RkMWJVdExSbmtDMk1zeFBPb25aOGZ5TE9lWVBhMjZ1RzVEWjdqMjNFdjVrem9BZ2NzTmktVW01Ni0yMEFMRi0zVGFueFRTRTg3ZWVRTGh6d1ByNHFzWThNeXBPSDFwX1dqUHBEbjM?oc=5",
-   "source": "IT조선",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuRTRLVWxEbGpRZS1Qcjg1bFllczc4UmFGVXJhblo3M1I1UUZZWndZb0F2Qi1UWVBRSEJHa09mTEtrQkhaNzl6WTdpbXJ6T2F0dGtESGl4NUtlVXpRbFc0M2hHTDFVZi13ZFBqb3NsZkrSAXRBVV95cUxNYXhHalo3RGQxYlV0TFJua0MyTXN4UE9vblo4ZnlMT2VZUGEyNnVHNURaN2oyM0V2NWt6b0FnY3NOaS1VbTU2LTIwQUxGLTNUYW54VFNFODdlZVFMaHp3UHI0cXNZOE15cE9IMXBfV2pQcERuMw?oc=5",
+   "source": "it.chosun.com",
    "date": "2026-09-28",
-   "datetime": "2026-09-28 14:15 KST",
+   "datetime": "2026-09-28 14:04 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
