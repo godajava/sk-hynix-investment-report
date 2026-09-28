@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-28 15:35 KST",
+ "fetchedAt": "2026-09-28 15:37 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -17,10 +17,10 @@
   },
   {
    "title": "SK하이닉스, TSMC 행사서 AI 메모리 공개…2년 연속 파트너상",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BbE5KUW50TTJIaTRCYWUxZEtrc0IwSkF6Nmdwb1RZVUVHd2lhMElvQnFoU012X0VTSHZ3cDVBQmx6SDRwRmI2TTNxVGFoMVk?oc=5",
-   "source": "v.daum.net",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6aE5wdTdybFlvd2liaFNXNDRVeWJnZzFLeTFoazB5dEtfT1d1MWFpbWgtUkFkZkRXMGhmLWFlQ0QyeUVHNHdaMzE5VElOZ2wwSmNQXzJOUC1sSlnSAWBBVV95cUxPY2pXeExmS2g5ZmxFWXZ3bE9NYkVkOTdjcXFoQTZiZFR2cWdkNl9uNEIwRjdrZy16anJoQzBuZEJrT0tEQkNQUXNmbXZPU2RPQlJoeDJiUDVLV2lGdTlrRlc?oc=5",
+   "source": "연합뉴스",
    "date": "2026-09-28",
-   "datetime": "2026-09-28 15:07 KST",
+   "datetime": "2026-09-28 15:05 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
