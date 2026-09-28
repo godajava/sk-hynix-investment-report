@@ -1,14 +1,50 @@
 {
- "fetchedAt": "2026-09-28 14:38 KST",
+ "fetchedAt": "2026-09-28 15:35 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, TSMC와 AI 메모리 협력 강화…‘3D 패브릭-HBM’ 2년 연속 파트너상",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJYnM5NWRFdFhtazF5M2VRVGxvOEkzb0pSaUNZSzM5VkdTaVY2TlIyVFJIWTUxVTFkT09zUGdjTmhqRGtYNTlTanVHdklYZU0?oc=5",
+   "title": "SK하이닉스 솔리다임, 美 상장 '추진설' 대두…3가지 전략적 배경과 딜레마",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3ZGhFTGp3Rk5WcmNFQmRJdUkzdERyYmZCUzZSUTNkWm5wS0pkdjRjdThjYlZxdVhVb18tektYVXpROHlORFVtQmpPSEotQVRkcUpRLW45MC1KbGl1UEFYMUxyUnhaMkowcXE4ZVBVU19wUQ?oc=5",
+   "source": "오피니언뉴스",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 15:25 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, TSMC 행사서 AI 메모리 공개…2년 연속 파트너상",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BbE5KUW50TTJIaTRCYWUxZEtrc0IwSkF6Nmdwb1RZVUVHd2lhMElvQnFoU012X0VTSHZ3cDVBQmx6SDRwRmI2TTNxVGFoMVk?oc=5",
    "source": "v.daum.net",
    "date": "2026-09-28",
-   "datetime": "2026-09-28 14:34 KST",
+   "datetime": "2026-09-28 15:07 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "중복 논란에도 SK하이닉스 손자회사 솔리다임 상장설 배경은?",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMndieEtUSDRCSDJ6NDIzUWllY2cyR05kekJuOFJKTzlpbnNLUWlNd1lSQnRNRXpRS1YwOVRCX2x5MlhhMmNwYXhNVGR5M0YwTkFtSWlmNEY3Z05mMHpvYnE4UmNSRE5qQVJDR2hSdmNpc2tXM1dSNnYyX2R1OEZBSW9fQUYtQQ?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 14:54 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스, 솔리다임 IPO 추진…美·中 공급망 대대적 재편 '노림수'",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NSTNNd3J1R0hTT0RrTmUtTl9iYzZoZ0EtZm45aENQeGZVTVVLUFdTZk9LQmZYb25ZeGc2VVA1UmljdHJ4SEJRQVdQT2hJamF1SDlMSk1aNlUzTGQ2NFBiRGVsRVlYNzZj?oc=5",
+   "source": "녹색경제신문",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 14:43 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -29,10 +65,10 @@
   },
   {
    "title": "주주환원·중복상장 불만에… SK하이닉스에 등 돌린 개미들",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuRTRLVWxEbGpRZS1Qcjg1bFllczc4UmFGVXJhblo3M1I1UUZZWndZb0F2Qi1UWVBRSEJHa09mTEtrQkhaNzl6WTdpbXJ6T2F0dGtESGl4NUtlVXpRbFc0M2hHTDFVZi13ZFBqb3NsZkrSAXRBVV95cUxNYXhHalo3RGQxYlV0TFJua0MyTXN4UE9vblo4ZnlMT2VZUGEyNnVHNURaN2oyM0V2NWt6b0FnY3NOaS1VbTU2LTIwQUxGLTNUYW54VFNFODdlZVFMaHp3UHI0cXNZOE15cE9IMXBfV2pQcERuMw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1heEdqWjdEZDFiVXRMUm5rQzJNc3hQT29uWjhmeUxPZVlQYTI2dUc1RFo3ajIzRXY1a3pvQWdjc05pLVVtNTYtMjBBTEYtM1RhbnhUU0U4N2VlUUxoendQcjRxc1k4TXlwT0gxcF9XalBwRG4z0gF0QVVfeXFMTWF4R2paN0RkMWJVdExSbmtDMk1zeFBPb25aOGZ5TE9lWVBhMjZ1RzVEWjdqMjNFdjVrem9BZ2NzTmktVW01Ni0yMEFMRi0zVGFueFRTRTg3ZWVRTGh6d1ByNHFzWThNeXBPSDFwX1dqUHBEbjM?oc=5",
    "source": "IT조선",
    "date": "2026-09-28",
-   "datetime": "2026-09-28 14:04 KST",
+   "datetime": "2026-09-28 14:15 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -64,23 +100,11 @@
    }
   },
   {
-   "title": "솔리다임 美 상장설에 SK하이닉스 4%↓…AI 수혜에도 '중복상장' 암초",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IVGgxOEtYaXhvdE5aZ0taYWRsb2xuMEhEYk9JUHFUTjlta19wTW13ZjE3ZEtuRE1obGpqVjNCOWVfdk4tUzdCYlJNeUR4alhRX0k2c2htbEF4NEw2bGo0bmNMSktOVFdU?oc=5",
-   "source": "ebn.co.kr",
+   "title": "[단독] SK하이닉스, 日공장 기초공사 돌입",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaUHkyZGQ0RUQxR2hPc3U4Zk55VF9sOGhVRlotNDNjSFRFaWJhazR5WGgxNjBFb1QyMHlWbzFRMkVjeTdCdjBtYjBmY3lsdEJ4LXJpWGE1SGNlMXlsY1ZXbjRYVGJtOEZ1VnJkSjZB?oc=5",
+   "source": "중소기업신문",
    "date": "2026-09-28",
-   "datetime": "2026-09-28 11:17 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 美 국채금리 급등에 2%대 약세",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZT3Y4RmdIUWVXQXVtbkZ6eXdRRUNaV1p3bEU3RWdCbTFFMkJwNnJsb0dvM25kRGFQS251RDZyYWhaZGtvOWZnVkduaEI2SzBoQ3BqQ3hfU0tkN0FB?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 10:01 KST",
+   "datetime": "2026-09-28 11:34 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -88,35 +112,11 @@
    }
   },
   {
-   "title": "대신證 \"SK하이닉스, HBM4·해외 투자 이슈 타격 없어…목표가 320만원\"",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6VW8yQ0hOSWpvVDlmc1FiN1dzN1BOUkZVWmtPZ01vQS1NaTZMdGNrUEhtRGdvb2JvaFpncjc3ZlV4XzNraUVaREEtWWRzQjVlQVNQT0VwRmN6dzQ1MzNZ0gFkQVVfeXFMUHNpMVhwZVp2X2c1MGN1R2dHR3FmRHM2dDNIQnRDZUx5QnJYVng3OC1zTVV6T1M0d3RrMWNKQWc4dzh5NGVJZTAwUFQ3d21oMDdJaFhnVENKa2xyOEl1Z3F2M1dhaw?oc=5",
-   "source": "뉴스1",
+   "title": "[오늘의 삼전닉스] SK하이닉스의 심상치 않은 외인 보유율 하락세",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lMFJCcDlLTEVGbDVXR2JGWUludkxqaXlaMVBBOHpuQjVJdC1iSGZvZlhkaU1QT0k2NzV6NXBsMzE4V3JfMEpBRlBrNnYzeXRxTU9TdFVxbHlaSGhzNHBMX0pB?oc=5",
+   "source": "이코노미스트",
    "date": "2026-09-28",
-   "datetime": "2026-09-28 09:58 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스 美 공장·솔리다임 IPO '촉각'…대신證 \"장기적으로 득이 더 클 듯\"",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aUktyTUFibGpfQjd1bXA4X2lqNDJzX2hlaWxwX1RXaWU5YktDalRGajFsRlVmRk4zV0FvcTZuaFNCYV96bDhuYm5WRWg5bTR2c1FFcHp0LXRlQjNHR3VDaHZUYWIzODVnWnliajgyM24xc2s?oc=5",
-   "source": "뉴스웍스",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 09:51 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 솔리다임 중복상장 논란 속 장중 2%대 약세[특징주]",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xdXQ1OEZpZWxfakJzLTRZQkhES1ZhMXhTQWZqS1o4RHk1amY1TWUxdjhuM0s0ZHgtZkNxS0FiTUV3bU9VaHB3V0tlQ0VUekk?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 09:45 KST",
+   "datetime": "2026-09-28 11:31 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
