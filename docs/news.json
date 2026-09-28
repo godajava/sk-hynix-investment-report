@@ -1,14 +1,98 @@
 {
- "fetchedAt": "2026-09-28 09:40 KST",
+ "fetchedAt": "2026-09-28 10:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스 손자회사 ‘솔리다임’ 중복상장 논란 재점화",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5paHpndVVGVm8tNVZzWWplZkpldjVUT21SVEhHYzBwM3R2bm9ocTRBV25zYXBPWFIxOXExYUZjQ0psOWtER3k5ci1JMFdLWWFxaEZ6NGJKRUc1UdIBX0FVX3lxTFBydnlMQzNEanppWDB5aU9XM2pfQnNhb2JoS0MwaGJqSU1HcTVFcmtDbkgyTUxoaGFHSXF0TmhzNnlFYU1DQkp1QVRxSDdxbFZHVDU4T29oV3VCUzRjVV9B?oc=5",
-   "source": "경향신문",
-   "date": "2026-09-27",
-   "datetime": "2026-09-27 20:04 KST",
+   "title": "[특징주] 삼성전자·SK하이닉스, 美 국채금리 급등에 2%대 약세",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZT3Y4RmdIUWVXQXVtbkZ6eXdRRUNaV1p3bEU3RWdCbTFFMkJwNnJsb0dvM25kRGFQS251RDZyYWhaZGtvOWZnVkduaEI2SzBoQ3BqQ3hfU0tkN0FB?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 10:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "대신證 \"SK하이닉스, HBM4·해외 투자 이슈 타격 없어…목표가 320만원\"",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6VW8yQ0hOSWpvVDlmc1FiN1dzN1BOUkZVWmtPZ01vQS1NaTZMdGNrUEhtRGdvb2JvaFpncjc3ZlV4XzNraUVaREEtWWRzQjVlQVNQT0VwRmN6dzQ1MzNZ0gFkQVVfeXFMUHNpMVhwZVp2X2c1MGN1R2dHR3FmRHM2dDNIQnRDZUx5QnJYVng3OC1zTVV6T1M0d3RrMWNKQWc4dzh5NGVJZTAwUFQ3d21oMDdJaFhnVENKa2xyOEl1Z3F2M1dhaw?oc=5",
+   "source": "뉴스1",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 09:58 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "\"우려는 소음일 뿐\"…SK하이닉스, 성장 방향성 확고",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VX1VKUmsxSm9UYVQ1MmIwQmtKOVFYbm1NQnQyeU50QldyNFc0d2R4RThsa0I5OEVUMGtZYjZ6cW1GZ2xzcThTb1JGREFxTjJ6cE1n?oc=5",
+   "source": "ket.kr",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 09:54 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 솔리다임 중복상장 논란 속 장중 2%대 약세[특징주]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xdXQ1OEZpZWxfakJzLTRZQkhES1ZhMXhTQWZqS1o4RHk1amY1TWUxdjhuM0s0ZHgtZkNxS0FiTUV3bU9VaHB3V0tlQ0VUekk?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 09:45 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "[리포트 브리핑]SK하이닉스, '소음보다 방향성에' 목표가 3,200,000원 - 대신증권",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YR0RiMHFrVlZWakNEMkpaeU5zNUhkOG9xeTJ2cVd3eHRzRmlPWDB3WUI1OUVKS2x3cGhneUdOcUlnVGxhV1J0M29aR2M2UUgzdDQ1LWgzN0llRDlO?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 09:44 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "솔리다임 IPO 추진설에…SK하이닉스, 장 초반 '약세'",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5leEF0SzRCUHhZa1N3LWZPb29Dd0pPbE5lY2dzZnY5UjdtNC13U21VcEkwRGd1WXVfWWt1djI1djF6QmxUUW9ONnpLRWxvUkxpZ1laazR0bHpXdw?oc=5",
+   "source": "hankyung.com",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 09:39 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "'美 국채금리 부담'…삼성전자·SK하이닉스 동반 하락[개장시황]",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Bc3hEUE54T2pHak94bXU2TGh5Z1hEZXZ2b0pFWFhGWEd6UEk4TGtmQndvcENLd1FiT28tQjBmSWNJNTdINVNtVGtxWXd5aUtycTNwY3pwb29ja1nSAWBBVV95cUxONnlnajhHVFY3SzNwY3lrVVd5anppb1MxYUludTRTZjVIaE56VVVrQ1o2c3VwYzJPaFd1bWMwREdURUN1RkRWXzcxNzczOGMza3BLMVFtREFBNktEUnhiOWw?oc=5",
+   "source": "뉴스1",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 09:37 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "코스피, 연휴 뒤 7040선 약세 출발…SK하이닉스 2%대↓[개장시황]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rZ3dIZmI5TWlpVHVPemlhTTVhNjBhbDVxUEJnQmROSWxjWUVCdXBsNVpnZ0ZaU1hsMzE3Si0xQUcxTWJEdlRTc3NOcnZESVE?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 09:30 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -28,99 +112,15 @@
    }
   },
   {
-   "title": "“성과급 최대 6억원인데”…삼성전자·SK하이닉스 육아휴직률 줄었다",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83QmVVcUhiU3VkTzdsbncxMzhhdTZXUVNZdXRCM0NSTWNKYzVXVF82WGR5X3NCMHNaWDJHSy1KWEVlUkxhd1h6MXMtcDgyaUFZOHdSODV2OG5PSTNDTmtVZHBETWF6eGU2NFBsMHQ0Yw?oc=5",
-   "source": "jnilbo.com",
+   "title": "계속되는 SK하이닉스 손자회사 美상장설...중복상장 논란 이유는",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81MFlzNnk4RThlR1E1RnVoSHlVVHFURVZ0dHA2S1pYTlRIcFVxcWo3QWJKWXB2WDhGdDI4bmdTNEdsVFROdUtndkxZQzBXc2lfanN6V3JaU1dkRU9EbUV0VHV3alpGek9CckJVZHlqWk9GWE3SAXNBVV95cUxPNTBZczZ5OEU4ZUdRNUZ1aEh5VVRxVEVWdHRwNktaWE5USHBVcXFqN0FiSllwdlg4RnQyOG5nUzRHbFRUTnVLZ3ZMWUMwV3NpX2pzeldyWlNXZEVPRG1FdFR1d2paRnpPQnJCVWR5alpPRlhN?oc=5",
+   "source": "한국일보",
    "date": "2026-09-27",
-   "datetime": "2026-09-27 16:38 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "‘억대 성과급’ 기대에… 삼성전자·SK하이닉스, 상반기 육아휴직률 동반 하락 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRlAtdDB4cC10VDg0aWdsaGlJcHloS3R5SGdlTnUyNFVFSk1SRjBLRzhUN203SXRraFBJN1AyNmlQc1UtSUZDYV9haVp0TXpETkhubm9zM2hfZ2hsbDQwd3pLZ1I0cmFhblZFNERwRjBDYWRZYVFla2Jsa0JGcVFNaWJn0gGWAUFVX3lxTE1ITFI4dFlKXzB2SmRtUXd6MFFQeVNvcVExM19aMWJVQlB4dGl2NnBnbGpuZ2E3bmtPSUNXSXVncWVGbnFhemctcjZxd1NyU1lNdVc5azEtc082aFBLWjZEYWhXNTFGVEdBRnJ6M29HcWUzN2RodFZpTVZER2x4bjY2UXVpOVdqVU5jT0RWTmlrd01Vb2cxQQ?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-09-27",
-   "datetime": "2026-09-27 13:52 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스 육아휴직률 동시에 꺾였다… ‘억대 성과급’ 겹친 반도체 호황",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBNVhXd0hkaG1BcEFncS1OYjNMcnU0bVd1TG1NUGpPN0U3Q0FTelliQTJSVDdadnBPOVY1TngxbFdHYld6ZUl2Qnl5OXFrOE0?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-27",
-   "datetime": "2026-09-27 13:25 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[영상] SK하이닉스 7.68% 급락한 날, 한투운용 ETF만 폭등 왜?",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9La2FPXy03MDFqT2c2VkRkVTJiSWNMYjdaR3gxeXprLU5NbWdKVHp1Yld6cC1XRlpfR1gxaGJtc29mZmdkcW9Zd1E0cTFBczJrUURBS2ExZjVCeE1KamFLNkJSTTbSAWhBVV95cUxNSC1WVHdPVGRneWpuUkY1V3Jma2tESEwtVEhuZjhkcTJGWWkteDlwM20zcXhscHhiNlFMTWh3S1d4eW8xLUx3LUJjYzJESFdSc0VRQmFCcG1iMHdRdDZsTnEyZWJQa0hoZQ?oc=5",
-   "source": "경인방송 뉴스",
-   "date": "2026-09-27",
-   "datetime": "2026-09-27 12:45 KST",
+   "datetime": "2026-09-27 17:46 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "9월 말 배당 나서는 SK하이닉스·현대차…역송금 환율 영향은",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CQzZJY1VpS09KZUVTRzF3Sy1jSUpKUkhiVFJ6dDZiOG9LMHpsQmc1ZmRjRTRBRnFEcV9DTEVwSDJlSWZwVHhCZzdVeGFzY1VNbjdMZ0VLR2dWWndyUTJabDNPWk9ZY2xOZ0trMXp3YUQ?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-09-27",
-   "datetime": "2026-09-27 11:05 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "상장사 3분기 이익 전망 4%↑…삼성전자·SK하이닉스가 견인",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBxMlZyTzN4aVloOGRqQjlQaER2cTFaWjllWFY2cHNNcEFuRnFHSzhfSW1qWHVFTTR3ZDNSNjFuVENxckdGdkE?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-27",
-   "datetime": "2026-09-27 10:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"한 달간 90% 폭등했다\"…하이닉스 8% 오를 때 대박 난 곳 [대기업 협력사 전수분석]",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiczA3RmlHNlp6M1VOWjh4OEZBS2M3NEptTWlubW9NanVRMjFVVmJiS2hnVmMxdFk1YUNDck10QnRSbGtudXlHYS1OVkxEQVJGSEhhdkZsMXZFQQ?oc=5",
-   "source": "한국경제",
-   "date": "2026-09-27",
-   "datetime": "2026-09-27 10:23 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“지금 쉬면 몇억 날아간다”…삼성전자·SK하이닉스 육아휴직 동반 첫 감소",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlVkJNbFIxN18zMDFmRzFOQnlEZVRoZ1hJc3drX0RpaG5YaEFQZnlCUGFtWGMtSEJ3SFFCdVBIbUdiOUlmREMycjVNUGkwY0E?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-27",
-   "datetime": "2026-09-27 09:35 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
