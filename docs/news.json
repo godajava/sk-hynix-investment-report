@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-09-28 11:38 KST",
+ "fetchedAt": "2026-09-28 12:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스 주가, 오늘 하락하는 이유는?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQVTRIMEpyQlJabVBDd2NtTGQ4QWtFRjdPU254Wkg4UGZCQndyRnAtOW5wM0JjLURxTk92RHY4c2JmMEN6TlhWMVFiYTNETFFVa3BuMXJES1BnMEg2TER0UEt0QzliaFByM1M2NkY3TDd1cmthcUln?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 12:02 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "솔리다임 美 상장설에 SK하이닉스 4%↓…AI 수혜에도 '중복상장' 암초",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IVGgxOEtYaXhvdE5aZ0taYWRsb2xuMEhEYk9JUHFUTjlta19wTW13ZjE3ZEtuRE1obGpqVjNCOWVfdk4tUzdCYlJNeUR4alhRX0k2c2htbEF4NEw2bGo0bmNMSktOVFdU?oc=5",
+   "source": "ebn.co.kr",
+   "date": "2026-09-28",
+   "datetime": "2026-09-28 11:17 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "손자회사 솔리다임 미국 상장설에…SK하이닉스, 장초반 4%대 약세",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHTFIxTU5BUFpjcGJ2YndhbEVHZjN2LVc5LVNyZU9MQXpNam5uUFlFbG15T0ZvbFNVOUY2Q282bjN1Q1RaNkRZQ2E2QnpLT0k0d3c?oc=5",
@@ -37,18 +61,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "\"우려는 소음일 뿐\"…SK하이닉스, 성장 방향성 확고",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VX1VKUmsxSm9UYVQ1MmIwQmtKOVFYbm1NQnQyeU50QldyNFc0d2R4RThsa0I5OEVUMGtZYjZ6cW1GZ2xzcThTb1JGREFxTjJ6cE1n?oc=5",
-   "source": "경제타임스",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 09:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   },
   {
@@ -109,18 +121,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스 투자 여파 … 청주시 흥덕구 4개 洞 땅값 `들썩'",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UNk9ZNlpQVldYSzh0SVJaUmM2ajRuS25mdUlTR01oS1RuVEZ2cHNCWjJuaHRTSkFtQWdXMDFWUE9vXzc1MWRKcDJCeGRQdFlBNlRtZ1FzN2ZXMjItTE1lMDNybVBpbVJK?oc=5",
-   "source": "충청타임즈",
-   "date": "2026-09-27",
-   "datetime": "2026-09-27 18:39 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
