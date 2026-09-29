@@ -1,18 +1,30 @@
 {
- "fetchedAt": "2026-09-29 09:20 KST",
+ "fetchedAt": "2026-09-29 09:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
    "title": "LPDDR6는 같은 선상…CXMT, 삼성전자·SK하이닉스 턱밑 추격",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tTEN2bGtHdFBJRHdGekZYWFpONE1JOXJvTXdvZ3VKUEQ4UU5KWU1NTEJoWGE4bkQxYmhRdmV1ckMxX29PRWtDT2t5eFBqSElfR29FNThjUmR6bC1jQlZ2ZEtTWnNiRFAwZ1hweDJxaTU?oc=5",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "date": "2026-09-29",
    "datetime": "2026-09-29 09:11 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"반도체 하락? 오히려 이득\"...삼성전자·SK하이닉스 쓸어담은 주식 초고수",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1X0JoR0pubFFDb0NZclJ3VUp0WENCeXRjbEc3QXRXVjJKeGFzZVlHT0FiSTl3TElXWlNWaVNPX1ZTVVVOb2VacjJrRFRyVDc3YkZrTEdkMW1oUQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 09:00 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   },
   {
@@ -25,18 +37,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"SK하이닉스, 환율 하락으로 실적 추정치 하향…목표가↓\"-DS - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54VWVFbjRoM0hxcVhZS2ZEcFlYUS01bmNqS001M2RONnY4TS1DYkQzYUc2SlYxTS1VOVFuMDZqT0VZUkFjSi1sUHZiOHZ0Q05RMzJ5bzdIcnpTelZnSkJuRUJTZ29MNFZk0gFuQVVfeXFMTzV2TTBISG5OalF5QjlLSnJlZXBsMGN2UjRPdUJnRGY1eHJmRjZpcjl6RUdkeXFTbldmeFA0V3JwMGV3endLekxxaFQ1bHg5M1lFQy1VWDJZMGt0NUFqV1ZfOVJQM0xFcHhYUjlpNkE?oc=5",
-   "source": "머니투데이",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 08:45 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   },
   {
@@ -53,10 +53,10 @@
   },
   {
    "title": "AI·메모리주 급락…SK하이닉스 ADR 5%↓·마이크론 2.6%↓",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pZHVOdjNKUTFTSVFMZXlxMDdDUnJGbVhoZ0pwc2VoWEQtVk0teVpzbWhUOWZEQ2w1a1p5YlpBd0lhdzNRR2hJemgtU3piSHU2Y1A5MW9fVUpZNjdvMldPX1pkNDNPeVnSAWxBVV95cUxNR0V0dW5XSDZZVlZZQVRMRS1waXhnX0VJdXFrZnFuR25QMXZMZlVnZ21yb2xsMklHcHl4a1lSd1N5TFZZUjRTVHRLZm9Eb1pSenZTR1UwNTkyeC1CbU1LeHlWbFAtaU0ydGtwLTc?oc=5",
-   "source": "뉴스1",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xN0VvVmRRVDJrM29nZkdGVng3TFp1TEpEUk9mdlBmTUZzOHFGNXB2SUZsOXEyTVhINHFNNlB5UzUwbzFueEg3ZzVXb0RqUzg?oc=5",
+   "source": "v.daum.net",
    "date": "2026-09-29",
-   "datetime": "2026-09-29 06:00 KST",
+   "datetime": "2026-09-29 06:03 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
