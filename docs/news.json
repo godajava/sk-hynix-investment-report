@@ -1,12 +1,12 @@
 {
- "fetchedAt": "2026-09-29 15:45 KST",
+ "fetchedAt": "2026-09-29 15:50 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
    "title": "심텍, SK하이닉스 파트너스데이 '우수협력사'상 수상",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rSmlzR24zcVd5VGxOVVZmUXV3aEpfSEU0OE1hcFFBY3pBeXpMUHk2ck9nbUkyTnRuVE5SMnM1WDBnV3M2QWFBWkE3U0I2ZkJGX0FGTmpOMEd6NnlyMnJGQ0lKVkhEVDdJM2c?oc=5",
-   "source": "파이낸스스코프",
+   "source": "finance-scope.com",
    "date": "2026-09-29",
    "datetime": "2026-09-29 15:12 KST",
    "signal": {
@@ -28,6 +28,18 @@
    }
   },
   {
+   "title": "SK하이닉스, 협력사 상생 강화…‘R&D 도전 보상제’ 신설",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNWlueVpJdDVmMndRUWQyaU9QMExpZlU5NWlGZHJSR2pJVGVhenZrQWY1c00wT1otejNjbk1sUEpXanA1TFQ5QkZjVGpfOENoVkJ1SVdsX2k4Qkp1b25sNg?oc=5",
+   "source": "뉴스토마토",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 14:59 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "3개월 만에 40% 넘게 빠졌다…SK하이닉스 주가, 맥 못추는 이유",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OdU92UlRnVXVNUlFaX2p5Nm1jYUJMMnYwaEFBblJLX3FYOHl1Nm5TaGR6V2dBTmpiVy1iX0o5VGVUOTlUUGt1LXJmWi15UmNGVHc?oc=5",
    "source": "매일경제",
@@ -37,18 +49,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 협력사 성장 단계별 지원 강화… R&D 도전 보상제 신설",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MSUUtd2x4UmlTMDdpZmF6RU00RWRiTmlnMVpVZElSenIyLU1Rd1JRblNPWnMyUTBqLVNGRDhOeVJXZ3cwQ3JVVlFlX1JPX2xCZ3NNUVBPbkRZYU55VlhVRmNRdnd0VVdBQ1phaE90MWkxQVQ10gF0QVVfeXFMTkxJRS13bHhSaVMwN2lmYXpFTTRFZGJOaWcxWlVkSVJ6cjItTVF3UlFuU09aczJRMGotU0ZEOE55UldndzBDclVWUWVfUk9fbEJnc01RUE9uRFlhTnlWWFVGY1F2d3RVV0FDWmFoT3QxaTFBVDU?oc=5",
-   "source": "IT조선",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 14:22 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   },
   {
@@ -66,7 +66,7 @@
   {
    "title": "SK하이닉스, 협력사 연구개발 비용 최대 50% 선제 지원",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NSHhJSzY2TkhwY2JoWXJacF91bnVFNzRQOW5lZzM5eFFYdFcxc0J3MTJzY3g0dXk0UjBrbUZDMDl0ak01S2h3cGQ0S0ljSHN0U3NlN2E1UG56OVJJNWtCdFlQbVRkME0?oc=5",
-   "source": "yonhapnewstv.co.kr",
+   "source": "연합뉴스TV",
    "date": "2026-09-29",
    "datetime": "2026-09-29 14:09 KST",
    "signal": {
