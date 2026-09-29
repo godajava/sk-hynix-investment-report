@@ -1,122 +1,122 @@
 {
- "fetchedAt": "2026-09-29 15:50 KST",
+ "fetchedAt": "2026-09-29 23:01 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "심텍, SK하이닉스 파트너스데이 '우수협력사'상 수상",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rSmlzR24zcVd5VGxOVVZmUXV3aEpfSEU0OE1hcFFBY3pBeXpMUHk2ck9nbUkyTnRuVE5SMnM1WDBnV3M2QWFBWkE3U0I2ZkJGX0FGTmpOMEd6NnlyMnJGQ0lKVkhEVDdJM2c?oc=5",
-   "source": "finance-scope.com",
+   "title": "SK하이닉스, 내달 2일 임단협 조인식…곽노정 참석 '노사 화합' 도모",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42Rk1iTGg3QkUxMFZfVFd5SFowaUs0S2tNZFJTLUdOTmRFSHdoNWRIaWZWUE43OWhlVk1GN1JiNnhLU1ZkeXFiNmlubw?oc=5",
+   "source": "아이뉴스24",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 20:32 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 협력사 동반 성장 25주년...협력사 대금 지원 두배로",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BYmljOEpTdHg1dnhRQWlnd0dUTkxZZm9TXzNKd1hjQVc3U0ZZd2RyeWNwMEFjQ0YxV3hrOTJGdm9JTTZhRVdWU3pVblJsLTdSY0FrNnk3VWVfSlAwcUNzWmpIT1YxUQ?oc=5",
+   "source": "디일렉",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 19:00 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "“삼성전자 안산다”더니…AI 비관론자, SK하이닉스까지 담았다",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfQklETE5rckQtWlE2YXctTmdPNjNhV05udHNnazdnZmZhWHN0UXdOUDROeGNZbUF4V1RDcXB2R2VxdmFOVl9sdVlOLXJiUXBWbnBQaTREQnpQQ3FqQXVheFFDSQ?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 18:04 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 윈팩에 패키징 외주 다시 맡긴다",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGNGhDNXNFRnRER1F3b0tiSFVmM01vWkozdUg3em9hRUd1TzFXUVdHU0k1U0VGOXJ0eWVzSFVGSDZmWlgxZTdTbko3dUpVM0d1RXZGNUJfRlFUb2ZSWVpzdjFQaTBFQQ?oc=5",
+   "source": "디일렉",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 16:44 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스,’파트너스데이’ 개최…협력사 단계별 지원 강화",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tNDBxUnY0LWJUX01YQVlLbUQtMW9YX3pTV2Q1Slp0STJUM3BSb2tMSXk4MU1aem9VcTRSdE9Sajl5U3VyQVlORVVvTnMzQkpob3dUUWtrQnlMVEcyakZYa29pMmU?oc=5",
+   "source": "서울경제TV",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 16:40 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 협력사 지원 확대…R&D 초기 비용 최대 50% 선지원",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBydk9HaFFucFNQemsyTzRGVmxHYzVVQ3NMMG01X09sLUZaaVI2QnpaM3BDeGdNNTRTWkRJcW5WYUNUXzZqU25STkdfMFlRS3MwYTNGQzMtQTNMWjdrOWItN2hBM3dWQnJCQ3FNMWkzVk1JbDIz0gF0QVVfeXFMUHJ2T0doUW5wU1B6azJPNEZWbEdjNVVDc0wwbTVfT2wtRlppUjZCelozcEN4Z001NFNaRElxblZhQ1RfNmpTblJOR18wWVFLczBhM0ZDMy1BM0xaN2s5Yi03aEEzd1ZCckJDcU0xaTNWTUlsMjM?oc=5",
+   "source": "주간한국",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 16:24 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, ‘2026 파트너스데이’서 협력사와 ‘원팀’ 결속력 재확인",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pSXNUTXU2RE8tVnlycG0tdTRLT3d6dmlhZDVOMFJnRHdYaFNIME5yb3JEVFA2czRYYktQTEktYzMyM1pEX0d3WGp0MC15UjZKSVhPdTVULWNLZWJxVDl2YWF6QjRMU09IaVpLaEFqOA?oc=5",
+   "source": "데일리e뉴스",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 16:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 협력사 R&D 실패 부담도 나눈다…'원팀' 25년",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBPMDZsMWtXdGdTVW9OQkZhNzFnUjZrSVRkMlJ4aktSbVEzR0Q3dTFhd2xVMndCbmtDMUFxRlRJN2R6bVNmZ0JxX2loSQ?oc=5",
+   "source": "아이뉴스24",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 15:59 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "심텍, SK하이닉스 '우수협력사'상 수상",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Cc05wUVFMaVFWS045cjVGTk1kYVhQaTRFejQ3MGhXbldUVGsyQUpydmo5N292cUVPOFl5NmxaNmtMY3l1cnd1RG10ZWxzZEFldUw0ZFR0UUgtZXh6T3ppOGM1cWdnQQ?oc=5",
+   "source": "디일렉",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 15:53 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스, 3분기 영업익 '190조' 전망…마이크론 실적에 주목",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBybGV3b3pvNThwUUlNRkw3b1BubTg3c0tmMzJ2NXUwaEFESlpUZU5fV0k0clJwNTF3T0FfQURSeWkxdEZMbjZjWERNWXRVdVZrWXlXVDZrTEhIbHpGQkZweExKLUtRUnRO?oc=5",
+   "source": "녹색경제신문",
    "date": "2026-09-29",
    "datetime": "2026-09-29 15:12 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 협력사 지원 대폭 확대…납품대금 펀드 2배 확대 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeV8zbndiYVZFNjNvTHJrZjRvRUxOZUlRVDlGandHSmtnVk5lMTFUaHJLdXVORldZOE1heFRILW85encxbTRnWVR2cVJWT3dGVUZpRUNGZERubktGaUhpZzVZVk1qU0lwZVdObTNUR3lCTWFSTTJqcFFsSm9iSlo4ZnFB0gGWAUFVX3lxTE92V21sRnQtMEhVNlVhMVdhSndXbFF5WDFJYmZvODlrTEtlSUhaaVUwaGdVZHNkamYxQnp6OGFwU29LLU5wWkZVMzVUTU9JUHlTR2pvX1hOUEtoMUJIcXBUazI3Qk5QMk02bkdsSlFNVmlzaWExWHRpaFpZNHdJNUpfaEdNWHg5MWdyMFZENTBNS0dGZWV3dw?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 15:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 협력사 상생 강화…‘R&D 도전 보상제’ 신설",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vNWlueVpJdDVmMndRUWQyaU9QMExpZlU5NWlGZHJSR2pJVGVhenZrQWY1c00wT1otejNjbk1sUEpXanA1TFQ5QkZjVGpfOENoVkJ1SVdsX2k4Qkp1b25sNg?oc=5",
-   "source": "뉴스토마토",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 14:59 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "3개월 만에 40% 넘게 빠졌다…SK하이닉스 주가, 맥 못추는 이유",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OdU92UlRnVXVNUlFaX2p5Nm1jYUJMMnYwaEFBblJLX3FYOHl1Nm5TaGR6V2dBTmpiVy1iX0o5VGVUOTlUUGt1LXJmWi15UmNGVHc?oc=5",
-   "source": "매일경제",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 14:24 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[핫타임] 삼성전자, 배당락에도 반등…SK하이닉스도 낙폭 회복",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ReFNFSjZFWGlvYmpJOE80YVViR0lPTkhKb2QxOWg3eHB5RXh2NGgwTTZKdmQ0eG0yZEJlRU5RZjRqbFQ0WGxLazdkSi1OUjA?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 14:13 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 협력사 연구개발 비용 최대 50% 선제 지원",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NSHhJSzY2TkhwY2JoWXJacF91bnVFNzRQOW5lZzM5eFFYdFcxc0J3MTJzY3g0dXk0UjBrbUZDMDl0ak01S2h3cGQ0S0ljSHN0U3NlN2E1UG56OVJJNWtCdFlQbVRkME0?oc=5",
-   "source": "연합뉴스TV",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 14:09 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, '동반성장 25년' 협력사와 원팀 결속",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PRDJsV3p4NTJMejFQVWRRRFB5QWxGMHFSa2I2cGhiajFlSW9TdVVQZVRCOU9SR0w0V0R1LU1Vdk0wR09hdEF3bm12aWprSTQ?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 14:00 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 공급망 확대 총력…협력사 R&D부터 양산까지 지원",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT3l0b0szZ3FnVWZWRExKYkFYWTRiQ20wdm5pU2QwOVJOOGdDLWJ4dHgtRTBNelZBd1k5MDBKTFFDY21yRkljcWhRb2hRckJVeWxMQWg2bFNmSmEzWFVmMk1UVkR6RWRHZEdNZ0FkYjMyWWVSdlFpLUd0WUpuZmVJS1J2VDktZw?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 13:49 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, ‘2026 파트너스데이’서 25년 상생 비전 발표",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwVzVud1dqU25mX01TcGVEaUhSbEZZMkFlQUk3Y2xpMEtRR3VKUm1zbHNkOXZkQWNtOHktRkR3NEl6Nm1IdEl5dUF0cmdIdUV2Q1QybWNpa3FiaHBOT2xZZkRqSFDSAWhBVV95cUxQQVZiQWlFZldDTEV3Z0ZOTWV4dWhJSDVQQ2tNcXBWVFNxUThRYWlfNHFXZllhenRVR19YWTZnLXM4SEZ0dC1FcWhnMnZ6eVJKdVpBXzRCQ1FXRmRjNm5KNVp0cGx1dGFvRw?oc=5",
-   "source": "경인방송 뉴스",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 13:49 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, HBM 이어 eSSD 공략…솔리다임 가치도 키운다",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CWHVpR0UyRzZjVUlZZ2c0bnR6WExPVUV2SHRtTGpMUXIxUnFQRG9BZXRtVWUwR3Fna181Z2c4MVMtQXdzeHczNUhYMk05ZEZtR3pXY3FEQktFZFNP?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 13:49 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
