@@ -1,8 +1,80 @@
 {
- "fetchedAt": "2026-09-29 13:38 KST",
+ "fetchedAt": "2026-09-29 14:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "3개월 만에 40% 넘게 빠졌다…SK하이닉스 주가, 맥 못추는 이유",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yNjhKUkxBRmRDaWxEN0tQb3Bua1Q1UEp5dElFZEtKY0thNUwtZm1icDVoVXlhbUFSMDVaaXMta1ZyMmlMNDZENVY3SlhVVXNaN0E?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 14:24 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 협력사 연구개발 비용 최대 50% 선제 지원",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NSHhJSzY2TkhwY2JoWXJacF91bnVFNzRQOW5lZzM5eFFYdFcxc0J3MTJzY3g0dXk0UjBrbUZDMDl0ak01S2h3cGQ0S0ljSHN0U3NlN2E1UG56OVJJNWtCdFlQbVRkME0?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 14:09 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, '동반성장 25년' 협력사와 원팀 결속",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PRDJsV3p4NTJMejFQVWRRRFB5QWxGMHFSa2I2cGhiajFlSW9TdVVQZVRCOU9SR0w0V0R1LU1Vdk0wR09hdEF3bm12aWprSTQ?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 14:00 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, 공급망 확대 총력…협력사 R&D부터 양산까지 지원",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT3l0b0szZ3FnVWZWRExKYkFYWTRiQ20wdm5pU2QwOVJOOGdDLWJ4dHgtRTBNelZBd1k5MDBKTFFDY21yRkljcWhRb2hRckJVeWxMQWg2bFNmSmEzWFVmMk1UVkR6RWRHZEdNZ0FkYjMyWWVSdlFpLUd0WUpuZmVJS1J2VDktZw?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 13:49 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, ‘2026 파트너스데이’서 25년 상생 비전 발표",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwVzVud1dqU25mX01TcGVEaUhSbEZZMkFlQUk3Y2xpMEtRR3VKUm1zbHNkOXZkQWNtOHktRkR3NEl6Nm1IdEl5dUF0cmdIdUV2Q1QybWNpa3FiaHBOT2xZZkRqSFDSAWhBVV95cUxQQVZiQWlFZldDTEV3Z0ZOTWV4dWhJSDVQQ2tNcXBWVFNxUThRYWlfNHFXZllhenRVR19YWTZnLXM4SEZ0dC1FcWhnMnZ6eVJKdVpBXzRCQ1FXRmRjNm5KNVp0cGx1dGFvRw?oc=5",
+   "source": "경인방송 뉴스",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 13:49 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, HBM 이어 eSSD 공략…솔리다임 가치도 키운다",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CWHVpR0UyRzZjVUlZZ2c0bnR6WExPVUV2SHRtTGpMUXIxUnFQRG9BZXRtVWUwR3Fna181Z2c4MVMtQXdzeHczNUhYMk05ZEZtR3pXY3FEQktFZFNP?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 13:49 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[단독]단일종목 레버리지 ETF 민원 82건…레버리지 ETF 도입 후 삼성전자·SK하이닉스 변동성 지표도 일제히 확대",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeEJ1QWtBdlo1cUFmaHEtWmtlai1SUnhXcTh5LUZFLWtBYkFaUF9MMVlvNHpybDk2NW9fUkVoN0ktcUUxYUZqT1NvdzJ5STRIak1maWxOR1VoZG1JYVNQTEFrVXhIMUFVY1hhc0VuZUtnOFhuaFBDMlFTZzBrV0ZRRV9zdTctX1MxVDYw?oc=5",
@@ -28,21 +100,9 @@
    }
   },
   {
-   "title": "‘국장’만 고금리 타격…SK하이닉스 원주-ADR 괴리율 40% 육박",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rUzNqV1dwMHZRVTZRUllYd2NMUkFTQS1iMF9xNEVFZW1fUnBGSmREN2pOUjI3LUxta0MwMVo2Z2VaVlRDbmpmS0E3eC1qV0s5VURNcDNzY1FhWThGN0JxczZaQmtFbDg?oc=5",
-   "source": "한겨레",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 12:00 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
    "title": "누리호, 내달 7일 SK하이닉스 반도체 싣고 5차 발사",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjWmk0ZU5odm1McGFhQ2IzN1BnODNpSXRjU0xjbnVtM0Nva28wZXE4OXdJZUl0WnV6YWhhY2Nhdm83OXpVNmUwQ1NfTWp5R3RiTnMtVFNFY2JuOTg?oc=5",
-   "source": "에너지경제신문",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Ic1EyS1hZcWxmMXFRYUNhaHFiVFlJVXNwa1hON0dOZmJEX3hCc0xRR2xkanhWWVVJeGRuLThZM1NHTzZ2dmZPaGFPT041LXh3Rmd2Z1Fzc0ViR2lFS2YxSU5lWQ?oc=5",
+   "source": "ekn.kr",
    "date": "2026-09-29",
    "datetime": "2026-09-29 12:00 KST",
    "signal": {
@@ -61,66 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 전날 5%대 급락 후 강보합",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40N0pHUjRhZlVUSURpTG5uQXViVHVZVWQ4RW9EdlRqV2VzTlJFVmhXYzB4Z2tTTWZDREVEWW4zcF9HOTNPZVRuMDRwWVRid1N4TlRPRklveUpvWjJz?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 10:47 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자 '상승세' SK하이닉스 '약세'.. 美 반도체주 약세",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHZmU2ExZXQ3Z0kzZXBDb1I0cUUzanc3SjAwYThBbnJDN2QxajNpQnBONEV4RFlOczhhSUl6U1JQMDZxUmdUVHZUUk5jSUlfS0xHdEN0YzF1LVFLNHByRmJZOWFkcjRGX1p1bTFPMUdWdGgwVWZTMU9PdlZoY21lWnNkb3RFVlRf?oc=5",
-   "source": "g-enews.com",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 10:02 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, TSMC 행사서 '차세대 메모리' 솔루션 공개",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DcE5Td0NZRnNzS1dibTJ3aTBvQnozWUZCMTNEd2otNGJGbEhpR3poWjBYTzZUeGtvSWYydVNDQjFGTUMyNGdqcHZBeWJOLXo1bkFWUDhuaVdkZw?oc=5",
-   "source": "hankyung.com",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 09:53 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] 전날 5%대 급락했던 삼전닉스, 1% 안팎 상승세",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wOVpQXzBUODRWb183SHRYTzR2dzRac25Mc0ctck9Ga3VNQ1c3YlRkYjM4d3IwV21ES2w1TTlVcGxvdkF0Q05YS1JaODROaF9yQUNDMDI4RFJ2bVVkWGdQR9IBYEFVX3lxTE8wOVpQXzBUODRWb183SHRYTzR2dzRac25Mc0ctck9Ga3VNQ1c3YlRkYjM4d3IwV21ES2w1TTlVcGxvdkF0Q05YS1JaODROaF9yQUNDMDI4RFJ2bVVkWGdQRw?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 09:50 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "LPDDR6는 같은 선상…CXMT, 삼성전자·SK하이닉스 턱밑 추격",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tTEN2bGtHdFBJRHdGekZYWFpONE1JOXJvTXdvZ3VKUEQ4UU5KWU1NTEJoWGE4bkQxYmhRdmV1ckMxX29PRWtDT2t5eFBqSElfR29FNThjUmR6bC1jQlZ2ZEtTWnNiRFAwZ1hweDJxaTU?oc=5",
-   "source": "news.einfomax.co.kr",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 09:11 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
