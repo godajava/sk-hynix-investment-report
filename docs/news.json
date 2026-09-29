@@ -1,8 +1,80 @@
 {
- "fetchedAt": "2026-09-29 00:22 KST",
+ "fetchedAt": "2026-09-29 09:19 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "LPDDR6는 같은 선상…CXMT, 삼성전자·SK하이닉스 턱밑 추격",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tTEN2bGtHdFBJRHdGekZYWFpONE1JOXJvTXdvZ3VKUEQ4UU5KWU1NTEJoWGE4bkQxYmhRdmV1ckMxX29PRWtDT2t5eFBqSElfR29FNThjUmR6bC1jQlZ2ZEtTWnNiRFAwZ1hweDJxaTU?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 09:11 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "DS투자증권, SK하이닉스 4분기 실적 기대감에도 목표주가 ‘264만원’ 하향",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GZkRpSjZKdzBkRzdfa25nMWtBVHpSajBZUkRiLWVwNGppdHJCbDRmTEhKS2JZUnUzT1k1OHY2amE4VXA0WGExSnktUHZlU2c?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 08:49 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"SK하이닉스, 환율 하락으로 실적 추정치 하향…목표가↓\"-DS - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54VWVFbjRoM0hxcVhZS2ZEcFlYUS01bmNqS001M2RONnY4TS1DYkQzYUc2SlYxTS1VOVFuMDZqT0VZUkFjSi1sUHZiOHZ0Q05RMzJ5bzdIcnpTelZnSkJuRUJTZ29MNFZk0gFuQVVfeXFMTzV2TTBISG5OalF5QjlLSnJlZXBsMGN2UjRPdUJnRGY1eHJmRjZpcjl6RUdkeXFTbldmeFA0V3JwMGV3endLekxxaFQ1bHg5M1lFQy1VWDJZMGt0NUFqV1ZfOVJQM0xFcHhYUjlpNkE?oc=5",
+   "source": "머니투데이",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 08:45 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "하이닉스 돌연 5% 급락…주주들 놀란 '204조 상장설' 정체 [분석+]",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WLW5PS2I3Mnh1ZjY0S05nY0FzX2toZGNoZmprcGduRVBnelliMkxxQlN1eXhYVlRURHRNT0dHbmotVlR3b3BWTGpTd2piZHNkWXc5R0U2c0VQdw?oc=5",
+   "source": "한국경제",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 08:10 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "AI·메모리주 급락…SK하이닉스 ADR 5%↓·마이크론 2.6%↓",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pZHVOdjNKUTFTSVFMZXlxMDdDUnJGbVhoZ0pwc2VoWEQtVk0teVpzbWhUOWZEQ2w1a1p5YlpBd0lhdzNRR2hJemgtU3piSHU2Y1A5MW9fVUpZNjdvMldPX1pkNDNPeVnSAWxBVV95cUxNR0V0dW5XSDZZVlZZQVRMRS1waXhnX0VJdXFrZnFuR25QMXZMZlVnZ21yb2xsMklHcHl4a1lSd1N5TFZZUjRTVHRLZm9Eb1pSenZTR1UwNTkyeC1CbU1LeHlWbFAtaU0ydGtwLTc?oc=5",
+   "source": "뉴스1",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 06:00 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "[속보] SK하이닉스 ADR 5.04%↓… 뉴욕증시 일제히 하락",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91X25zQ3VvV19VMjFaNURnb1A4a2dCdjl4eXZiOVM1OUdPMm0yNE44TVBwOHlibWp0anZyeHBWd2s4LWtwcXktZUJxaXgtRVh5RkpOX1QtN3R2cERQX2FpbzNXM1N4YmdQU1lwOdIBbEFVX3lxTE91X25zQ3VvV19VMjFaNURnb1A4a2dCdjl4eXZiOVM1OUdPMm0yNE44TVBwOHlibWp0anZyeHBWd2s4LWtwcXktZUJxaXgtRVh5RkpOX1QtN3R2cERQX2FpbzNXM1N4YmdQU1lwOQ?oc=5",
+   "source": "국민일보",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 05:02 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "SK하이닉스, TSMC와 HBM5 검증...2년 연속 올해 파트너 수상",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHUkE5SUhzc3dTZFNtZ0UxbjktU013QzFQX19hUlQ3Rk5vekxtcllhNWZDVl91Yzg5dk5YZ056Yk5jeXF3TURJa3ZWUkFnV2EtMmlMcEJaUWE5bTdoNlpmQXZsYXMxUQ?oc=5",
@@ -45,78 +117,6 @@
    "source": "Investing.com 한국어",
    "date": "2026-09-28",
    "datetime": "2026-09-28 18:04 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[클릭 e종목]\"SK하이닉스, 솔리다임 우려 과도…주가에 업황 강세 미반영돼\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ed3hxM0tkVlZzSThFOV9TSnlJQWJQN3g5R09vcFlCQVA3OVZnbzdFeEF5aURmbUFGeWtxWkhmM1J2SHBtMWFvSjBRZzE0X193WFRaU2xOU0hLSm5LQ3Z4OQ?oc=5",
-   "source": "아시아경제",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 17:46 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "솔리다임 IPO에 SK하이닉스 급락… \"이러니 국장 떠나지\" 반발도",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pM01tTGN6ZXFCb0Mzd0pTb3plaGpPd3B6TXdPN2Nvc1I3TFlVbVpzMkt6alRTOFhjYUJNa1M0UVRHQVJPcV8yRU45ZFVkOERMTFJSVGVwZ283RmhKSjFYNUliQl8zUlBmbG1hTzFB0gFzQVVfeXFMUEkxVjNFLUlqc2lxUUdCQTBXaGNQV2FRT2pKVHNNVEFiRFM2b1RhZUp6aTl3eEVWRmtpQVVFMlhtZnFqSVhwZWJTRks1aHllRTJJTzVVOGMyTU9hOEZ6NnlmNi01eV9sMHBlUFc3SXhNdVBJWQ?oc=5",
-   "source": "한국일보",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 17:30 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스, TSMC와 HBM5 검증…차세대 메모리 로드맵 공개",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYekxVVG9KYUhETjQ3Z0luRVhJY19NQ1kwdUVPMFo1RmpYRDFVM3AycDI1OXJGdDczR0RGVUZDUGZmV0M1c3RPZ1NYSlNuOGJoV0NfUWNYcGRzSjc2?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 17:10 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자, 3Q DS부문 수익성 확대···SK하이닉스와 HBM 경쟁 본격화",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DTUktTG5iQlZNQU03NUlYZllkYjA5dlhsa0xueDI0cmlyQ2o3TXBmZ0p0c2FjbGh6VWxPZkxEa1ZoUzR5VWhFSHBYRmhBcVlBMzdpZXdTZldsakpZTnVXV0NZWWNGQkMtdEE?oc=5",
-   "source": "서울파이낸스",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 17:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[단독]액트, SK하이닉스에 주주서한…\"솔리다임 자금 조달 이유 설명하라\"",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VajYtWG91bmtjcWYtUENiMGlYLURzTEsyeHNKeGwzUnMzS2YyYTMwS2k0YlU4YXVQTHFyVlB2akp1cHlITHc?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 16:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스 5%대 하락… HLB는 상한가",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13REE1S1BVT1BpRWVRbGZhbE5yM05EMXFFWmxpX21xZG1KUWt1bWFNVk83bnFZS1YzaE1VaEcxOEdHRzFRQzhRcy1icmYtNExCTmludXIzQmNfVDVVN21FTFVrOVo5ZDhYRmVRSnRDUHRKcF8xZWRoTDNoNHk5dw?oc=5",
-   "source": "서울신문",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 16:37 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
