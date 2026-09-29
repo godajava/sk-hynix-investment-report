@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-29 12:39 KST",
+ "fetchedAt": "2026-09-29 13:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[단독]단일종목 레버리지 ETF 민원 82건…레버리지 ETF 도입 후 삼성전자·SK하이닉스 변동성 지표도 일제히 확대",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeEJ1QWtBdlo1cUFmaHEtWmtlai1SUnhXcTh5LUZFLWtBYkFaUF9MMVlvNHpybDk2NW9fUkVoN0ktcUUxYUZqT1NvdzJ5STRIak1maWxOR1VoZG1JYVNQTEFrVXhIMUFVY1hhc0VuZUtnOFhuaFBDMlFTZzBrV0ZRRV9zdTctX1MxVDYw?oc=5",
+   "source": "조선일보",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 13:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스 덕에 충북 2분기 지역내총생산 증가율 11.9%로 전국 1위…전남·대전은 전년대비 감소",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHRwM1BMUTRCdnJ1MWFVQzRHVC1nZXEyYmJaTW1TSUJ4SWluLTZ6SE1XYlJKWUx5S3B6UDZJVDJBbU1mN0dvU1ZWR2xuN0V2WkNtYlVEbmZ4QmN5S0hZYW44TS1ZTmtSMXNBclRiNEJZeUxPakR3ejhXT1dYdXdZRC1rV1EzdEpwc3B2aVdB?oc=5",
@@ -66,7 +78,7 @@
   {
    "title": "[특징주] 삼성전자 '상승세' SK하이닉스 '약세'.. 美 반도체주 약세",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHZmU2ExZXQ3Z0kzZXBDb1I0cUUzanc3SjAwYThBbnJDN2QxajNpQnBONEV4RFlOczhhSUl6U1JQMDZxUmdUVHZUUk5jSUlfS0xHdEN0YzF1LVFLNHByRmJZOWFkcjRGX1p1bTFPMUdWdGgwVWZTMU9PdlZoY21lWnNkb3RFVlRf?oc=5",
-   "source": "글로벌이코노믹",
+   "source": "g-enews.com",
    "date": "2026-09-29",
    "datetime": "2026-09-29 10:02 KST",
    "signal": {
@@ -78,7 +90,7 @@
   {
    "title": "SK하이닉스, TSMC 행사서 '차세대 메모리' 솔루션 공개",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DcE5Td0NZRnNzS1dibTJ3aTBvQnozWUZCMTNEd2otNGJGbEhpR3poWjBYTzZUeGtvSWYydVNDQjFGTUMyNGdqcHZBeWJOLXo1bkFWUDhuaVdkZw?oc=5",
-   "source": "한국경제",
+   "source": "hankyung.com",
    "date": "2026-09-29",
    "datetime": "2026-09-29 09:53 KST",
    "signal": {
@@ -102,21 +114,9 @@
   {
    "title": "LPDDR6는 같은 선상…CXMT, 삼성전자·SK하이닉스 턱밑 추격",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tTEN2bGtHdFBJRHdGekZYWFpONE1JOXJvTXdvZ3VKUEQ4UU5KWU1NTEJoWGE4bkQxYmhRdmV1ckMxX29PRWtDT2t5eFBqSElfR29FNThjUmR6bC1jQlZ2ZEtTWnNiRFAwZ1hweDJxaTU?oc=5",
-   "source": "연합인포맥스",
+   "source": "news.einfomax.co.kr",
    "date": "2026-09-29",
    "datetime": "2026-09-29 09:11 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "DS투자증권, SK하이닉스 4분기 실적 기대감에도 목표주가 ‘264만원’ 하향",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GZkRpSjZKdzBkRzdfa25nMWtBVHpSajBZUkRiLWVwNGppdHJCbDRmTEhKS2JZUnUzT1k1OHY2amE4VXA0WGExSnktUHZlU2c?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 08:49 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
