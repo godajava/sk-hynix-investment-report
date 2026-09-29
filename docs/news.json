@@ -1,12 +1,12 @@
 {
- "fetchedAt": "2026-09-29 15:40 KST",
+ "fetchedAt": "2026-09-29 15:45 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
    "title": "심텍, SK하이닉스 파트너스데이 '우수협력사'상 수상",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rSmlzR24zcVd5VGxOVVZmUXV3aEpfSEU0OE1hcFFBY3pBeXpMUHk2ck9nbUkyTnRuVE5SMnM1WDBnV3M2QWFBWkE3U0I2ZkJGX0FGTmpOMEd6NnlyMnJGQ0lKVkhEVDdJM2c?oc=5",
-   "source": "finance-scope.com",
+   "source": "파이낸스스코프",
    "date": "2026-09-29",
    "datetime": "2026-09-29 15:12 KST",
    "signal": {
@@ -66,7 +66,7 @@
   {
    "title": "SK하이닉스, 협력사 연구개발 비용 최대 50% 선제 지원",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NSHhJSzY2TkhwY2JoWXJacF91bnVFNzRQOW5lZzM5eFFYdFcxc0J3MTJzY3g0dXk0UjBrbUZDMDl0ak01S2h3cGQ0S0ljSHN0U3NlN2E1UG56OVJJNWtCdFlQbVRkME0?oc=5",
-   "source": "연합뉴스TV",
+   "source": "yonhapnewstv.co.kr",
    "date": "2026-09-29",
    "datetime": "2026-09-29 14:09 KST",
    "signal": {
@@ -114,7 +114,7 @@
   {
    "title": "SK하이닉스, HBM 이어 eSSD 공략…솔리다임 가치도 키운다",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CWHVpR0UyRzZjVUlZZ2c0bnR6WExPVUV2SHRtTGpMUXIxUnFQRG9BZXRtVWUwR3Fna181Z2c4MVMtQXdzeHczNUhYMk05ZEZtR3pXY3FEQktFZFNP?oc=5",
-   "source": "newspim.com",
+   "source": "뉴스핌",
    "date": "2026-09-29",
    "datetime": "2026-09-29 13:49 KST",
    "signal": {
