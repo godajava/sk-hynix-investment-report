@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-09-29 10:38 KST",
+ "fetchedAt": "2026-09-29 11:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "\"SK하이닉스 310만원→264만원\" 환율 하락에 목표가↓…삼성전기, IT 부품 중 가장 심한 공급 부족 [株토피아]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHLTN1N3N3cm1ZNmMzMDNPSGtHekE5UjBMVm5SQjBOZWFLREZ2cXp0WFZhNVJmN1ZqdGxIV29zNXU4R3U2UWp5RnFqVFNibk0?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 11:22 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 전날 5%대 급락 후 강보합",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40N0pHUjRhZlVUSURpTG5uQXViVHVZVWQ4RW9EdlRqV2VzTlJFVmhXYzB4Z2tTTWZDREVEWW4zcF9HOTNPZVRuMDRwWVRid1N4TlRPRklveUpvWjJz?oc=5",
+   "source": "newspim.com",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 10:47 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "[특징주] 삼성전자 '상승세' SK하이닉스 '약세'.. 美 반도체주 약세",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRHZmU2ExZXQ3Z0kzZXBDb1I0cUUzanc3SjAwYThBbnJDN2QxajNpQnBONEV4RFlOczhhSUl6U1JQMDZxUmdUVHZUUk5jSUlfS0xHdEN0YzF1LVFLNHByRmJZOWFkcjRGX1p1bTFPMUdWdGgwVWZTMU9PdlZoY21lWnNkb3RFVlRf?oc=5",
@@ -21,6 +45,18 @@
    "source": "한국경제",
    "date": "2026-09-29",
    "datetime": "2026-09-29 09:53 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 전날 5%대 급락했던 삼전닉스, 1% 안팎 상승세",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wOVpQXzBUODRWb183SHRYTzR2dzRac25Mc0ctck9Ga3VNQ1c3YlRkYjM4d3IwV21ES2w1TTlVcGxvdkF0Q05YS1JaODROaF9yQUNDMDI4RFJ2bVVkWGdQR9IBYEFVX3lxTE8wOVpQXzBUODRWb183SHRYTzR2dzRac25Mc0ctck9Ga3VNQ1c3YlRkYjM4d3IwV21ES2w1TTlVcGxvdkF0Q05YS1JaODROaF9yQUNDMDI4RFJ2bVVkWGdQRw?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 09:50 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -81,42 +117,6 @@
    "source": "한국경제",
    "date": "2026-09-28",
    "datetime": "2026-09-28 22:00 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스, TSMC와 HBM5 검증...2년 연속 올해 파트너 수상",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHUkE5SUhzc3dTZFNtZ0UxbjktU013QzFQX19hUlQ3Rk5vekxtcllhNWZDVl91Yzg5dk5YZ056Yk5jeXF3TURJa3ZWUkFnV2EtMmlMcEJaUWE5bTdoNlpmQXZsYXMxUQ?oc=5",
-   "source": "디일렉",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 21:15 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "‘국장’만 고금리 타격…SK하이닉스 원주-ADR 괴리율 40% 육박",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rUzNqV1dwMHZRVTZRUllYd2NMUkFTQS1iMF9xNEVFZW1fUnBGSmREN2pOUjI3LUxta0MwMVo2Z2VaVlRDbmpmS0E3eC1qV0s5VURNcDNzY1FhWThGN0JxczZaQmtFbDg?oc=5",
-   "source": "한겨레",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 20:00 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스, 솔리다임 IPO 우려에 하락…삼성전자도 동반 약세",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFQVREcWs2VXZaSndERlZZWDB0X01lZUVZZ2VXUXVEZWc4c3VYSE9uT2RzS0tkTS1OUUxNakNIMFFsTV9BNDM5WEQ0cVBOcjRqTEhRcDlXLWU5a1NCbVFYTTYyRzhoZERCODFXaWpmb1d5VnhZc2pJ?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 18:04 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
