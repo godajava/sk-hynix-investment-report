@@ -1,8 +1,44 @@
 {
- "fetchedAt": "2026-09-29 11:38 KST",
+ "fetchedAt": "2026-09-29 12:39 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스 덕에 충북 2분기 지역내총생산 증가율 11.9%로 전국 1위…전남·대전은 전년대비 감소",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHRwM1BMUTRCdnJ1MWFVQzRHVC1nZXEyYmJaTW1TSUJ4SWluLTZ6SE1XYlJKWUx5S3B6UDZJVDJBbU1mN0dvU1ZWR2xuN0V2WkNtYlVEbmZ4QmN5S0hZYW44TS1ZTmtSMXNBclRiNEJZeUxPakR3ejhXT1dYdXdZRC1rV1EzdEpwc3B2aVdB?oc=5",
+   "source": "조선일보",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 12:08 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "‘국장’만 고금리 타격…SK하이닉스 원주-ADR 괴리율 40% 육박",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rUzNqV1dwMHZRVTZRUllYd2NMUkFTQS1iMF9xNEVFZW1fUnBGSmREN2pOUjI3LUxta0MwMVo2Z2VaVlRDbmpmS0E3eC1qV0s5VURNcDNzY1FhWThGN0JxczZaQmtFbDg?oc=5",
+   "source": "한겨레",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 12:00 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "누리호, 내달 7일 SK하이닉스 반도체 싣고 5차 발사",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjWmk0ZU5odm1McGFhQ2IzN1BnODNpSXRjU0xjbnVtM0Nva28wZXE4OXdJZUl0WnV6YWhhY2Nhdm83OXpVNmUwQ1NfTWp5R3RiTnMtVFNFY2JuOTg?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-09-29",
+   "datetime": "2026-09-29 12:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "\"SK하이닉스 310만원→264만원\" 환율 하락에 목표가↓…삼성전기, IT 부품 중 가장 심한 공급 부족 [株토피아]",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHLTN1N3N3cm1ZNmMzMDNPSGtHekE5UjBMVm5SQjBOZWFLREZ2cXp0WFZhNVJmN1ZqdGxIV29zNXU4R3U2UWp5RnFqVFNibk0?oc=5",
@@ -18,7 +54,7 @@
   {
    "title": "[특징주] 삼성전자·SK하이닉스, 전날 5%대 급락 후 강보합",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE40N0pHUjRhZlVUSURpTG5uQXViVHVZVWQ4RW9EdlRqV2VzTlJFVmhXYzB4Z2tTTWZDREVEWW4zcF9HOTNPZVRuMDRwWVRid1N4TlRPRklveUpvWjJz?oc=5",
-   "source": "newspim.com",
+   "source": "뉴스핌",
    "date": "2026-09-29",
    "datetime": "2026-09-29 10:47 KST",
    "signal": {
@@ -85,42 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "AI·메모리주 급락…SK하이닉스 ADR 5%↓·마이크론 2.6%↓",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xN0VvVmRRVDJrM29nZkdGVng3TFp1TEpEUk9mdlBmTUZzOHFGNXB2SUZsOXEyTVhINHFNNlB5UzUwbzFueEg3ZzVXb0RqUzg?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 06:03 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[속보] SK하이닉스 ADR 5.04%↓… 뉴욕증시 일제히 하락",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zUnF4YzNxQUNHUWRveFJ3QmtPMmpRbFlXejVFWERmRGFmbkFpRVNrZmc4ZHBzeDlyYmsyOE1NYktwZ0RwckFsb0xDZzdLdW0yRE1fUjFDdGtXbGQ1VlpPQXFSSm1HRDTSAWxBVV95cUxPdV9uc0N1b1dfVTIxWjVEZ29QOGtnQnY5eHl2YjlTNTlHTzJtMjROOE1QcDh5Ym1qdGp2cnhwVndrOC1rcHF5LWVCcWl4LUVYeUZKTl9ULTd0dnBEUF9haW8zVzNTeGJnUFNZcDk?oc=5",
-   "source": "국민일보",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 05:02 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "하이닉스 돌연 5% 급락…주주들 놀란 '204조 상장설' 정체 [분석+]",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WLW5PS2I3Mnh1ZjY0S05nY0FzX2toZGNoZmprcGduRVBnelliMkxxQlN1eXhYVlRURHRNT0dHbmotVlR3b3BWTGpTd2piZHNkWXc5R0U2c0VQdw?oc=5",
-   "source": "한국경제",
-   "date": "2026-09-28",
-   "datetime": "2026-09-28 22:00 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
