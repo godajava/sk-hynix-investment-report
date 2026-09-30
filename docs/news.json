@@ -1,18 +1,30 @@
 {
- "fetchedAt": "2026-09-30 13:38 KST",
+ "fetchedAt": "2026-09-30 14:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[오늘의 삼전닉스] SK하이닉스 'AI 삼각동맹' 건재에 국내외 투자자 다시 베팅",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MRlpZb3dwQjZiVzlTQ29uRjJIVmFVNlVLWVh2WE80aDJTOVlLbDNkbE9JYXJWTTlSNUNFdmhKd20welRQRS1HdmU5RTdoaDl2WmdXRHV2cU9ZMkdiTXdyOENR?oc=5",
-   "source": "이코노미스트",
+   "title": "SK 하이닉스, 협력사 R&D 비용 최대 50% 선제 지원",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZG9XbXVWQ184TVhsU3RRQnE5cWR5MW5NX21fdF9yRzRsNE12dVEybGVoVnkyWG9wZk5WRUZNV0xWZzIteG1FbGNaR3kxZ1JWdlp1dUZMY244MGZqcGNCZXFxb3VCaDV5dk1GUXhRVlNJTkZWOW5CM0hWXzJJTjVXWnNMdTVPaklJN1dleA?oc=5",
+   "source": "YTN 사이언스",
    "date": "2026-09-30",
-   "datetime": "2026-09-30 11:29 KST",
+   "datetime": "2026-09-30 11:09 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 협력사들과 ‘2026 파트너스데이’ 개최...25년간 동반성장",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDOXVJOWdEMEo5cU4tSFVfdFBNMkF2OTNqQjZPN0hSYVgwQ2swSGQydVdBNWtkYXgxVlNOYW03ODdUZFpPdHoxWE5sODBoVS1mcUk0cU1rNVg1czdtVkRHaU5Bal96NGtX?oc=5",
+   "source": "KIPOST",
+   "date": "2026-09-30",
+   "datetime": "2026-09-30 11:09 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
@@ -76,8 +88,8 @@
    }
   },
   {
-   "title": "[솔리다임 IPO①] 1천500억弗 몸값 누구의 것인가…SK하이닉스 주주 셈법",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSY2xTY1VTeDFYRW5zSlk4VUtzSEhHdUYwSUZVTHVPV3hNbGk5MHhJeFhHcVdlWjFzSmtWOEVzMllfVjFTYUQxUk9EdFhXR3V2ZDNDVmIwMlF1LTZKbk5uenlTdUM0aHRRNDB1YjlabDM3RWJW?oc=5",
+   "title": "[솔리다임 IPO②] 카카오가 제동 건 美상장…SK하이닉스 이사회도 같은 질문",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlYlBZb0tNTFZwUEpIaFBaVkFickVDVTJMdnlwc0JrRWNHRFJvWG04aUk2Q0IzcFNCVWdJVEtqb1NxZ0U1TFNIUTZPalY5TW96bklybE1BQkRJSHhsaG9Ja0t4aEpwVWdpUnVKUnpINU9tazN3?oc=5",
    "source": "연합인포맥스",
    "date": "2026-09-30",
    "datetime": "2026-09-30 09:19 KST",
@@ -88,11 +100,11 @@
    }
   },
   {
-   "title": "[솔리다임 IPO②] 카카오가 제동 건 美상장…SK하이닉스 이사회도 같은 질문",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlYlBZb0tNTFZwUEpIaFBaVkFickVDVTJMdnlwc0JrRWNHRFJvWG04aUk2Q0IzcFNCVWdJVEtqb1NxZ0U1TFNIUTZPalY5TW96bklybE1BQkRJSHhsaG9Ja0t4aEpwVWdpUnVKUnpINU9tazN3?oc=5",
+   "title": "[솔리다임 IPO①] 1천500억弗 몸값 누구의 것인가…SK하이닉스 주주 셈법",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sVDBkemZGRXNBTExGMC03bm5xN3JfNmZJNWhaVGNfb1NnaG0tNGU4NWU0ZnVEbVA2bHA4TGthODNZTmJ2bDZic1ktWFR1d3RDWWFQbTlkTnZjNFlmc1VRX2gwamlqdnNQQ2RxcXIyM2I?oc=5",
    "source": "연합인포맥스",
    "date": "2026-09-30",
-   "datetime": "2026-09-30 09:19 KST",
+   "datetime": "2026-09-30 09:15 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -109,18 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“하이닉스 자사주 소각 이후가 더 기대”…SK證, SK스퀘어 목표가 185만원 유지 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXdBVVB6cHVpUW1ULXR0a2ptS2N3OHlEZHV4VzhGZ2F2ZmNDY0JMS3JkdWU2cUxPbm9tb3lDVmZvNVFHMVJyLVMyeHBZV1FFbm9JLTQ4SHRVcFE0Tm1nTjZfeDRiRWhvd0VCaERTZ1pMY1JYOURmMDRVTDJBYUVjblBPSU5ZNnVz0gGcAUFVX3lxTFBGQjNEd0lOVjNDa3oyU0JXVVlyQlV6Z0ZMb1NuaEQ1aW9KRml5N0kteFF4ZVBCQUlEb29vS2R2TFhxQ0c3QWt0bWtMTjFiTEpfQWNqVEpWVkFUYjFkczVWVWtQVk1Ndm05UEluZHltNVlrMGtVel96TGpHb3psblNkVTFpY3N6UVZVeHNwcFlldWdYRFllVnNWaGgyZA?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 08:50 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
