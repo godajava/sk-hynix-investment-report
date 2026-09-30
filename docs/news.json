@@ -1,12 +1,48 @@
 {
- "fetchedAt": "2026-09-30 15:50 KST",
+ "fetchedAt": "2026-09-30 22:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK 하이닉스, 협력사 R&D 비용 최대 50% 선제 지원",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZG9XbXVWQ184TVhsU3RRQnE5cWR5MW5NX21fdF9yRzRsNE12dVEybGVoVnkyWG9wZk5WRUZNV0xWZzIteG1FbGNaR3kxZ1JWdlp1dUZMY244MGZqcGNCZXFxb3VCaDV5dk1GUXhRVlNJTkZWOW5CM0hWXzJJTjVXWnNMdTVPaklJN1dleA?oc=5",
-   "source": "YTN 사이언스",
+   "title": "[이슈체크] SK하이닉스, AI 메모리 생산지도 넓힌다…용인서 인디애나까지",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByRngtd3VjVkFPZFBTa3JHQjJCSWJOMXVkT1JWdzZ5d1NXVG92SUtHSlVsWFFfNG95R3lsNFJjWnZydlBHY1hoUUwwTWNnODI3Z2haS0laR19CQnhQTHFHcm5IRQ?oc=5",
+   "source": "조세금융신문",
+   "date": "2026-09-30",
+   "datetime": "2026-09-30 16:29 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "마이크론 실적 경계감? 삼전 1.5%↓…하이닉스 0.6%↑(종합)",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ybFlhei01VzcyV3RHakZXWEM3RU1aamNjZE9pRjE5RmFOVFdzZlJEUjlnYVZYbl9xU2FLVS16ZjhUcFdJYjllbHVzRElGYjVvYWpnRjRScEt0OXgxMG9ietIBYEFVX3lxTE1ybFlhei01VzcyV3RHakZXWEM3RU1aamNjZE9pRjE5RmFOVFdzZlJEUjlnYVZYbl9xU2FLVS16ZjhUcFdJYjllbHVzRElGYjVvYWpnRjRScEt0OXgxMG9ieg?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-09-30",
+   "datetime": "2026-09-30 15:56 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "민형배 \"SK 호남 반도체 투자 철회, 대통령 약 올리는 일\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGVFJxcmxuUG5IRXhvZHlCa0F0UkFKTEtvZi00cUF4QzE5V2J2bno5TFRGQzZtSTdQUEN3R0dhbDQxclp6NU9jWV80dTh3cmpKX2FuLXZ1NzBxZk1I?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-09-30",
+   "datetime": "2026-09-30 12:21 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "초라한 주주환원에 중복상장 '포비아'까지…SK하닉 주가 고점서 40% '뚝'",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sR2xaTHI4TUQwdGhpLVpkX0llZTZ0b1ZjSGYxNDM1bEotT3JfTkFhNHltUmZsUUVFWk1jeEZHeDNXRU5QeFl2bEUzTWhJU28?oc=5",
+   "source": "v.daum.net",
    "date": "2026-09-30",
    "datetime": "2026-09-30 11:09 KST",
    "signal": {
@@ -42,21 +78,9 @@
   {
    "title": "곽노정 SK하이닉스 사장 “신뢰 바탕으로 함께 미래 개척…새로운 25년 열자”",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MbF9YclhaTHdiaXdNU2tXM2h2d3NicGhCTWlyMzFzZHA3TzloNl9xUEpaTzdfc2ZFR09pQU4wb05YaDNqazFiS3RjU3F6V2pXSUgtVUtzei1za3JBNkZCSHJXbEdrbWlY?oc=5",
-   "source": "epnc.co.kr",
+   "source": "테크월드",
    "date": "2026-09-30",
    "datetime": "2026-09-30 10:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[모닝 리포트] SK하이닉스, 피크아웃보다 지속성…목표가 340만원 유지",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlTWlfaGs1Z0Z4VUZ0aUpDNkhWaHdYNjE4cWR0OVRPbnJ1N3N0UFAwQTRkQ0ctRlFUT3lQcUoxZUxORGtBQ0VsamlZcUlab2ZwTDg2aGVoMnQ3TUda?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 09:53 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -88,35 +112,11 @@
    }
   },
   {
-   "title": "[솔리다임 IPO②] 카카오가 제동 건 美상장…SK하이닉스 이사회도 같은 질문",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlYlBZb0tNTFZwUEpIaFBaVkFickVDVTJMdnlwc0JrRWNHRFJvWG04aUk2Q0IzcFNCVWdJVEtqb1NxZ0U1TFNIUTZPalY5TW96bklybE1BQkRJSHhsaG9Ja0t4aEpwVWdpUnVKUnpINU9tazN3?oc=5",
-   "source": "news.einfomax.co.kr",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 09:19 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "[솔리다임 IPO①] 1천500억弗 몸값 누구의 것인가…SK하이닉스 주주 셈법",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sVDBkemZGRXNBTExGMC03bm5xN3JfNmZJNWhaVGNfb1NnaG0tNGU4NWU0ZnVEbVA2bHA4TGthODNZTmJ2bDZic1ktWFR1d3RDWWFQbTlkTnZjNFlmc1VRX2gwamlqdnNQQ2RxcXIyM2I?oc=5",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "date": "2026-09-30",
    "datetime": "2026-09-30 09:15 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자 팔아치운 1% 초고수…SK하이닉스와 '이 종목'으로 갈아탔다",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRmgzWEJvU2JUTWNPakdOaVAxR2J4TXc2cVN3ODBodDRqRVYwSVdNQWx4bEJjcW44bVZOTWlURXV5NWxiZjdQdnlBV2hlbmw4eWJZN2M3QkphUQ?oc=5",
-   "source": "한국경제",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 09:12 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
