@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-09-30 11:38 KST",
+ "fetchedAt": "2026-09-30 12:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[오늘의 삼전닉스] SK하이닉스 'AI 삼각동맹' 건재에 국내외 투자자 다시 베팅",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5MRlpZb3dwQjZiVzlTQ29uRjJIVmFVNlVLWVh2WE80aDJTOVlLbDNkbE9JYXJWTTlSNUNFdmhKd20welRQRS1HdmU5RTdoaDl2WmdXRHV2cU9ZMkdiTXdyOENR?oc=5",
+   "source": "이코노미스트",
+   "date": "2026-09-30",
+   "datetime": "2026-09-30 11:29 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[특징주] 삼성전자·SK하이닉스, 美 반도체주 강세.. '상승세'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXpOTEJ5QUR0WkpZbk1kYXgyQS1BcGhNX2RpWTA4QnpLNmY1cG1GVnZpdkdzY3lsTDJIeVNwNThNeE1LYzBwdzExeGZBWUdMNmZtcHNfOE8yVXF1dnV1Wlc3UzdVZFZ4eUxwV0gzMTVGRlduSExTeldWRGNoWnZPbW1nTzd3UE1G?oc=5",
@@ -30,7 +42,7 @@
   {
    "title": "[모닝 리포트] SK하이닉스, 피크아웃보다 지속성…목표가 340만원 유지",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBlTWlfaGs1Z0Z4VUZ0aUpDNkhWaHdYNjE4cWR0OVRPbnJ1N3N0UFAwQTRkQ0ctRlFUT3lQcUoxZUxORGtBQ0VsamlZcUlab2ZwTDg2aGVoMnQ3TUda?oc=5",
-   "source": "newspim.com",
+   "source": "뉴스핌",
    "date": "2026-09-30",
    "datetime": "2026-09-30 09:53 KST",
    "signal": {
@@ -109,18 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "NH투자증권 \"SK하이닉스, 메모리 수요 지속.. 목표가 340만원\"",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWJUUDhZdVB3aGJfWHluRUthVWRMRXhLR3pkdDBEdmtpM3dUMW4yUklxZC1WNFBXM3ppcUE1ejAybUtpZzVaVGhlRVBNZ254OHdmVnprTEt6cnBueEtDLWtwS1dnbVJDRU9FNVhqVUszSmhDbmI4TGMwM25rdzU5RXo2enRWVk9T?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 08:33 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
