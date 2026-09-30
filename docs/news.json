@@ -1,12 +1,60 @@
 {
- "fetchedAt": "2026-09-30 09:19 KST",
+ "fetchedAt": "2026-09-30 09:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
+   "title": "SK하이닉스·윈팩, 4년 만에 D램 패키징 거래 재개",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42YWJqRGctaTBkS1RZNm5FenIzVDVJU3VqRlNYTzNUaGFZbUVnbFd1UDNEektpM25Ebk1IeWRvSktEQjhrRkZ0M1ViSjkzMzJ4TmlSalE4bDIwLTlsZEFtXy1SQk1iYk5LUUI2N1hzYw?oc=5",
+   "source": "마켓잉크",
+   "date": "2026-09-30",
+   "datetime": "2026-09-30 09:26 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[솔리다임 IPO①] 1천500억弗 몸값 누구의 것인가…SK하이닉스 주주 셈법",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sVDBkemZGRXNBTExGMC03bm5xN3JfNmZJNWhaVGNfb1NnaG0tNGU4NWU0ZnVEbVA2bHA4TGthODNZTmJ2bDZic1ktWFR1d3RDWWFQbTlkTnZjNFlmc1VRX2gwamlqdnNQQ2RxcXIyM2I?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-09-30",
+   "datetime": "2026-09-30 09:15 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[솔리다임 IPO②] 카카오가 제동 건 美상장…SK하이닉스 이사회도 같은 질문",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHaHowZGFwNGdOUlRJOExSc3pleWVHYkZXeDB5UnV1Z204Nmt4c2dHRmczRndGeDJkb3NmbEZLVkpnZWpjN3dYbnNGQ2hOQW5HXzZrVVUtX2FGVnNBM1J3b21nT0Vvb1l0TVpUbXNKSko?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-09-30",
+   "datetime": "2026-09-30 09:15 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자 팔아치운 1% 초고수…SK하이닉스와 '이 종목'으로 갈아탔다",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VRmgzWEJvU2JUTWNPakdOaVAxR2J4TXc2cVN3ODBodDRqRVYwSVdNQWx4bEJjcW44bVZOTWlURXV5NWxiZjdQdnlBV2hlbmw4eWJZN2M3QkphUQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-09-30",
+   "datetime": "2026-09-30 09:12 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "“하이닉스 자사주 소각 이후가 더 기대”…SK證, SK스퀘어 목표가 185만원 유지 - 조선비즈",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXdBVVB6cHVpUW1ULXR0a2ptS2N3OHlEZHV4VzhGZ2F2ZmNDY0JMS3JkdWU2cUxPbm9tb3lDVmZvNVFHMVJyLVMyeHBZV1FFbm9JLTQ4SHRVcFE0Tm1nTjZfeDRiRWhvd0VCaERTZ1pMY1JYOURmMDRVTDJBYUVjblBPSU5ZNnVz0gGcAUFVX3lxTFBGQjNEd0lOVjNDa3oyU0JXVVlyQlV6Z0ZMb1NuaEQ1aW9KRml5N0kteFF4ZVBCQUlEb29vS2R2TFhxQ0c3QWt0bWtMTjFiTEpfQWNqVEpWVkFUYjFkczVWVWtQVk1Ndm05UEluZHltNVlrMGtVel96TGpHb3psblNkVTFpY3N6UVZVeHNwcFlldWdYRFllVnNWaGgyZA?oc=5",
-   "source": "biz.chosun.com",
+   "source": "Chosunbiz",
    "date": "2026-09-30",
    "datetime": "2026-09-30 08:50 KST",
    "signal": {
@@ -69,54 +117,6 @@
    "source": "아이뉴스24",
    "date": "2026-09-29",
    "datetime": "2026-09-29 20:32 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 협력사 동반 성장 25주년...협력사 대금 지원 두배로",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BYmljOEpTdHg1dnhRQWlnd0dUTkxZZm9TXzNKd1hjQVc3U0ZZd2RyeWNwMEFjQ0YxV3hrOTJGdm9JTTZhRVdWU3pVblJsLTdSY0FrNnk3VWVfSlAwcUNzWmpIT1YxUQ?oc=5",
-   "source": "디일렉",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 19:00 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "“삼성전자 안산다”더니…AI 비관론자, SK하이닉스까지 담았다",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfQklETE5rckQtWlE2YXctTmdPNjNhV05udHNnazdnZmZhWHN0UXdOUDROeGNZbUF4V1RDcXB2R2VxdmFOVl9sdVlOLXJiUXBWbnBQaTREQnpQQ3FqQXVheFFDSQ?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 18:04 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "심텍, SK하이닉스파트너스데이 우수협력사상 수상",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96T0hEVHIwRmZKbGx6TS1ndzRRa1JmR1BSS2M1MUlNWEp4bXV5bF8yZ1BkNnhnXy1yNEtaN09MRUJEUFJBWTBPaXNuTWtJaldvdkVLeklGcmdoZW9FbkVWOXN2WUR6YjR4?oc=5",
-   "source": "cctimes.kr",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 17:12 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 협력사 R&D 개발비 최대 50% 선지원",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvQ3dDMW9RRkdGdHhWTTZGX2Q1R3J4TUJqV2s2dUU0VnpKLWxuTGZyWjdWT1pSVG1SVmJIMV9lYndlMzlPczN4WTZUSGN4RHBUOWx2Vk1XbW00NDJvZlZsVmJJb20?oc=5",
-   "source": "매일일보",
-   "date": "2026-09-29",
-   "datetime": "2026-09-29 17:03 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
