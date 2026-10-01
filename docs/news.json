@@ -1,18 +1,54 @@
 {
- "fetchedAt": "2026-10-01 14:38 KST",
+ "fetchedAt": "2026-10-01 15:34 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 솔리다임 美 상장설에 “확정된 것 없어… 장기 주주가치가 기준”",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fc190UmwzQ3lYeU4tUFNheEQ4a3Boc0hLNDgyd3ZxVko0LV9nZW9MVGJ5alRCblFYMk9SN2cxM1M2YmpFdnM5bUh2ZTVOOWptTThURC1HYlh3Snk4WllEMG5sTF9QX2c2Tnc?oc=5",
-   "source": "천지일보",
+   "title": "한전·SK하이닉스, ‘K-반도체 초격차’ 강화 위한 전력공급 파트너십 구축",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwNlN0cEFvdk45WEZOTm44ZnAxN1ItZ0RlOXZIemYzWmlZdHZsdFRoMEtmNnB2RVJXTmFESkw5YkdTMjhtYk9YelZraC1Cbjl1R1FEVmNBZXhWRnlvcjJOTkRqYXY?oc=5",
+   "source": "epj.co.kr",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 14:20 KST",
+   "datetime": "2026-10-01 14:52 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 “솔리다임 중복상장 우려 확정된 바 없어…주주가치 제고 최우선” By 알파경제 alphabiz",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NS2xnaFRiVlMyN1FRY3BTbldRZUdpVlN0SV92ODNuTlRPNS1EcF9ORkNjYWhJMlZiYTU4aEwtNngxQ19QRVd4cWc0QU54MTNtNW54VWgzekczUHhpbjVhTnI0aGtBSVFwcEJxWDFyaXE?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 14:41 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "액트 \"솔리다임 상장, 모회사 할인 우려\"…SK하닉 \"주주가치가 기준\"(종합)",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wN1g5Y2p6UDIwSUMtbEFoUUEzME5UT1FGM3ZoYkdEZWh4NnU0V2h5ZFBBR0xvaVRCT0V2eVM2b0xHUkxEa29ZTU80QWJmZm1NenV6YlNDZ3EzUE5sQUVnYXdDV0lFaks3MmJOc2Z6MlR1dHVB?oc=5",
+   "source": "news.einfomax.co.kr",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 14:12 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "한국전력·SK하이닉스, 반도체 생산 경쟁력 강화 맞손",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HbWhJMm0yb28yelJMWWFBeE45aExwOUlNa3lDdkRaR21ESWJJSDhIcXZoTk5qdnNBUDI0eTZEQzV3MW5ybWZIdGhFa2Z6a005aWdvRDVxT3Q1VS1ZOGJZ0gFkQVVfeXFMUG1SdFVhTUdVc1otc2ZwNGRwcFI5eEhHYU9TeHJ4VDJXMmlYVE5nR3QxSTU4NV9PelFRZEFqeFNUZEV5NGh5ZU12S1ZZdVlpNmptNVpmZmozdElxTzNwZ2RoU0dFUw?oc=5",
+   "source": "뉴스1",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 14:05 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
@@ -28,35 +64,11 @@
    }
   },
   {
-   "title": "솔리다임 중복상장 논란…SK하이닉스 ‘주주가치 수호’ 정면돌파",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kOHlabUR2Vk43MkJWNVRHZ1Y2VTFZc2JZWGhkNWRsU01VdlcwSkxSalNjTHJOZktvOWV5MWxNamlfc2pVb2VYcldyNE5vaEdsMHpNZTVWcGdHVU45anZ4NFdLQjbSAWhBVV95cUxQcXNRR25wNENvSVh0cGs5MVpvNUZqdHVLZHF2b09hNm1qNERLaDdYRGVkcG45M1dSV3lyRS1nOUZXa2xPQXBwSXBvaVdURXMzUUJKek1LWVFOa24yRmkzWjN5M2Q4QzlWZA?oc=5",
-   "source": "경인방송 뉴스",
+   "title": "[조호진의 PICK] SK하이닉스 – 엔비디아에 16단 HBM4 첫 납품…주가 탄력?",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sNmJQQVdKNEZlam9lbUpGc0tLSEJ3dGJodXlCYXZ6cnRHVS1PRVI3X0dFS1kwSDd6MTNJNTlhZm9TQ3ltcjZ6Tzd4aTZvd1dMZUh5VDdLREhxU0VLazNtcUJleFRTVkdCU1M2NNIBb0FVX3lxTFBROFdCUk1kdml6REhZN0JtYkFCcktjek5RTXNXNW1jd2hyLWgyVEQxNXVXQ3MzdHJ0YlZxaER6czk1SlFiR3dkRVppdUFpbGloek0tclBXcFRHRWkyODEyaTRlRXM5LWdVWURQRGFfMA?oc=5",
+   "source": "데일리인베스트",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 13:49 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한전-SK하이닉스, K-반도체 생산 경쟁력 강화 ‘맞손’",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HcEEtRzdyVHZLdVYxemtKZXJFLTI4NlMwSVhfWHRILW1rMWlPUElvWFdkQnpvbFN4YTRySHVXZ3l6dWFlZGJLYmV2LUItNlY4N1BkcjJ3bTF3dDBUTFBTU1pXY2hzZzNSM3JIeVlxTQ?oc=5",
-   "source": "서울신문",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 13:47 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "한전-SK하이닉스, 전력공급 파트너십 구축… ‘K-반도체 초격차’ 강화",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04QVZiSnZGQnFJWlo1ZkE0a0dwREFPTkFSZngtOTNSLVlWY2hPdGVpQzZROHVYNHNndVlkN2NoanBPMFE3cUI5TFVLNnc2Y01xbDFjdlZWcUFPZGt5OFlUaTdHSU5uRFptNkRINms4Qmxqdw?oc=5",
-   "source": "에너지데일리",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 13:19 KST",
+   "datetime": "2026-10-01 12:25 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -69,6 +81,18 @@
    "source": "헤럴드경제",
    "date": "2026-10-01",
    "datetime": "2026-10-01 11:46 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 솔리다임 美 증시 상장 추진설 재해명…\"확정된 것 없어\"",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyTVVsQmdJT0ttaUxwVDJoMFdrQjVoZzRlLW9SZzBYN1pINElvZDBGd1VUOGtZc1FmdGFQNDBMczhOYmpvbFRpNFVzOE9DUTlBX1lmeExXSW9IbkRubjl2b3BjRQ?oc=5",
+   "source": "조세금융신문",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 11:34 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -93,30 +117,6 @@
    "source": "테크월드",
    "date": "2026-10-01",
    "datetime": "2026-10-01 11:13 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "中매체 \"美, 동맹 반도체기업에 '지리적 中의존' 축소 요구\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51NzZ6LTVIQkdtc2k3RjVrTWdEendER0wzOFBETzF1MkhzSnFrbHhMWWx2SDdzZlNrSTZ4OU0yTEF1cHo1bnJ1Y1MySTNLM1dWU19TWnBHaWN3aDU2bEd0T9IBYEFVX3lxTE51NzZ6LTVIQkdtc2k3RjVrTWdEendER0wzOFBETzF1MkhzSnFrbHhMWWx2SDdzZlNrSTZ4OU0yTEF1cHo1bnJ1Y1MySTNLM1dWU19TWnBHaWN3aDU2bEd0Tw?oc=5",
-   "source": "yna.co.kr",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 11:05 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "액트 \"솔리다임 상장, SK하이닉스 주주가치 훼손 우려…재검토하라\"",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xZXVuM3hCOGR2am9qT0hLc0dsNjJscUxBOWc1MGNfVWRWWjYyQ2FPQy1GckRFSnR2YmZwR3I3M19VbURNN2U1dnVpMnJwdHcxMjVMbTlSMEpZOGJkd2JHSG04aTJFVGp1Ui05cjdTdUdjZm1p?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 11:04 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
