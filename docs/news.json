@@ -1,18 +1,30 @@
 {
- "fetchedAt": "2026-09-30 22:38 KST",
+ "fetchedAt": "2026-10-01 09:19 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[이슈체크] SK하이닉스, AI 메모리 생산지도 넓힌다…용인서 인디애나까지",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByRngtd3VjVkFPZFBTa3JHQjJCSWJOMXVkT1JWdzZ5d1NXVG92SUtHSlVsWFFfNG95R3lsNFJjWnZydlBHY1hoUUwwTWNnODI3Z2haS0laR19CQnhQTHFHcm5IRQ?oc=5",
-   "source": "조세금융신문",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 16:29 KST",
+   "title": "\"자회사 상장 땐 ADR 가치 하락\"…SK하이닉스는 이미 경고했다",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Rd0hpaGtkd2FScjRwYlhTTHl6ZkFHQ2hUaTA2cGNvVVN2Yl9Eek1HSGpnSkdhc3pHeURVUHJWZHdQRkxxUWZnRnRpZTVCdGN2V05NdUk2OEwtVk1OYnYyV2sxeTBVMXRIOS1mQXRhcXY?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 08:58 KST",
    "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스, 환율 하락에도 3Q 영업익 74조 역대최대 전망",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HTjdEU2s2Rm93NTVCRk9xZ080aXpfNEhIamltRmN0ZHMwQm9wY2hQS00wWE5KeG5aWlVGeWsxckhkcFEycXBUcGFvbUFadEN4SjdEUDJpSVZjOTh1N0V0MXhBb2NyWU00RTM2YkVJS2c?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 08:50 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   },
   {
@@ -28,7 +40,19 @@
    }
   },
   {
-   "title": "민형배 \"SK 호남 반도체 투자 철회, 대통령 약 올리는 일\"",
+   "title": "SK하이닉스, 솔리다임 美 상장시 '중복상장' 심사대…관건은 주주동의 여부",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UTTZFMkNLT1JUYkFwVjlOTUVDcnQyN1Z0WVFPV1M3cHcwTkZ2T19sR2thTWViYjJPUFBIeHJtQ2ZHY3NOUkxTaEpLU2pTWTNNZ1p3d0Nyb2RWaEY1RHhFZk4yQ21veXpk?oc=5",
+   "source": "녹색경제신문",
+   "date": "2026-09-30",
+   "datetime": "2026-09-30 15:32 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "민형배 \"SK, 호남으로 오도록 우리가 같이 만들어야\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGVFJxcmxuUG5IRXhvZHlCa0F0UkFKTEtvZi00cUF4QzE5V2J2bno5TFRGQzZtSTdQUEN3R0dhbDQxclp6NU9jWV80dTh3cmpKX2FuLXZ1NzBxZk1I?oc=5",
    "source": "뉴스핌",
    "date": "2026-09-30",
@@ -43,6 +67,18 @@
    "title": "초라한 주주환원에 중복상장 '포비아'까지…SK하닉 주가 고점서 40% '뚝'",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sR2xaTHI4TUQwdGhpLVpkX0llZTZ0b1ZjSGYxNDM1bEotT3JfTkFhNHltUmZsUUVFWk1jeEZHeDNXRU5QeFl2bEUzTWhJU28?oc=5",
    "source": "v.daum.net",
+   "date": "2026-09-30",
+   "datetime": "2026-09-30 11:09 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK 하이닉스, 협력사 R&D 비용 최대 50% 선제 지원",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZG9XbXVWQ184TVhsU3RRQnE5cWR5MW5NX21fdF9yRzRsNE12dVEybGVoVnkyWG9wZk5WRUZNV0xWZzIteG1FbGNaR3kxZ1JWdlp1dUZMY244MGZqcGNCZXFxb3VCaDV5dk1GUXhRVlNJTkZWOW5CM0hWXzJJTjVXWnNMdTVPaklJN1dleA?oc=5",
+   "source": "YTN 사이언스",
    "date": "2026-09-30",
    "datetime": "2026-09-30 11:09 KST",
    "signal": {
@@ -78,45 +114,9 @@
   {
    "title": "곽노정 SK하이닉스 사장 “신뢰 바탕으로 함께 미래 개척…새로운 25년 열자”",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MbF9YclhaTHdiaXdNU2tXM2h2d3NicGhCTWlyMzFzZHA3TzloNl9xUEpaTzdfc2ZFR09pQU4wb05YaDNqazFiS3RjU3F6V2pXSUgtVUtzei1za3JBNkZCSHJXbEdrbWlY?oc=5",
-   "source": "테크월드",
+   "source": "epnc.co.kr",
    "date": "2026-09-30",
    "datetime": "2026-09-30 10:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "특징주, SK하이닉스-HBM(고대역폭메모리) 테마 상승세에 1.34% ↑",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yTW9ZTnhYYlFLYm9wSU41ZFRpTG42c1RPUW9ELTdIRUo2Q3RTVTBiQVBySS12YmF5QTVzZXZTMkc3T0lGU25jT2w5SU1Zc2ZUcHc?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 09:34 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스·윈팩, 4년 만에 D램 패키징 거래 재개",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42YWJqRGctaTBkS1RZNm5FenIzVDVJU3VqRlNYTzNUaGFZbUVnbFd1UDNEektpM25Ebk1IeWRvSktEQjhrRkZ0M1ViSjkzMzJ4TmlSalE4bDIwLTlsZEFtXy1SQk1iYk5LUUI2N1hzYw?oc=5",
-   "source": "마켓잉크",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 09:26 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[솔리다임 IPO①] 1천500억弗 몸값 누구의 것인가…SK하이닉스 주주 셈법",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sVDBkemZGRXNBTExGMC03bm5xN3JfNmZJNWhaVGNfb1NnaG0tNGU4NWU0ZnVEbVA2bHA4TGthODNZTmJ2bDZic1ktWFR1d3RDWWFQbTlkTnZjNFlmc1VRX2gwamlqdnNQQ2RxcXIyM2I?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 09:15 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
