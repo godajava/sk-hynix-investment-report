@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-10-01 12:38 KST",
+ "fetchedAt": "2026-10-01 13:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스, 솔리다임 상장 우려 일축…“확정된 바 없어”",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01Q2hHbFN2TDRKWnJxc0FBVmk5WVRDamJMQlVBRE1PUTBnYVVxeEx0OGUtZ2l6dndXbDBBeUoxSVBESGI2N1Y3VEVqODlzN21URVQ1OGZ1TGZHd1RzdGRKTw?oc=5",
+   "source": "뉴스토마토",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 12:20 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "최우수 액티브 ETF(국내) SK하이닉스 밸류체인 선점…액티브 운용 초과수익[2026 헤럴드 투자대상 최우수 액티브 ETF(국내)-현대자산운용]",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YcjBaME5yNlJwUEIyeXpoUXR0RzdRWmk0RzNHMUl0MC1id29JY2RLVFpNbDJqVFBLUG4yaVB6Qnl0VWdFUnVnMW1FdUJ6SmJ6bFRfcXlGMA?oc=5",
@@ -16,23 +28,11 @@
    }
   },
   {
-   "title": "SK하이닉스 \"솔리다임 상장, 확정된 것 없어…주주가치 최우선\" - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HUDU2ZzRGWHFoZzhQdVFXMXI3LVk4MV9CX0hkZjlTRnliT1dkVUZPc2xraGZmM1ZpVTdXcUdwVDVqQTRWRWJ2Sk9ucmJvb1dpWVpPcWtVVDRWY2tSU2M5RFpNdjd6cThLSlFoX9IBckFVX3lxTE9pa3UwWFJSOURYSV9HY2RraThWV3dOMUFiQWxEelhjS19kb2hoTHBpOC1Cd01JY2MyUGpkd0pER19XMFVVNURsRzMzYjIzY1pqeWkzVTV2VWFtRkF2QUhUWkdQVEExbzZwa3YzOG40RUJSQQ?oc=5",
-   "source": "머니투데이",
+   "title": "SK하이닉스, 솔리다임 중복상장 논란에 “결정된 것 없어…주주가치 우선”",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Gal9zdXFzR245bEFacVJ5eGRtWjR6cUEycW9vaTY0R2RoT3J3UXJ0REstcGx1aWptdzJ0MDFTR1RmVk0zRkhZc0FBeHhpSGhqQkh0SGlvVmtMaWlEczlTeG9CaTRJYXJ0LVE?oc=5",
+   "source": "한겨레",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 11:39 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 솔리다임 “결정된 것 없다”…‘중복상장’ 논란에 선긋기",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kNmhRX3VKT1lzOFJaRkFDVEdheVR0QWRqR0pPZk80UEgwVmh1S2NRYTJxQ1FWNnpuVE5EOWU4akpwV1RZdFhyQTAtdFpGZUNpbEdGaTVxSE5fNzFIV3ZPd0N4Y2VaNGFE?oc=5",
-   "source": "테크월드",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 11:13 KST",
+   "datetime": "2026-10-01 11:42 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -42,7 +42,7 @@
   {
    "title": "中매체 \"美, 동맹 반도체기업에 '지리적 中의존' 축소 요구\"",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51NzZ6LTVIQkdtc2k3RjVrTWdEendER0wzOFBETzF1MkhzSnFrbHhMWWx2SDdzZlNrSTZ4OU0yTEF1cHo1bnJ1Y1MySTNLM1dWU19TWnBHaWN3aDU2bEd0T9IBYEFVX3lxTE51NzZ6LTVIQkdtc2k3RjVrTWdEendER0wzOFBETzF1MkhzSnFrbHhMWWx2SDdzZlNrSTZ4OU0yTEF1cHo1bnJ1Y1MySTNLM1dWU19TWnBHaWN3aDU2bEd0Tw?oc=5",
-   "source": "연합뉴스",
+   "source": "yna.co.kr",
    "date": "2026-10-01",
    "datetime": "2026-10-01 11:05 KST",
    "signal": {
@@ -64,11 +64,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 솔리다임 美상장설에 \"모든 기준은 장기 주주가치\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zMjUzOUdhcGpjMEhxZFp0c3hRN08yOFJfVXlyZEN5b3huZFF5OWdhT0ZMYzdWYXp2dkh6VFRpbFlyaDVldEppUGhBdDNPRXkwRXNrZHp5S0NVRHJGQ2pCV9IBYEFVX3lxTE5zMjUzOUdhcGpjMEhxZFp0c3hRN08yOFJfVXlyZEN5b3huZFF5OWdhT0ZMYzdWYXp2dkh6VFRpbFlyaDVldEppUGhBdDNPRXkwRXNrZHp5S0NVRHJGQ2pCVw?oc=5",
-   "source": "연합뉴스",
+   "title": "SK하이닉스 \"솔리다임 자본 활용 방안 미정…주주가치 최우선\"",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TTGhCd1pDQ1o2RWNYcjRjTUVKQktqRFV5d2hlZmo2cWJaNEtSSzZyeEZOdGRWWmw3Ujh1bVRIZDV1QWl6TElkYXRCYXlEaFU?oc=5",
+   "source": "v.daum.net",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 10:53 KST",
+   "datetime": "2026-10-01 10:57 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -76,15 +76,15 @@
    }
   },
   {
-   "title": "솔리다임 IPO 논란 진화 나선 SK하이닉스…외부자본 문은 열어뒀다",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfNEtnblpjazRVa0xyNmN1TUNiSHA3NlJrSy00ekxPSjVXT1R3VVc0QVF6YVJFLVN3aXl1czJ3ellGeUFpVGZ5UVNDem83bjhyNDA2QmIzdHpzSmxD?oc=5",
-   "source": "뉴스핌",
+   "title": "SK하이닉스, 솔리다임 美상장설에 \"모든 기준은 장기 주주가치\"",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zMjUzOUdhcGpjMEhxZFp0c3hRN08yOFJfVXlyZEN5b3huZFF5OWdhT0ZMYzdWYXp2dkh6VFRpbFlyaDVldEppUGhBdDNPRXkwRXNrZHp5S0NVRHJGQ2pCV9IBYEFVX3lxTE5zMjUzOUdhcGpjMEhxZFp0c3hRN08yOFJfVXlyZEN5b3huZFF5OWdhT0ZMYzdWYXp2dkh6VFRpbFlyaDVldEppUGhBdDNPRXkwRXNrZHp5S0NVRHJGQ2pCVw?oc=5",
+   "source": "yna.co.kr",
    "date": "2026-10-01",
    "datetime": "2026-10-01 10:53 KST",
    "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
