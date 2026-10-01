@@ -1,50 +1,14 @@
 {
- "fetchedAt": "2026-10-01 15:44 KST",
+ "fetchedAt": "2026-10-01 23:25 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스 \"솔리다임 상장 미확정\"",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oOXhvbjVxT3pMd3V1ZnJsdVhVX0NrdXhMajdGMENLc1N2VWI1Skt4Y3d0d1pTSTJ1a0tQUWdNWVRyTTZqakFKRjJEeXpYWi0yWHZtRDlCUXVITzF0XzhRTHZVRnFsQQ?oc=5",
-   "source": "디일렉",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 15:41 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한전·SK하이닉스, ‘K-반도체 초격차’ 강화 위한 전력공급 파트너십 구축",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAwNlN0cEFvdk45WEZOTm44ZnAxN1ItZ0RlOXZIemYzWmlZdHZsdFRoMEtmNnB2RVJXTmFESkw5YkdTMjhtYk9YelZraC1Cbjl1R1FEVmNBZXhWRnlvcjJOTkRqYXY?oc=5",
-   "source": "일렉트릭파워",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 14:52 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한국전력·SK하이닉스, 반도체 생산 경쟁력 강화 맞손",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HbWhJMm0yb28yelJMWWFBeE45aExwOUlNa3lDdkRaR21ESWJJSDhIcXZoTk5qdnNBUDI0eTZEQzV3MW5ybWZIdGhFa2Z6a005aWdvRDVxT3Q1VS1ZOGJZ0gFkQVVfeXFMUG1SdFVhTUdVc1otc2ZwNGRwcFI5eEhHYU9TeHJ4VDJXMmlYVE5nR3QxSTU4NV9PelFRZEFqeFNUZEV5NGh5ZU12S1ZZdVlpNmptNVpmZmozdElxTzNwZ2RoU0dFUw?oc=5",
-   "source": "뉴스1",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 14:05 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "한전·SK하이닉스, 반도체 전력 설비 공동관리…고장 땐 신속 복구",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ucWlrM0J1eVBCU190YkRCd0tGRUhVUDJxcXA4UlN3UjBUUzRyVWJJbkp3WVl5cWRiWWtiTUFOVktSOUkxUHQybmFHQ1l6QlE?oc=5",
+   "title": "SK하이닉스 내년에도 ‘장밋빛’",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WaHNtR1ZnN1hCSGR5Z010dVpjQWtoOG5kOGw1NGxOcFBzQVZXeUg4alJLRU9PT0xBM0YyVkN5ejRxaV9xbUs2VnkzTEYzenM?oc=5",
    "source": "v.daum.net",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 14:00 KST",
+   "datetime": "2026-10-01 20:15 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -52,11 +16,11 @@
    }
   },
   {
-   "title": "최우수 액티브 ETF(국내) SK하이닉스 밸류체인 선점…액티브 운용 초과수익[2026 헤럴드 투자대상 최우수 액티브 ETF(국내)-현대자산운용]",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YcjBaME5yNlJwUEIyeXpoUXR0RzdRWmk0RzNHMUl0MC1id29JY2RLVFpNbDJqVFBLUG4yaVB6Qnl0VWdFUnVnMW1FdUJ6SmJ6bFRfcXlGMA?oc=5",
-   "source": "헤럴드경제",
+   "title": "[이슈체크] 마이크론이 확인한 ‘메모리 호황’…삼성전자, SK하이닉스보다 더 오를 이유",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uOTJaSHUzQjBSTURhY3RLalBJenY1Z1lzTjNlNGFmaWpLNWRxeThfYTdjQS05S0dVTGR5NFpCOHZqcUZUYmNjY1BGMzRwTkk?oc=5",
+   "source": "v.daum.net",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 11:46 KST",
+   "datetime": "2026-10-01 18:55 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -64,11 +28,11 @@
    }
   },
   {
-   "title": "SK하이닉스 \"솔리다임 투자 재원 결정된 바 없어…외부 자본 활용 시 주주가치 최우선\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nR2J3OUduU2hkMEtRUGdQaDg1X1hGZjNrVk5WUEs0eXl6S0c4MzJCeThqRVBOUTlnY3BCS0RTUHJLdFFiUFNtODZxTGQwblNWemQxeVpsZmJLMUxkM2ZPZw?oc=5",
-   "source": "아시아경제",
+   "title": "삼성전자·SK하이닉스 3분기 영업익 190조 전망…“눈높이 너무 높다” 경계도 - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWh5QjUwRG9tdkJYdUx1TDZfeTFFZDhSbWFkOXprSGg5c1F3OEVMZXBVbGloaW92NUtoWEVZTW5vUHMyeml6VmJiQU11M25XZkM0eUJVdHktdGVZRFE4V3JkQTVveXNVNzR3SFJJV1hWZHFiMGZ4cU0yaFJZXzlnUXJraVNJNW1G0gGcAUFVX3lxTE4yZEZpTi1oZXZKa2gwNWRJNzZHQnlKdkgxeHptVXJLbmJDaVp6b1A1SEMxUVJiay1SYVFoTGFnWS1mdHdtS3dGcVhZYjBUMWV3bC1BNGRBZFBweDhybEY1enpzMnNlUFNyYktLM0doUDlEN2Exc2gydUpHSk9PYmhTakFwVUJQa0gtc3czYl8tWTZiMGtwdFNiMHJndg?oc=5",
+   "source": "Chosunbiz",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 11:17 KST",
+   "datetime": "2026-10-01 18:46 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -76,11 +40,11 @@
    }
   },
   {
-   "title": "中매체 \"美, 동맹 반도체기업에 '지리적 中의존' 축소 요구\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51NzZ6LTVIQkdtc2k3RjVrTWdEendER0wzOFBETzF1MkhzSnFrbHhMWWx2SDdzZlNrSTZ4OU0yTEF1cHo1bnJ1Y1MySTNLM1dWU19TWnBHaWN3aDU2bEd0T9IBYEFVX3lxTE51NzZ6LTVIQkdtc2k3RjVrTWdEendER0wzOFBETzF1MkhzSnFrbHhMWWx2SDdzZlNrSTZ4OU0yTEF1cHo1bnJ1Y1MySTNLM1dWU19TWnBHaWN3aDU2bEd0Tw?oc=5",
-   "source": "연합뉴스",
+   "title": "한국전력·SK하이닉스, 전력설비 안정 운영 업무 협약…\"K-반도체 경쟁력 뒷받침\"",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PeFlsQnM3NlhtcW5VZDdJSHYzX0NvUlhEdDR5NnMyTFF0S0lMeTRWd2JqRkpuSkx5V0hOd0VEV2NpdU1JZUpBcEFyVDE5SnJXMXdmcjlRUkU2YVNiUzVxZHlWWlVPcUcz?oc=5",
+   "source": "팍스경제TV",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 11:05 KST",
+   "datetime": "2026-10-01 17:28 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -88,11 +52,47 @@
    }
   },
   {
-   "title": "솔리다임 IPO 논란 진화 나선 SK하이닉스…외부자본 문은 열어뒀다",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfNEtnblpjazRVa0xyNmN1TUNiSHA3NlJrSy00ekxPSjVXT1R3VVc0QVF6YVJFLVN3aXl1czJ3ellGeUFpVGZ5UVNDem83bjhyNDA2QmIzdHpzSmxD?oc=5",
-   "source": "뉴스핌",
+   "title": "한전·SK하이닉스, 반도체 산단 안정적 전력공급 협력",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CQmQxQnh4ZXFVNXBqTlplMmlhOV8tZWV5dmxvRXN1aF8yWTkyeElsMzBsS29QbDBSRkZXRXBsek8xMHpTb05NVnFsNlBNaTJxd3lla01Jby1HUlhnN3h0T215clhQeW8?oc=5",
+   "source": "연합뉴스TV",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 10:53 KST",
+   "datetime": "2026-10-01 16:58 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "한전·SK하이닉스 '정전 제로' 동맹…반도체 전력 2.5GW 지킨다",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wMThodE4zT05ydE40MldpZEplQXBwTXpvU2pHcXk1b1RBcmMtbDRyTU1BaTNPQ1gzSjdZT2E5LW1Gal83bEZ1UjYwS0dreDBDMVZBeVEwbHhxbENXZjFKa0NrN08?oc=5",
+   "source": "에너지안전신문",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 16:56 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스·초록우산·월드비전 등 31개 프로그램 ‘제1회 임팩트 어워드’ 수상",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52TjJ3R3YtQU9mQjdpOEVUckZURzJseVp1MVFZdXJNMjd6VEFrUmhzaU9OSUVTQlk3MmpjREI3WHdydHlMLUNOZl9YdzRkbUZRUEE?oc=5",
+   "source": "더나은미래",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 16:46 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK주주들 ‘중복 상장’ 우려에...하이닉스 “솔리다임 상장 결정 안돼, 주주가치 우선”",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdlZ2blN5OEpHbnBxcTlMN3ZmTWV0bkJHVGFWVGlsNTRydm0tRHExV1NTdVRkRVBiOVl0UmNpWjNyOVFDczRMc1BsRW9KVXF4bGtSNFVMQlN3NnQxRlg0eEs1c3kwSXE1SDNBOXprRFgyTGl4RFZqTnV6WDBObWpjWlFGQQ?oc=5",
+   "source": "조선일보",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 16:18 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -100,11 +100,11 @@
    }
   },
   {
-   "title": "SK하이닉스 “솔리다임 자금조달 방식 미정…기존 주주가치 고려”",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KTEd0amtmUlEyd2tidHlQVnFKN2taV0pycUVMS2lnSTczMUxibW50RWZCLXh2Ni1yRTZpcktBLUdkeDR3Y1RGX0x4S3V5NGxpRUJ0elVR?oc=5",
-   "source": "중앙일보",
+   "title": "한전·SK하이닉스, '전력 안정 파트너십' 구축…협력 강화",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82S2Nxekd1YnNCWGl6ZHVoY2JTWVROX0wxd2ZMU2JMMk5HbktHTk5kenZ1M2RWcDN5bExKbFpqanNvZUJJMzdwa1pPMVF5RXhtcVZDRDNaTEhjSFRIeGVYUTFFeDdRbjJRY0dENVBsMmk2bFUy?oc=5",
+   "source": "news.einfomax.co.kr",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 10:50 KST",
+   "datetime": "2026-10-01 16:14 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -112,11 +112,11 @@
    }
   },
   {
-   "title": "\"어찌 된 일이냐\"...SK하이닉스 개미들, 결국 '폭발'",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40bmtaemRaOW1tY3RCa2NDeTNHdUtBak5VYW9yMllKNWt6akJSMWVNUjhqdTJ2bmpBWHBVaTVtMTVwWGt5SUhteUpKM2VpaHc?oc=5",
-   "source": "v.daum.net",
+   "title": "한전-SK하이닉스, ‘K-반도체 초격차’ 강화위해 맞손",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1reUROX0oycGkyUGdzd29Jbnc3bmxySXVxUHJMSERHbjhnZjhwYmJEWnJPWGhNTlIySWhiQ2I1eHNVd0VXZm40cEdzdkhzZFk2?oc=5",
+   "source": "문화일보",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 10:08 KST",
+   "datetime": "2026-10-01 16:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
