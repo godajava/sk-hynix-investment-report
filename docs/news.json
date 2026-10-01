@@ -1,18 +1,66 @@
 {
- "fetchedAt": "2026-10-01 13:38 KST",
+ "fetchedAt": "2026-10-01 14:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 솔리다임 상장 우려 일축…“확정된 바 없어”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01Q2hHbFN2TDRKWnJxc0FBVmk5WVRDamJMQlVBRE1PUTBnYVVxeEx0OGUtZ2l6dndXbDBBeUoxSVBESGI2N1Y3VEVqODlzN21URVQ1OGZ1TGZHd1RzdGRKTw?oc=5",
-   "source": "뉴스토마토",
+   "title": "SK하이닉스, 솔리다임 美 상장설에 “확정된 것 없어… 장기 주주가치가 기준”",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fc190UmwzQ3lYeU4tUFNheEQ4a3Boc0hLNDgyd3ZxVko0LV9nZW9MVGJ5alRCblFYMk9SN2cxM1M2YmpFdnM5bUh2ZTVOOWptTThURC1HYlh3Snk4WllEMG5sTF9QX2c2Tnc?oc=5",
+   "source": "천지일보",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 12:20 KST",
+   "datetime": "2026-10-01 14:20 KST",
    "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "한전·SK하이닉스, 반도체 전력 설비 공동관리…고장 땐 신속 복구",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ucWlrM0J1eVBCU190YkRCd0tGRUhVUDJxcXA4UlN3UjBUUzRyVWJJbkp3WVl5cWRiWWtiTUFOVktSOUkxUHQybmFHQ1l6QlE?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 14:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "솔리다임 중복상장 논란…SK하이닉스 ‘주주가치 수호’ 정면돌파",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kOHlabUR2Vk43MkJWNVRHZ1Y2VTFZc2JZWGhkNWRsU01VdlcwSkxSalNjTHJOZktvOWV5MWxNamlfc2pVb2VYcldyNE5vaEdsMHpNZTVWcGdHVU45anZ4NFdLQjbSAWhBVV95cUxQcXNRR25wNENvSVh0cGs5MVpvNUZqdHVLZHF2b09hNm1qNERLaDdYRGVkcG45M1dSV3lyRS1nOUZXa2xPQXBwSXBvaVdURXMzUUJKek1LWVFOa24yRmkzWjN5M2Q4QzlWZA?oc=5",
+   "source": "경인방송 뉴스",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 13:49 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "한전-SK하이닉스, K-반도체 생산 경쟁력 강화 ‘맞손’",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HcEEtRzdyVHZLdVYxemtKZXJFLTI4NlMwSVhfWHRILW1rMWlPUElvWFdkQnpvbFN4YTRySHVXZ3l6dWFlZGJLYmV2LUItNlY4N1BkcjJ3bTF3dDBUTFBTU1pXY2hzZzNSM3JIeVlxTQ?oc=5",
+   "source": "서울신문",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 13:47 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "한전-SK하이닉스, 전력공급 파트너십 구축… ‘K-반도체 초격차’ 강화",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE04QVZiSnZGQnFJWlo1ZkE0a0dwREFPTkFSZngtOTNSLVlWY2hPdGVpQzZROHVYNHNndVlkN2NoanBPMFE3cUI5TFVLNnc2Y01xbDFjdlZWcUFPZGt5OFlUaTdHSU5uRFptNkRINms4Qmxqdw?oc=5",
+   "source": "에너지데일리",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 13:19 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -28,11 +76,23 @@
    }
   },
   {
-   "title": "SK하이닉스, 솔리다임 중복상장 논란에 “결정된 것 없어…주주가치 우선”",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Gal9zdXFzR245bEFacVJ5eGRtWjR6cUEycW9vaTY0R2RoT3J3UXJ0REstcGx1aWptdzJ0MDFTR1RmVk0zRkhZc0FBeHhpSGhqQkh0SGlvVmtMaWlEczlTeG9CaTRJYXJ0LVE?oc=5",
-   "source": "한겨레",
+   "title": "SK하이닉스 \"솔리다임 투자 재원 결정된 바 없어…외부 자본 활용 시 주주가치 최우선\"",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nR2J3OUduU2hkMEtRUGdQaDg1X1hGZjNrVk5WUEs0eXl6S0c4MzJCeThqRVBOUTlnY3BCS0RTUHJLdFFiUFNtODZxTGQwblNWemQxeVpsZmJLMUxkM2ZPZw?oc=5",
+   "source": "아시아경제",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 11:42 KST",
+   "datetime": "2026-10-01 11:17 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 솔리다임 “결정된 것 없다”…‘중복상장’ 논란에 선긋기",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kNmhRX3VKT1lzOFJaRkFDVEdheVR0QWRqR0pPZk80UEgwVmh1S2NRYTJxQ1FWNnpuVE5EOWU4akpwV1RZdFhyQTAtdFpGZUNpbEdGaTVxSE5fNzFIV3ZPd0N4Y2VaNGFE?oc=5",
+   "source": "테크월드",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 11:13 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -53,74 +113,14 @@
   },
   {
    "title": "액트 \"솔리다임 상장, SK하이닉스 주주가치 훼손 우려…재검토하라\"",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42RmtnQW55S0V1TjMwSEJDZGg4M1FyQUNHWnctN0RlOXdpdnpuTGxaV1dkZzRQQnFMcU9paV8zaWQ5dHV1TXZ6eHFHbXNGUDY5MHdfNlBYVTVHR2FFT09VYThVYnN4b3Z6alpBcnh6Ym8?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xZXVuM3hCOGR2am9qT0hLc0dsNjJscUxBOWc1MGNfVWRWWjYyQ2FPQy1GckRFSnR2YmZwR3I3M19VbURNN2U1dnVpMnJwdHcxMjVMbTlSMEpZOGJkd2JHSG04aTJFVGp1Ui05cjdTdUdjZm1p?oc=5",
    "source": "연합인포맥스",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 10:57 KST",
+   "datetime": "2026-10-01 11:04 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스 \"솔리다임 자본 활용 방안 미정…주주가치 최우선\"",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TTGhCd1pDQ1o2RWNYcjRjTUVKQktqRFV5d2hlZmo2cWJaNEtSSzZyeEZOdGRWWmw3Ujh1bVRIZDV1QWl6TElkYXRCYXlEaFU?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 10:57 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 솔리다임 美상장설에 \"모든 기준은 장기 주주가치\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zMjUzOUdhcGpjMEhxZFp0c3hRN08yOFJfVXlyZEN5b3huZFF5OWdhT0ZMYzdWYXp2dkh6VFRpbFlyaDVldEppUGhBdDNPRXkwRXNrZHp5S0NVRHJGQ2pCV9IBYEFVX3lxTE5zMjUzOUdhcGpjMEhxZFp0c3hRN08yOFJfVXlyZEN5b3huZFF5OWdhT0ZMYzdWYXp2dkh6VFRpbFlyaDVldEppUGhBdDNPRXkwRXNrZHp5S0NVRHJGQ2pCVw?oc=5",
-   "source": "yna.co.kr",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 10:53 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 “솔리다임 자금조달 방식 미정…기존 주주가치 고려”",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KTEd0amtmUlEyd2tidHlQVnFKN2taV0pycUVMS2lnSTczMUxibW50RWZCLXh2Ni1yRTZpcktBLUdkeDR3Y1RGX0x4S3V5NGxpRUJ0elVR?oc=5",
-   "source": "중앙일보",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 10:50 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"어찌 된 일이냐\"...SK하이닉스 개미들, 결국 '폭발'",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40bmtaemRaOW1tY3RCa2NDeTNHdUtBak5VYW9yMllKNWt6akJSMWVNUjhqdTJ2bmpBWHBVaTVtMTVwWGt5SUhteUpKM2VpaHc?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 10:08 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 마이크론 호실적에도 영향 미미",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNamFDM1NBcGpFb2ptelVqVjFhRG5rQWl0azJtcl9yd1g1R0pxN2hGLTJCLTEtQnJDX28wRmsyMk0tZnYyUDdaZWJJdnlLYjRSakFKR1ZvM0hiRGNXbzctY1VneUNheUFyVGRLdUZNQWhCUE1IOU1ia051djFQXzAyYk9uZndzMlk?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 10:05 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
