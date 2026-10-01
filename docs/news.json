@@ -1,8 +1,56 @@
 {
- "fetchedAt": "2026-10-01 09:38 KST",
+ "fetchedAt": "2026-10-01 10:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "\"어찌 된 일이냐\"...SK하이닉스 개미들, 결국 '폭발'",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40bmtaemRaOW1tY3RCa2NDeTNHdUtBak5VYW9yMllKNWt6akJSMWVNUjhqdTJ2bmpBWHBVaTVtMTVwWGt5SUhteUpKM2VpaHc?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 10:08 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 마이크론 호실적에도 영향 미미",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNamFDM1NBcGpFb2ptelVqVjFhRG5rQWl0azJtcl9yd1g1R0pxN2hGLTJCLTEtQnJDX28wRmsyMk0tZnYyUDdaZWJJdnlLYjRSakFKR1ZvM0hiRGNXbzctY1VneUNheUFyVGRLdUZNQWhCUE1IOU1ia051djFQXzAyYk9uZndzMlk?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 10:05 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "액트 “솔리다임 IPO, SK하이닉스 지분 희석 우려…상장 재검토해야”",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6amEtWkdaT2xTZXNYb0JtOUlabW5kbHZXYWV5NFVxZFZMYUhwNVVOYldnS1NnUS1DbHY0T1c4S3VkQTN4QlBTMzRhakZwLUF4dktYTXZ0ZUl6MWxKQWU0c3RUVnk?oc=5",
+   "source": "디지털데일리",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 09:29 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "삼전·닉스, 마이크론 호실적에도 약세 출발…0.7∼1.0%↓",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZRUVqUFpkU0RIOWlkVHgtZVlWYW93eG42Z2ViODJfOURVOEZnczRpZmpJOVpjMHZvYjkwenVFZnV0SzdhaDFZSXNwelRPTVJ6Zjl0dzdIVndVWHlWWGZDS9IBYEFVX3lxTFBZRUVqUFpkU0RIOWlkVHgtZVlWYW93eG42Z2ViODJfOURVOEZnczRpZmpJOVpjMHZvYjkwenVFZnV0SzdhaDFZSXNwelRPTVJ6Zjl0dzdIVndVWHlWWGZDSw?oc=5",
+   "source": "yna.co.kr",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 09:16 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "\"자회사 상장 땐 ADR 가치 하락\"…SK하이닉스는 이미 경고했다",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Rd0hpaGtkd2FScjRwYlhTTHl6ZkFHQ2hUaTA2cGNvVVN2Yl9Eek1HSGpnSkdhc3pHeURVUHJWZHdQRkxxUWZnRnRpZTVCdGN2V05NdUk2OEwtVk1OYnYyV2sxeTBVMXRIOS1mQXRhcXY?oc=5",
@@ -17,10 +65,10 @@
   },
   {
    "title": "SK하이닉스, 환율 하락에도 3Q 영업익 74조 역대최대 전망",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HTjdEU2s2Rm93NTVCRk9xZ080aXpfNEhIamltRmN0ZHMwQm9wY2hQS00wWE5KeG5aWlVGeWsxckhkcFEycXBUcGFvbUFadEN4SjdEUDJpSVZjOTh1N0V0MXhBb2NyWU00RTM2YkVJS2c?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zbTRJWXZCcVVKa2VZRFIyaGF4enoxcURFU3I3ajBzRTdVM1J0eHMxNkRLenBaWUstaU9jeDA0MXpkT1dNVmdsZmpXQ2ZhcTAtUGhBYVBacFF6LTdENnB2dFZZVlhnVVVBckZBUXU0dkpNLU1n?oc=5",
    "source": "연합인포맥스",
    "date": "2026-10-01",
-   "datetime": "2026-10-01 08:50 KST",
+   "datetime": "2026-10-01 08:55 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -52,71 +100,23 @@
    }
   },
   {
+   "title": "\"삼성전자 SK하이닉스 주가 빠르게 반등 어렵다\" 영국 FT 전망, 금리 상승에 역풍 커져",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwRzFGbjdvclBnTWdVN0g3cjI3cHRZS1hzY0pYeDFmbm5qNWQyUEc2bWFDdFI4T2NKV1VHemFVc1JORUJhdXBKX0YwR2d5NHF3YWptcWk0amdHZFlvTnJUVldrZE5QR3QtNVBOc0FaOUUtQzA?oc=5",
+   "source": "businesspost.co.kr",
+   "date": "2026-09-30",
+   "datetime": "2026-09-30 15:03 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
    "title": "민형배 \"SK, 호남으로 오도록 우리가 같이 만들어야\"",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGVFJxcmxuUG5IRXhvZHlCa0F0UkFKTEtvZi00cUF4QzE5V2J2bno5TFRGQzZtSTdQUEN3R0dhbDQxclp6NU9jWV80dTh3cmpKX2FuLXZ1NzBxZk1I?oc=5",
    "source": "뉴스핌",
    "date": "2026-09-30",
    "datetime": "2026-09-30 12:21 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "초라한 주주환원에 중복상장 '포비아'까지…SK하닉 주가 고점서 40% '뚝'",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sR2xaTHI4TUQwdGhpLVpkX0llZTZ0b1ZjSGYxNDM1bEotT3JfTkFhNHltUmZsUUVFWk1jeEZHeDNXRU5QeFl2bEUzTWhJU28?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 11:09 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK 하이닉스, 협력사 R&D 비용 최대 50% 선제 지원",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZG9XbXVWQ184TVhsU3RRQnE5cWR5MW5NX21fdF9yRzRsNE12dVEybGVoVnkyWG9wZk5WRUZNV0xWZzIteG1FbGNaR3kxZ1JWdlp1dUZMY244MGZqcGNCZXFxb3VCaDV5dk1GUXhRVlNJTkZWOW5CM0hWXzJJTjVXWnNMdTVPaklJN1dleA?oc=5",
-   "source": "YTN 사이언스",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 11:09 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 협력사들과 ‘2026 파트너스데이’ 개최...25년간 동반성장",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDOXVJOWdEMEo5cU4tSFVfdFBNMkF2OTNqQjZPN0hSYVgwQ2swSGQydVdBNWtkYXgxVlNOYW03ODdUZFpPdHoxWE5sODBoVS1mcUk0cU1rNVg1czdtVkRHaU5Bal96NGtX?oc=5",
-   "source": "kipost.net",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 11:09 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 美 반도체주 강세.. '상승세'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMXpOTEJ5QUR0WkpZbk1kYXgyQS1BcGhNX2RpWTA4QnpLNmY1cG1GVnZpdkdzY3lsTDJIeVNwNThNeE1LYzBwdzExeGZBWUdMNmZtcHNfOE8yVXF1dnV1Wlc3UzdVZFZ4eUxwV0gzMTVGRlduSExTeldWRGNoWnZPbW1nTzd3UE1G?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 10:01 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "곽노정 SK하이닉스 사장 “신뢰 바탕으로 함께 미래 개척…새로운 25년 열자”",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MbF9YclhaTHdiaXdNU2tXM2h2d3NicGhCTWlyMzFzZHA3TzloNl9xUEpaTzdfc2ZFR09pQU4wb05YaDNqazFiS3RjU3F6V2pXSUgtVUtzei1za3JBNkZCSHJXbEdrbWlY?oc=5",
-   "source": "테크월드",
-   "date": "2026-09-30",
-   "datetime": "2026-09-30 10:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
