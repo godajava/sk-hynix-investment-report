@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-02 11:38 KST",
+ "fetchedAt": "2026-10-02 12:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "삼성, D램 1위 독주…마이크론, SK하이닉스 턱밑 추격",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IQ3Z0OUlzMHhyRnlMcmo4M25VTmpPcnJXdkgwTi1ocFUwSUV4QXVBTTgxbkZSaG43VnlSa0VvUjZjUjNlV2VJTWx1el9jOHNTQko1RGoyVDFsWERmTnNuRw?oc=5",
-   "source": "아시아경제",
+   "title": "마이크론, 2분기 D램 시장서 2위 SK하이닉스 1%p차 추격",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZW9UUVJheU50RkxTZXM5UW95ZFVJM0FJSnZOMllBVGgxakRfMUlXd3AyT0YwTjNyVkVqVlY3QWFXNTQ2U0RMZUFFRmZLenBuOHFQYzllU2ZQeTMwN3R4ZTJKU1BXU0d4S3dqZWJNMUFHYzl2Unl4V05JRDJsZG5BN0h4WERqdw?oc=5",
+   "source": "글로벌이코노믹",
    "date": "2026-10-02",
-   "datetime": "2026-10-02 11:25 KST",
+   "datetime": "2026-10-02 12:07 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,11 +16,11 @@
    }
   },
   {
-   "title": "마이크론, 2분기 D램 시장서 2위 SK하이닉스 1%P 차이 추격",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00QVRRVS1IUUdqek9XZjhvNktUOEFTaHNCa1puaEhQdE9JcFJONWlPN3EycHZaQjRIbk9kT0hYY2lmOElLbERqSmJ2dVRmUmc?oc=5",
-   "source": "v.daum.net",
+   "title": "삼전닉스 자사주 매입 완료 수순…삼성 100% ·SK하이닉스 이달 중순경 마무리",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfZTJJTERta1F0QXBxOER1b19ZUUw2bEFBSmxvQTFDZmhENmMwSS1qTkRnQThIbUhDdkVSV3RMREtWc1BTRGZVQ25JMnBFN2JPNGplSmNBUmx5VlBsZzdWcg?oc=5",
+   "source": "KBC광주방송",
    "date": "2026-10-02",
-   "datetime": "2026-10-02 11:06 KST",
+   "datetime": "2026-10-02 11:10 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -66,7 +66,7 @@
   {
    "title": "[속보]SK하이닉스ADR 5%급등, 마이크론도 3%↑…금리 상승에도 반도체 강세",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5bnNfeWdERHdjV3FnZXhQYlZoU3k1Y3pHQnpBNVpOQkFjd2d5UG1OUTZFc3FzUG8tcTBjQXFfcmRoTTMzX0tvdW5LbThWa2d1?oc=5",
-   "source": "munhwa.com",
+   "source": "문화일보",
    "date": "2026-10-02",
    "datetime": "2026-10-02 07:05 KST",
    "signal": {
