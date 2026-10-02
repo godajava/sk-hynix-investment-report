@@ -146,7 +146,7 @@ def main():
     # 야간선물 유효성: 08:45(주간 개장)~15:45 사이에 찍은 K2I1!은 주간 정규장 실시간 값이라 야간선물이 아니다.
     now = datetime.datetime.now(KST)
     hm = now.hour * 60 + now.minute
-    day_live = (8 * 60 + 45) <= hm < (15 * 60 + 50)
+    day_live = (8 * 60 + 45) <= hm < (18 * 60 + 5)  # 주간 정규장(~15:45) 및 야간 개장(18:00) 전까지는 야간 값 아님
     snap["night_futures_valid"] = not day_live
     snap["night_futures_note"] = ("주간 정규장 시간대에 수집돼 야간선물이 아님(KRX:K2I1!은 주간 실시간 값)"
                                   if day_live else
