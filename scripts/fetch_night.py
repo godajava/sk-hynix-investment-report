@@ -5,7 +5,8 @@
     python3 scripts/fetch_night.py [출력경로=docs/night_futures.json] [--print]
 
 수집 항목
-  - 코스피200 야간선물(트레이딩뷰 스캐너 KRX:K2I1!, 20분 지연, 야간 06:00 종료 후엔 야간 종가)
+  - 코스피200 선물 연속월물(트레이딩뷰 스캐너 KRX:K2I1!). 08:45 이후엔 주간 실시간 값이므로
+    night_futures_valid=false. 06:00~08:44 사이 수집분만 야간선물로 본다(첫 실측으로 검증 필요)
   - 코스피200 주간 선물 종가(네이버 FUT) · 코스피200 현물지수
   - 미국 지수/반도체(트레이딩뷰·네이버): SOX, 나스닥, S&P500, 마이크론, 엔비디아, EWY, 원/달러
 GitHub Actions(night.yml)가 평일 아침에 실행해 docs/night_futures.json을 커밋하고,
@@ -142,8 +143,16 @@ def main():
         except Exception as e:  # noqa: BLE001
             errors["hynix_adr_naver"] = str(e)
 
+    # 야간선물 유효성: 08:45(주간 개장)~15:45 사이에 찍은 K2I1!은 주간 정규장 실시간 값이라 야간선물이 아니다.
+    now = datetime.datetime.now(KST)
+    hm = now.hour * 60 + now.minute
+    day_live = (8 * 60 + 45) <= hm < (15 * 60 + 50)
+    snap["night_futures_valid"] = not day_live
+    snap["night_futures_note"] = ("주간 정규장 시간대에 수집돼 야간선물이 아님(KRX:K2I1!은 주간 실시간 값)"
+                                  if day_live else
+                                  "개장 전/야간 시간대 수집 — 마지막 세션(야간 포함 여부는 첫 실측으로 검증 필요) 값")
     nf, dn = snap.get("night_futures"), snap.get("day_futures_naver")
-    if nf and dn and dn.get("last"):
+    if nf and dn and dn.get("last") and not day_live:
         try:
             day_close = float(str(dn["last"]).replace(",", ""))
             snap["night_vs_day_close_pct"] = round((nf["last"] / day_close - 1) * 100, 2)
