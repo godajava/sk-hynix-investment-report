@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-10-02 12:38 KST",
+ "fetchedAt": "2026-10-02 13:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "블룸버그 \"SK하이닉스 대규모 상장으로 3분기 미국 IPO 시장 활력 유지\"",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90aVhFNnQtTjRFdnpGdnltZEozUFdkR1JoMkVGV0pkWHZMWW01OUdQZ095YXdqSzdHOEV4cUNPTmZMaWplTjdLYzFFVzdQY1ZhNWVCbHQ3RDZVVkZqZWc?oc=5",
+   "source": "더구루",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 13:24 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "마이크론, 2분기 D램 시장서 2위 SK하이닉스 1%p차 추격",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZW9UUVJheU50RkxTZXM5UW95ZFVJM0FJSnZOMllBVGgxakRfMUlXd3AyT0YwTjNyVkVqVlY3QWFXNTQ2U0RMZUFFRmZLenBuOHFQYzllU2ZQeTMwN3R4ZTJKU1BXU0d4S3dqZWJNMUFHYzl2Unl4V05JRDJsZG5BN0h4WERqdw?oc=5",
@@ -105,18 +117,6 @@
    "source": "v.daum.net",
    "date": "2026-10-01",
    "datetime": "2026-10-01 18:55 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스 3분기 영업익 190조 전망…“눈높이 너무 높다” 경계도 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWh5QjUwRG9tdkJYdUx1TDZfeTFFZDhSbWFkOXprSGg5c1F3OEVMZXBVbGloaW92NUtoWEVZTW5vUHMyeml6VmJiQU11M25XZkM0eUJVdHktdGVZRFE4V3JkQTVveXNVNzR3SFJJV1hWZHFiMGZ4cU0yaFJZXzlnUXJraVNJNW1G0gGcAUFVX3lxTE4yZEZpTi1oZXZKa2gwNWRJNzZHQnlKdkgxeHptVXJLbmJDaVp6b1A1SEMxUVJiay1SYVFoTGFnWS1mdHdtS3dGcVhZYjBUMWV3bC1BNGRBZFBweDhybEY1enpzMnNlUFNyYktLM0doUDlEN2Exc2gydUpHSk9PYmhTakFwVUJQa0gtc3czYl8tWTZiMGtwdFNiMHJndg?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 18:46 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
