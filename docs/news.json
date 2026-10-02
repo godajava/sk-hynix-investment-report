@@ -1,14 +1,86 @@
 {
- "fetchedAt": "2026-10-02 15:34 KST",
+ "fetchedAt": "2026-10-02 22:49 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "블룸버그 \"SK하이닉스 대규모 상장으로 3분기 미국 IPO 시장 활력 유지\"",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrT1dlTFFrZzNyaGdOa3BzTmszTXlpUUF4ZzdmaUFkZkxXS0Q3ZEJMNmhCZWNFaW0tc082OW5rS2lZLUVpcllBWkVmOUFkR3M4MWlqejhQMVJtUjJSSjdEcFZKMA?oc=5",
-   "source": "더구루",
+   "title": "美 마이크론, SK하이닉스 추격 속도…D램 점유율 격차 1%P",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zcHBOdHl3c1ZDOXMtN2FnWWhaNDRuVGt6aGpjTEo0OF9wbWhtNmhvME1MQzJrTWRGWkJkVmpldzZBNzEyMDJZRTdHTW9zVkpCOUdmRWU5WGRvZl94NXZDcVR4THY?oc=5",
+   "source": "매일일보",
    "date": "2026-10-02",
-   "datetime": "2026-10-02 13:24 KST",
+   "datetime": "2026-10-02 17:15 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 뚫은 씨케이솔루션, 올해 수주 5000억 '청신호'",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZNkRud3JLR0ZYaE1RVFZtSTVzTGRlRXU0WWJKSF83T0dubFQ2M2NsOHpwMXZSR2NObXFwZUx5bjFoeDQ4OG0tZ1llckItUFc4emJfNjkzZzF6b3UxZHdoVzFPUXN3UQ?oc=5",
+   "source": "디일렉",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 16:52 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "자사주 매입 종료 우려탓?…삼성전자, 등락끝 보합 마감(종합)",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DbnhRSnFxUF9vWlRBU25PQXFRQVNxXzlUMWF4Q3JxeDdSZU81eGFzMUFUNkVOa2tsTmRod01HU0dWQVBJand3WjkxZ2U4Z0hvTG5ZbTVWVkJOYlBLbTFCedIBYEFVX3lxTE5DbnhRSnFxUF9vWlRBU25PQXFRQVNxXzlUMWF4Q3JxeDdSZU81eGFzMUFUNkVOa2tsTmRod01HU0dWQVBJand3WjkxZ2U4Z0hvTG5ZbTVWVkJOYlBLbTFCeQ?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 15:54 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "D램 1%p차, HBM은 32%p차…SK하이닉스·마이크론 엇갈린 점유율",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZSERCVUdyNnN3VE9BTGJvTDRCb0JqaXQ2Z0JCLWhZN1dzQWdENXR2dTBNVjZoX09iTmhwNUtYaGhVZ3VpSG16TGZTeEhza04wV044QXdjLV93SF9DendWWFdvaUVxZEZE?oc=5",
+   "source": "아이티데일리",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 15:16 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "한전-SK하이닉스, 반도체 전력공급 협력…용인에 5.5GW 전력망 구축",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aQWxCcHlOM0hhMEhaZDNQNXRETzZsUjhqSGlIRTRiemlVWUsxTkJJLUVIX2ZUSFpTUUhmU0V2bXpELS1DRzdMV3p5QlZQSU9XX0tNbEVzVGhmRHpXS0c2YzU5ZGF4dw?oc=5",
+   "source": "인사이트N파워",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 14:57 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "마이크론, 사상 최대 실적…SK하이닉스와 D램 점유율 1%포인트 차",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56TVpvaXFWcGdnWllVeVlaWlBuZWZsX1h6RW1MZnpUeS11WGR5R2lXSlRoMTdSc0w2Ym5GeTJVNGFUYW1reFJIdy04czZUUVcwd3l1ZkRtVWNid1U4?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 14:22 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "블룸버그 \"SK하이닉스 대규모 상장으로 3분기 미국 IPO 시장 활력 유지\" By The Guru",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOdmNFLWRzbFNsM01JajdBYVF1aG5pYlo4VFNrNy00UEI1MHlwZlZ3OGlqcmRNdnZIWGV2Rm9kekd1YjVLblhjSVUwMW1OYV8wSGJrSnJ2cVM2ZklCOG90eDFlaS1jd1A4Wklrc1dXS0M?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 14:03 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -28,6 +100,18 @@
    }
   },
   {
+   "title": "삼성, D램 1위 독주…마이크론, SK하이닉스 턱밑 추격",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IQ3Z0OUlzMHhyRnlMcmo4M25VTmpPcnJXdkgwTi1ocFUwSUV4QXVBTTgxbkZSaG43VnlSa0VvUjZjUjNlV2VJTWx1el9jOHNTQko1RGoyVDFsWERmTnNuRw?oc=5",
+   "source": "아시아경제",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 11:25 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "삼전닉스 자사주 매입 완료 수순…삼성 100% ·SK하이닉스 이달 중순경 마무리",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfZTJJTERta1F0QXBxOER1b19ZUUw2bEFBSmxvQTFDZmhENmMwSS1qTkRnQThIbUhDdkVSV3RMREtWc1BTRGZVQ25JMnBFN2JPNGplSmNBUmx5VlBsZzdWcg?oc=5",
    "source": "KBC광주방송",
@@ -37,90 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "'솔리다임 상장' 입장 못 내놓는 SK하이닉스…IB들은 논리 마련중",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN2NqNXhWVDNhRjljUWpSQmd5SGxvd0NOdFp3a2NCSklXMzdnODZTUF9SUDRHM2hVVEZ6djRnZUViZXVzWjF0QU9ER1hjUWo3TWVmYXFjZHI5Q01ocHl6OHl1dkdQWVdSWnFhNjFTMnpaMTU2QVVzTFRURjB1NjBnYjNtTQ?oc=5",
-   "source": "인베스트조선",
-   "date": "2026-10-02",
-   "datetime": "2026-10-02 11:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스 ‘자사주 방어막’ 걷히나…증시 수급 공백 우려",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SX2l6YV9fS2RFOFBRSG9VRlk5emswWmgzRG5TQW1hRHhOaGFfQUROSklua3FsU1BzR1dVY3VKd3NSZlFkU3c?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-10-02",
-   "datetime": "2026-10-02 10:45 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "삼성전자, 계획 물량 자사주 매입 마쳤다…SK하이닉스도 곧 마무리",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40RklhREJVdzNUaEFRVl93Zzl5VXRYd0FOSWx6Q3h4dnRLQ3QzT3htcUF2dUlROS1xQmF6WkpNamdHVnAzdDR4RVFGWEVfakE?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-10-02",
-   "datetime": "2026-10-02 10:33 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 하락 출발 후 낙폭 좁히며 '보합권'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSms5LVczcTQ5XzlZMG9IdFVHOEVkY2J4MFczWUpvRF9BcjRBd01oUmhjX0RZUmx3Y2RpWHBKSzQ5eFh2UjF3bGhWVHppSm1kNlpsVjVNNFVrbGVUa2FHVTMtekthM2xuUFVHV3Jvd2pmemxhZzg0Qzh1RHdIWmZka3hmcTBYMTct?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-02",
-   "datetime": "2026-10-02 09:49 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[코스피 현미경 분석] SK하이닉스, ASIC 등 HBM4 채택 확대로 주가 재도약?",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EcFpTVG1PT3I3QS1TaFF4bUtoeEVNcjV5ZFNmMW5seHBTdUk5aDZCc1h6WTJ0RzVrNF92ci1EaFZIYVI1dzd0MzcwVEgzLU5rNHlzUzNyQTZOQ1ctSDVWVDUxRjd4alNOQVNBWtIBb0FVX3lxTE9NbzU4MURhY3dxb0M2SnM1dXlsMExIZE9nV3dQNnZJUlc1aXZvckxQVl9PNWlYck80OWRuaEdaSkYyLWh0VHVqM0ZjZ2VSWVA0UjlDMDBrZ1RhQWY0dDRoel9UcFg3ZEcyOWc1N3VQTQ?oc=5",
-   "source": "데일리인베스트",
-   "date": "2026-10-02",
-   "datetime": "2026-10-02 08:45 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, '솔리다임 상장설'에 \"확정 바 없다\"…주주가치 보호 방침",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XbTJwd1VocnphUndCblIyZWt3a3RPZjhfRTMwZmQ2Y0I5aFVoRVhWN0QtcXpQV2YzOWNnTEttVEFNMHlDT3ZORFFjY1N5N1o4bGtMT3ZGWEF2dEt5bHpvRThENTM?oc=5",
-   "source": "서울경제TV",
-   "date": "2026-10-02",
-   "datetime": "2026-10-02 08:19 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[속보]SK하이닉스ADR 5%급등, 마이크론도 3%↑…금리 상승에도 반도체 강세",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5bnNfeWdERHdjV3FnZXhQYlZoU3k1Y3pHQnpBNVpOQkFjd2d5UG1OUTZFc3FzUG8tcTBjQXFfcmRoTTMzX0tvdW5LbThWa2d1?oc=5",
-   "source": "문화일보",
-   "date": "2026-10-02",
-   "datetime": "2026-10-02 07:05 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
