@@ -61,7 +61,9 @@ def pack(d, nd=2):
         "change": num(d.get("change_abs"), nd), "open": num(d.get("open"), nd),
         "high": num(d.get("high"), nd), "low": num(d.get("low"), nd),
         "volume": d.get("volume"), "mode": d.get("update_mode"),
-        **({"updateTime": d["update_time"]} if d.get("update_time") else {}),
+        **({"updateTime": d["update_time"],
+            "updateTimeKST": datetime.datetime.fromtimestamp(d["update_time"], KST).strftime("%m-%d %H:%M:%S")}
+           if d.get("update_time") else {}),
     }
 
 
@@ -77,6 +79,9 @@ SLOTS = {
     "nvidia": ["NASDAQ:NVDA"],
     "ewy": ["AMEX:EWY", "NYSE:EWY", "ARCA:EWY"],
     "usdkrw": ["FX_IDC:USDKRW", "FX:USDKRW"],
+    "sk_hynix": ["KRX:000660"],
+    "samsung": ["KRX:005930"],
+    "hynix_adr": ["NASDAQ:SKHY", "NYSE:SKHY", "AMEX:SKHY", "NYSEARCA:SKHY", "NASDAQ:SKHYV", "NYSE:SKHYV"],
 }
 
 
@@ -119,6 +124,23 @@ def main():
                          "tradedAt": w.get("localTradedAt")}
         except Exception as e:  # noqa: BLE001
             errors[key] = str(e)
+
+    if not snap.get("hynix_adr"):
+        try:
+            ac = http("https://ac.stock.naver.com/ac?q=SKHY&target=stock", headers={"Referer": "https://m.stock.naver.com/"})
+            items = [i for i in ac.get("items", []) if i.get("nationCode") == "USA"]
+            if not items:
+                ac = http("https://ac.stock.naver.com/ac?q=SK%20hynix&target=stock", headers={"Referer": "https://m.stock.naver.com/"})
+                items = [i for i in ac.get("items", []) if i.get("nationCode") == "USA"]
+            code = items[0]["reutersCode"] if items else None
+            snap["hynix_adr_naver_candidates"] = [(i.get("name"), i.get("reutersCode")) for i in items[:5]]
+            if code:
+                w = http(f"https://api.stock.naver.com/stock/{code}/basic", headers={"Referer": "https://m.stock.naver.com/"})
+                snap["hynix_adr"] = {"symbol": code, "name": w.get("stockName"), "last": w.get("closePrice"),
+                                     "changePct": w.get("fluctuationsRatio"), "tradedAt": w.get("localTradedAt"), "source": "naver"}
+                errors.pop("hynix_adr", None)
+        except Exception as e:  # noqa: BLE001
+            errors["hynix_adr_naver"] = str(e)
 
     nf, dn = snap.get("night_futures"), snap.get("day_futures_naver")
     if nf and dn and dn.get("last"):
