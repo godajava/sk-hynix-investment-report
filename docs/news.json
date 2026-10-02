@@ -1,12 +1,72 @@
 {
- "fetchedAt": "2026-10-02 09:38 KST",
+ "fetchedAt": "2026-10-02 11:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
+   "title": "삼성, D램 1위 독주…마이크론, SK하이닉스 턱밑 추격",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IQ3Z0OUlzMHhyRnlMcmo4M25VTmpPcnJXdkgwTi1ocFUwSUV4QXVBTTgxbkZSaG43VnlSa0VvUjZjUjNlV2VJTWx1el9jOHNTQko1RGoyVDFsWERmTnNuRw?oc=5",
+   "source": "아시아경제",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 11:25 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "마이크론, 2분기 D램 시장서 2위 SK하이닉스 1%P 차이 추격",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00QVRRVS1IUUdqek9XZjhvNktUOEFTaHNCa1puaEhQdE9JcFJONWlPN3EycHZaQjRIbk9kT0hYY2lmOElLbERqSmJ2dVRmUmc?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 11:06 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "'솔리다임 상장' 입장 못 내놓는 SK하이닉스…IB들은 논리 마련중",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN2NqNXhWVDNhRjljUWpSQmd5SGxvd0NOdFp3a2NCSklXMzdnODZTUF9SUDRHM2hVVEZ6djRnZUViZXVzWjF0QU9ER1hjUWo3TWVmYXFjZHI5Q01ocHl6OHl1dkdQWVdSWnFhNjFTMnpaMTU2QVVzTFRURjB1NjBnYjNtTQ?oc=5",
+   "source": "인베스트조선",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 11:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자, 계획 물량 자사주 매입 마쳤다…SK하이닉스도 곧 마무리",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40RklhREJVdzNUaEFRVl93Zzl5VXRYd0FOSWx6Q3h4dnRLQ3QzT3htcUF2dUlROS1xQmF6WkpNamdHVnAzdDR4RVFGWEVfakE?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 10:33 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 하락 출발 후 낙폭 좁히며 '보합권'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSms5LVczcTQ5XzlZMG9IdFVHOEVkY2J4MFczWUpvRF9BcjRBd01oUmhjX0RZUmx3Y2RpWHBKSzQ5eFh2UjF3bGhWVHppSm1kNlpsVjVNNFVrbGVUa2FHVTMtekthM2xuUFVHV3Jvd2pmemxhZzg0Qzh1RHdIWmZka3hmcTBYMTct?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 09:49 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
    "title": "[속보]SK하이닉스ADR 5%급등, 마이크론도 3%↑…금리 상승에도 반도체 강세",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5bnNfeWdERHdjV3FnZXhQYlZoU3k1Y3pHQnpBNVpOQkFjd2d5UG1OUTZFc3FzUG8tcTBjQXFfcmRoTTMzX0tvdW5LbThWa2d1?oc=5",
-   "source": "문화일보",
+   "source": "munhwa.com",
    "date": "2026-10-02",
    "datetime": "2026-10-02 07:05 KST",
    "signal": {
@@ -57,66 +117,6 @@
    "source": "Chosunbiz",
    "date": "2026-10-01",
    "datetime": "2026-10-01 18:46 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[기업] 한전·SK하이닉스 협력 체계...\"반도체 산단 안정적 운영\"",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HRzhoeWx5c18wUUlHVzlFRHdXelM0SG5DRTdFQUpRTUtRYjkya19uUDdINGxmS290U1VOQzNhb0lWU05OdnZrRnpnZFlMcXhHWFlHZmJpVEVjU1ZPYXc?oc=5",
-   "source": "YTN",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 17:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한국전력·SK하이닉스, 전력설비 안정 운영 업무 협약…\"K-반도체 경쟁력 뒷받침\"",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6MUlCaU1qWUJoZ2JuQmJRRDRrMEJ0M0NQbzk5UzYxVzEwaENETXhpZkNHd24tck9Mb00xSnpFLVcwNk5nM19UeWJ5ZVhfeUtzTVpjcnpzT1I1RU5nX05OdHhjZTNZelE?oc=5",
-   "source": "팍스경제TV",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 17:28 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한전·SK하이닉스 '정전 제로' 동맹…반도체 전력 2.5GW 지킨다",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wMThodE4zT05ydE40MldpZEplQXBwTXpvU2pHcXk1b1RBcmMtbDRyTU1BaTNPQ1gzSjdZT2E5LW1Gal83bEZ1UjYwS0dreDBDMVZBeVEwbHhxbENXZjFKa0NrN08?oc=5",
-   "source": "esnews.kr",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 16:56 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스·초록우산·월드비전 등 31개 프로그램 ‘제1회 임팩트 어워드’ 수상",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52TjJ3R3YtQU9mQjdpOEVUckZURzJseVp1MVFZdXJNMjd6VEFrUmhzaU9OSUVTQlk3MmpjREI3WHdydHlMLUNOZl9YdzRkbUZRUEE?oc=5",
-   "source": "더나은미래",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 16:46 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한전·SK하이닉스, '전력 안정 파트너십' 구축…협력 강화",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82S2Nxekd1YnNCWGl6ZHVoY2JTWVROX0wxd2ZMU2JMMk5HbktHTk5kenZ1M2RWcDN5bExKbFpqanNvZUJJMzdwa1pPMVF5RXhtcVZDRDNaTEhjSFRIeGVYUTFFeDdRbjJRY0dENVBsMmk2bFUy?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 16:14 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
