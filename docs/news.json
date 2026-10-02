@@ -1,11 +1,11 @@
 {
- "fetchedAt": "2026-10-02 13:38 KST",
+ "fetchedAt": "2026-10-02 14:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
    "title": "블룸버그 \"SK하이닉스 대규모 상장으로 3분기 미국 IPO 시장 활력 유지\"",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90aVhFNnQtTjRFdnpGdnltZEozUFdkR1JoMkVGV0pkWHZMWW01OUdQZ095YXdqSzdHOEV4cUNPTmZMaWplTjdLYzFFVzdQY1ZhNWVCbHQ3RDZVVkZqZWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrT1dlTFFrZzNyaGdOa3BzTmszTXlpUUF4ZzdmaUFkZkxXS0Q3ZEJMNmhCZWNFaW0tc082OW5rS2lZLUVpcllBWkVmOUFkR3M4MWlqejhQMVJtUjJSSjdEcFZKMA?oc=5",
    "source": "더구루",
    "date": "2026-10-02",
    "datetime": "2026-10-02 13:24 KST",
@@ -52,6 +52,18 @@
    }
   },
   {
+   "title": "삼성전자·SK하이닉스 ‘자사주 방어막’ 걷히나…증시 수급 공백 우려",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SX2l6YV9fS2RFOFBRSG9VRlk5emswWmgzRG5TQW1hRHhOaGFfQUROSklua3FsU1BzR1dVY3VKd3NSZlFkU3c?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 10:45 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
    "title": "삼성전자, 계획 물량 자사주 매입 마쳤다…SK하이닉스도 곧 마무리",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40RklhREJVdzNUaEFRVl93Zzl5VXRYd0FOSWx6Q3h4dnRLQ3QzT3htcUF2dUlROS1xQmF6WkpNamdHVnAzdDR4RVFGWEVfakE?oc=5",
    "source": "v.daum.net",
@@ -76,6 +88,30 @@
    }
   },
   {
+   "title": "[코스피 현미경 분석] SK하이닉스, ASIC 등 HBM4 채택 확대로 주가 재도약?",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EcFpTVG1PT3I3QS1TaFF4bUtoeEVNcjV5ZFNmMW5seHBTdUk5aDZCc1h6WTJ0RzVrNF92ci1EaFZIYVI1dzd0MzcwVEgzLU5rNHlzUzNyQTZOQ1ctSDVWVDUxRjd4alNOQVNBWtIBb0FVX3lxTE9NbzU4MURhY3dxb0M2SnM1dXlsMExIZE9nV3dQNnZJUlc1aXZvckxQVl9PNWlYck80OWRuaEdaSkYyLWh0VHVqM0ZjZ2VSWVA0UjlDMDBrZ1RhQWY0dDRoel9UcFg3ZEcyOWc1N3VQTQ?oc=5",
+   "source": "dailyinvest.kr",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 08:45 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, '솔리다임 상장설'에 \"확정 바 없다\"…주주가치 보호 방침",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XbTJwd1VocnphUndCblIyZWt3a3RPZjhfRTMwZmQ2Y0I5aFVoRVhWN0QtcXpQV2YzOWNnTEttVEFNMHlDT3ZORFFjY1N5N1o4bGtMT3ZGWEF2dEt5bHpvRThENTM?oc=5",
+   "source": "서울경제TV",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 08:19 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "[속보]SK하이닉스ADR 5%급등, 마이크론도 3%↑…금리 상승에도 반도체 강세",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5bnNfeWdERHdjV3FnZXhQYlZoU3k1Y3pHQnpBNVpOQkFjd2d5UG1OUTZFc3FzUG8tcTBjQXFfcmRoTTMzX0tvdW5LbThWa2d1?oc=5",
    "source": "문화일보",
@@ -85,42 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 솔리다임 美상장설에 “주주가치 최우선”",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UcDd6aGItdjNVYmp2bzVEcUJQa2hiN3dTbV9hcHAxUURhWkFwTXEySi05bXZ3ZFZVRkUyYnZ5c2pFbV85cldDQUNJVFcyTFdYaUh5MzZ3NWNUVW9ySDJLQ1NibnRfdHJocWhmemVYcWlpTkpobGfSAWZBVV95cUxQWWVQM1B1WkhhTExTUXRZZnlyeDdoWEVreGdpQVdYM1dzdlNKM0xzMjlYN0JuOUdPcWFLaEFXb2dmdUdidzlDN3VkYk1Ickt5b3I1aGh4S1JLTjFwa3lwMk1ISl9CdWc?oc=5",
-   "source": "동아일보",
-   "date": "2026-10-02",
-   "datetime": "2026-10-02 00:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 내년에도 ‘장밋빛’",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DTXBqRFp2RGo1SUlyTTF4NDVxQmZ2R3lkeS1rU1JGb1Noalc1c0h6MFc5cGs0QnRNanRpekk4UnM5UEdpRHc?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 20:15 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[이슈체크] 마이크론이 확인한 ‘메모리 호황’…삼성전자, SK하이닉스보다 더 오를 이유",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uOTJaSHUzQjBSTURhY3RLalBJenY1Z1lzTjNlNGFmaWpLNWRxeThfYTdjQS05S0dVTGR5NFpCOHZqcUZUYmNjY1BGMzRwTkk?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 18:55 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
