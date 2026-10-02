@@ -1,15 +1,33 @@
-name: Probe night futures sources
+name: Pre-market snapshot (night futures)
 
 on:
+  schedule:
+    # 평일 06:10 KST(21:10 UTC 일~목) — 야간선물 06:00 종료 직후 / 07:40 KST 재시도(예약 지연 대비)
+    - cron: "10 21 * * 0-4"
+    - cron: "40 22 * * 0-4"
   workflow_dispatch:
+    inputs:
+      commit:
+        description: "docs/night_futures.json을 main에 커밋. 미체크 시 로그 출력만(프리마켓 브리핑용 읽기 전용)."
+        type: boolean
+        default: false
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  probe:
+  night:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Probe candidate sources
-        run: python3 scripts/probe_night.py
+        with:
+          ref: main
+      - name: Fetch snapshot
+        run: python3 scripts/fetch_night.py docs/night_futures.json --print
+      - name: Commit if changed
+        if: ${{ github.event_name == 'schedule' || inputs.commit }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/night_futures.json
+          git diff --cached --quiet || { git commit -m "프리마켓 스냅샷(야간선물·미국 반도체) 갱신 (자동)"; git pull --rebase origin main; git push; }
