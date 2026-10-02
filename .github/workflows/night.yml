@@ -1,0 +1,15 @@
+name: Probe night futures sources
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Probe candidate sources
+        run: python3 scripts/probe_night.py
