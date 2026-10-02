@@ -1,11 +1,35 @@
 {
- "fetchedAt": "2026-10-01 23:25 KST",
+ "fetchedAt": "2026-10-02 09:18 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
+   "title": "[속보]SK하이닉스ADR 5%급등, 마이크론도 3%↑…금리 상승에도 반도체 강세",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5bnNfeWdERHdjV3FnZXhQYlZoU3k1Y3pHQnpBNVpOQkFjd2d5UG1OUTZFc3FzUG8tcTBjQXFfcmRoTTMzX0tvdW5LbThWa2d1?oc=5",
+   "source": "문화일보",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 07:05 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, 솔리다임 美상장설에 “주주가치 최우선”",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UcDd6aGItdjNVYmp2bzVEcUJQa2hiN3dTbV9hcHAxUURhWkFwTXEySi05bXZ3ZFZVRkUyYnZ5c2pFbV85cldDQUNJVFcyTFdYaUh5MzZ3NWNUVW9ySDJLQ1NibnRfdHJocWhmemVYcWlpTkpobGfSAWZBVV95cUxQWWVQM1B1WkhhTExTUXRZZnlyeDdoWEVreGdpQVdYM1dzdlNKM0xzMjlYN0JuOUdPcWFLaEFXb2dmdUdidzlDN3VkYk1Ickt5b3I1aGh4S1JLTjFwa3lwMk1ISl9CdWc?oc=5",
+   "source": "동아일보",
+   "date": "2026-10-02",
+   "datetime": "2026-10-02 00:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스 내년에도 ‘장밋빛’",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WaHNtR1ZnN1hCSGR5Z010dVpjQWtoOG5kOGw1NGxOcFBzQVZXeUg4alJLRU9PT0xBM0YyVkN5ejRxaV9xbUs2VnkzTEYzenM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DTXBqRFp2RGo1SUlyTTF4NDVxQmZ2R3lkeS1rU1JGb1Noalc1c0h6MFc5cGs0QnRNanRpekk4UnM5UEdpRHc?oc=5",
    "source": "v.daum.net",
    "date": "2026-10-01",
    "datetime": "2026-10-01 20:15 KST",
@@ -40,6 +64,18 @@
    }
   },
   {
+   "title": "[기업] 한전·SK하이닉스 협력 체계...\"반도체 산단 안정적 운영\"",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HRzhoeWx5c18wUUlHVzlFRHdXelM0SG5DRTdFQUpRTUtRYjkya19uUDdINGxmS290U1VOQzNhb0lWU05OdnZrRnpnZFlMcXhHWFlHZmJpVEVjU1ZPYXc?oc=5",
+   "source": "ytn.co.kr",
+   "date": "2026-10-01",
+   "datetime": "2026-10-01 17:54 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "한국전력·SK하이닉스, 전력설비 안정 운영 업무 협약…\"K-반도체 경쟁력 뒷받침\"",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PeFlsQnM3NlhtcW5VZDdJSHYzX0NvUlhEdDR5NnMyTFF0S0lMeTRWd2JqRkpuSkx5V0hOd0VEV2NpdU1JZUpBcEFyVDE5SnJXMXdmcjlRUkU2YVNiUzVxZHlWWlVPcUcz?oc=5",
    "source": "팍스경제TV",
@@ -52,21 +88,9 @@
    }
   },
   {
-   "title": "한전·SK하이닉스, 반도체 산단 안정적 전력공급 협력",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CQmQxQnh4ZXFVNXBqTlplMmlhOV8tZWV5dmxvRXN1aF8yWTkyeElsMzBsS29QbDBSRkZXRXBsek8xMHpTb05NVnFsNlBNaTJxd3lla01Jby1HUlhnN3h0T215clhQeW8?oc=5",
-   "source": "연합뉴스TV",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 16:58 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "한전·SK하이닉스 '정전 제로' 동맹…반도체 전력 2.5GW 지킨다",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wMThodE4zT05ydE40MldpZEplQXBwTXpvU2pHcXk1b1RBcmMtbDRyTU1BaTNPQ1gzSjdZT2E5LW1Gal83bEZ1UjYwS0dreDBDMVZBeVEwbHhxbENXZjFKa0NrN08?oc=5",
-   "source": "에너지안전신문",
+   "source": "esnews.kr",
    "date": "2026-10-01",
    "datetime": "2026-10-01 16:56 KST",
    "signal": {
@@ -88,35 +112,11 @@
    }
   },
   {
-   "title": "SK주주들 ‘중복 상장’ 우려에...하이닉스 “솔리다임 상장 결정 안돼, 주주가치 우선”",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdlZ2blN5OEpHbnBxcTlMN3ZmTWV0bkJHVGFWVGlsNTRydm0tRHExV1NTdVRkRVBiOVl0UmNpWjNyOVFDczRMc1BsRW9KVXF4bGtSNFVMQlN3NnQxRlg0eEs1c3kwSXE1SDNBOXprRFgyTGl4RFZqTnV6WDBObWpjWlFGQQ?oc=5",
-   "source": "조선일보",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 16:18 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
    "title": "한전·SK하이닉스, '전력 안정 파트너십' 구축…협력 강화",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82S2Nxekd1YnNCWGl6ZHVoY2JTWVROX0wxd2ZMU2JMMk5HbktHTk5kenZ1M2RWcDN5bExKbFpqanNvZUJJMzdwa1pPMVF5RXhtcVZDRDNaTEhjSFRIeGVYUTFFeDdRbjJRY0dENVBsMmk2bFUy?oc=5",
-   "source": "news.einfomax.co.kr",
+   "source": "연합인포맥스",
    "date": "2026-10-01",
    "datetime": "2026-10-01 16:14 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한전-SK하이닉스, ‘K-반도체 초격차’ 강화위해 맞손",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1reUROX0oycGkyUGdzd29Jbnc3bmxySXVxUHJMSERHbjhnZjhwYmJEWnJPWGhNTlIySWhiQ2I1eHNVd0VXZm40cEdzdkhzZFk2?oc=5",
-   "source": "문화일보",
-   "date": "2026-10-01",
-   "datetime": "2026-10-01 16:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
