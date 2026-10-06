@@ -1,8 +1,68 @@
 {
- "fetchedAt": "2026-10-06 11:38 KST",
+ "fetchedAt": "2026-10-06 12:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "경기도 \"SK하이닉스 방류수, FAO 권고치 초과…배출기준 마련해야\" - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zT1pCUzF4TW1CMDJYRVZFdVFmZjVkYy1JZFlDVTFQR1NkYkduaU5FT1BkOFowYzZqcENxXzBXRWFFT25peGJZXzlUREZEY0R3RVdGX0gwMHNHTVMyY0FtdDlhR28tdDBVbVcySlJKb9IBb0FVX3lxTE0zT1pCUzF4TW1CMDJYRVZFdVFmZjVkYy1JZFlDVTFQR1NkYkduaU5FT1BkOFowYzZqcENxXzBXRWFFT25peGJZXzlUREZEY0R3RVdGX0gwMHNHTVMyY0FtdDlhR28tdDBVbVcySlJKbw?oc=5",
+   "source": "머니투데이",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 11:09 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "엔비디아 사상 최고가에도 SK하이닉스는 하락…왜?",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zeUhjektCeW45eFJ1SHFMMElWMXVqYzZCazFDSG0xelZjV0pMVmhibVl4d0xXaFBTNEs4WjlGaGgweW9kaVlFQ29ZWHo3OWk1bWc3ZkhmUmxld9IBWEFVX3lxTE9aOFl5UE1GXzctTndiREJWM3ZLRktyWFhRenNuVGZuUHZNekJod1V1b0R0dXpiM1BpSXNsZjVtOWp4dllWTmgxYjVEWHdxQlJseGVMMUo2S0g?oc=5",
+   "source": "아주경제",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 10:53 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] SK하이닉스, 솔리다임 미국 상장설 논란.. 2%대 '하락'",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1NDUjdPdVlWQ2wta2k4amRnUWNzbDg5dWFJdHhNdElSSXlYY0ZpQVdRLXk3bTg2TlZjUGFzTTFZV2xPd1VZWHk1RXdzeTBKOFoxeDZVZ294aXFqellCSHpHbXZVVGl5V0xPQ0w1UnI3eDl1eFFvSWdWSTU3OVp3SXhmdmkzeDg?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 10:40 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "삼성전자냐 SK하이닉스냐 … 주식 큰손, 반도체 베팅 갈렸다",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmN1RXRVRuMWxxaGFLMTJjQ1lJbjNsOWw5QWFFcWpOdXo3NFNjSDhzZWstWll2YUZjUHdWbmRSVWRrMlNsalkwS25XbXhrU256NWNPb0laY1hxbVZLdDZUTndrYXE?oc=5",
+   "source": "yonginilbo.com",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 10:07 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 개천절 연휴서 복귀한 삼전·닉스, 장초반 약세",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03c01mVHoyallNWUxmOU5Vdk1LTGZ2c0wtSzdRUWZvLXlLUHpyQ0VicUNsR3BTVGd5YURfUEhYOHluZllONjV6MlVreVlNay1pbUNOcmhFQ0x1ai1ySXVIUtIBYEFVX3lxTE03c01mVHoyallNWUxmOU5Vdk1LTGZ2c0wtSzdRUWZvLXlLUHpyQ0VicUNsR3BTVGd5YURfUEhYOHluZllONjV6MlVreVlNay1pbUNOcmhFQ0x1ai1ySXVIUg?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 09:22 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "삼성전자 보합·SK하이닉스 하락… 검색 상위 15개는 올랐다",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuNEFtb29fVXlrbV9HVGRHWGd0eVZZZWFpS3A0dk9YLXhVQ2VVdm9ZcDB3MnBTbkhYNzBVdkNKWURydG1vRGhPRE5sbXU1TkJPV1otc0VycjdBQndadkRVNVpWQlhMRXNfaGxfUmRzMGJjU01neVNoS1JxR2owUQ?oc=5",
@@ -13,6 +73,18 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
+   }
+  },
+  {
+   "title": "'SK하이닉스 짝꿍'의 반전…삼성과 손 잡더니 245억 '잭팟'",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVVdwNDYwTF9LdHk2aGMzRVk5YU00bGJkM3N5b1lBQjdEWDhndURkbmQxaWdRTjYxOWtpTDVzMkZyQ1BPaHFVYzQwaEFsLVphVzJ5Q05wY2JsQQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 09:13 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -45,78 +117,6 @@
    "source": "녹색경제신문",
    "date": "2026-10-06",
    "datetime": "2026-10-06 07:14 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한화부터 SK하이닉스까지⋯ 누리호 5차에 올라탄 ‘우주 어벤저스’",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXZW5zRmtvZmo4ZVlGTFF4T2Z3NFkwOVVNc1RDcUFnNjFFOHlma2NQM2tFdmFza3dFZnp1OW52TU5DV2t1MUhMaU1vSTdkOUYtZy00aWRFVE9FQQ?oc=5",
-   "source": "브릿지경제",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 06:45 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"삼성전자·SK하이닉스 다음은?\"…테마주가 아닌 진짜 차기 주도주를 잡아라",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TQlFHYUN5ZDFNZXdPRUN6aHNwbWg0TEV2aE5pdmZZVWI2VHQtM0VoV0lCR0ZFRVNjRzZ5QkdKOTNKeUZyaS1nYXBYRmpaOUtoNzV3UXdkNXBoblBqNkpya9IBeEFVX3lxTFBGNGlreUpWNW5mTXlrbmdjamdtSGJXbE4xS21qR0dKd0VaRFpjYkozSXVPU0NJZWJocXJvR1FHNFlnZ0tjU3ZoLXZjNlZZM1Nhc0dfc05DTzVyRG9DUS1LdjlvWXNRLVNSZVF1Z1djOHE2MXl6VEJqTQ?oc=5",
-   "source": "뉴시스",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 00:36 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"삼성전자·SK하이닉스 수혜주 선별해야\"…막연한 낙수효과 기대는 금물 '항아리 이론'",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Na1F0b1lTdkoxWmpIZVRzalNQaDEwX2ZjNlo2ZUtWWS1kVU9jZ04xVnMyS2lVQXpPUjVZRzlDYWJheE9wcWN0cUV3NHJPVUt4YUpaTU9VYUowUFBWQnA3bdIBeEFVX3lxTE1KQlFfZ0FLSlJBcGxycGRDWFBWMTJldFhzZW51TjB3a0lDclJPQnloN2NqYnBQRVI5QnBYZTRyaExVWXAyVklKVWlQN0V1djU4dFVCVHZwaUMwWVVKTFpTRnpQZW5PM0wyUDJ4Z1dwbTFIMW91ZlpPcw?oc=5",
-   "source": "뉴시스",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 00:14 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[기자수첩] SK하이닉스 성과급과 여행의 상관관계",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxOUxLQmRGZjNHZlFwZlFJd3pIVjEzajlLSGk3YW1ISHlxal92SVZMTzRXbE1sUi00a1c5YldFNWRyb3BMN2VoZzdmb3N0Mkxqb0hFNFJSb0dlZ05CWjJFYU8tanZobnRmSmVOR2tvUHNhdw?oc=5",
-   "source": "여행신문",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 00:10 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "경기도, 용인 SK하이닉스 가동 전 수질 선제 점검",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VDRYTzJoN1NBN0FZeTNtN3pxdE9meEN4VHNPU0ozZy1XV19NaWVheG5JeUs1Tm9MdFN2RHlRWm9Lb3dIWE9SSHpmNG8wUjk3cy1pUG03X1I4Mmc?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-10-05",
-   "datetime": "2026-10-05 18:40 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[ESGC] SK하이닉스 방류수 유입 하천서 염소·황산이온 고농도⋯경기도, 정부에 관리기준 건의",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmaFJkY3l6eXVEQ05jRjJYbEpZcEVlOU15alk2VHpreF9ZQjBGT050djctM3lPYldXRk1INlFOdnUtUzI3aXBYSGRPRVdoODZxLWR3V3ZObUVUZE5fMW1KUw?oc=5",
-   "source": "포커스온경제",
-   "date": "2026-10-05",
-   "datetime": "2026-10-05 16:30 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
