@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-10-06 09:38 KST",
+ "fetchedAt": "2026-10-06 10:37 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "메모리 호황 지속될까…삼성·SK하이닉스·마이크론, 장기계약으로 판매 기반 넓힌다",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyZVlwNGhtYWFNdS14WlNqTFhaXzA2MExoZ2Q2YnJmbVZpd3ZwQjFiYmJiMXVHMW9BcFpNY19OM3VkX3dDWGx3ZlhCUVN5amltcWdKRkt0QU53X0VrYW1kYnhFSGVNR0U?oc=5",
+   "source": "choicestock.co.kr",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 08:58 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스 방류 하천 염소·황산이온 기준 마련 건의",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCbEpOV3VaOFhsRi0xb2x3UlNXMDN4NDQzZXFSZ2hsUE9xTGNJcllhNzQ1dHNzc3RXS3RDSFRWMnFBWkdEZXZPTjNualkyUVhRS3gwQXFldXR0NFk?oc=5",
@@ -21,6 +33,18 @@
    "source": "녹색경제신문",
    "date": "2026-10-06",
    "datetime": "2026-10-06 07:14 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "한화부터 SK하이닉스까지⋯ 누리호 5차에 올라탄 ‘우주 어벤저스’",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXZW5zRmtvZmo4ZVlGTFF4T2Z3NFkwOVVNc1RDcUFnNjFFOHlma2NQM2tFdmFza3dFZnp1OW52TU5DV2t1MUhMaU1vSTdkOUYtZy00aWRFVE9FQQ?oc=5",
+   "source": "브릿지경제",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 06:45 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -93,30 +117,6 @@
    "source": "경인일보",
    "date": "2026-10-05",
    "datetime": "2026-10-05 16:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "D램 최고가에 마이크론 호조에도 삼성전자·SK하이닉스 전망치 조정…원인은?",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2JEeG1WWERxSXRPVExxcWw4RHo1UzJveFlwUE8wVmNjMXh2aHBmRVh5bDVyLUdsZ2paZ0QwMHlwbDFMUjJ3aFA5SU9DYnBYb242N3QtUFFYaEIzQ0xKcEkwY2JIQzNyUVo0LXo0S1FCQjMxUUpERmtCZUpDem8tTG9sd0dpQQ?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-05",
-   "datetime": "2026-10-05 16:00 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "반도체 방류수에 기준 없는 염소·황산… 경기도, SK하이닉스 가동 전 관리 강화",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fZVBEZG9nLWl4dDJYT25PZGQ5aG1FaHBwdDFtQ3BqRGFSVmdMOTlJcnNlVExKZk1HbFQ3NDB4Y2EwYVAxcEV4S3F1R0o5dTBiZkhhVGdzcENNdW12S1U5ZVRRamlEb0s3SXc?oc=5",
-   "source": "천지일보",
-   "date": "2026-10-05",
-   "datetime": "2026-10-05 15:55 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
