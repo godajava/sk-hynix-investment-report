@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-10-06 14:38 KST",
+ "fetchedAt": "2026-10-06 15:34 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스, 4분기 SK에코플랜트 건설 거래액 4.2조로 확대[공시]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vUGZiSnY2R1cwQXJORnlUQ0E3elFpVjdkSGxIRlcxeXFIUjQwTVo1eVB0cFJHZjE2eS1CVzNFMkxCVTBZWTRxNnJDdlBxSHM?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 14:53 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스, 3분기 실적 발표 앞두고 주가 하락 By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoRXo4SUQ5ZnYtLUN5NDJzdXBPdGc2VGdmT042bVpmejR3RWF0TUdxMzFzSGpob01CUUFwZ3YwTktIZElEeVNUZnF6dHp3X2lvU25paURETHpxbXo3eDhvX3l2bUFGNlMtaThqd1VadGk?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 14:52 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "HBM 다음은 로봇 반도체…삼성·SK하이닉스, '피지컬AI 메모리' 선점나서",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqM2JSN3Vub3RQVW9OQUxJTjM0amlfTlVUUzRJTm9jY0x4U2tQaVB2Z1BQTXM3djByVGxfeFMwTVdqakpwUEx4T0tNOFo0NmhuOTVCdExfU2NiWFNw?oc=5",
@@ -13,6 +37,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "넥스틴, SK하이닉스서 254억 수주…지난해 매출 38% 규모",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NdUFoaUo0aUsxOHRWcWstTTlpSmstcXhDWmFVU3pvY3NvZGREaUdsQUlwcG1GR2RaUS1zOV9mSzdnT201VExENVZzckxiSUFRbmR6cDBVeHFSal9UY1U4R3lzZGo3LWFa?oc=5",
+   "source": "ebn.co.kr",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 13:46 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
@@ -54,7 +90,7 @@
   {
    "title": "[2026 국감] 삼성·SK 반도체 베테랑 27명 中 CXMT로…“반도체 팹 통째로 옮긴 수준”",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6R1V4dW14TE9NNmJ4eVNzMG9YUThscWFUOU5UOElBMVhjenMxNENtWDVpZTBaOE56bF95QVFjY0R4LWxfbnBTUWFxdmJrMXZrYXhGcnZ5c0ZqNXBLSnhoeTFxNA?oc=5",
-   "source": "ekn.kr",
+   "source": "에너지경제신문",
    "date": "2026-10-06",
    "datetime": "2026-10-06 11:24 KST",
    "signal": {
@@ -78,49 +114,13 @@
   {
    "title": "경기도 \"SK하이닉스 방류수, FAO 권고치 초과…배출기준 마련해야\" - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zT1pCUzF4TW1CMDJYRVZFdVFmZjVkYy1JZFlDVTFQR1NkYkduaU5FT1BkOFowYzZqcENxXzBXRWFFT25peGJZXzlUREZEY0R3RVdGX0gwMHNHTVMyY0FtdDlhR28tdDBVbVcySlJKb9IBb0FVX3lxTE0zT1pCUzF4TW1CMDJYRVZFdVFmZjVkYy1JZFlDVTFQR1NkYkduaU5FT1BkOFowYzZqcENxXzBXRWFFT25peGJZXzlUREZEY0R3RVdGX0gwMHNHTVMyY0FtdDlhR28tdDBVbVcySlJKbw?oc=5",
-   "source": "mt.co.kr",
+   "source": "머니투데이",
    "date": "2026-10-06",
    "datetime": "2026-10-06 11:09 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "엔비디아 사상 최고가에도 SK하이닉스는 하락…왜?",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zeUhjektCeW45eFJ1SHFMMElWMXVqYzZCazFDSG0xelZjV0pMVmhibVl4d0xXaFBTNEs4WjlGaGgweW9kaVlFQ29ZWHo3OWk1bWc3ZkhmUmxld9IBWEFVX3lxTE9aOFl5UE1GXzctTndiREJWM3ZLRktyWFhRenNuVGZuUHZNekJod1V1b0R0dXpiM1BpSXNsZjVtOWp4dllWTmgxYjVEWHdxQlJseGVMMUo2S0g?oc=5",
-   "source": "아주경제",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 10:53 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "엔비디아, 삼성전자·SK하이닉스에 ‘HBM 더 얇게’ 주문했다",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CcC1PNm5qa1VJOHZrTGhfdXVIMExQY1dhOFdIdWdGZXVBMEdjQ21pRnRBaXZ4N1Rjb0M3WEF5YTRTWXNfbUlsbnJHWFEydFlpNTc1eTZXbmhYRmxwNmFEWWV1SWRNNmFwZ3BHMEo2OEZOX01xcGfSAXZBVV95cUxOQnAtTzZuamtVSTh2a0xoX3V1SDBMUGNXYThXSHVnRmV1QTBHY0NtaUZ0QWl2eDdUY29DN1hBeWE0U1lzX21JbG5yR1hRMnRZaTU3NXk2V25oWEZscDZhRFlldUlkTTZhcGdwRzBKNjhGTl9NcXBn?oc=5",
-   "source": "시사저널e",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 10:44 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] SK하이닉스, 솔리다임 미국 상장설 논란.. 2%대 '하락'",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1NDUjdPdVlWQ2wta2k4amRnUWNzbDg5dWFJdHhNdElSSXlYY0ZpQVdRLXk3bTg2TlZjUGFzTTFZV2xPd1VZWHk1RXdzeTBKOFoxeDZVZ294aXFqellCSHpHbXZVVGl5V0xPQ0w1UnI3eDl1eFFvSWdWSTU3OVp3SXhmdmkzeDg?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 10:40 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
