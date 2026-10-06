@@ -1,12 +1,72 @@
 {
- "fetchedAt": "2026-10-06 00:57 KST",
+ "fetchedAt": "2026-10-06 09:19 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
+   "title": "SK하이닉스 방류 하천 염소·황산이온 기준 마련 건의",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBCbEpOV3VaOFhsRi0xb2x3UlNXMDN4NDQzZXFSZ2hsUE9xTGNJcllhNzQ1dHNzc3RXS3RDSFRWMnFBWkdEZXZPTjNualkyUVhRS3gwQXFldXR0NFk?oc=5",
+   "source": "KBS 뉴스",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 07:48 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "최태원 회장의 9440억원 SK 지분 매각 및 SK하이닉스 솔리다임 IPO는 \"주주가치 최우선 판단 기준\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OVUczaTF3LS1ZTzB6WlFMNERhQWRMdVdvM0RBcFpXeDdGaDk2cWJncVctV0l5U2Y4UjJMQ1QtLWItekNaS29oYzRzVkZSaWlGUlRhWGh0eklpcEhHZ0FRSlBWR3dBRHM?oc=5",
+   "source": "녹색경제신문",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 07:14 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"삼성전자·SK하이닉스 다음은?\"…테마주가 아닌 진짜 차기 주도주를 잡아라",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TQlFHYUN5ZDFNZXdPRUN6aHNwbWg0TEV2aE5pdmZZVWI2VHQtM0VoV0lCR0ZFRVNjRzZ5QkdKOTNKeUZyaS1nYXBYRmpaOUtoNzV3UXdkNXBoblBqNkpya9IBeEFVX3lxTFBGNGlreUpWNW5mTXlrbmdjamdtSGJXbE4xS21qR0dKd0VaRFpjYkozSXVPU0NJZWJocXJvR1FHNFlnZ0tjU3ZoLXZjNlZZM1Nhc0dfc05DTzVyRG9DUS1LdjlvWXNRLVNSZVF1Z1djOHE2MXl6VEJqTQ?oc=5",
+   "source": "뉴시스",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 00:36 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"삼성전자·SK하이닉스 수혜주 선별해야\"…막연한 낙수효과 기대는 금물 '항아리 이론'",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Na1F0b1lTdkoxWmpIZVRzalNQaDEwX2ZjNlo2ZUtWWS1kVU9jZ04xVnMyS2lVQXpPUjVZRzlDYWJheE9wcWN0cUV3NHJPVUt4YUpaTU9VYUowUFBWQnA3bdIBeEFVX3lxTE1KQlFfZ0FLSlJBcGxycGRDWFBWMTJldFhzZW51TjB3a0lDclJPQnloN2NqYnBQRVI5QnBYZTRyaExVWXAyVklKVWlQN0V1djU4dFVCVHZwaUMwWVVKTFpTRnpQZW5PM0wyUDJ4Z1dwbTFIMW91ZlpPcw?oc=5",
+   "source": "뉴시스",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 00:14 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[기자수첩] SK하이닉스 성과급과 여행의 상관관계",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxOUxLQmRGZjNHZlFwZlFJd3pIVjEzajlLSGk3YW1ISHlxal92SVZMTzRXbE1sUi00a1c5YldFNWRyb3BMN2VoZzdmb3N0Mkxqb0hFNFJSb0dlZ05CWjJFYU8tanZobnRmSmVOR2tvUHNhdw?oc=5",
+   "source": "여행신문",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 00:10 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "경기도 “SK하이닉스 이천공장 방류수, 유엔 권고치 초과 염소·황산이온 검출”",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mdk9qLXpvU2RUVnNiYWIzNlk4aU1zRWcwOF93c0dydWY0a09qS2ZsVGQyZ3dET2xpV29RRU9BM0diZFI2dHNGMTNPbl80Q25lYUNEN3U4RmVGQdIBX0FVX3lxTE1mMlI1Rnd3eW9NeW94NmF0bkx3TmVZLTAwR3llX0lnMkJPaVQ0WXp3R2h0eEFUNm5BaTMwZEZsNlFDZWxFbjItM0ZwbXJONG1QT1pYcGpvRmNFSGxoM0pn?oc=5",
-   "source": "경향신문",
+   "source": "khan.co.kr",
    "date": "2026-10-05",
    "datetime": "2026-10-05 21:03 KST",
    "signal": {
@@ -21,30 +81,6 @@
    "source": "에너지경제신문",
    "date": "2026-10-05",
    "datetime": "2026-10-05 18:40 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[ESGC] SK하이닉스 방류수 유입 하천서 염소·황산이온 고농도⋯경기도, 정부에 관리기준 건의",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3ZEgtdjZVeFZ4cVJ0aFBWTFh3TnN1WEUtSnV4Y1QxTHpDOUQxWDZab1NiZlRnSjFPc05KbHlOM3JQOVczWExXV0FkQTJnT0NzajVIZ0YwWHdoT0lYQVE?oc=5",
-   "source": "포커스온경제",
-   "date": "2026-10-05",
-   "datetime": "2026-10-05 16:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "이천 SK하이닉스 주변 하천 '염소·황산이온' FAO 기준치 초과 관리 필요",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0cTFHM0dTNVFONW92TGJhY1h3cU5ka29TVF9PNERWdWJhOVZoUTJLb2hTbHppcWpQZGcyUHc4bG9HX0lacmxMRVJMbjM5Ni1SZlJqUHE4VkZndHpOM2FjMndoVzF0Ny1JZ2VqZUlDSFdVZ9IBckFVX3lxTFB0cTFHM0dTNVFONW92TGJhY1h3cU5ka29TVF9PNERWdWJhOVZoUTJLb2hTbHppcWpQZGcyUHc4bG9HX0lacmxMRVJMbjM5Ni1SZlJqUHE4VkZndHpOM2FjMndoVzF0Ny1JZ2VqZUlDSFdVZw?oc=5",
-   "source": "경인종합일보",
-   "date": "2026-10-05",
-   "datetime": "2026-10-05 16:13 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -81,42 +117,6 @@
    "source": "천지일보",
    "date": "2026-10-05",
    "datetime": "2026-10-05 15:55 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "경기도, 용인 SK하이닉스 방류 대비 수질 조사 결과 기자회견",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc3A3b1M4UUFiUVFkNXZLdU9mNW8tRGZnNENES1VmSEpHeFhFWW11bllBTXUxVzVuX24xWkJEU0ozRWk5b1dLYzV2YTlIWkxxMFdWZ2NRc2tlWUo1SDA1ZTNSWm5sQlBvUktNQm9aT3VwbHZoaHpDUEJkR0xQLUdWV1B5LUJwaE9EWkU1VzI3cTg1WFBOYXpPblVuVVgzdkJ0Z2ZZWGV5R0duaG9MNVh4NjdB?oc=5",
-   "source": "경기도뉴스포털",
-   "date": "2026-10-05",
-   "datetime": "2026-10-05 14:42 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "이남오 함평군수, 용인 SK하이닉스 현장 찾아 반도체 전략 점검",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43OFNzaU1nS2FQZHRXRnhac1pfYlk4WVB4eUpnRkJkTlJQdncwRWFtek1HM3dZckRnZFhJOGMwaFRBN2k2NmN2c2VvU2NhSGVqeDd4dDIxTFVHSVVJejZEYVJLbDN4MWtkMWx6LVE2TFlJM3o4UkhvOEx30gF_QVVfeXFMTzVKV2dia1dxaHBTZmQzVTdjNmo4VGVIemN0ZVFXb2xzMzBrUThxNVZHQTgyd0FsOUhnQ2p1Yk12ZGN2b3VVczlkYk1uUEwwbDFuYnB6b1JxclBTUFlBVVZidXBLeTd6OC1YUWlvWTZDV0MzOEphY0c4YXVsZzFycw?oc=5",
-   "source": "뉴데일리",
-   "date": "2026-10-05",
-   "datetime": "2026-10-05 14:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"잘나가던 하이닉스 웬 날벼락\"…'이 소문'에 개미들 뿔났다 [강경주의 테크X]",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRODBWNEVzWWpDOTR5ZkpnVHJIemhSZ2J1TUhKU0xqSmxXeGNHZUY5cUZXRjBZRndUcWRQUkdBRHY0cktKS0dsWlRTVGtsYmYwc3RsWHVzcXptUQ?oc=5",
-   "source": "한국경제",
-   "date": "2026-10-05",
-   "datetime": "2026-10-05 10:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
