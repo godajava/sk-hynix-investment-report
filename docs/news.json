@@ -1,8 +1,104 @@
 {
- "fetchedAt": "2026-10-06 15:50 KST",
+ "fetchedAt": "2026-10-06 23:08 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "넥스틴, SK하이닉스에 검사장비 공급...254.4억 규모",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Nclk0QU1YSWw1ZkZwTl8xaGlEZUVrQmRKY2FfZjBrMVdXR2NJTUp6UjZ0bXk3NVI5Q2ZyaFhIajUzZ1NmQWRseVFRaEVOd2dpajcyN0tCUEV6TWZhZk9rVzZqRXVGUQ?oc=5",
+   "source": "디일렉",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 22:10 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK스퀘어, 하이닉스 장부상 이익 확대에도 비투자 4개 사업 적자…현금창출력 과제",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JcGRsY0JEcm5lREU0V1Z1QWdzeW96Y3NHU2gwY1ZTRl9GVENQLWlBRHJxM2NLSmh3S01wVDB0bU1zV19OOXRyTDFBc0l1S21MLXp6TmtjcTJVVFRqM21QYTlLb2QtMTl2SVZyN2NVSEhrOHl6U1A00gF3QVVfeXFMTUlwZGxjQkRybmVERTRXVnVBZ3N5b3pjc0dTaDBjVlNGX0ZUQ1AtaUFEcnEzY0tKaHdLTXBUMHRtTXNXX045dHJMMUFzSXVLbUwtenpOa2NxMlVUVGozbVBhOUtvZC0xOXZJVnI3Y1VISGs4eXpTUDQ?oc=5",
+   "source": "스트레이트뉴스",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 18:21 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "한전-SK하이닉스, ‘K-반도체 초격차’ 강화를 위한 전력공급 파트너십 구축",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MmR6aUNndVh1Xy1WTl9vNVRIelRMTkdqeV9PUmZCdTdsODlIRVRtM3VqaTVRSkJCdXRLTmJjRDhodm10a2RKdFRtRjV0Y1dVdl9aTGJCSDBrV2MxaVM4Wms2bkpJcU9hbzdEc0ZCTnQ?oc=5",
+   "source": "솔라투데이",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 17:44 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[집중진단] SK하이닉스 손자회사 ‘솔리다임’ 상장…주주에겐 호재일까, 악재일까?",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qcElmeUVMeHdyQzc4ZGhQYjZmWVpuX2ZadXdCVEFWcEVwU2VOSm1LMnlLQzh1YllocVhCc3JYaDJQSWlkbVc3eEJxRXlkd2c?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 17:43 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성·SK하이닉스 핵심인력 27명 中으로…연봉 2배 조건",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wa1ZOQ2VnVjF4aWcxM2xZSkswMjVaYkdEbGpVWjNNQ09CbDFGbmNoZFd0bTFjbHNXSnJhc0lkNTZOZnZlY3N2VHpVY29CSDA?oc=5",
+   "source": "v.daum.net",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 17:17 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "최수진 의원실 ‘삼성·SK하이닉스 출신 27명 CXMT 이직’ 주장 [국감2026]",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04OFhPX0pHUG0yaTh5TUdtcXVJQ2EwX2xqcE9EcWMtTlZGSi1uUlFXZUNWaHE2bHBHUjVvMldPZGdMMTBYVW9ic0lMemJNOHJKdnRlUmZVV0ZUNE9PazNXNDJJbUZOR2xNOERWWWxFa05fWlRf0gF0QVVfeXFMTTg4WE9fSkdQbTJpOHlNR21xdUlDYTBfbGpwT0RxYy1OVkZKLW5SUVdlQ1ZocTZscEdSNW8yV09kZ0wxMFhVb2JzSUx6Yk04ckp2dGVSZlVXRlQ0T09rM1c0MkltRk5HbE04RFZZbEVrTl9aVF8?oc=5",
+   "source": "IT조선",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 16:44 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "솔리다임 ‘200조 IPO설’…SK하이닉스 주가, 재평가와 할인 사이서 줄타기",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1S3FCbWppN2tKbVhNTEVEakFVX2Z5RjBBSG1faUtsZlh5c2dDTnJNTUZPeThOVVNyLXV1ZHJCN2txNjlQX2p1QkdqSU1FLUJ0cnZLMjdUUk5BRmxlNEpkVVU4Rjc1VHVyUjV2ZA?oc=5",
+   "source": "goodkyung.com",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 15:54 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "검색 상위 20개 중 16개 상승… 삼성전자·SK하이닉스는 동반 하락",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00dnF4SDVVT09wWFZiSE4wel8teV9tWFpSUVFic2RiTHFDZW9IbE4zU1U1dG5ZM3R4WHRFTS1KZlk0OWNfTWpfYXctY3RyZ01ya2FkUGxOQkRjVzhtY2dST1QwNA?oc=5",
+   "source": "twig24.com",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 15:42 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[공시 Pick] 넥스틴, SK하이닉스와 254억원 공급계약 체결에 강세",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yVUNxeGJOWVpxWnZWSXFuOUtwNU15cDNXOVlJUHQ4UUlLUFlreGM1bjlLUVEtWmQ5M2s4V19oSnNya3NUcHYxcUp2cjdTYzhRZk5MWUMyTy1YcUN4RlE?oc=5",
@@ -16,107 +112,11 @@
    }
   },
   {
-   "title": "'SK하이닉스 짝꿍'의 반전…삼성과 손 잡더니 245억 '잭팟'",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVVdwNDYwTF9LdHk2aGMzRVk5YU00bGJkM3N5b1lBQjdEWDhndURkbmQxaWdRTjYxOWtpTDVzMkZyQ1BPaHFVYzQwaEFsLVphVzJ5Q05wY2JsQQ?oc=5",
-   "source": "한국경제",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 15:07 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "SK하이닉스, 4분기 SK에코플랜트 건설 거래액 4.2조로 확대[공시]",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vUGZiSnY2R1cwQXJORnlUQ0E3elFpVjdkSGxIRlcxeXFIUjQwTVo1eVB0cFJHZjE2eS1CVzNFMkxCVTBZWTRxNnJDdlBxSHM?oc=5",
    "source": "v.daum.net",
    "date": "2026-10-06",
    "datetime": "2026-10-06 14:53 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스, 3분기 실적 발표 앞두고 주가 하락 By Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoRXo4SUQ5ZnYtLUN5NDJzdXBPdGc2VGdmT042bVpmejR3RWF0TUdxMzFzSGpob01CUUFwZ3YwTktIZElEeVNUZnF6dHp3X2lvU25paURETHpxbXo3eDhvX3l2bUFGNlMtaThqd1VadGk?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 14:52 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "HBM 다음은 로봇 반도체…삼성·SK하이닉스, '피지컬AI 메모리' 선점나서",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqM2JSN3Vub3RQVW9OQUxJTjM0amlfTlVUUzRJTm9jY0x4U2tQaVB2Z1BQTXM3djByVGxfeFMwTVdqakpwUEx4T0tNOFo0NmhuOTVCdExfU2NiWFNw?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 13:56 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "넥스틴, SK하이닉스서 254억 수주…지난해 매출 38% 규모",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1NdUFoaUo0aUsxOHRWcWstTTlpSmstcXhDWmFVU3pvY3NvZGREaUdsQUlwcG1GR2RaUS1zOV9mSzdnT201VExENVZzckxiSUFRbmR6cDBVeHFSal9UY1U4R3lzZGo3LWFa?oc=5",
-   "source": "ebn.co.kr",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 13:46 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "엔비디아 밀어내고 1위 꿰찬 SK하이닉스, 월가 14조 펀드가 찍은 '진짜 돈줄'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZVJNaEVGZWdTNGpwRnNYVk9KUExWRkpyUkVhTGZNZ2IwY2luckxlR2VDM01LS2JyYWNwVjBkcnQ2b1JrOUNJeEw1SU1wX0tOQ01ZS0Q0Y2xTdml0MEFTTHFJWUpNMno2MVI4Um1FcmFwb1IzTUhvTFBiWGE3ZFJJcXIzcm0zT3Bo?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 13:31 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK스퀘어, SK하이닉스 추가 주주환원 정책 수혜 기대 By 알파경제 alphabiz",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xeHdvNGFfbkc3aUJvZGg1RXJUWWhVc2pobWNhVk1haHUtbnlyNmpISDlUOWdMWF9WU0gzS3VPc243TDBiczU0R1BpUWZSSzRuY3lTcUFqWWVSQlg5X3VINHZjckNHZEpPVy1yX2U3Qm4?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 13:22 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[리포트 브리핑]SK하이닉스, '작은 의심들까지 모두 소화했다' 목표가 3,100,000원 - 미래에셋증권",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VaENzUjNYMTBZZV9feFU5VzBHaGNqeEc3VFRqM2JFR1psLVpnWDdNODFSSUlyVVNveGFUUm5CblB2d1ZpLWZDWmpfNFBORE5mN1dxWHM2eUkza2Z1?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 12:38 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[2026 국감] 삼성·SK 반도체 베테랑 27명 中 CXMT로…“반도체 팹 통째로 옮긴 수준”",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6R1V4dW14TE9NNmJ4eVNzMG9YUThscWFUOU5UOElBMVhjenMxNENtWDVpZTBaOE56bF95QVFjY0R4LWxfbnBTUWFxdmJrMXZrYXhGcnZ5c0ZqNXBLSnhoeTFxNA?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 11:24 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
