@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-10-06 15:34 KST",
+ "fetchedAt": "2026-10-06 15:50 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[공시 Pick] 넥스틴, SK하이닉스와 254억원 공급계약 체결에 강세",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yVUNxeGJOWVpxWnZWSXFuOUtwNU15cDNXOVlJUHQ4UUlLUFlreGM1bjlLUVEtWmQ5M2s4V19oSnNya3NUcHYxcUp2cjdTYzhRZk5MWUMyTy1YcUN4RlE?oc=5",
+   "source": "뉴스투데이",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 15:26 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "'SK하이닉스 짝꿍'의 반전…삼성과 손 잡더니 245억 '잭팟'",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hVVdwNDYwTF9LdHk2aGMzRVk5YU00bGJkM3N5b1lBQjdEWDhndURkbmQxaWdRTjYxOWtpTDVzMkZyQ1BPaHFVYzQwaEFsLVphVzJ5Q05wY2JsQQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-10-06",
+   "datetime": "2026-10-06 15:07 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스, 4분기 SK에코플랜트 건설 거래액 4.2조로 확대[공시]",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vUGZiSnY2R1cwQXJORnlUQ0E3elFpVjdkSGxIRlcxeXFIUjQwTVo1eVB0cFJHZjE2eS1CVzNFMkxCVTBZWTRxNnJDdlBxSHM?oc=5",
@@ -93,30 +117,6 @@
    "source": "에너지경제신문",
    "date": "2026-10-06",
    "datetime": "2026-10-06 11:24 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "주가는 빠지는데 목표가 310만원…SK하이닉스, 무엇을 믿었나",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuVmw0NEFZRERKblJVb0JLSjNVRXAwby1ZaHQzOHB3Yk43TU5pcnB3WUlFZ0o2bjFqZVMwY2Vfbm13aEtEem51RTlKWXdOV3d4QUh6aGktNi1fUQ?oc=5",
-   "source": "파이낸셜뉴스",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 11:10 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "경기도 \"SK하이닉스 방류수, FAO 권고치 초과…배출기준 마련해야\" - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zT1pCUzF4TW1CMDJYRVZFdVFmZjVkYy1JZFlDVTFQR1NkYkduaU5FT1BkOFowYzZqcENxXzBXRWFFT25peGJZXzlUREZEY0R3RVdGX0gwMHNHTVMyY0FtdDlhR28tdDBVbVcySlJKb9IBb0FVX3lxTE0zT1pCUzF4TW1CMDJYRVZFdVFmZjVkYy1JZFlDVTFQR1NkYkduaU5FT1BkOFowYzZqcENxXzBXRWFFT25peGJZXzlUREZEY0R3RVdGX0gwMHNHTVMyY0FtdDlhR28tdDBVbVcySlJKbw?oc=5",
-   "source": "머니투데이",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 11:09 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
