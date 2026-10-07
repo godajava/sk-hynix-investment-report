@@ -1,8 +1,104 @@
 {
- "fetchedAt": "2026-10-06 23:08 KST",
+ "fetchedAt": "2026-10-07 09:19 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[모닝 리포트] \"SK하이닉스, AI 수요에 목표가 400만원 유지\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00TTVfNGpuYS1odGZVM29xUkJ6ZlVMN2I3eVl4c0V3UjJ5VU9FLXdwaE8tZkRWRjg4anE5RW82c0pXVHVfUTh5VE54Z2NKNXRsSVJRVkpRNzVUTE1a?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 08:35 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[버핏 리포트] SK하이닉스, 3Q 환율 탓 실적 눈높이 하향에도 주주환원 90조 눈길 - IBK",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Za1ZMMDVMZEZIUjJ6Zjg3ajFZU1ByaGpiVjNCNWRndVFZbVFPZ3JiZS1sWlBUUC1wV0t2dlV5QTk1WXd0OG9XR0M1djF6UVNNMlVVNDNCZWp4OURtNlc3Tmdn?oc=5",
+   "source": "버핏연구소",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 08:29 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "[특징주] 삼전닉스 프리마켓 동반 약세…SK하이닉스 2%↓",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QV25rQVhLRmVlWnlnTWdLdi1tdlAxQWRTX2xqZzNrc3l3YWFkTkJlV0NuTGYtZXdvZjk5X0RidC1jTGRUb3pLai02bW8tcmc5MElTV040OUJzNXUx?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 08:18 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "마벨의 좋아도 너무 좋은 전망, SK하이닉스 흔들었나 [마켓무버의 국장 힌트]",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BMTl1NnF4X29RNmVpZ3VoY0hVUjBlZ2N3ZmxZbkVfOFJudkt0Y3RQUkwtZXF3dGFzRVBVOF8yaXNqNF9vY2lISzlOR1BTLWs?oc=5",
+   "source": "Daum",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 07:40 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 ADR, 6.39% 급락...원화 강세·성과급 충당금 ‘발목’",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeDJ6MktPb1dHSzZ3MmxlX1JydDNvdUd2ay1ySFJnQ0liZzZCTk5mZ3Zjdm5BTUtsOXlmenZjTHRyVXJpYkd1OVJBR3MwXzZFbnhMUHhyNkR1UGtSWEE5eE9RSkZIYkdPcEdQVWVOM2k1eHlRc0N0NDh1ZGctZzdtNHZ6bUxqbExC?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 06:19 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"칩 사이 빈틈 잡아라\"…삼성·SK하이닉스, 첨단 패키징 승부수",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13Vm5zNmJHRUhQM3BpYWkxTGRxaGtqbTg4YjZLUkJDZFhVSV82UkczYnpvM1RqLXFrMGp0M0F3ZXVqbTBxODlvbEdITTg1ZmNyY0h1VVZEdVpMWHVjNTBETGh2ZlVzUllQSlHSAWpBVV95cUxNd1ZuczZiR0VIUDNwaWFpMUxkcWhram04OGI2S1JCQ2RYVUlfNlJHM2J6bzNUai1xazBqdDNBd2V1am0wcTg5b2xHSE04NWZjcmNIdVVWRHVaTFh1YzUwRExodmZVc1JZUEpR?oc=5",
+   "source": "뉴스1",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 06:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[속보] 뉴욕증시 강보합 마감… SK하이닉스 ADR은 6.37%↓",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94b0JCektDc1JIZGNaTWtUall5aWtIWnNfb2RidDVfUFdEMC11MzdvWFdhdFRMd01KVmlvT01wdDItcl9zc1hTbnA1TjJXLU94azgzUk1zVEczWktuTlNyRTZIQkZONFNOMHVQRdIBbEFVX3lxTE94b0JCektDc1JIZGNaTWtUall5aWtIWnNfb2RidDVfUFdEMC11MzdvWFdhdFRMd01KVmlvT01wdDItcl9zc1hTbnA1TjJXLU94azgzUk1zVEczWktuTlNyRTZIQkZONFNOMHVQRQ?oc=5",
+   "source": "국민일보",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 05:02 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"中 반도체 추격, 생각보다 빠르다\"…삼성전자·SK하이닉스가 긴장해야 하는 이유",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WbEZxLTAtVE8xSjR4d2kxY3pHblgxQ1RMeTFSYm5XNy0tM0xnSmlWR2d3Z080OFZrWFNwc1ZiZnBGYzh6YUk3YWtBVU5WTEpWM0tGNW5VUFJqeXd0RTZTQtIBeEFVX3lxTE5McFBSMFhTbXZFQXlqc2UtVEc3TzZ4T3J1ZUtVMk8zdFFqWEsyNHZwUDloR2UyeHIyc2ZVQ213Y0VmU0wxYlZ2NmpqRENHcFAwdGNGUEM3YkhlVHU3bFdpWjhZQzJRWnlLNlJORXpqS3pjczF1bHZqZw?oc=5",
+   "source": "뉴시스",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 00:03 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "넥스틴, SK하이닉스에 검사장비 공급...254.4억 규모",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Nclk0QU1YSWw1ZkZwTl8xaGlEZUVrQmRKY2FfZjBrMVdXR2NJTUp6UjZ0bXk3NVI5Q2ZyaFhIajUzZ1NmQWRseVFRaEVOd2dpajcyN0tCUEV6TWZhZk9rVzZqRXVGUQ?oc=5",
@@ -16,111 +112,15 @@
    }
   },
   {
-   "title": "SK스퀘어, 하이닉스 장부상 이익 확대에도 비투자 4개 사업 적자…현금창출력 과제",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JcGRsY0JEcm5lREU0V1Z1QWdzeW96Y3NHU2gwY1ZTRl9GVENQLWlBRHJxM2NLSmh3S01wVDB0bU1zV19OOXRyTDFBc0l1S21MLXp6TmtjcTJVVFRqM21QYTlLb2QtMTl2SVZyN2NVSEhrOHl6U1A00gF3QVVfeXFMTUlwZGxjQkRybmVERTRXVnVBZ3N5b3pjc0dTaDBjVlNGX0ZUQ1AtaUFEcnEzY0tKaHdLTXBUMHRtTXNXX045dHJMMUFzSXVLbUwtenpOa2NxMlVUVGozbVBhOUtvZC0xOXZJVnI3Y1VISGs4eXpTUDQ?oc=5",
-   "source": "스트레이트뉴스",
+   "title": "외국인 매도세에 삼성전자·SK하이닉스 약세 마감",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aUVB3Q2l0dmo3b1lZSC1UeFhsazR0eGN2OVRxdDBHU1lkSnFGb21IMEw0dDFUVGFORzJvcm00RUNNbXA5ZHNSNjZ4aGN6SHJ3WDdhMWNmcFhlWkZ2a3oxQ2pTQUxkVEE?oc=5",
+   "source": "M이코노미뉴스",
    "date": "2026-10-06",
-   "datetime": "2026-10-06 18:21 KST",
+   "datetime": "2026-10-06 18:31 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "한전-SK하이닉스, ‘K-반도체 초격차’ 강화를 위한 전력공급 파트너십 구축",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95MmR6aUNndVh1Xy1WTl9vNVRIelRMTkdqeV9PUmZCdTdsODlIRVRtM3VqaTVRSkJCdXRLTmJjRDhodm10a2RKdFRtRjV0Y1dVdl9aTGJCSDBrV2MxaVM4Wms2bkpJcU9hbzdEc0ZCTnQ?oc=5",
-   "source": "솔라투데이",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 17:44 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[집중진단] SK하이닉스 손자회사 ‘솔리다임’ 상장…주주에겐 호재일까, 악재일까?",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qcElmeUVMeHdyQzc4ZGhQYjZmWVpuX2ZadXdCVEFWcEVwU2VOSm1LMnlLQzh1YllocVhCc3JYaDJQSWlkbVc3eEJxRXlkd2c?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 17:43 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스 핵심인력 27명 中으로…연봉 2배 조건",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4wa1ZOQ2VnVjF4aWcxM2xZSkswMjVaYkdEbGpVWjNNQ09CbDFGbmNoZFd0bTFjbHNXSnJhc0lkNTZOZnZlY3N2VHpVY29CSDA?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 17:17 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "최수진 의원실 ‘삼성·SK하이닉스 출신 27명 CXMT 이직’ 주장 [국감2026]",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04OFhPX0pHUG0yaTh5TUdtcXVJQ2EwX2xqcE9EcWMtTlZGSi1uUlFXZUNWaHE2bHBHUjVvMldPZGdMMTBYVW9ic0lMemJNOHJKdnRlUmZVV0ZUNE9PazNXNDJJbUZOR2xNOERWWWxFa05fWlRf0gF0QVVfeXFMTTg4WE9fSkdQbTJpOHlNR21xdUlDYTBfbGpwT0RxYy1OVkZKLW5SUVdlQ1ZocTZscEdSNW8yV09kZ0wxMFhVb2JzSUx6Yk04ckp2dGVSZlVXRlQ0T09rM1c0MkltRk5HbE04RFZZbEVrTl9aVF8?oc=5",
-   "source": "IT조선",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 16:44 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "솔리다임 ‘200조 IPO설’…SK하이닉스 주가, 재평가와 할인 사이서 줄타기",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1S3FCbWppN2tKbVhNTEVEakFVX2Z5RjBBSG1faUtsZlh5c2dDTnJNTUZPeThOVVNyLXV1ZHJCN2txNjlQX2p1QkdqSU1FLUJ0cnZLMjdUUk5BRmxlNEpkVVU4Rjc1VHVyUjV2ZA?oc=5",
-   "source": "goodkyung.com",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 15:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "검색 상위 20개 중 16개 상승… 삼성전자·SK하이닉스는 동반 하락",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00dnF4SDVVT09wWFZiSE4wel8teV9tWFpSUVFic2RiTHFDZW9IbE4zU1U1dG5ZM3R4WHRFTS1KZlk0OWNfTWpfYXctY3RyZ01ya2FkUGxOQkRjVzhtY2dST1QwNA?oc=5",
-   "source": "twig24.com",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 15:42 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[공시 Pick] 넥스틴, SK하이닉스와 254억원 공급계약 체결에 강세",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0yVUNxeGJOWVpxWnZWSXFuOUtwNU15cDNXOVlJUHQ4UUlLUFlreGM1bjlLUVEtWmQ5M2s4V19oSnNya3NUcHYxcUp2cjdTYzhRZk5MWUMyTy1YcUN4RlE?oc=5",
-   "source": "뉴스투데이",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 15:26 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 4분기 SK에코플랜트 건설 거래액 4.2조로 확대[공시]",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vUGZiSnY2R1cwQXJORnlUQ0E3elFpVjdkSGxIRlcxeXFIUjQwTVo1eVB0cFJHZjE2eS1CVzNFMkxCVTBZWTRxNnJDdlBxSHM?oc=5",
-   "source": "v.daum.net",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 14:53 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
