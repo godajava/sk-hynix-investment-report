@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-10-07 14:38 KST",
+ "fetchedAt": "2026-10-07 15:34 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "AMD 리사수, 삼성전자 전영현·SK하이닉스 곽노정과 회동",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wVHAzcHVJdk9VOURVdzRZd1ZtSlpscTBGTDV6ZjByNjJDUkY4QXd4eXctcktzUDE4T1h0Si05UHlRZFRWSTY0dTAxMW9iSU5WSnc?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 15:05 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "노동자단체 반올림 \"SK하이닉스 관련 산재 인정하라\"",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zb3d5OXd0Y2R1cS1LcGhRc0ZxdHBJemZmTFh6UEZQYXRoOGRadzVpNnAyUTMtYjNGdHBYODV6X2dBa2hnMW5QdHNubmZBLWV5dFZnR3dsWmZKaVVsT0JiVHREeGR1b04yVmJHeF93ZWI?oc=5",
@@ -100,27 +112,15 @@
    }
   },
   {
-   "title": "[특징주] 삼성전자, 장초반 2%대 급등…SK하이닉스는 0.6%↓",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzbW1fU1JhSUtnZFdwV0ZGbDJOUWltamFWRU5qbGw2d040SUlhRHJWZE4yZm1YQ1VwUFk0MndZbnZuTlFuLWVlQnpjX1p5MWhHY2VYRU00bGluYWk2YU00dNIBYEFVX3lxTFBzbW1fU1JhSUtnZFdwV0ZGbDJOUWltamFWRU5qbGw2d040SUlhRHJWZE4yZm1YQ1VwUFk0MndZbnZuTlFuLWVlQnpjX1p5MWhHY2VYRU00bGluYWk2YU00dA?oc=5",
-   "source": "연합뉴스",
+   "title": "美 증시 활황에도 코스피 6900선 밑으로…SK하이닉스 장중 2% 넘게 하락",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QVUdsNU56YlpORHNtNm85RTZYQTNXSlpHSHV4M2FQRk9xZ1BBZlBKMXpUR0Qxb2kzOFBFZDVDTjZpb2M5bUFKaTZ5aVZObmtlZW9N0gFYQVVfeXFMUFhnX1pxc09zQXVOb2p4T2xWeFRSMlMzTzd5NlVWOWQ3ekZBNmlJTWhfcFlQUi1tX2g0dlJBRTRGWGo1Q0JneU1GT3FBTHRNYVZvTVZ1cEowbg?oc=5",
+   "source": "SBS Biz",
    "date": "2026-10-07",
-   "datetime": "2026-10-07 09:31 KST",
+   "datetime": "2026-10-07 11:01 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "용인 SK하이닉스 가동 전 수질 선제 점검 관련 기자회견",
-   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQRVFyX2VtSlZNMHU1NGp0Y0RuSEJ4LUdZTGsxSUwtTDhyMnlkT0xmUDhmektLcTRWLWt3a1RDV19KODhBXzh4Uk5vaUYtX2ZxdmRmaHhxQmtSMTh4SDJ0UjR6eGlyRnByd19HT2F2cW11X3h5UHExVUI0YWxMUWs4d2xyNXpDUkJQTkVza09MUERiRjFiSGs3UWxuY1hNSlU3bkdJRkhwM2hKQUhYbGVoWDNHby0zMGFGbnpLZzhsbTBEeFZ6YmVIQS1sa3h1Q3ZkRTZKZFpCaUJURXg2WnpRRkswRmZGQ3c1Sy1QeXd5eVluMDIyY2FiN2JZZEJ6SFVlVzUxc2l1Vm5ONnBUZWVWOWlmcUZsUQ?oc=5",
-   "source": "경기도뉴스포털",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 08:53 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   }
  ]
