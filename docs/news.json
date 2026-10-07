@@ -1,12 +1,48 @@
 {
- "fetchedAt": "2026-10-07 13:38 KST",
+ "fetchedAt": "2026-10-07 14:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
+   "title": "노동자단체 반올림 \"SK하이닉스 관련 산재 인정하라\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zb3d5OXd0Y2R1cS1LcGhRc0ZxdHBJemZmTFh6UEZQYXRoOGRadzVpNnAyUTMtYjNGdHBYODV6X2dBa2hnMW5QdHNubmZBLWV5dFZnR3dsWmZKaVVsT0JiVHREeGR1b04yVmJHeF93ZWI?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 14:26 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 노동자 3명 '뇌종양·유방암·림프종 피해' 집단 산재 신청 나서",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LbHRycDNuYmNfWV9QcnZBdEtZeUpyVTI5WmNUM3VSN1J1YVV4czUtLXI2ZjlHWXllSTMxa0kzZ25NT01uNm1FNmJjb2hRaE9naVJVSGxBbEFBbzNDa0lQeldMZEs3ODR1bmQ5SUlxcXVka0R4YktF0gF3QVVfeXFMTXZiRHgybFFMX2QwbmNGMVRsN3lPbndjVHBuR09ISy11Qjg3aEQxR0ZXdk5xTDVTWXN0cUZpMXg5UUpRREo4TklUVlNMRWdMRDJpXzB5dl9jNGt0MzU0NHNEbVlLLWFlZWxoLWszOHJtWjdyQzRnaXc?oc=5",
+   "source": "MBC 뉴스",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 13:33 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 충북교육청에 교육기부금 5천만원… 학생 마라톤 축제 지원",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15U09JUUhzYlVZQ2NLMlAtd0t2OE1pZkJwbUVXQjBFMVVoUExzTEx0NVZEVUNYbTB6UjJfRWE3SEtQSnRESkhoUDJfaGdCeXlQdFRkM0Fmak9oV1dnblM5YnMtd2l5MGg0MDVGTEVn0gFuQVVfeXFMTXlTT0lRSHNiVVlDY0syUC13S3Y4TWlmQnBtRVdCMEUxVWhQTHNMTHQ1VkRVQ1htMHpSMl9FYTdIS1BKdERKSGhQMl9oZ0J5eVB0VGQzQWZqT2hXV2duUzlicy13aXkwaDQwNUZMRWc?oc=5",
+   "source": "중부매일",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 13:21 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스 노동자 3명 산재 신청…인권단체 \"신속 인정해야\"",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wbXBfRXhBQUJMZG54aWE2UmZnZmp3bzlrQkVGeUlaYk56RnVWQ2ZSRl9JWTduci1nQVotV0ljOTVXclF1dnl4Uzh2M2FCT1VoUHlZLWM1X294SnVHbWVqUzhnWEVXcE1nWWJPcVJRSmRzWkpm?oc=5",
-   "source": "연합뉴스 한민족센터",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tQ051OWdiY2twS1ZoMm80UU1XcXY2aUpXYlNoYlFySVlQcG0xanBJQjdsdVlEdzhEak1BaHl1dWhmc0NfaWdvSTBDRzEwZlp5WFhZdnhWVmZaVU1tbmtpatIBYEFVX3lxTE8tQ051OWdiY2twS1ZoMm80UU1XcXY2aUpXYlNoYlFySVlQcG0xanBJQjdsdVlEdzhEak1BaHl1dWhmc0NfaWdvSTBDRzEwZlp5WFhZdnhWVmZaVU1tbmtpag?oc=5",
+   "source": "연합뉴스",
    "date": "2026-10-07",
    "datetime": "2026-10-07 12:27 KST",
    "signal": {
@@ -64,18 +100,6 @@
    }
   },
   {
-   "title": "SK하이닉스, 충북교육청에 '몸활동마라톤' 지원비 5천만원 전달",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4YkpycUs5WUZidkNaV0hVNWVQZ2pCRlNtbzNVR3NqcFhBZGxxS25NTlg2U0V1QnRjYzItUlo3Qk1CNmRNMWFfU3E2UlZYMWJPN1E?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 11:16 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "[특징주] 삼성전자, 장초반 2%대 급등…SK하이닉스는 0.6%↓",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzbW1fU1JhSUtnZFdwV0ZGbDJOUWltamFWRU5qbGw2d040SUlhRHJWZE4yZm1YQ1VwUFk0MndZbnZuTlFuLWVlQnpjX1p5MWhHY2VYRU00bGluYWk2YU00dNIBYEFVX3lxTFBzbW1fU1JhSUtnZFdwV0ZGbDJOUWltamFWRU5qbGw2d040SUlhRHJWZE4yZm1YQ1VwUFk0MndZbnZuTlFuLWVlQnpjX1p5MWhHY2VYRU00bGluYWk2YU00dA?oc=5",
    "source": "연합뉴스",
@@ -88,39 +112,15 @@
    }
   },
   {
-   "title": "[모닝 리포트] \"SK하이닉스, AI 수요에 목표가 400만원 유지\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00TTVfNGpuYS1odGZVM29xUkJ6ZlVMN2I3eVl4c0V3UjJ5VU9FLXdwaE8tZkRWRjg4anE5RW82c0pXVHVfUTh5VE54Z2NKNXRsSVJRVkpRNzVUTE1a?oc=5",
-   "source": "뉴스핌",
+   "title": "용인 SK하이닉스 가동 전 수질 선제 점검 관련 기자회견",
+   "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQRVFyX2VtSlZNMHU1NGp0Y0RuSEJ4LUdZTGsxSUwtTDhyMnlkT0xmUDhmektLcTRWLWt3a1RDV19KODhBXzh4Uk5vaUYtX2ZxdmRmaHhxQmtSMTh4SDJ0UjR6eGlyRnByd19HT2F2cW11X3h5UHExVUI0YWxMUWs4d2xyNXpDUkJQTkVza09MUERiRjFiSGs3UWxuY1hNSlU3bkdJRkhwM2hKQUhYbGVoWDNHby0zMGFGbnpLZzhsbTBEeFZ6YmVIQS1sa3h1Q3ZkRTZKZFpCaUJURXg2WnpRRkswRmZGQ3c1Sy1QeXd5eVluMDIyY2FiN2JZZEJ6SFVlVzUxc2l1Vm5ONnBUZWVWOWlmcUZsUQ?oc=5",
+   "source": "경기도뉴스포털",
    "date": "2026-10-07",
-   "datetime": "2026-10-07 08:35 KST",
+   "datetime": "2026-10-07 08:53 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[버핏 리포트] SK하이닉스, 3Q 환율 탓 실적 눈높이 하향에도 주주환원 90조 눈길 - IBK",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Za1ZMMDVMZEZIUjJ6Zjg3ajFZU1ByaGpiVjNCNWRndVFZbVFPZ3JiZS1sWlBUUC1wV0t2dlV5QTk1WXd0OG9XR0M1djF6UVNNMlVVNDNCZWp4OURtNlc3Tmdn?oc=5",
-   "source": "버핏연구소",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 08:29 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[특징주] 삼전닉스 프리마켓 동반 약세…SK하이닉스 2%↓",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QV25rQVhLRmVlWnlnTWdLdi1tdlAxQWRTX2xqZzNrc3l3YWFkTkJlV0NuTGYtZXdvZjk5X0RidC1jTGRUb3pLai02bW8tcmc5MElTV040OUJzNXUx?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 08:18 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
