@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-10-07 12:38 KST",
+ "fetchedAt": "2026-10-07 13:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스 노동자 3명 산재 신청…인권단체 \"신속 인정해야\"",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wbXBfRXhBQUJMZG54aWE2UmZnZmp3bzlrQkVGeUlaYk56RnVWQ2ZSRl9JWTduci1nQVotV0ljOTVXclF1dnl4Uzh2M2FCT1VoUHlZLWM1X294SnVHbWVqUzhnWEVXcE1nWWJPcVJRSmRzWkpm?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 12:27 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[리포트 브리핑]SK하이닉스, '실적에 수급을 더한다' 목표가 4,000,000원 - IBK투자증권",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JZFMtNTY1RjBIZUNCbnpXYmJTQmgyQnJPQ3Yzam5ndVIyczQ5cGJrcFI0VGJEeGZQbVcxTmh3Ykg0OWEzQ1JRSUpSNGFQTUVVVGZNVHRJWDU1QmQ1?oc=5",
@@ -52,6 +64,18 @@
    }
   },
   {
+   "title": "SK하이닉스, 충북교육청에 '몸활동마라톤' 지원비 5천만원 전달",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4YkpycUs5WUZidkNaV0hVNWVQZ2pCRlNtbzNVR3NqcFhBZGxxS25NTlg2U0V1QnRjYzItUlo3Qk1CNmRNMWFfU3E2UlZYMWJPN1E?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 11:16 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "[특징주] 삼성전자, 장초반 2%대 급등…SK하이닉스는 0.6%↓",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzbW1fU1JhSUtnZFdwV0ZGbDJOUWltamFWRU5qbGw2d040SUlhRHJWZE4yZm1YQ1VwUFk0MndZbnZuTlFuLWVlQnpjX1p5MWhHY2VYRU00bGluYWk2YU00dNIBYEFVX3lxTFBzbW1fU1JhSUtnZFdwV0ZGbDJOUWltamFWRU5qbGw2d040SUlhRHJWZE4yZm1YQ1VwUFk0MndZbnZuTlFuLWVlQnpjX1p5MWhHY2VYRU00bGluYWk2YU00dA?oc=5",
    "source": "연합뉴스",
@@ -97,30 +121,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "마벨의 좋아도 너무 좋은 전망, SK하이닉스 흔들었나 [마켓무버의 국장 힌트]",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9BMTl1NnF4X29RNmVpZ3VoY0hVUjBlZ2N3ZmxZbkVfOFJudkt0Y3RQUkwtZXF3dGFzRVBVOF8yaXNqNF9vY2lISzlOR1BTLWs?oc=5",
-   "source": "Daum",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 07:40 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 ADR, 6.39% 급락...원화 강세·성과급 충당금 ‘발목’",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeDJ6MktPb1dHSzZ3MmxlX1JydDNvdUd2ay1ySFJnQ0liZzZCTk5mZ3Zjdm5BTUtsOXlmenZjTHRyVXJpYkd1OVJBR3MwXzZFbnhMUHhyNkR1UGtSWEE5eE9RSkZIYkdPcEdQVWVOM2k1eHlRc0N0NDh1ZGctZzdtNHZ6bUxqbExC?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 06:19 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
