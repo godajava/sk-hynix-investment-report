@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-07 09:38 KST",
+ "fetchedAt": "2026-10-07 10:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[모닝 리포트] \"SK하이닉스, AI 수요에 목표가 400만원 유지\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00TTVfNGpuYS1odGZVM29xUkJ6ZlVMN2I3eVl4c0V3UjJ5VU9FLXdwaE8tZkRWRjg4anE5RW82c0pXVHVfUTh5VE54Z2NKNXRsSVJRVkpRNzVUTE1a?oc=5",
-   "source": "뉴스핌",
+   "title": "SK하이닉스, ‘HBM 매출 비중’ 내년 20%로 확대",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44aE1Rc1RsQUlPRmxTQnF1QW5mVTJCSjVWdFZyb21GQjJHSlJmcmZMclh5UEpHODZsUVlyNHpuZWgzVVdJYnR0ZTI4WmUtWWFmMDVpdjFaWFpqQ2RHSjFQaTN5aGxFTkFydHc?oc=5",
+   "source": "금융소비자뉴스",
    "date": "2026-10-07",
-   "datetime": "2026-10-07 08:35 KST",
+   "datetime": "2026-10-07 09:58 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,15 +16,27 @@
    }
   },
   {
-   "title": "[버핏 리포트] SK하이닉스, 3Q 환율 탓 실적 눈높이 하향에도 주주환원 90조 눈길 - IBK",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Za1ZMMDVMZEZIUjJ6Zjg3ajFZU1ByaGpiVjNCNWRndVFZbVFPZ3JiZS1sWlBUUC1wV0t2dlV5QTk1WXd0OG9XR0M1djF6UVNNMlVVNDNCZWp4OURtNlc3Tmdn?oc=5",
-   "source": "버핏연구소",
+   "title": "IBK투자증권, \"SK하이닉스, 지나치게 저평가\"…목표가 400만원 유지",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1iQjhmNDMwY0ZGMXRoVU5uYzBfbGZ3a2NIV0g5Nk9SS1pKSjZLbnRjekNqTkVsVDNaTzhnT25GTW8zbkl0RW1FeGZ2Q00xS00?oc=5",
+   "source": "Daum",
    "date": "2026-10-07",
-   "datetime": "2026-10-07 08:29 KST",
+   "datetime": "2026-10-07 09:57 KST",
    "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자, 장초반 2%대 급등…SK하이닉스는 0.6%↓",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzbW1fU1JhSUtnZFdwV0ZGbDJOUWltamFWRU5qbGw2d040SUlhRHJWZE4yZm1YQ1VwUFk0MndZbnZuTlFuLWVlQnpjX1p5MWhHY2VYRU00bGluYWk2YU00dNIBYEFVX3lxTFBzbW1fU1JhSUtnZFdwV0ZGbDJOUWltamFWRU5qbGw2d040SUlhRHJWZE4yZm1YQ1VwUFk0MndZbnZuTlFuLWVlQnpjX1p5MWhHY2VYRU00bGluYWk2YU00dA?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 09:31 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
@@ -37,6 +49,18 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
+   }
+  },
+  {
+   "title": "3Q 실적 앞둔 삼성전자, 프리마켓서 약보합…SK하이닉스 1%↓",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4MDZzR0tuWEZ1dFltMTNOTGl0dEJRYTgtTlFMVXlVejQycXg5QmhabklVQmFZV3EtTzZIdXBlMmNIYzh5Ti1TS0psMHdaTjA?oc=5",
+   "source": "Daum",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 08:17 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -57,18 +81,6 @@
    "source": "글로벌이코노믹",
    "date": "2026-10-07",
    "datetime": "2026-10-07 06:19 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"칩 사이 빈틈 잡아라\"…삼성·SK하이닉스, 첨단 패키징 승부수",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13Vm5zNmJHRUhQM3BpYWkxTGRxaGtqbTg4YjZLUkJDZFhVSV82UkczYnpvM1RqLXFrMGp0M0F3ZXVqbTBxODlvbEdITTg1ZmNyY0h1VVZEdVpMWHVjNTBETGh2ZlVzUllQSlHSAWpBVV95cUxNd1ZuczZiR0VIUDNwaWFpMUxkcWhram04OGI2S1JCQ2RYVUlfNlJHM2J6bzNUai1xazBqdDNBd2V1am0wcTg5b2xHSE04NWZjcmNIdVVWRHVaTFh1YzUwRExodmZVc1JZUEpR?oc=5",
-   "source": "뉴스1",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 06:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -109,18 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "외국인 매도세에 삼성전자·SK하이닉스 약세 마감",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aUVB3Q2l0dmo3b1lZSC1UeFhsazR0eGN2OVRxdDBHU1lkSnFGb21IMEw0dDFUVGFORzJvcm00RUNNbXA5ZHNSNjZ4aGN6SHJ3WDdhMWNmcFhlWkZ2a3oxQ2pTQUxkVEE?oc=5",
-   "source": "M이코노미뉴스",
-   "date": "2026-10-06",
-   "datetime": "2026-10-06 18:31 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
