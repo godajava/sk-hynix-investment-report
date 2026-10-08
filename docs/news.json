@@ -1,14 +1,26 @@
 {
- "fetchedAt": "2026-10-07 23:27 KST",
+ "fetchedAt": "2026-10-08 09:19 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "오늘 SK하이닉스 ADR 주식 하락하는 이유는?",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1la2UxSlhmQjhTcmxENkNFb3pQWmRyOFU4cUtnTGRmX2lzRnFKaUVKU1pRMlpobXRnU2ZBTm1xV0dBNk1ZdVV1MS1WLUo5TS10WWYyTFJaaWNIa205UTk4ZHZkRkJGeTRIeTYyQXltZ1A2OHBOMEJF?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 22:29 KST",
+   "title": "SK하이닉스 손자회사 '솔리다임' 미 상장 본격화",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sc1llcW9CYTNWQ21NN01yYUxLU0VvZUtoS3NuWm9VV3RxYUdWdkdCZjl4TnNmVlpfMW5LR2lsakd3V1RJVGNpYldWNUdWdzJtLTE5eFZJcEVlTW9NbXc?oc=5",
+   "source": "YTN",
+   "date": "2026-10-08",
+   "datetime": "2026-10-08 08:52 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 미국 ADR 락업 해제 임박…38% 프리미엄에 매물 우려",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNm9DUlN0bDYxakJSRTdEVk14WWpDbzRWZTRJNFNvYUVBWFhHNnhLY1JSQVUteVR3OXp5MmpWRlQ1eDlQYmVGTU84ekxaaHVzZkZ4ejFUQUZYR1lBMWc?oc=5",
+   "source": "더구루",
+   "date": "2026-10-08",
+   "datetime": "2026-10-08 08:40 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -16,11 +28,83 @@
    }
   },
   {
+   "title": "\"반도체 환경 난제 해결하겠다\"…SK하이닉스 'AI 환경연구소' 설립 추진",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tLUlnLTVYcG45d3RENjdzZzJaUUZqMkY2SUJocjY1Ujl5R3VFQloySjVoSkRpS0tacVdzOHJlb1hGc1FKaFJLd1lnVVBzdUFiRnVRNDRSN0JGMHktNVBaOQ?oc=5",
+   "source": "아시아경제",
+   "date": "2026-10-08",
+   "datetime": "2026-10-08 08:21 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"SK하이닉스 솔리다임, 美 IPO 주관사 선정…이르면 내년 상장\"",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNXh2dGJSOXRFdlp4cjJOZ29pOU9jU3llYmJHNlNpcGJ6UDllSVd2VGoyT0pVVGpSaldPbGJCaDBCQlhkU2FvQ3VMWVd0bEdaRjRNNGNmSVRUQkE1WXBvWQ?oc=5",
+   "source": "아시아경제",
+   "date": "2026-10-08",
+   "datetime": "2026-10-08 08:11 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자 실적 앞두고…초고수는 SK하이닉스 담았다",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sVWFNZnpBMmVvVm1uY2FnTDNFQWNEVGVpc0FKUXdNQmNOVUI3Wk1IWTFzVlFza1dvNW1kN0t6TVJteUJFVDdhbW9xR1JnM3hsbU9QTHZ4dTlzUQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-10-08",
+   "datetime": "2026-10-08 08:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "오늘 SK하이닉스 ADR 주식 하락하는 이유는?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1la2UxSlhmQjhTcmxENkNFb3pQWmRyOFU4cUtnTGRmX2lzRnFKaUVKU1pRMlpobXRnU2ZBTm1xV0dBNk1ZdVV1MS1WLUo5TS10WWYyTFJaaWNIa205UTk4ZHZkRkJGeTRIeTYyQXltZ1A2OHBOMEJF?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-10-08",
+   "datetime": "2026-10-08 01:05 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "\"최태원 회장님 믿습니다\"…SK하닉 '400만원 간다'는 이유 [종목+]",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XcXJRVGRqM3ZsLXRsOGtQTTRMbV9ETE1ySHRRMGpuUTBFTVc0dDNodmdLT1VZM1Y5bDgxVEZWeUU2aTNCY2VwU3FvMllPenE3Z0gyRVVjYnpadw?oc=5",
+   "source": "한국경제",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 22:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "늘 바삐 일하고 얻은 건 ‘암’…“SK하이닉스 산재 인정하라”",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGZ0hhRWVSUUl1aWxnVFc5TGc2dU95YktIVDdDVVRVZmozQmJkNHVNLURVTGlVMUVWd1RBdWVOYWRNSjIxcXNmV1FHQWFuOXY3R2VGaHlCdTFpQdIBX0FVX3lxTE5PTEZDZHd0WGtUUUxaamhDRnlReE8wVU9vTzRnMkI3Z2t6aWRBbW5EYUFLUnNIU2VvX29sT1VYQUtkVmdneFp6UFJ4cDVsX0ZRTVNoQ2k5YWhLaUFGNnRR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PTEZDZHd0WGtUUUxaamhDRnlReE8wVU9vTzRnMkI3Z2t6aWRBbW5EYUFLUnNIU2VvX29sT1VYQUtkVmdneFp6UFJ4cDVsX0ZRTVNoQ2k5YWhLaUFGNnRR0gFfQVVfeXFMTk9MRkNkd3RYa1RRTFpqaENGeVF4TzBVT29PNGcyQjdna3ppZEFtbkRhQUtSc0hTZW9fb2xPVVhBS2RWZ2d4WnpQUnhwNWxfRlFNU2hDaTlhaEtpQUY2dFE?oc=5",
    "source": "경향신문",
    "date": "2026-10-07",
    "datetime": "2026-10-07 21:22 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 직업병 심사 착수…반도체 클린룸 안전망 다시 시험대 오른다",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUmlpemlEdnh1cU9KNXU5SkstbXpkTDJPcHZzVlRSU0dMNUM0M09BUVJPMFJUSEQwU0c0cmhKNmwtNGZrUVZzS1dkaDdmbWNlRS1jLUtocnJneXhab0Vfc3NNaGVKN21DVEEyRmU4aUhnZkFPUTlpbXpzZEhfQ0hVUUdfZlBIQ3pL?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-07",
+   "datetime": "2026-10-07 21:19 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -37,90 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "리사 수, 삼성전자·SK하이닉스 수장과 잇따라 회동",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxOEVKNTh1NS1WMlFEUGlaN2pHZHJSVERPUGRhQUtrNGttc0tiOTgyVThPSEh4WTJqSWg1SzhIdkVNQXNpeGZSVnN5T1BHdGtRS0JnZWNRU0VaY05TdmNqNUVuY9IBY0FVX3lxTFAxOEVKNTh1NS1WMlFEUGlaN2pHZHJSVERPUGRhQUtrNGttc0tiOTgyVThPSEh4WTJqSWg1SzhIdkVNQXNpeGZSVnN5T1BHdGtRS0JnZWNRU0VaY05TdmNqNUVuYw?oc=5",
-   "source": "채널A 뉴스",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 17:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "AMD 리사 수 \"반도체는 팀 스포츠\"…삼성·SK하이닉스와 AI 동맹 강화",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90VnZzYy1TOE8tbHhrZmV3cy0tSEZEdU9iY2Rua0ZyX3hoSXJaemwwdHpWb1NpVUY1TUEyVzZKZU9MU3ctYzkwamhxTlBzMGxxNkt0ZFNVVEFRMjdjT3BVVkI2a1Uxc2J0VlRhLUUzOEQ?oc=5",
-   "source": "신아일보",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 16:52 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“아이들에게 아빠 왜 죽었는지 알려줘야”…SK하이닉스 집단 산재 신청",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tdG1WVWh3ZmpQUTFYY3EyM0J2eWg5M19DbmNBaGJuVzBYV29iZUhYdGN4MXd1ZE02Tk5RQjl1aEQtOS1VVFBOX3I2d1ltZktRMjFUYVUzMHZDUdIBX0FVX3lxTE52T0N0Y1dBYVNxQW1WMUV4LVVwMVNpN3hERjFONm9Mck1MYnpSNTNjcXBXeE92RVhGWDhGR2xYR2RuRDlZQUc4S2FtWVV6ckxfejV5Nl9STDZCUHJ0bkVn?oc=5",
-   "source": "경향신문",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 16:44 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "리사 수, 삼성·SK하이닉스 수장 연쇄 회동…AMD ‘한국 AI 동맹’ 넓힌다",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVRJUHAtaENWVnI1d2w2amJna2VRSDlpbHZScWtXSW5aeXZIbEc5eThSc09TWWZ1WHRkajF3WXJPU2FXLVRQT3p5OXBGMUxISi1wM0x0OE5HaEVYNXhFWnUxd2Z2NW0teWRmZkUwM2k2YVNXUmNoMEFkVzFxNmp2WjdjazZyZw?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 16:23 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스 실적 공개 하루 앞두고…외인·기관 '팔자'",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tdkttWjJlRlBRNTRXb2FveW52ZVpMZ3pNTzU1dzZmU21UTzBJWkR3Rm83MTNyM3FqWkV3VlRJMWVkUnQ4bWtwT3djbVo5dWJaamdvSU1nRDhUZw?oc=5",
-   "source": "한국경제",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 16:22 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "검색 상위 20개 중 18개 하락… 삼성전자·SK하이닉스 저가 마감",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zZzJBa1A4NVNlUWNEU19Td1RwcGpVdVlENWxkQ0prY3JwOG1iaFRNc09qaThSMk13XzVCN01xQTQ0ZkxPMlpfNk1STjh2MFk1MmZvcU94c0hINVNsWUsyeXhvVXZ0NFNrU2h4ODNEeWwtUVNCSjFuVXFVNWwtZw?oc=5",
-   "source": "서울신문",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 16:13 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "삼성전자, 실적 발표 앞두고 1.29% 하락…하이닉스 2.82%↓(종합)",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16UTNnOG9taV9UUm9SaTFVa043c1F4bmx2UTZWVHRvSm5vR0ZuY0NYMUtzb1ktbzlTQ01QdUxyYjY0VDg5al9aZTBIdDFqcG5HNkxPVEEyYm9RY21ySHBIbdIBYEFVX3lxTE16UTNnOG9taV9UUm9SaTFVa043c1F4bmx2UTZWVHRvSm5vR0ZuY0NYMUtzb1ktbzlTQ01QdUxyYjY0VDg5al9aZTBIdDFqcG5HNkxPVEEyYm9RY21ySHBIbQ?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-07",
-   "datetime": "2026-10-07 15:58 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
