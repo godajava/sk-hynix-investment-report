@@ -1,11 +1,11 @@
 {
  "symbol": "000660.KS",
- "price": 1709500.0,
+ "price": 1711000.0,
  "previousClose": 1723000.0,
- "change": -13500,
- "changePercent": -0.78,
- "marketTime": "2026-10-08 14:40 KST",
- "fetchedAt": "2026-10-08 15:00 KST",
+ "change": -12000,
+ "changePercent": -0.7,
+ "marketTime": "2026-10-08 14:50 KST",
+ "fetchedAt": "2026-10-08 15:10 KST",
  "days": [
   {
    "date": "2026-10-07",
@@ -20,15 +20,15 @@
    "open": 1722000.0,
    "high": 1759000.0,
    "low": 1692000.0,
-   "close": 1709500.0,
-   "volume": 2078027
+   "close": 1711000.0,
+   "volume": 2117210
   }
  ],
  "indicators": {
   "macd": {
-   "macd": 9348,
-   "signal": 20599,
-   "hist": -11251,
+   "macd": 9467,
+   "signal": 20622,
+   "hist": -11155,
    "read": "하락 모멘텀 (MACD < 시그널)"
   },
   "atr": {
@@ -43,15 +43,15 @@
    "read": "추세 약함(횡보) · -DI 우위(하락)"
   },
   "kdj": {
-   "k": 20.1,
-   "d": 33.3,
-   "j": -6.5,
+   "k": 20.3,
+   "d": 33.4,
+   "j": -5.9,
    "read": "중립 구간 · K < D (단기 하락 우위)"
   },
   "volume": {
-   "today": 2078027,
+   "today": 2117210,
    "ma20": 3180174,
-   "ratio": 0.65,
+   "ratio": 0.67,
    "read": "20일 평균 대비 0.7배 — 감소"
   }
  }
