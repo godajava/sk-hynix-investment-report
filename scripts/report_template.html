@@ -292,21 +292,21 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <div class="sheet"><div class="paper">
 
 <div class="eyebrow">
-  <b>Company Report</b><span>반도체 / 메모리</span><span>2026-10-08 (목) · <b>장중 업데이트(14:38 기준)</b> · <b>매수 유지</b> · 172.4만(+0.06%, 14:18 집계) · 169.2만 저점 후 10/7 종가 수준 회복</span>
-  <span style="margin-left:auto">sk-hynix-analyst · 다음 갱신 10/8(목) 13:30(장중)</span>
+  <b>Company Report</b><span>반도체 / 메모리</span><span>2026-10-08 (목) · <b>마감(종가 확정, 트레이딩뷰 피드)</b> · <b style="color:var(--neutral)">중립 전환(매수→중립)</b> · 168.1만(-2.44%) · 3거래일 연속 하락·일중 저가 마감</span>
+  <span style="margin-left:auto">sk-hynix-analyst · 다음 갱신 10/12(월) 08:00(프리마켓)</span>
 </div>
 
-<h1>169.2만 저점 후 172.4만(+0.06%)으로 회복 — 10/7 종가(172.3만) 수준 복귀, 판정은 종가 기준 매수 유지</h1>
+<h1>168.1만(-2.44%) 3거래일 연속 하락·일중 저가 마감 — 유지 규칙의 이탈 조건 충족, 판정 매수→중립 전환</h1>
 <p class="ticker"><strong>SK하이닉스</strong> <span>KRX 000660 · NASDAQ 상장(7/10)</span></p>
 
 <div class="stats">
-  <div><div class="k">투자의견</div><div class="v" style="color:var(--up)">매수 유지 <small style="color:var(--ink-2)">(방향성 4요소: 긍정 3·중립 0·부정 1)</small></div></div>
-  <div><div class="k"><span id="live-label">현재가</span> <small id="live-when">(10/8 14:18 집계·장중)</small></div><div class="v"><span id="live-price">172.4</span><small>만 원</small> <span id="live-chg" style="font-size:12.5px;font-weight:700;color:var(--up)">▲0.06%</span></div></div>
+  <div><div class="k">투자의견</div><div class="v" style="color:var(--neutral)">중립 <small style="color:var(--ink-2)">(매수→중립 · 긍정 2·중립 1·부정 1)</small></div></div>
+  <div><div class="k"><span id="live-label">오늘 종가</span> <small id="live-when">(10/8 15:30 확정·트레이딩뷰 피드)</small></div><div class="v"><span id="live-price">168.1</span><small>만 원</small> <span id="live-chg" style="font-size:12.5px;font-weight:700;color:var(--down)">▼2.44%</span></div></div>
   <div><div class="k">2Q 영업이익 <small>(확정)</small></div><div class="v">60.5<small>조 원</small></div></div>
-  <div><div class="k">상승여력 <small>(컨센서스 322만 기준)</small></div><div class="v">+86.9%</div></div>
-  <div><div class="k">오늘(10/8) 관건</div><div class="v" style="font-size:15px">종가가 172.3만 위에 안착하는지</div></div>
+  <div><div class="k">상승여력 <small>(컨센서스 322만 기준)</small></div><div class="v">+91.5%</div></div>
+  <div><div class="k">다음 거래일(10/12) 관건</div><div class="v" style="font-size:15px">168.1만 지지·연휴 중 미국장 반영</div></div>
 </div>
-<p class="asof">작성 2026-10-08 14:38 KST · <strong>장중 업데이트</strong>(시세는 야후 14:18 집계 기준) · 기술지표는 장중 잠정치(오늘 종가 미반영) · 본 자료는 정보 제공 목적이며 투자 권유가 아닙니다</p>
+<p class="asof">작성 2026-10-08 16:05 KST · <strong>마감 리포트</strong>(종가 168.1만은 트레이딩뷰 KRX 피드 15:51 갱신 기준, 야후 시세는 15:14 집계(169.9만)에서 지연 — 확정 종가는 다음 거래일 아침 quote.json으로 교차 확인) · 기술지표는 야후 15:14 집계(종가 미반영) · 본 자료는 정보 제공 목적이며 투자 권유가 아닙니다</p>
 
 <div class="toolbar">
   <button class="refresh" type="button" title="시세·지표·뉴스를 즉시 다시 불러옵니다" onclick="window.refreshNow ? window.refreshNow(this) : location.reload()">↻ 새로고침</button>
@@ -314,76 +314,77 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
   <a class="livelink" href="https://www.tossinvest.com/stocks/A000660/order" target="_blank" rel="noopener">토스증권 ↗</a>
   <a class="livelink" href="https://godajava.github.io/sk-hynix-investment-report/archive.html" target="_blank" rel="noopener">지난 리포트 ↗</a>
   <button class="theme-toggle" type="button" id="theme-toggle" title="라이트/다크 테마 전환" onclick="window.toggleTheme && window.toggleTheme(this)">🌙 다크</button>
-  <span class="note" id="live-note">10/8 장중(14:18 집계 172.4만·+0.06%) · 판정은 10/7 종가 기준 매수 유지 · 다음 갱신 10/8(목) 15:30(마감)</span>
+  <span class="note" id="live-note">10/8 마감(15:30·종가 168.1만·-2.44%) · 판정 중립 전환(매수→중립) · 다음 갱신 10/12(월) 08:00(프리마켓)</span>
 </div>
 
 <section>
-<h2><span class="no">CHART</span>기술적 분석 차트 <small style="font-size:12px;font-weight:500;color:var(--muted)">10/8 14:18 장중 잠정 기준(종가 미반영)</small></h2>
+<h2><span class="no">CHART</span>기술적 분석 차트 <small style="font-size:12px;font-weight:500;color:var(--muted)">10/8 15:14 야후 집계 기준(종가 미반영)</small></h2>
 __TECH_CHARTS__
 </section>
 
 <section>
 <h2><span class="no">01</span>투자 요약</h2>
 <ul>
-  <li><strong>투자의견: 매수 유지(10/7 종가 기준, 유지 규칙)</strong> — 장중 172.4만원(+0.06%, 14:18 집계)으로 오후 저점(169.2만)에서 회복해 10/7 종가(172.3만) 수준으로 돌아왔지만, 판정은 종가 기준으로만 변경합니다. 방향성 4요소는 긍정 3개(②③④)·부정 1개(①)이며 종가 기준 긍정 2개 이하 또는 부정 2개 이상이 되면 중립으로 내립니다.</li>
-  <li><strong>10/8 시가 172.2만·고가 175.9만·저가 169.2만·현재 172.4만(+0.06%)</strong>, 거래량 197.7만주(14:18 집계). 오전 175.9만까지 올랐다가 13시대 169.2만까지 밀렸고(10/7 종가 이탈), 이후 172만대 초반으로 되돌려 10/7 종가(172.3만) 위로 복귀했습니다. 저점 대비 +1.9% 회복했으나 종가 기준으로 172.3만 위에 안착하는지는 마감에서 확인해야 합니다.</li>
-  <li><strong>외부 변수</strong>: 간밤 SOX -1.15%·나스닥 -0.22%·SK하이닉스 ADR -2.36%·EWY -1.45%의 약세 속 마이크론 +4.06%가 우호적이었습니다. 헤드라인 기준 ADR 락업 해제 임박·프리미엄 매물 우려(더구루)가 거론됩니다.</li>
-  <li><strong>지표(장중 잠정, 종가 미반영)</strong>: DMI 격차 -7.1(+DI 24.3 &lt; -DI 31.4, 10/7 -4.7에서 확대), KDJ K 22.4·D 34.1(격차 -11.7, 과매도 반등), MACD 히스토그램 -1.03만(시그널 하회). 가격은 회복했지만 지표는 약세 구도입니다. 3Q26 실적 발표(10/27)까지 <strong>D-19</strong>, 10/9(금) 한글날 휴장(10/8 다음 거래일은 10/12(월)).</li>
+  <li><strong>투자의견: 매수 → 중립 전환(10/8 종가 기준)</strong> — 방향성 4요소는 긍정 2개(②④)·중립 1개(③)·부정 1개(①)입니다. 2026-10-07에 명문화한 유지 규칙상 매수는 종가 기준 긍정 2개 이하이면 이탈하므로 중립으로 내립니다. ③촉매가 10/6~10/8 3거래일 연속 경계 요인(ADR 락업·솔리다임 주주가치 논란·외국인 매도 등)이 우호 요인을 앞서 긍정→중립으로 이동했습니다. 판정은 종가 기준으로만 변경합니다.</li>
+  <li><strong>10/8 시가 172.2만·고가 175.9만·저가 168.1만·종가 168.1만(-2.44%)</strong>, 거래량 301.9만주(트레이딩뷰). 종가가 일중 저가와 같고 15:14 집계(169.9만)보다 종가단일가에서 1.8만원 더 내려 장 막판 매도 우위였습니다. 3거래일 -8.7%(10/2 종가 184.1만 대비)이며 10/7 저가·종가(172.3만)를 종가 기준으로 하회했습니다. 삼성전자는 26.2만(-2.42%, 실적호조 헤드라인에도 약세), 코스피200 12월물 주간 선물은 1,048.40(-2.81%, 15:34)였습니다.</li>
+  <li><strong>외부 변수</strong>: 간밤 SOX -1.15%·나스닥 -0.22%·ADR -2.36%·EWY -1.45%, 마이크론 +4.06%였고 장중 오전 반등(175.9만)은 오후에 모두 반납됐습니다. 헤드라인 기준 블룸버그 "솔리다임 美 상장 주관사 선정…주주가치 훼손 논란"(인포스탁데일리), ADR 락업 해제 임박·38% 프리미엄 매물 우려(더구루)가 거론됐습니다.</li>
+  <li><strong>지표(야후 15:14 집계, 종가 미반영)</strong>: DMI 격차 -7.1(+DI 24.3 &lt; -DI 31.4), KDJ K 18.4·D 32.8(격차 -14.4, 과매도 구간), MACD 히스토그램 -1.19만(시그널 하회). 3Q26 실적 발표(10/27)까지 <strong>D-19</strong>(10/12 기준 D-15), 10/9(금) 한글날 휴장으로 다음 거래일은 10/12(월)입니다.</li>
 </ul>
 </section>
 
 <section>
-<h2><span class="no">02</span>주가 동향 (10/8 장중)</h2>
-<p>10/7 종가 172.3만원(-2.82%) 뒤 10/8 SK하이닉스는 172.2만원에 시가를 형성해 오전 175.9만원까지 반등했으나 오후에 밀려 저가 169.2만원(10/7 종가 -1.8%)을 기록한 뒤 172.4만원(+0.06%, 14:18 집계)으로 회복했습니다. 마이크론 급등과 야간선물 보합 회복에도 장중 변동폭이 컸으며 원인은 단정하지 않습니다. 판정은 종가 기준이라 장중 흐름만으로 변경하지 않습니다.</p>
-<p>종가 기준 지표 흐름은 DMI 격차 9/29 +1.6 → 9/30 +4.3 → 10/1 +2.2 → 10/2 +3.9 → 10/6 -0.8 → 10/7 -4.7, KDJ 격차 9/29 -8.4 → 9/30 -8.9 → 10/1 -5.2 → 10/2 -2.2 → 10/6 -8.2 → 10/7 -14.1입니다. 10/2의 개선 흐름이 2거래일 만에 완전히 되돌려졌고 MACD도 시그널 아래여서 ①추세/모멘텀은 부정을 유지합니다. KDJ는 과매도 접근 구간입니다.</p>
+<h2><span class="no">02</span>주가 동향 (10/8 마감)</h2>
+<p>10/8(목) SK하이닉스는 172.2만원에 시가를 형성해 오전 175.9만원까지 반등했으나 오후 들어 13시대 169.2만원을 거쳐 마감 직전 종가단일가에서 추가로 밀려 저가·종가 168.1만원(-2.44%)으로 마감했습니다. 10/6(-3.69%)·10/7(-2.82%)에 이어 3거래일 연속 하락으로 10/2 종가(184.1만) 대비 -8.7%입니다. 마이크론 급등(+4.06%)과 삼성전자 실적호조 헤드라인에도 반등하지 못했고 삼성전자도 -2.42%로 동반 약세였습니다(원인은 단정하지 않습니다).</p>
+<p>종가 기준 지표 흐름은 DMI 격차 9/29 +1.6 → 9/30 +4.3 → 10/1 +2.2 → 10/2 +3.9 → 10/6 -0.8 → 10/7 -4.7 → 10/8 -7.1(15:14 집계), KDJ 격차 9/29 -8.4 → 9/30 -8.9 → 10/1 -5.2 → 10/2 -2.2 → 10/6 -8.2 → 10/7 -14.1 → 10/8 -14.4(15:14 집계)입니다. DMI 약세가 3거래일 연속 확대됐고 KDJ는 과매도 구간(K 18.4)에 있어 기술적 반등 여지는 있으나 추세 전환 신호는 없습니다.</p>
 <div class="chart">__PRICE_TREND__</div>
 
 <div class="tablewrap">
 <table class="ohlcv">
-  <tr><th colspan="6">당일 시세(장중 잠정) — 10/8 (목) 14:18 집계 · 출처: 야후 파이낸스(quote.json) · 종가 아님</th></tr>
-  <tr><th>시가</th><th>고가</th><th>저가</th><th>현재가</th><th>등락</th><th>거래량</th></tr>
+  <tr><th colspan="6">당일 시세(확정) — 10/8 (목) 15:30 KST 마감 · 출처: 트레이딩뷰 KRX 피드(15:51 갱신, 20분 지연·종가단일가 반영) · 야후는 15:14 집계 지연</th></tr>
+  <tr><th>시가</th><th>고가</th><th>저가</th><th>종가</th><th>등락</th><th>거래량</th></tr>
   <tr>
-    <td class="num">₩1,722,000</td><td class="num">₩1,759,000</td><td class="num">₩1,692,000</td>
-    <td class="num"><strong>₩1,724,000</strong> <small>(현재)</small></td><td class="num" style="color:var(--up)">+0.06%</td>
-    <td class="num">1,976,814주</td>
+    <td class="num">₩1,722,000</td><td class="num">₩1,759,000</td><td class="num">₩1,681,000</td>
+    <td class="num"><strong>₩1,681,000</strong></td><td class="num" style="color:var(--down)">-2.44%</td>
+    <td class="num">3,019,790주</td>
   </tr>
 </table>
 </div>
-<p>전일(10/7) 확정 종가 1,723,000원 대비 <strong>+1,000원(+0.06%)</strong>입니다(14:18 집계). 10/7 확정: 시가 1,728,000·고가 1,779,000·저가 1,723,000·종가 1,723,000·거래량 2,618,253주.</p>
+<p>전일(10/7) 확정 종가 1,723,000원 대비 <strong>-42,000원(-2.44%)</strong>입니다. 야후 15:14 집계(1,699,000원·2,245,467주)는 종가단일가 반영 전 값이며, 다음 거래일 아침 quote.json으로 교차 확인합니다.</p>
 
 <div class="tablewrap">
 <table class="tech-indicators">
-  <tr><th colspan="3">기술적 지표 — 10/8 14:18 장중 잠정 기준(종가 미반영) <span id="ti-when" style="font-weight:400">· 2026-10-08 14:38 갱신</span></th></tr>
+  <tr><th colspan="3">기술적 지표 — 10/8 야후 15:14 집계 기준(종가 미반영) <span id="ti-when" style="font-weight:400">· 2026-10-08 16:05 갱신</span></th></tr>
   <tr><th>지표</th><th>값</th><th>해석</th></tr>
-  <tr><td>MACD (12,26,9)</td><td class="num" id="ti-macd">+1.05만 / 시그널 +2.08만 / 히스토그램 <strong>-1.03만</strong></td><td id="ti-macd-read">하락 모멘텀 확대(히스토그램 -0.68만→-1.03만, 장중 잠정)</td></tr>
+  <tr><td>MACD (12,26,9)</td><td class="num" id="ti-macd">+0.85만 / 시그널 +2.04만 / 히스토그램 <strong>-1.19만</strong></td><td id="ti-macd-read">하락 모멘텀 확대(히스토그램 -0.68만→-1.19만, 15:14 집계)</td></tr>
   <tr><td>ATR (14)</td><td class="num" id="ti-atr">8.39만 (4.9%)</td><td id="ti-atr-read">변동성 큼</td></tr>
   <tr><td>ADX / DMI (14)</td><td class="num" id="ti-adx">ADX 9.5 · +DI 24.3 · -DI 31.4</td><td id="ti-adx-read">추세 강도 매우 약함(횡보) · <strong>-DI 우위 격차 -7.1</strong>(10/7 -4.7에서 확대)</td></tr>
-  <tr><td>KDJ (9,3,3)</td><td class="num" id="ti-kdj">K 22.4 · D 34.1 · J -1.1</td><td id="ti-kdj-read">과매도 반등 시도 · <strong>K&lt;D 하락 우위</strong>(격차 -11.7, 10/7 -14.1)</td></tr>
-  <tr><td>거래량 / 20일 이평</td><td class="num" id="ti-vol">197.7만 주 / 평균 318.0만 주</td><td id="ti-vol-read">20일 평균의 0.62배</td></tr>
+  <tr><td>KDJ (9,3,3)</td><td class="num" id="ti-kdj">K 18.4 · D 32.8 · J -10.4</td><td id="ti-kdj-read">과매도 구간 · <strong>K&lt;D 하락 우위</strong>(격차 -14.4, 10/7 -14.1)</td></tr>
+  <tr><td>거래량 / 20일 이평</td><td class="num" id="ti-vol">224.5만 주 / 평균 318.0만 주</td><td id="ti-vol-read">20일 평균의 0.71배(종가단일가 미반영)</td></tr>
 </table>
 </div>
 
-<p><strong>가격은 저점에서 회복했지만 DMI -DI 우위·MACD 시그널 하회 등 지표는 약세 구도입니다.</strong> 종가 확정 전 단일 값이라 판정은 종가 기준 흐름으로만 판단합니다.</p>
+<p><strong>3거래일 연속 하락과 함께 DMI -DI 우위·MACD 시그널 하회가 확대됐고 KDJ는 과매도 구간입니다.</strong> 위 지표는 15:14 집계(종가 미반영)이며, 확정 종가 반영 지표는 다음 리포트에서 갱신합니다.</p>
 </section>
 
 <section>
-<h2><span class="no">GLOBAL</span>10/8 개장 점검 — 간밤 글로벌·ADR·환율·선물</h2>
-<p>개장 직후(09:19 수집) 확인된 외부 지표입니다. 판정은 확정 종가 기준으로만 변경합니다.</p>
+<h2><span class="no">GLOBAL</span>다음 거래일(10/12, 월) 전망 — 한글날 연휴 후</h2>
+<p>10/9(금) 한글날 휴장으로 10/12(월)이 다음 거래일입니다. 핵심 레벨과 관전 포인트를 정리합니다. 판정은 확정 종가 기준으로만 변경합니다.</p>
 
 <div class="tablewrap">
 <table class="kv">
-  <tr><th colspan="2">개장 직후 외부 지표 (트레이딩뷰·네이버 선물 시세, 09:19 수집)</th></tr>
+  <tr><th colspan="2">다음 거래일 전망</th></tr>
   <tr><th>항목</th><th>내용</th></tr>
-  <tr><td>간밤 미국(10/7)</td><td>SOX 13,066.15(-1.15%) · 나스닥 27,538.69(-0.22%) · S&amp;P500 7,801.77(-0.22%) · 엔비디아 -0.74% · <strong>마이크론 1,088.00달러(+4.06%)</strong></td></tr>
-  <tr><td>SK하이닉스 ADR·EWY</td><td>ADR 178.25달러(<strong>-2.36%</strong>) · 한국 ETF EWY 183.69달러(-1.45%)</td></tr>
-  <tr><td>코스피200 선물</td><td>야간선물(KRX:K2I1!, 06:00 갱신) 1,078.7(보합, 야간 저가 1,054.0) · 12월물 주간 선물 1,079.20(+0.04%, 08:58)</td></tr>
-  <tr><td>환율</td><td>원/달러 1,336.68원(-0.20%, 09:19)</td></tr>
-  <tr><td>지지·저항(참고)</td><td>지지 172.3만(10/7 종가·저가) — 하회 시 뚜렷한 지지 레벨 확인 불가(참고: 종가-ATR 163.8만) / 저항 172.8만(10/7 시가)·177.1만(10/6 저가)·177.6만(9/30 종가)·177.9만(10/7 고가) / ATR(8.52만) 기준 163.8만~180.8만</td></tr>
-  <tr><td>예정 이벤트</td><td>3Q26 실적 발표 10/27(D-19) · 삼성전자 3Q 잠정 실적(10/8 전후 추정, 공식 일정 확인 필요) · 10/9(금) 한글날 휴장(10/8 다음 거래일은 10/12(월)) · ADR 락업 해제·솔리다임 IPO 관련 보도 · 외국인 수급</td></tr>
-  <tr><td>관찰 포인트</td><td>172.3만 지지 여부, 마이크론 급등(+4.06%)이 반등으로 이어지는지, 종가 기준 DMI(-DI 우위)·MACD·KDJ 방향, ADR 락업·프리미엄 이슈, 외국인·기관 수급</td></tr>
+  <tr><td>지지선</td><td>168.1만(10/8 종가·저가) — 하회 시 뚜렷한 지지 레벨 확인 불가(참고: 종가-ATR 159.7만)</td></tr>
+  <tr><td>저항선</td><td>169.2만(10/8 장중 반등 전 저점대) · 172.2만(10/8 시가)·172.3만(10/7 종가) · 175.9만(10/8 고가) · 177.6만(9/30 종가)</td></tr>
+  <tr><td>예상 등락 레인지(참고용)</td><td>ATR(8.39만) 기준 159.7만 ~ 176.5만</td></tr>
+  <tr><td>예정 이벤트</td><td>3Q26 실적 발표 10/27(10/12 기준 D-15) · 10/9(금) 한글날 휴장(10/9 미국장 흐름이 10/12 개장에 반영) · 삼성전자 실적 후 반응 · ADR 락업 해제·솔리다임 IPO 관련 보도 · 외국인 수급 · 원/달러</td></tr>
+  <tr><td>관찰 포인트</td><td>168.1만 종가 지지 여부, 종가 기준 DMI(-DI 우위)·MACD·KDJ(과매도 반등) 방향, 연휴 중 미국 반도체·ADR 흐름, 외국인·기관 수급</td></tr>
+  <tr><td>상방 시나리오</td><td>KDJ 과매도 구간이라 기술적 반등 가능. 172만대 회복 시 ③촉매 개선과 함께 종가 기준 DMI 재역전이 확인돼야 매수 복귀 논의 가능</td></tr>
+  <tr><td>하방 시나리오</td><td>168.1만 종가 지지 실패 시 추가 약세·변동성 확대 가능. 종가 기준 지표 악화가 이어져 부정이 3개 이상·긍정 0개가 되면 매도 전환 조건 점검</td></tr>
+  <tr><td>야간선물</td><td>다음 프리마켓(08:00)에서 night.yml 스냅샷의 `updateTimeKST`(06:00)와 함께 확인</td></tr>
 </table>
 </div>
-<p><strong>해석</strong> — 약세 신호와 우호 신호가 엇갈린 가운데 오후 저점 후 10/7 종가 수준을 회복했습니다. 판정은 오늘 종가에서 4요소를 다시 점검합니다.</p>
+<p><strong>해석</strong> — 3거래일 연속 큰 폭 하락과 장 막판 매도로 종가 기준 지지가 무너졌고, ③촉매도 경계 우위로 이동해 판정이 중립으로 전환됐습니다. 과매도 구간이라 단기 반등은 가능하나 추세 전환 확인 전에는 중립을 유지합니다.</p>
 </section>
 
 <section>
@@ -418,7 +419,7 @@ __TECH_CHARTS__
 <section>
 <h2><span class="no">06</span>밸류에이션 — 증권사 목표주가</h2>
 <div class="chart">__TARGETS__</div>
-<p>컨센서스 목표주가 <strong>322만 원</strong>은 10/7 종가(172.3만) 대비 <strong>+86.9%</strong> 괴리입니다. 헤드라인 기준으로 한국경제는 "최태원 회장님 믿습니다…SK하닉 400만원 간다는 이유"를 다뤘고, IBK증권 목표주가 400만원 유지 보도가 있었습니다. DS투자증권은 9/29 원화 강세를 이유로 목표주가를 264만원으로 하향했고, 대신증권은 320만원을 유지했습니다. 목표주가 괴리는 확대됐으나 주가는 아직 반응하지 않고 있습니다.</p>
+<p>컨센서스 목표주가 <strong>322만 원</strong>은 10/8 종가(168.1만) 대비 <strong>+91.5%</strong> 괴리입니다. 헤드라인 기준으로 유진투자증권은 "증명의 시간"이라며 목표주가 370만원을(뉴스핌), IBK증권은 400만원 유지를 제시했습니다. DS투자증권은 9/29 원화 강세를 이유로 목표주가를 264만원으로 하향했고, 대신증권은 320만원을 유지했습니다. 목표주가 괴리는 확대되고 있으나 주가는 3거래일 연속 반응하지 않고 있습니다.</p>
 </section>
 
 <section>
@@ -426,31 +427,31 @@ __TECH_CHARTS__
 <div class="tablewrap">
 <table class="bullbear">
   <tr><th style="color:var(--up)">투자 포인트 (Bull)</th><th style="color:var(--down)">리스크 요인 (Bear)</th></tr>
-  <tr><td>컨센서스 괴리 <strong>+86.9%</strong>, 마이크론 +4.06%, 증권사 목표가 400만 유지, 초고수가 삼성전자 실적 앞두고 SK하이닉스를 담았다는 헤드라인(한국경제)</td><td>2거래일 -6.4% 하락, 10/6 저가·종가 지지선 이탈, DMI -DI 우위·MACD 시그널 하회, ADR 락업 해제 임박·38% 프리미엄 매물 우려(더구루)</td></tr>
-  <tr><td>메모리 재고 10일 미만, 내년 사상 초유 공급부족 전망</td><td>ADX 9.2로 추세 강도 매우 약함, 초고수 매도 1위·외국인 매도 헤드라인, 원주-ADR 괴리율</td></tr>
-  <tr><td>HBM4 공급가 급등 확정, 목표주가 상향 흐름도 병존</td><td>ATR 4.9%로 변동성 큼, 집단 산재 신청·이천공장 방류수 등 ESG 이슈</td></tr>
-  <tr><td>KDJ 과매도 구간 접근(기술적 반등 여지), 솔리다임 미국 IPO 추진(가치 재평가 기대)</td><td>삼성전자 잠정 실적 등 단기 이벤트 변동성, 솔리다임 상장 관련 지분·수급 불확실성, 집단 산재 신청 등 ESG 이슈</td></tr>
+  <tr><td>컨센서스 괴리 <strong>+91.5%</strong>, 유진 370만·IBK 400만 등 목표주가 유지 보도, 마이크론 +4.06%, 삼성전자 실적 호조 헤드라인</td><td>3거래일 -8.7% 하락·종가 일중 저가 마감, 10/7 종가 지지선 이탈, DMI -DI 우위·MACD 시그널 하회, 외국인 매도</td></tr>
+  <tr><td>메모리 재고 10일 미만, 내년 사상 초유 공급부족 전망</td><td>ADX 9.5로 추세 강도 매우 약함, ADR 락업 해제 임박·38% 프리미엄 매물 우려, 솔리다임 상장 관련 주주가치 훼손 논란</td></tr>
+  <tr><td>HBM4 공급가 급등 확정, KDJ 과매도 구간(기술적 반등 여지)</td><td>ATR 4.9%로 변동성 큼, 집단 산재 신청 등 ESG 이슈</td></tr>
+  <tr><td>솔리다임 IPO 추진(가치 재평가 기대)</td><td>삼성전자 실적 발표 후에도 반등 부재(호재 둔감)</td></tr>
 </table>
 </div>
 </section>
 
 <section>
 <h2><span class="no">08</span>투자 판단</h2>
-<div class="verdict" style="border-left-color:var(--up)">
-  <div class="head">의견: <em style="color:var(--up)">매수 유지</em> <small>· 10/7 종가 기준(유지 규칙) · 장중 172.4만(+0.06%, 14:18) · 판정은 종가 기준으로만 변경</small></div>
+<div class="verdict" style="border-left-color:var(--neutral)">
+  <div class="head">의견: <em style="color:var(--neutral)">중립 (매수→중립 전환)</em> <small>· 10/8 종가 기준(유지 규칙의 이탈 조건 충족) · 종가 168.1만(-2.44%) · 판정은 종가 기준으로만 변경</small></div>
   <div class="tablewrap" style="margin-bottom:10px">
   <table class="factors">
     <tr><th>요소</th><th>방향</th><th>근거</th></tr>
-    <tr><td>① 추세/모멘텀</td><td class="num" style="color:var(--down)">부정(약화)</td><td>10/7 확정 종가 기준 MACD 시그널 하회·DMI -DI 우위(-4.7)·KDJ 격차 -14.1. 10/8 장중 잠정은 DMI -7.1·KDJ -11.7·MACD 히스토그램 -1.03만으로 약세 구도 유지(저점 169.2만 후 가격만 회복, 종가 확인 필요)</td></tr>
-    <tr><td>② 밸류에이션 갭</td><td class="num" style="color:var(--up)">상승여력</td><td>컨센서스 322만원 대비 종가 177.3만원 — 괴리율 <strong>+81.6%</strong></td></tr>
-    <tr><td>③ 촉매</td><td class="num" style="color:var(--up)">우호적(경계 확대)</td><td>목표가 400만 유지·마이크론 +4.06%·솔리다임 IPO 추진은 우호적. 반면 ADR 락업 해제 임박·38% 프리미엄 매물 우려, 외국인·초고수 매도, 집단 산재 신청 등 경계 요인이 3거래일째 이어짐(오늘 종가에서 ③이 중립 또는 부정으로 바뀌면 중립 이탈)</td></tr>
+    <tr><td>① 추세/모멘텀</td><td class="num" style="color:var(--down)">부정(약화)</td><td>3거래일 연속 하락·종가 일중 저가 마감. 15:14 집계 기준 MACD 시그널 하회(-1.19만)·DMI -DI 우위(-7.1)·KDJ 격차 -14.4(과매도 구간, 종가 미반영)</td></tr>
+    <tr><td>② 밸류에이션 갭</td><td class="num" style="color:var(--up)">상승여력</td><td>컨센서스 322만원 대비 종가 168.1만원 — 괴리율 <strong>+91.5%</strong></td></tr>
+    <tr><td>③ 촉매</td><td class="num" style="color:var(--neutral)">중립(긍정→중립)</td><td>10/6~10/8 3거래일 연속 경계 요인(ADR 락업 해제·38% 프리미엄 매물 우려, 블룸버그 솔리다임 주주가치 훼손 논란, 외국인 매도, 집단 산재)이 우호 요인(유진 370만·IBK 400만 목표가, 마이크론 +4.06%, 삼성전자 실적 호조)을 앞서고, 호재에도 주가가 반응하지 않아 긍정에서 중립으로 이동</td></tr>
     <tr><td>④ 산업 사이클</td><td class="num" style="color:var(--up)">개선</td><td>HBM4 공급가 급등 확정·메모리 재고 부족 구조 유지, 3Q26 이익 전망 상향 흐름 지속</td></tr>
   </table>
   </div>
   <ul>
-    <li><strong>종합: 긍정 3개(②③④)·중립 0개·부정 1개(①)로 매수 유지합니다.</strong> 유지 규칙상 매수는 긍정 3개 이상·부정 1개 이하에서 유지되고, 이탈 조건은 긍정 2개 이하 또는 부정 2개 이상입니다. 즉 ③이 긍정에서 빠지면(중립 또는 부정) 곧바로 이탈 조건이 충족됩니다.</li>
-    <li><strong>10/8 장중(14:18): 시가 172.2만→고가 175.9만→저가 169.2만→현재 172.4만(+0.06%).</strong> 저점(169.2만) 후 10/7 종가 수준을 회복했으나 판정은 종가 기준 다수 세션으로만 바꿉니다.</li>
-    <li><strong>중립 이탈 조건(규칙):</strong> 종가 기준 긍정 2개 이하 또는 부정 2개 이상. 오늘 종가에서 172.3만 지지 실패·지표 악화가 이어져 ③이 경계(중립 이하)로 바뀌면 중립으로 전환합니다. ①재상향은 종가 기준 DMI 재역전·KDJ 격차 축소가 다수 세션 확인될 때 검토합니다.</li>
+    <li><strong>종합: 긍정 2개(②④)·중립 1개(③)·부정 1개(①) → 매수 이탈 조건(긍정 2개 이하) 충족으로 매수에서 중립으로 전환합니다.</strong> 유지 규칙(2026-10-07 명문화): 매수는 긍정 3개 이상·부정 1개 이하에서 유지되고, 종가 기준 긍정 2개 이하 또는 부정 2개 이상이면 중립으로 내립니다. ③의 방향 변경은 10/6~10/8 3거래일 연속 경계 요인 우위를 근거로 합니다.</li>
+    <li><strong>10/8 시가 172.2만→고가 175.9만→저가 168.1만→종가 168.1만(-2.44%).</strong> 야후 15:14 집계(169.9만)와 달리 종가단일가 반영 종가는 트레이딩뷰 피드 기준입니다.</li>
+    <li><strong>매수 복귀 조건:</strong> 중립 상태에서 매수 진입은 긍정 3개 이상·부정 0개가 필요합니다. 즉 ①이 부정에서 중립 이상으로 개선(종가 기준 DMI 재역전·MACD 시그널 상회·KDJ 반등이 다수 세션 확인)되고 ③이 긍정으로 복귀해야 합니다. <strong>매도 전환 조건:</strong> 부정 3개 이상·긍정 0개(현재는 해당 없음).</li>
     <li><strong>판정은 종가 기준으로만 변경합니다.</strong> 장중 시세·해외 변수는 서술로만 참고합니다.</li>
   </ul>
 </div>
