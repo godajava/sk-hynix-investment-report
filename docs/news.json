@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-08 10:38 KST",
+ "fetchedAt": "2026-10-08 11:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -16,7 +16,7 @@
    }
   },
   {
-   "title": "SK하이닉스 솔리다임, 美 IPO 주관사 선정…기업가치 최대 1000억달러",
+   "title": "몸값 134조원…SK하이닉스 솔리다임, 美 IPO 주관사 선정",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TNkhySjJ3bTVZM1hQaTkxX3cxT2d0bWZlN3pqelRsODVZMlRtSXdnejBrNTZxSmpGVDFBUnFGbEVTbXBxM3J0SENiYzZ1cldDX1h2VWg3RndpQQ?oc=5",
    "source": "한국경제",
    "date": "2026-10-08",
@@ -88,6 +88,18 @@
    }
   },
   {
+   "title": "SK하이닉스, AI환경연구소 설립 추진…반도체 환경 난제 대응",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBJNjdpSWhjSzI3dXN5aUoyY0l4NVI3MERuT1BvZWRkLUo2VkJtcEo5cGNjYWJReWw3YjZjMlBCLVVFbjdYUWs3bXJvbE5nbFQwelFxSV9ZR1ZQTXI1WGlmcU80Rl9jVlE?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-10-08",
+   "datetime": "2026-10-08 08:44 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스 미국 ADR 락업 해제 임박…38% 프리미엄에 매물 우려",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xNm9DUlN0bDYxakJSRTdEVk14WWpDbzRWZTRJNFNvYUVBWFhHNnhLY1JSQVUteVR3OXp5MmpWRlQ1eDlQYmVGTU84ekxaaHVzZkZ4ejFUQUZYR1lBMWc?oc=5",
    "source": "더구루",
@@ -100,23 +112,11 @@
    }
   },
   {
-   "title": "블룸버그 \"SK하이닉스 손자회사 솔리다임, 美 상장 주관사 선정\"",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kT2JCLXhMYlZpVjBrUXJ3THlKdGwyWmF3UmppQ0h3SGp1VXBkMEFRSlBSTWlfUlc0alU1WmxXTFZwRW9PS1NuMlNHY3dmWUMwTzY4VC1CLXNwQ3A2?oc=5",
-   "source": "티제이비",
+   "title": "삼성전자 실적 앞두고…초고수는 SK하이닉스 담았다",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sVWFNZnpBMmVvVm1uY2FnTDNFQWNEVGVpc0FKUXdNQmNOVUI3Wk1IWTFzVlFza1dvNW1kN0t6TVJteUJFVDdhbW9xR1JnM3hsbU9QTHZ4dTlzUQ?oc=5",
+   "source": "한국경제",
    "date": "2026-10-08",
-   "datetime": "2026-10-08 08:31 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"반도체 환경 난제 해결하겠다\"…SK하이닉스 'AI 환경연구소' 설립 추진",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tLUlnLTVYcG45d3RENjdzZzJaUUZqMkY2SUJocjY1Ujl5R3VFQloySjVoSkRpS0tacVdzOHJlb1hGc1FKaFJLd1lnVVBzdUFiRnVRNDRSN0JGMHktNVBaOQ?oc=5",
-   "source": "아시아경제",
-   "date": "2026-10-08",
-   "datetime": "2026-10-08 08:21 KST",
+   "datetime": "2026-10-08 08:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
