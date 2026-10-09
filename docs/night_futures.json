@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-10-09 10:12 KST",
+  "fetchedAt": "2026-10-09 12:03 KST",
   "note": "night_futures=KRX:K2I1!(트레이딩뷰, 20분 지연). 야간 세션(18:00~익일 06:00) 종료 후에는 야간 종가에 해당. 근사 지표이며 투자 판단은 종가 기준.",
   "night_futures": {
     "symbol": "KRX:K2I1!",
@@ -117,16 +117,16 @@
   "usdkrw": {
     "symbol": "FX_IDC:USDKRW",
     "name": "U.S. DOLLAR / SOUTH KOREAN WON",
-    "last": 1343.79,
-    "changePct": 0.08,
-    "change": 1.1,
+    "last": 1342.26,
+    "changePct": -0.03,
+    "change": -0.43,
     "open": 1342.63,
     "high": 1345.77,
-    "low": 1342.38,
+    "low": 1342.13,
     "volume": 0,
     "mode": "streaming",
-    "updateTime": 1791508317,
-    "updateTimeKST": "10-09 10:11:57"
+    "updateTime": 1791511345,
+    "updateTimeKST": "10-09 11:02:25"
   },
   "sk_hynix": {
     "symbol": "KRX:000660",
