@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-10-12 12:38 KST",
+ "fetchedAt": "2026-10-12 13:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스 주가, 오늘 왜 하락했나?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UaVBoNWJubF9EdEpLS0x0YXllazFIcU1HMExCMEI5QTc1eHV2T0thS1JnLXlBa1dRdTZvZDlKc0NXM2lqRFpVeHY3YVI4QjlvUko2T3Z0ZnF2bGVScmkxbElWVHpFVC1wdXlkYzFRMTVYSG40SmVj?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 13:19 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "반도체대전, 기술 전시 넘어 채용까지…삼성·SK하이닉스 등 300개사 집결",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05TUxXX1FsNWF1eFhQdmtneUFsTXpRUUloejhtTHdEbjB1dnJvSEw2VFp5TmxkUU9VQmRuVkFfX2FNSktuckRhVFVQWkZiUVpQMFZZR2dTWXl0emY2UzBNUm56R0s?oc=5",
+   "source": "매일일보",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 13:15 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[리포트 브리핑]SK하이닉스, '환율을 이기는 호실적 예상' 목표가 4,000,000원 - SK증권",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SekplbWpfZmh0ZEd6ZWZGd25MMmJUc1FyblR1U09sV1R0WlRPTnRPTGNLMk5WQm12OVBiYU1TSDgzdlVaSVRDcEUyV0NXMU1YeEJJWnVVbUk4NUg0?oc=5",
@@ -33,6 +57,18 @@
    "source": "자본시장뉴스",
    "date": "2026-10-12",
    "datetime": "2026-10-12 12:05 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[국감2026] “한전 부채 210조인데…삼성·SK하이닉스에 25조 전기료 선납 제안, 송전망은 2~3년 완공?”",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Xdm5FRjJhQWVtdjFRN3d0NlZnOTJTVDhyN1hFbExDb1FyUmEtUTNLY2V3RzRUek0tSHVNTjF4MGNjWGgxYmF6VWZGZGxOcHplMm9TQjdydmlGWkdXZ0VEOTdIaDc1ODkxeG5VZWkyWVZpVzlQ0gF0QVVfeXFMT1d2bkVGMmFBZW12MVE3d3Q2Vmc5MlNUOHI3WEVsTENvUXJSYS1RM0tjZXdHNFR6TS1IdU1OMXgwY2NYaDFiYXpVZkZkbE5wemUyb1NCN3J2aUZaR1dnRUQ5N0hoNzU4OTF4blVlaTJZVmlXOVA?oc=5",
+   "source": "주간한국",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 11:34 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -76,47 +112,11 @@
    }
   },
   {
-   "title": "반도체대전 14일 개막…삼성·SK하이닉스 등 300개사 참가",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15U0tIdUN3ZTNmUlZSQ0V4R0drYnktUWJ1RXEwampsdjBvRjV5WEtlRkJIbWJoZFRSdXBlNU5qRGtiRVdCanE4UGJVOGtfNjVwdzkzWGZBemJTLUVpU3BEZNIBYEFVX3lxTE15U0tIdUN3ZTNmUlZSQ0V4R0drYnktUWJ1RXEwampsdjBvRjV5WEtlRkJIbWJoZFRSdXBlNU5qRGtiRVdCanE4UGJVOGtfNjVwdzkzWGZBemJTLUVpU3BEZA?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 10:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "실적은 역대급일 텐데…SK하이닉스, 높아진 기대 속 '쪼개기 상장'에 고민",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GZDg1MlhabTc5bWJxZ1lqSTJoQ2NhNGk3eGcwdUVqaUh4VVhZZW5JYkFGcXlXc3plQkIyQzFCb19abDNCZ05OWmlRTG9ZeU13bUF5cEpwU1lGb3ZEUWw0LQ?oc=5",
    "source": "아시아경제",
    "date": "2026-10-12",
    "datetime": "2026-10-12 10:44 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 저평가 원인은 '솔리다임 상장'",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZYm1qMGR0aXFDYmtmX2l2RnMyWTlqdGJYZThfU05MMm1VQ09CVWlhcE5kWjZQUTJ1bFNhUUtOR3FmbmtQMF9aZ2ZEeEZYZTdnQV9fVGh5RFUyRU9OZTZRbkFJZ05IOEFDVHNrRi1QbTI?oc=5",
-   "source": "리드경제",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 10:08 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "메리츠증권, SK하이닉스 목표가 상향…\"메모리 공급부족은 명확\"",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04M0JOTGhRRl9idXAwUHA1YmV0OHVTb0lHUktKanRGYnBDUm5GVVY3U25wNkN0MDZhNk9uUVFfVXJqdEhZYnFWN0VwcFlIRWhTZWJfVjdlRlh1c3F4SzA1UEd4U0JpXzVBa1E?oc=5",
-   "source": "비즈워치",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 10:06 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
