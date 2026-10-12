@@ -1,8 +1,44 @@
 {
- "fetchedAt": "2026-10-12 14:38 KST",
+ "fetchedAt": "2026-10-12 15:34 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "삼성·SK하이닉스 총출동…역대 최대 반도체대전 14일 개막",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80eHZ5MHJrQXdJWWJ5VlYzcGEtbFdJYXZEbXo3RUxZd3Bjc0szbTNlTVhBVTNKZXVPbTJ4eHZQX3ZqNEZ2QVdUUURsa05JblJpUXZwNjZtNXdFUVVQ?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 15:04 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, 범용 CPU 한계 넘는 'H-TPU' 공개",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0b1ZhbVhrdDFhOFhvLXZCNWJ6SktLSEZqRHBEcUhMTmk2dUM0dW9nd3F6Z29vdkZURXRlN1ZPcDc2d0UzSWZCTG5oNjZuVTYxTkV1SjRR?oc=5",
+   "source": "지디넷코리아",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 15:02 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "한전 사장 “호남 반도체 전력망 비용 80%, 삼성·SK하이닉스가 부담”",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFk2OUlveUp3TzUzYm1JSDVNMDNULWNEQUM1TC0xY1FlXzZCN3lXbDluUEloUEtQWUFoUTZiMzMwbG1FRXlmYXk0MVN6ampBNjBkTlpJTHJZLUtsZ2ZwSHA3TUQtQ2ItdWdIcEN1SXlIYVZqVFhiTlA1WHV6RVR4RzBPSXpxdw?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 14:48 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "솔리다임, 상장 전 투자 유치 막바지…SK하이닉스 '주주 영향 설명'은 언제?",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Pb0UwelRWcTBUR1FpUkYyVlJYUmxFQkR2ZFZwTklUdlhKY19sX3h3WTRUOTQ1RWVLMlpvYWNwc1NXUWlDVkhBZ3dFVWVxRjlnc2tGSXZlTnBmZmt1b3FHMm9mbTFDdkFh?oc=5",
@@ -81,42 +117,6 @@
    "source": "경제타임스",
    "date": "2026-10-12",
    "datetime": "2026-10-12 12:07 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 영업이익 74조 예상…이익률 첫 80%대 갈까",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxTEVCODJFTjJsYzBtcjdOSEM5VG5JUGRWYlAzTTdYd3pLYmVZTkdZSW1NLTdVQXFRc29LLU04Vm1nbFA3TFZPR2NXTWtxUnFhQ3h5cGMza1hnVjh6UjJNM3ZoM01fNkk?oc=5",
-   "source": "자본시장뉴스",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 12:05 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[국감2026] “한전 부채 210조인데…삼성·SK하이닉스에 25조 전기료 선납 제안, 송전망은 2~3년 완공?”",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Xdm5FRjJhQWVtdjFRN3d0NlZnOTJTVDhyN1hFbExDb1FyUmEtUTNLY2V3RzRUek0tSHVNTjF4MGNjWGgxYmF6VWZGZGxOcHplMm9TQjdydmlGWkdXZ0VEOTdIaDc1ODkxeG5VZWkyWVZpVzlQ0gF0QVVfeXFMT1d2bkVGMmFBZW12MVE3d3Q2Vmc5MlNUOHI3WEVsTENvUXJSYS1RM0tjZXdHNFR6TS1IdU1OMXgwY2NYaDFiYXpVZkZkbE5wemUyb1NCN3J2aUZaR1dnRUQ5N0hoNzU4OTF4blVlaTJZVmlXOVA?oc=5",
-   "source": "주간한국",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 11:34 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스 빠진 美 ETF…대안은 전 세계 주식 투자",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmZYdGFPdFNfd2x6Q0lOdU8yN1ItLUUyN2lFSFVZUDc5RTBVQVhzMkVYZ2NSbWx4Ukk4MDJBUkIyUU53MnR4MUh4RWhlUE84N01ZbWxCZWhZZXItMG55aGE0czJSbUh1aFJEOTM4TndBYk5PUDhmRXdLV1VVWGRiUS1RaXY?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 11:22 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
