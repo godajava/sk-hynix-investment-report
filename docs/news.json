@@ -1,8 +1,80 @@
 {
- "fetchedAt": "2026-10-12 10:38 KST",
+ "fetchedAt": "2026-10-12 11:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "삼성전자·SK하이닉스 빠진 美 ETF…대안은 전 세계 주식 투자",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmZYdGFPdFNfd2x6Q0lOdU8yN1ItLUUyN2lFSFVZUDc5RTBVQVhzMkVYZ2NSbWx4Ukk4MDJBUkIyUU53MnR4MUh4RWhlUE84N01ZbWxCZWhZZXItMG55aGE0czJSbUh1aFJEOTM4TndBYk5PUDhmRXdLV1VVWGRiUS1RaXY?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 11:22 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[리포트 브리핑]SK하이닉스, '3Q26 OP 80.1조원 실적 서프라이즈 예상' 목표가 3,200,000원 - 메리츠증권",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YRnZKd2QzeTNacnlpemxrUUI4S3NNSTRna3ozRllUUzdRM0htMGRIaS1zUWU1NWtLbFkybHZrZWM5eGw5bEJ6SDkwYTd3NlVXaE5hR01Rc1RFMklV?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 11:11 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "AMD, 삼성·SK하이닉스와 HBM 동맹 강화…2027년 AI 반도체 공급 대폭 확대",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85UVBwQkJrWE9NYjFYWmZKVl9CMVpneWRCZlZSWWRjZHJOenlMclEwT1JDamtnc3dGYkNSY3dDMFJQbE1SN3hGQ1h3WFFVSEI5S3RPNU0xN1gzbEMzc1RwZlFOX3JBVWJw?oc=5",
+   "source": "테크월드",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 11:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "반도체대전 14일 개막…삼성·SK하이닉스 등 300개사 참가",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nc3pNR05XdWpGR1JKTVNfY0IzYzYxWXpXR1F2YWE2b0tIc1VaQnI0WkJiT3pXZkpiS3ROVUNvaTNodUdIUFI4ZTFVRVhpU09teVBfTzVmdlRkNUHSAWBBVV95cUxNeVNLSHVDd2UzZlJWUkNFeEdHa2J5LVFidUVxMGpqbHYwb0Y1eVhLZUZCSG1iaGRUUnVwZTVOakRrYkVXQmpxOFBiVThrXzY1cHc5M1hmQXpiUy1FaVNwRGQ?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 10:54 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "실적은 역대급일 텐데…SK하이닉스, 높아진 기대 속 '쪼개기 상장'에 고민",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GZDg1MlhabTc5bWJxZ1lqSTJoQ2NhNGk3eGcwdUVqaUh4VVhZZW5JYkFGcXlXc3plQkIyQzFCb19abDNCZ05OWmlRTG9ZeU13bUF5cEpwU1lGb3ZEUWw0LQ?oc=5",
+   "source": "아시아경제",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 10:44 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 저평가 원인은 '솔리다임 상장'",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZYm1qMGR0aXFDYmtmX2l2RnMyWTlqdGJYZThfU05MMm1VQ09CVWlhcE5kWjZQUTJ1bFNhUUtOR3FmbmtQMF9aZ2ZEeEZYZTdnQV9fVGh5RFUyRU9OZTZRbkFJZ05IOEFDVHNrRi1QbTI?oc=5",
+   "source": "리드경제",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 10:08 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "메리츠증권, SK하이닉스 목표가 상향…\"메모리 공급부족은 명확\"",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04M0JOTGhRRl9idXAwUHA1YmV0OHVTb0lHUktKanRGYnBDUm5GVVY3U25wNkN0MDZhNk9uUVFfVXJqdEhZYnFWN0VwcFlIRWhTZWJfVjdlRlh1c3F4SzA1UEd4U0JpXzVBa1E?oc=5",
@@ -17,7 +89,7 @@
   },
   {
    "title": "\"SK하이닉스 ADR 2.5%, 국내 증시 가격결정 영향력 확대\"-리서치알음",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KLU53TFRJQ0luN2phZmZTekE2ZkRoUGRtYUt3UlVNNWJBSnB5ZF9zZ0Nmc2VNQm1NY0NDcS11YjdrNzV2ZzN1ckJOM0Ntd2RBODdrSG5UUEhxNDZtS2VWSlZFV2xGWk5C?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uQlVObkJueHh0Z2F2S2lmWUNPLUR0VFREUGNndHVjbTFJd1ZLV0RoUENzZTJ5a0VvZWJ4Q3JJTERjc1JhSFUwUnpNVG5iRGpfejQ1WnV6M1JadzVpMGp3Nmg5YlRMYzQ?oc=5",
    "source": "녹색경제신문",
    "date": "2026-10-12",
    "datetime": "2026-10-12 09:54 KST",
@@ -29,7 +101,7 @@
   },
   {
    "title": "[특징주] SK하이닉스, 장 초반 2.6% 급락…삼전도 0.9%↓",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tWFlPUFhPd3BDQUNvSEQ2bXV6RW9EV2ZhY241X1NpdEI4cGh1d1ByZ254aVk3OFVlb1JXLWU2LTM5NzI2WW96NFVtYnNjREJMVXV3dXlOby0xc0dtTkJIS9IBYEFVX3lxTE1tWFlPUFhPd3BDQUNvSEQ2bXV6RW9EV2ZhY241X1NpdEI4cGh1d1ByZ254aVk3OFVlb1JXLWU2LTM5NzI2WW96NFVtYnNjREJMVXV3dXlOby0xc0dtTkJISw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUTmRaYkdIYTR4RGxtdTNQWWNMVWprbDlhdUFzUTdOZllYdkdYWGRGc3lRaFV3N1U2eGJlemlvckRmejlITncwai1lV0F3NkhsdVF2Z0w1dWo1Y1XSAWBBVV95cUxNbVhZT1BYT3dwQ0FDb0hENm11ekVvRFdmYWNuNV9TaXRCOHBodXdQcmdueGlZNzhVZW9SVy1lNi0zOTcyNllvejRVbWJzY0RCTFV1d3V5Tm8tMXNHbU5CSEs?oc=5",
    "source": "연합뉴스",
    "date": "2026-10-12",
    "datetime": "2026-10-12 09:26 KST",
@@ -49,78 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "코스피 6580선 약세 출발…삼전·SK하이닉스 동반 하락",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fb25xdGtRTUJfbnBOWk5feWFRdXVVT2txMDBUUWdMQTh6MXdfWWtPMndLQ0Nqc1pxa1pSSjh1b0g0VFFOY2JyeWhsenowMFRCZnFzVlFVVExNZmNwaXJzSjd4aXU4d3U0?oc=5",
-   "source": "www.ebn.co.kr",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 09:07 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "하이닉스 목표가 320만원 등장…“상반기 영업익 80조 간다” [오늘 나온 보고서]",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UNjNwN0tsN2NpSjdya19jczY4YTJlaGRta09wU2MyZXJxVDVIeWpFODlBemVQQ3BhTXBjNnlIaFlaTTFCUVlQSjZNWXdoZ2hiUUE?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 08:56 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 용인·호남 투트랙…AI 메모리 생산능력 늘린다",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlUWVrSEdmSktRZjBWRDZfck9LeE1vaFc4M3h3dHdoTGhJM3liZDd0b1FlOXZTckZjUWwzN1JobFJzVTFlX05lZ2JQeG56YzdEbmNVVTJqZmI?oc=5",
-   "source": "더트래커",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 08:51 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 3분기 영업익만 80조…\"출하량·판가 복원 본격화\"",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oRWxGTFRmSW9WNXAwc2x0UHRHcVJTekhyQ3NCME1sSWEwQVNERnZ1R2c2ZXBQVEpDdWJxSDRXS3QxQmNlMU5wMFp6UG9IU1Rtck55M0U2QmxZUWN1M3JRclY1R2lUTVNqaks2WDNiX1oxNmpJ?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 08:18 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "이번주 SK하이닉스, 저는 추매하지 않습니다",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUm9EcktLQ1Y5WU40cHNlMU5SUl9wWDNydm1jVEZndmhBcUMycGdlUUd0R1MxUFlOQTVoeTJDTGhoTEVZUm5MWElHSkpWaXprYkdJQTl0eGpEZGpfVFVIXzZmNWZTdmhIQndrQlZyWW9nLUlKOWR5d0Y5WDFMQ2lDZW80T3VNU2VYOGxj?oc=5",
-   "source": "네이버 프리미엄콘텐츠",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 08:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "ASML, 노광 장비 판 흔든다… 2020년대 후반 노린 삼성·SK하이닉스 수율 셈법 복잡",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLXdYTnp2V01Oem5ib3dTbkxRNGxRRmVEZE5kQmROTlFPSTNtdGtwSEJKRTFWUDdXbmhCSDBzUFhPQjJ2U3JXaFp5Ym4xMEo5ZlVLaW5ueVlFNFA3UmlLTXFtWHFHbFl1cFJDRjd2NE9qOG1BSi0tZWY3ZVdGdnVuNW1ialJDaWc1?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 07:17 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
