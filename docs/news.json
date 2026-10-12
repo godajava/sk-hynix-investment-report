@@ -1,8 +1,44 @@
 {
- "fetchedAt": "2026-10-12 11:38 KST",
+ "fetchedAt": "2026-10-12 12:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[리포트 브리핑]SK하이닉스, '환율을 이기는 호실적 예상' 목표가 4,000,000원 - SK증권",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SekplbWpfZmh0ZEd6ZWZGd25MMmJUc1FyblR1U09sV1R0WlRPTnRPTGNLMk5WQm12OVBiYU1TSDgzdlVaSVRDcEUyV0NXMU1YeEJJWnVVbUk4NUg0?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 12:23 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[진단] 마이크론보다 왜 쌀까…SK하이닉스 밸류 착시",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55TWFuYWxwblQzWEFjZUZKX3I3aGZITm1ramhFUjJYNENIcWNZSHlZUEhjWnlXZ01zWTdwcE1nQ2NRWFRGZ3ZMYWI3TUJnN2V5RG00?oc=5",
+   "source": "경제타임스",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 12:07 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 영업이익 74조 예상…이익률 첫 80%대 갈까",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxTEVCODJFTjJsYzBtcjdOSEM5VG5JUGRWYlAzTTdYd3pLYmVZTkdZSW1NLTdVQXFRc29LLU04Vm1nbFA3TFZPR2NXTWtxUnFhQ3h5cGMza1hnVjh6UjJNM3ZoM01fNkk?oc=5",
+   "source": "자본시장뉴스",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 12:05 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "삼성전자·SK하이닉스 빠진 美 ETF…대안은 전 세계 주식 투자",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmZYdGFPdFNfd2x6Q0lOdU8yN1ItLUUyN2lFSFVZUDc5RTBVQVhzMkVYZ2NSbWx4Ukk4MDJBUkIyUU53MnR4MUh4RWhlUE84N01ZbWxCZWhZZXItMG55aGE0czJSbUh1aFJEOTM4TndBYk5PUDhmRXdLV1VVWGRiUS1RaXY?oc=5",
@@ -16,15 +52,15 @@
    }
   },
   {
-   "title": "[리포트 브리핑]SK하이닉스, '3Q26 OP 80.1조원 실적 서프라이즈 예상' 목표가 3,200,000원 - 메리츠증권",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YRnZKd2QzeTNacnlpemxrUUI4S3NNSTRna3ozRllUUzdRM0htMGRIaS1zUWU1NWtLbFkybHZrZWM5eGw5bEJ6SDkwYTd3NlVXaE5hR01Rc1RFMklV?oc=5",
-   "source": "뉴스핌",
+   "title": "iM증권 “SK하이닉스, 마이크론 대비 저평가 심화\"⋯3Q 실적 등에 주목",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzMHNQOVNGbUd0Z3hvcHltYVp3RlpvSVJTRnozdmYyYzBaSWdUaDllZ0hUNUh2TDh4MlEwSC00ZlVlUnBhczcxTWl2VWt6ZUF1SWNyalV1d1ZmZw?oc=5",
+   "source": "브릿지경제",
    "date": "2026-10-12",
-   "datetime": "2026-10-12 11:11 KST",
+   "datetime": "2026-10-12 11:00 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -41,7 +77,7 @@
   },
   {
    "title": "반도체대전 14일 개막…삼성·SK하이닉스 등 300개사 참가",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nc3pNR05XdWpGR1JKTVNfY0IzYzYxWXpXR1F2YWE2b0tIc1VaQnI0WkJiT3pXZkpiS3ROVUNvaTNodUdIUFI4ZTFVRVhpU09teVBfTzVmdlRkNUHSAWBBVV95cUxNeVNLSHVDd2UzZlJWUkNFeEdHa2J5LVFidUVxMGpqbHYwb0Y1eVhLZUZCSG1iaGRUUnVwZTVOakRrYkVXQmpxOFBiVThrXzY1cHc5M1hmQXpiUy1FaVNwRGQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15U0tIdUN3ZTNmUlZSQ0V4R0drYnktUWJ1RXEwampsdjBvRjV5WEtlRkJIbWJoZFRSdXBlNU5qRGtiRVdCanE4UGJVOGtfNjVwdzkzWGZBemJTLUVpU3BEZNIBYEFVX3lxTE15U0tIdUN3ZTNmUlZSQ0V4R0drYnktUWJ1RXEwampsdjBvRjV5WEtlRkJIbWJoZFRSdXBlNU5qRGtiRVdCanE4UGJVOGtfNjVwdzkzWGZBemJTLUVpU3BEZA?oc=5",
    "source": "연합뉴스",
    "date": "2026-10-12",
    "datetime": "2026-10-12 10:54 KST",
@@ -81,42 +117,6 @@
    "source": "비즈워치",
    "date": "2026-10-12",
    "datetime": "2026-10-12 10:06 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "\"SK하이닉스 ADR 2.5%, 국내 증시 가격결정 영향력 확대\"-리서치알음",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5uQlVObkJueHh0Z2F2S2lmWUNPLUR0VFREUGNndHVjbTFJd1ZLV0RoUENzZTJ5a0VvZWJ4Q3JJTERjc1JhSFUwUnpNVG5iRGpfejQ1WnV6M1JadzVpMGp3Nmg5YlRMYzQ?oc=5",
-   "source": "녹색경제신문",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 09:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] SK하이닉스, 장 초반 2.6% 급락…삼전도 0.9%↓",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUTmRaYkdIYTR4RGxtdTNQWWNMVWprbDlhdUFzUTdOZllYdkdYWGRGc3lRaFV3N1U2eGJlemlvckRmejlITncwai1lV0F3NkhsdVF2Z0w1dWo1Y1XSAWBBVV95cUxNbVhZT1BYT3dwQ0FDb0hENm11ekVvRFdmYWNuNV9TaXRCOHBodXdQcmdueGlZNzhVZW9SVy1lNi0zOTcyNllvejRVbWJzY0RCTFV1d3V5Tm8tMXNHbU5CSEs?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 09:26 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "메리츠증권 \"SK하이닉스 목표주가 상향, 3분기 영업이익 80.1조 추정\"",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCcmZQYnd1Q0Q4QjQwdl9TZkNrbnRfbklrcUZGeEhHV2w5MjRIT0Zrdks0M3pnUmt3WDliYkxCaTRyXzBUYVotNjVUSUhoOVpwN24tMlg2UnVjVHFnN3puX2tfaWIzOVR6eVRSVlB4QjNMWE0?oc=5",
-   "source": "비즈니스포스트",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 09:12 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
