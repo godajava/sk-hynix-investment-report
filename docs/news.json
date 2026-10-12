@@ -1,62 +1,14 @@
 {
- "fetchedAt": "2026-10-12 15:34 KST",
+ "fetchedAt": "2026-10-13 01:41 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "삼성·SK하이닉스 총출동…역대 최대 반도체대전 14일 개막",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80eHZ5MHJrQXdJWWJ5VlYzcGEtbFdJYXZEbXo3RUxZd3Bjc0szbTNlTVhBVTNKZXVPbTJ4eHZQX3ZqNEZ2QVdUUURsa05JblJpUXZwNjZtNXdFUVVQ?oc=5",
+   "title": "中 CXMT, 차세대 D램 기술 공개에 SK하이닉스·마이크론 동반 급락",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OWkxycDlwckFnQS0wc3c5RGlhQVFCQm56UVVRY19pNjQ4UlhYZVpfczlsTVVnYU9QS3NHa3FjcnlFc3E0dE8zV1RBSnBGTnRwUHkwdHQ0ajRFVDJv?oc=5",
    "source": "뉴스핌",
    "date": "2026-10-12",
-   "datetime": "2026-10-12 15:04 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 범용 CPU 한계 넘는 'H-TPU' 공개",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0b1ZhbVhrdDFhOFhvLXZCNWJ6SktLSEZqRHBEcUhMTmk2dUM0dW9nd3F6Z29vdkZURXRlN1ZPcDc2d0UzSWZCTG5oNjZuVTYxTkV1SjRR?oc=5",
-   "source": "지디넷코리아",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 15:02 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한전 사장 “호남 반도체 전력망 비용 80%, 삼성·SK하이닉스가 부담”",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaFk2OUlveUp3TzUzYm1JSDVNMDNULWNEQUM1TC0xY1FlXzZCN3lXbDluUEloUEtQWUFoUTZiMzMwbG1FRXlmYXk0MVN6ampBNjBkTlpJTHJZLUtsZ2ZwSHA3TUQtQ2ItdWdIcEN1SXlIYVZqVFhiTlA1WHV6RVR4RzBPSXpxdw?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 14:48 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "솔리다임, 상장 전 투자 유치 막바지…SK하이닉스 '주주 영향 설명'은 언제?",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Pb0UwelRWcTBUR1FpUkYyVlJYUmxFQkR2ZFZwTklUdlhKY19sX3h3WTRUOTQ1RWVLMlpvYWNwc1NXUWlDVkhBZ3dFVWVxRjlnc2tGSXZlTnBmZmt1b3FHMm9mbTFDdkFh?oc=5",
-   "source": "녹색경제신문",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 14:08 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스 주가 3% 이상 하락…中 CXMT 차세대 D램 개발 진전 발표",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3b1kzWlctQXRWMnZwQjUwQWV0NmZKc29fSURZRnJzSlFoMFN4Y2p1S0ZEUVByWlpxemtJYlBjd1FzQkwzSFB3XzdUeDhKeTdwVlRFdHVVVE1ZYmFFRHdSU1RrTDFnbWZpSlg1bDVpTFM?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 14:04 KST",
+   "datetime": "2026-10-12 23:00 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -64,11 +16,11 @@
    }
   },
   {
-   "title": "\"주가는 4% 빠지는데 목표가는↑\"…메리츠證, SK하이닉스 320만원 제시",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5V1FLbDdPbDd1akZHcnNQQ25ueEZUdWZ2b3FYTVBvNUQ5eGdrdHZRV1lIbmNtQ2xMaUJIU2lTTjBVOHNMUlViNzIwcWZRRWp2dHZUMDJkWVFTaThad3RxQW9qR28?oc=5",
-   "source": "디지털데일리",
+   "title": "23조 ETF 종목 바꾸자··· SK하이닉스·SK스퀘어 비중 늘고 삼성전자 줄었다",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5seF9uWnotQS1abGdvd05jcHBKdENxWnZMekFYM1F4UEZDcFZSenNSRkxobld6QXFKdllkX1RkU3V0a1luaGVkUlpvcktoT3FFOEFTc2sxTlp2aHBBTmpyVy16Uy1NdTZkNEhZOGFvcVNWTTJUREHSAXpBVV95cUxOT0g3TGU2WExIN25GM29OREx6Y3NwclMzUlg2M0poanNZakNKS2IydHB1N0NvdDNONEN6VmRLMFdzVmhLTV9EQ2NhYWFZS0xxWmk0R3RDTU56NEpuQ0RWU2d0NUlSSFNLU3VBdHZCendpU3NDai1EelpjQQ?oc=5",
+   "source": "그린포스트코리아",
    "date": "2026-10-12",
-   "datetime": "2026-10-12 13:36 KST",
+   "datetime": "2026-10-12 19:07 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -76,11 +28,11 @@
    }
   },
   {
-   "title": "SK하이닉스 주가, 오늘 왜 하락했나?",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UaVBoNWJubF9EdEpLS0x0YXllazFIcU1HMExCMEI5QTc1eHV2T0thS1JnLXlBa1dRdTZvZDlKc0NXM2lqRFpVeHY3YVI4QjlvUko2T3Z0ZnF2bGVScmkxbElWVHpFVC1wdXlkYzFRMTVYSG40SmVj?oc=5",
-   "source": "Investing.com 한국어",
+   "title": "삼성전자·SK하이닉스, 역대급 실적에도 외국인 이탈…주도주 흔들리나",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBOVElmLXdZN3oxRGFoZFRxMWhtR29Sek5GaEFPT2w0QlFYVEJiU05MTFNvaWhfZWZPREJDdkE2RWk4TUd2TVBibG9XSWU4SXRNSVpxYk5IVVJaQWNlak9lOFJ4Mm5oVGJUNmlycFhmWdIBb0FVX3lxTFBOVElmLXdZN3oxRGFoZFRxMWhtR29Sek5GaEFPT2w0QlFYVEJiU05MTFNvaWhfZWZPREJDdkE2RWk4TUd2TVBibG9XSWU4SXRNSVpxYk5IVVJaQWNlak9lOFJ4Mm5oVGJUNmlycFhmWQ?oc=5",
+   "source": "서울일보",
    "date": "2026-10-12",
-   "datetime": "2026-10-12 13:19 KST",
+   "datetime": "2026-10-12 18:43 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -88,23 +40,11 @@
    }
   },
   {
-   "title": "반도체대전, 기술 전시 넘어 채용까지…삼성·SK하이닉스 등 300개사 집결",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE05TUxXX1FsNWF1eFhQdmtneUFsTXpRUUloejhtTHdEbjB1dnJvSEw2VFp5TmxkUU9VQmRuVkFfX2FNSktuckRhVFVQWkZiUVpQMFZZR2dTWXl0emY2UzBNUm56R0s?oc=5",
-   "source": "매일일보",
-   "date": "2026-10-12",
-   "datetime": "2026-10-12 13:15 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[리포트 브리핑]SK하이닉스, '환율을 이기는 호실적 예상' 목표가 4,000,000원 - SK증권",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SekplbWpfZmh0ZEd6ZWZGd25MMmJUc1FyblR1U09sV1R0WlRPTnRPTGNLMk5WQm12OVBiYU1TSDgzdlVaSVRDcEUyV0NXMU1YeEJJWnVVbUk4NUg0?oc=5",
+   "title": "SK하이닉스 솔리다임, 첫 대관 부사장 영입",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3NUNPNjV5dUFxYzUyU1VxTEdQb0FRWW03aHJMYllDRUhuUlhUTTZHWl93OXQtM2xPNW52YmUtRUtwc2tFSVhIVl9QRmREd2F4T2paQ2dLbGllRE9T?oc=5",
    "source": "뉴스핌",
    "date": "2026-10-12",
-   "datetime": "2026-10-12 12:23 KST",
+   "datetime": "2026-10-12 18:14 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -112,11 +52,71 @@
    }
   },
   {
-   "title": "[진단] 마이크론보다 왜 쌀까…SK하이닉스 밸류 착시",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55TWFuYWxwblQzWEFjZUZKX3I3aGZITm1ramhFUjJYNENIcWNZSHlZUEhjWnlXZ01zWTdwcE1nQ2NRWFRGZ3ZMYWI3TUJnN2V5RG00?oc=5",
-   "source": "경제타임스",
+   "title": "SK하이닉스 1000조 투자…주주환원 여력은",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JcG1POUc4WUpHb3Z0Z2VkbF9taUdXQVhBaE85VXlXMGstbVZNZjhNX0l3N29qUTJReHlxRDdNOVhVYlBzemhJWi1wbDdJakdsd2ZIUUYtN2M3Mm1DS200?oc=5",
+   "source": "MTN 머니투데이방송",
    "date": "2026-10-12",
-   "datetime": "2026-10-12 12:07 KST",
+   "datetime": "2026-10-12 17:45 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, SSD용 H-TPU 구조 공개…소형 프로세서 100여개 분산",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mRzhZWVZuaFIxWGdORWNaeFhWNjJfeVlfY3RhV3BBNzVVMkUyVUVIS0VZcmV3cGU4S3dEMi1UV2ZTLXFNUGo2d0tHQVp0WlVmWXBuRkVwMWEwUjB2TjgtcGtiTDR2dw?oc=5",
+   "source": "디일렉",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 17:23 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스, 외국인 1.5조 매도에 4%대 급락",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GN1lVcHg5MTlkT1hma0pLVm1BT1dER29ZcXc1bFJHM1Q1MmZvRFBxQldiLUVjaWFwMlZtSi1ua0NkSlpsMTdtTDIzTFU4eDBDbGFDLVNrSkhJQjhlWExRWVlB?oc=5",
+   "source": "매일신문",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 16:15 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "반도체대전 14일 개막…삼성·SK하이닉스 등 300개 기업 참가",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUWdnVm0xSEVkWEZNbEZBNTJWTE9DMW80OXBnbVBVakhqRXk5LU85TDJBbzJucGQ4S0txWnNjTWpLdDF5WW95SnJleWFzaTZxdWhGSUNTOXRYWVY3cnQ2Yw?oc=5",
+   "source": "메트로신문",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 16:06 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "코스피 낙폭 확대와 SK하이닉스 부진·청년주택까지 이시각 주요뉴스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uWEViRUNNVXZzYUpGYjl2QXJaR1hoQjktU2ExN1V4T3V0RDVybHpZNUg3Mk8xZWpwZFNqZ1JwQXFhcnUyRVEzc1pfZzZfWTZ2dTRXMEltZVVnNTk1WEY1NkFjUFFqQnhGNS1Ga3VORWnSAXRBVV95cUxOZ3hCYUNoLVgyWlQ3OXI3SDBhYXJRX3MtX0ZzSE11Mk5idW1idS15WmJQOWJoVzVKYS1UV1F6X0Y1ZVdKM1JWV3hEal8yeVlLTElONDNQYnVXR1ZxcFk3ZnF3bmxQZDFhUkY1VThyQTJYY1RTRg?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 15:43 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "4% 빠진 SK하이닉스…목표가는 ‘320만원’으로 올라, 왜?",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4TERFN3IzTXoyaklVaHduWG5XUnlVeWVWMU5IZUNWMEdKZE9HOGRDX1Z0djlFUzQ4TXl4cV9ZR25oMXZYaHdmZHR5LTJkZGdaMDRPcw?oc=5",
+   "source": "JTBC",
+   "date": "2026-10-12",
+   "datetime": "2026-10-12 15:38 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
