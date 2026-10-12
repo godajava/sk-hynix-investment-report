@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-12 09:20 KST",
+ "fetchedAt": "2026-10-12 09:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -29,10 +29,10 @@
   },
   {
    "title": "SK하이닉스, 3분기 영업익만 80조…\"출하량·판가 복원 본격화\"",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mbldmalM1eTM0QkRIcFRDOXVTSXRiT2NBaXE4WGVvaVdyeHF2R2Rla2ZvSnNCMTJObmxTTVhqX1BsR21KOUZVdjQwTHpuWTUzSTFXa3JBS1RYX0h4cHg4cnQ4SDJablJrcFd3MGdYNGk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oRWxGTFRmSW9WNXAwc2x0UHRHcVJTekhyQ3NCME1sSWEwQVNERnZ1R2c2ZXBQVEpDdWJxSDRXS3QxQmNlMU5wMFp6UG9IU1Rtck55M0U2QmxZUWN1M3JRclY1R2lUTVNqaks2WDNiX1oxNmpJ?oc=5",
    "source": "연합인포맥스",
    "date": "2026-10-12",
-   "datetime": "2026-10-12 08:11 KST",
+   "datetime": "2026-10-12 08:18 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -76,6 +76,18 @@
    }
   },
   {
+   "title": "삼성전자·SK하이닉스 사려는데 빚투 막혔다··· 증권사마다 다른 신용거래 문턱",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16Z0w1YzRFUlVRaTZrZnVyMjhkbE5JMXJfWE92OHJoOEMycDJtcDJiZi1CQjk5OFhmMTZtRjh0RU5HeDZ4Vzk1VGF3MWdJeGRpQ1dwVG91a25kNzN2LVlLVFhoanZUTFAydjBzX3RsaFNNSVBMbmfSAXpBVV95cUxQbE5pRDF1LUlGcnNLTExIQTdLcVozMkxOM25qcTZyaUV4WElZSDlVUzJWcWg3c191ZW0wdG9OV1hLYXhsQmZlOUhSblVRSmdyTXBNdlUtSHBPRTJrbE85YXhfSThhVjd1S0ZscVJJWXU1TmxMZVByUWdOdw?oc=5",
+   "source": "그린포스트코리아",
+   "date": "2026-10-11",
+   "datetime": "2026-10-11 23:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "삼성·SK하이닉스, LTA로 깬다…'2년 주기' 메모리 덫",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sdkVzdVdOLUNmNGZralVhYUZmVlpVYlZVUk5GT2dDRTI5VjJIMWtLQ0pMNU4ybGVhZVc4ckJlMkV4SVMyVGhHTmNocVZ4ZTlzWnVVd1gtekgxWmVNYVBpYThNa0lZNXhwVGlLdlpncE4?oc=5",
    "source": "리드경제",
@@ -105,18 +117,6 @@
    "source": "한국금융신문",
    "date": "2026-10-11",
    "datetime": "2026-10-11 12:00 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스도 최대 실적 예고…AI 메모리 호황 지속",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10eXNfYzNWZkkwM2pzVXFRZXZhTlVvdkNCR2pjVnVYMFlwZXp5ejlGRnpvWGduUXFMX0VDU1YtU2lnbFk3TnpfUVlTaUpIMnlyTjV2WDlqMXZSUk9IMzZNaw?oc=5",
-   "source": "뉴스토마토",
-   "date": "2026-10-11",
-   "datetime": "2026-10-11 11:30 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
