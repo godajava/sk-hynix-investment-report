@@ -292,21 +292,21 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <div class="sheet"><div class="paper">
 
 <div class="eyebrow">
-  <b>Company Report</b><span>반도체 / 메모리</span><span>2026-10-13 (화) · <b>아침(09:30 KST, 개장 직후 시세 미반영)</b> · <b style="color:var(--neutral)">중립 유지</b> · 전일 종가 160.5만(-4.52%) · 갭다운 출발 가능성(야간선물 -2.05%·ADR -4.02%)</span>
+  <b>Company Report</b><span>반도체 / 메모리</span><span>2026-10-13 (화) · <b>장중 업데이트(09:45 KST, ≈09:19 지연 시세)</b> · <b style="color:var(--neutral)">중립 유지</b> · 150.6만(-6.17%, ≈09:19 지연) · 갭다운 출발(시가 153.8만) 후 낙폭 확대</span>
   <span style="margin-left:auto">sk-hynix-analyst · 다음 갱신 10/13(화) 장중 09:30~14:30 매시 · 15:30 마감</span>
 </div>
 
-<h1>전일 160.5만(-4.52%) 4거래일 연속 하락 — SOX -2.67%·ADR -4.02%·야간선물 -2.05%로 갭다운 출발 가능성, 판정은 중립 유지(종가에서만 점검)</h1>
+<h1>150.6만(-6.17%, ≈09:19 지연 시세) 갭다운 후 낙폭 확대 — 삼성전자 -5.49%·12월물 -4.87% 동반 급락 속 판정은 중립 유지(종가에서만 점검)</h1>
 <p class="ticker"><strong>SK하이닉스</strong> <span>KRX 000660 · NASDAQ 상장(7/10)</span></p>
 
 <div class="stats">
   <div><div class="k">투자의견</div><div class="v" style="color:var(--neutral)">중립 <small style="color:var(--ink-2)">(유지 · 10/12 종가 기준 긍정 2·중립 1·부정 1)</small></div></div>
-  <div><div class="k"><span id="live-label">전일 종가</span> <small id="live-when">(10/12 15:30 확정·개장 직후 시세는 장중 갱신에서 반영)</small></div><div class="v"><span id="live-price">160.5</span><small>만 원</small> <span id="live-chg" style="font-size:12.5px;font-weight:700;color:var(--down)">▼4.52%</span></div></div>
+  <div><div class="k"><span id="live-label">현재가</span> <small id="live-when">(10/13 ≈09:19 지연 시세·트레이딩뷰)</small></div><div class="v"><span id="live-price">150.6</span><small>만 원</small> <span id="live-chg" style="font-size:12.5px;font-weight:700;color:var(--down)">▼6.17%</span></div></div>
   <div><div class="k">2Q 영업이익 <small>(확정)</small></div><div class="v">60.5<small>조 원</small></div></div>
   <div><div class="k">상승여력 <small>(컨센서스 322만·10/12 종가 기준)</small></div><div class="v">+100.6%</div></div>
-  <div><div class="k">오늘(10/13) 관건</div><div class="v" style="font-size:15px">갭다운 후 160.5만 지지·164.0만 회복 여부</div></div>
+  <div><div class="k">오늘(10/13) 관건</div><div class="v" style="font-size:15px">150.4만(오늘 저가) 지지·153.8만(시가) 회복 여부</div></div>
 </div>
-<p class="asof">작성 2026-10-13 09:30 KST · <strong>아침 리포트</strong>(전일 종가 160.5만은 quote.json marketTime 10/12 15:30 KST로 확정 · 트레이딩뷰 20분 지연 시세가 09:19 시점에 개장 전 값이라 오늘 개장 직후 시세는 확인 불가 — 장중 갱신에서 덮어씁니다) · 기술지표는 야후 10/12 15:14 집계 기준(종가단일가 미반영) · 본 자료는 정보 제공 목적이며 투자 권유가 아닙니다</p>
+<p class="asof">작성 2026-10-13 09:45 KST · <strong>장중 업데이트</strong>(현재가·OHLCV는 트레이딩뷰 KRX 피드 ≈09:19 기준의 20분 지연 시세이며, 등락률은 10/12 확정 종가 160.5만 기준으로 직접 계산 — 야후 quote.json은 전일 종가가 10/8 값(168.1만)으로 잡혀 -10.29%로 표시되므로 사용하지 않음) · 기술지표는 10/12 15:14 집계 기준 · 본 자료는 정보 제공 목적이며 투자 권유가 아닙니다</p>
 
 <div class="toolbar">
   <button class="refresh" type="button" title="시세·지표·뉴스를 즉시 다시 불러옵니다" onclick="window.refreshNow ? window.refreshNow(this) : location.reload()">↻ 새로고침</button>
@@ -314,7 +314,7 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
   <a class="livelink" href="https://www.tossinvest.com/stocks/A000660/order" target="_blank" rel="noopener">토스증권 ↗</a>
   <a class="livelink" href="https://godajava.github.io/sk-hynix-investment-report/archive.html" target="_blank" rel="noopener">지난 리포트 ↗</a>
   <button class="theme-toggle" type="button" id="theme-toggle" title="라이트/다크 테마 전환" onclick="window.toggleTheme && window.toggleTheme(this)">🌙 다크</button>
-  <span class="note" id="live-note">10/13 아침(09:30) · 전일 종가 160.5만(-4.52%) · 개장 직후 시세 확인 불가(지연 시세) · 판정 중립 유지(종가 기준으로만 변경) · 다음 갱신 10/13 장중 09:30~14:30 매시·15:30 마감</span>
+  <span class="note" id="live-note">10/13 장중(09:45) · 현재 150.6만(-6.17%, ≈09:19 지연·10/12 종가 대비) · 판정 중립 유지(종가 기준으로만 변경) · 다음 갱신 10/13 장중 매시·15:30 마감</span>
 </div>
 
 <section>
@@ -330,20 +330,20 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <h2><span class="no">01</span>투자 요약</h2>
 <ul>
   <li><strong>투자의견: 중립 유지</strong> — 10/12 종가 기준 판정(중립)을 그대로 유지합니다. 방향성 4요소는 긍정 2개(②④)·중립 1개(③)·부정 1개(①)이며, 오늘 장중에는 판정을 바꾸지 않고 15:30 확정 종가에서 유지 규칙 표로만 점검합니다. 매수 복귀는 긍정 3개 이상·부정 0개(①이 중립 이상으로 개선되고 ③이 긍정 복귀)가 필요하고, 매도 전환은 부정 3개 이상·긍정 0개입니다.</li>
-  <li><strong>전일(10/12) 확정 종가 160.5만(-4.52%)</strong> — 시가 164.0만·고가 165.3만·저가 160.5만, 거래량 303.9만주(트레이딩뷰 최종, 20일 평균의 0.96배). 종가가 일중 저가와 같았고 4거래일 연속 하락(10/2 종가 184.1만 대비 -12.8%)입니다. <strong>오늘 개장 직후 시세는 확인 불가</strong>입니다(트레이딩뷰 20분 지연 시세가 09:19 시점에 개장 전 값). 코스피200 12월물 주간 선물은 개장 직전(08:58) 975.60(-3.24%)이며, 헤드라인 기준 매일일보는 "코스피, 6200선 밑으로 출발…삼성전자·SK하이닉스 약세"(09:09)를 보도했습니다.</li>
+  <li><strong>10/13 장 초반(≈09:19 지연 시세)</strong> — 시가 153.8만(10/12 종가 대비 -4.17% 갭다운)·고가 155.4만·저가 150.4만, 현재 150.6만(-6.17%, -9.9만원), 거래량 59.1만주. 10/2 종가(184.1만) 대비 -18.2%이며 10/12 종가(160.5만)와 지난 지지 참고선(종가-ATR 152.1만)을 모두 하회했습니다. 삼성전자는 23.7만(-5.49%), 코스피200 12월물 주간 선물은 959.10(-4.87%)입니다. 헤드라인 기준 에너지경제신문은 "삼성전자·SK하이닉스 동반 급락…美 반도체주 약세"(09:20), 글로벌이코노믹은 "중국발 기술 추격 우려…약세"(09:34)를 보도했으나 인과관계는 단정하지 않습니다.</li>
   <li><strong>외부 변수</strong>: 10/12 미국장은 SOX -2.67%·마이크론 -3.88%·엔비디아 -1.29%로 반도체가 약했고 나스닥 -0.44%·S&amp;P500 -0.06%였습니다. SK하이닉스 ADR 162.23달러(-4.02%)·EWY -4.02%에는 10/12 한국장 낙폭이 이미 반영된 부분이 있을 수 있어 추가 하락 신호로 단정하지 않습니다. 원/달러 1,334.93원(+0.06%). 야간선물(KRX:K2I1!)은 987.6으로 주간 종가(1,008.25) 대비 -2.05%이며 updateTimeKST 10-13 06:00(08:07 수집분, 20분 지연)입니다. 헤드라인 기준 하나증권이 실적 전망치를 상향했다는 보도(머니투데이, 10/13)와 목표주가 360만원 "컨센서스에 부합" 리포트 브리핑(뉴스핌)이 나왔습니다.</li>
-  <li><strong>지표(10/12 야후 15:14 집계, 종가 미반영)</strong>: DMI 격차 -13.9(+DI 22.5 &lt; -DI 36.4), KDJ K 12.4·D 25.7(격차 -13.3, 과매도 구간), MACD 히스토그램 -2.09만(시그널 하회). 3Q26 실적 발표(10/27)까지 <strong>D-14</strong>, 10/14(수) 반도체대전 개막입니다.</li>
+  <li><strong>지표(10/12 야후 15:14 집계, 종가 미반영)</strong>: DMI 격차 -13.9(+DI 22.5 &lt; -DI 36.4), KDJ K 12.4·D 25.7(격차 -13.3, 과매도 구간), MACD 히스토그램 -2.09만(시그널 하회). 오늘 장중 야후 일봉에는 10/12 봉이 빠져 있어(10/8→10/13) 장중 지표가 왜곡될 수 있어 쓰지 않았습니다. 3Q26 실적 발표(10/27)까지 <strong>D-14</strong>, 10/14(수) 반도체대전 개막입니다.</li>
 </ul>
 </section>
 
 <section>
-<h2><span class="no">02</span>주가 동향 (10/12 마감 + 10/13 개장 전)</h2>
-<p>10/12(월) SK하이닉스는 164.0만원 시가(-2.44% 갭하락)에서 장 초반 165.3만원까지 올랐으나 오전 중 160.5만원까지 내려서고 마감 직전에도 저가인 160.5만원(-4.52%)으로 마감했습니다. 10/13(화)은 야간선물(-2.05%)·SOX(-2.67%)·마이크론(-3.88%) 약세를 감안하면 갭다운 출발 가능성이 높지만, 개장 직후 지연 시세가 아직 반영되지 않아 실제 시가·등락률은 확인 불가이며 장중 갱신에서 반영합니다(방향성 참고일 뿐 가격 예측이 아닙니다).</p>
+<h2><span class="no">02</span>주가 동향 (10/12 마감 + 10/13 장 초반)</h2>
+<p>10/12(월) SK하이닉스는 164.0만원 시가에서 장 초반 165.3만원까지 올랐으나 오전 중 160.5만원까지 내려서고 저가인 160.5만원(-4.52%)으로 마감했습니다. 10/13(화)은 153.8만원(10/12 종가 대비 -4.17%)에 갭다운 시가를 형성한 뒤 ≈09:19 지연 시세 기준 저가 150.4만원, 현재 150.6만원(-6.17%)으로 낙폭이 확대됐습니다. 야간선물(-2.05%)·SOX(-2.67%)·마이크론(-3.88%) 약세가 반영된 것으로 보이나 원인은 단정하지 않습니다(방향성 참고일 뿐 가격 예측이 아닙니다).</p>
 <p>종가 기준 지표 흐름은 DMI 격차 9/29 +1.6 → 9/30 +4.3 → 10/1 +2.2 → 10/2 +3.9 → 10/6 -0.8 → 10/7 -4.7 → 10/8 -7.9(종가 확정), KDJ 격차 9/29 -8.4 → 9/30 -8.9 → 10/1 -5.2 → 10/2 -2.2 → 10/6 -8.2 → 10/7 -14.1 → 10/8 -15.1(종가 확정)입니다. 10/8 값은 마감 리포트의 15:14 집계(-7.1·-14.4)에서 종가단일가 반영으로 갱신됐습니다. DMI 약세가 확대되고 KDJ는 과매도 구간(K 17.3)에 있어 기술적 반등 여지는 있으나 추세 전환 신호는 없습니다. 10/12 값은 15:14 집계(DMI -13.9·KDJ -13.3, 종가 미반영)입니다.</p>
 <div class="chart"><svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="400" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
 <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">SK하이닉스 주가 흐름 (7/10 ~ 10/12)</text>
-<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 10/12 종가 160.5만(-4.52%, 4거래일 연속 하락, 10/2 대비 -12.8%). 10/13 개장 직후 시세는 확인 불가(지연 시세가 개장 전 값). DMI 격차 -13.9·KDJ 격차 -13.3(10/12 15:14 집계).</text>
+<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 10/12 종가 160.5만(-4.52%, 4거래일 연속 하락). 10/13은 ≈09:19 장중 잠정 150.6만(-6.17%, 10/12 종가 대비·시가 153.8만·고가 155.4만·저가 150.4만, 트레이딩뷰 지연 시세). 지표는 10/12 15:14 집계.</text>
 <line x1="88" y1="331.4" x2="724" y2="331.4" stroke="#e1e0d9" stroke-width="1"/>
 <text x="80" y="335.4" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">130만</text>
 <line x1="88" y1="305.2" x2="724" y2="305.2" stroke="#e1e0d9" stroke-width="1"/>
@@ -365,132 +365,135 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <line x1="88" y1="95.9" x2="724" y2="95.9" stroke="#e1e0d9" stroke-width="1"/>
 <text x="80" y="99.9" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">220만</text>
 <line x1="88" y1="336" x2="724" y2="336" stroke="#c3c2b7" stroke-width="1"/>
-<path d="M88.0,101.1 L98.6,188.8 L109.2,171.0 L119.8,126.8 L130.4,189.6 L141.0,210.0 L151.6,191.1 L162.2,192.7 L172.8,169.4 L183.4,211.3 L194.0,196.4 L204.6,266.0 L215.2,305.0 L225.8,325.6 L236.4,222.0 L247.0,261.5 L257.6,258.9 L268.2,235.1 L278.8,280.4 L289.4,299.5 L300.0,300.0 L310.6,298.7 L321.2,278.0 L331.8,254.7 L342.4,241.1 L353.0,236.7 L363.6,279.0 L374.2,229.1 L384.8,218.9 L395.4,234.3 L406.0,232.5 L416.6,229.9 L427.2,218.9 L437.8,239.0 L448.4,233.5 L459.0,228.5 L469.6,249.5 L480.2,253.9 L490.8,240.6 L501.4,205.3 L512.0,202.4 L522.6,185.9 L533.2,186.7 L543.8,197.4 L554.4,227.5 L565.0,229.3 L575.6,211.3 L586.2,214.9 L596.8,185.6 L607.4,182.8 L618.0,190.1 L628.6,184.3 L639.2,208.9 L649.8,209.7 L660.4,206.8 L671.0,191.9 L681.6,189.8 L692.2,207.6 L702.8,220.7 L713.4,231.7 L724.0,251.6" fill="none" stroke="#2a78d6" stroke-width="2"/>
+<path d="M88.0,101.1 L98.4,188.8 L108.9,171.0 L119.3,126.8 L129.7,189.6 L140.1,210.0 L150.6,191.1 L161.0,192.7 L171.4,169.4 L181.8,211.3 L192.3,196.4 L202.7,266.0 L213.1,305.0 L223.5,325.6 L234.0,222.0 L244.4,261.5 L254.8,258.9 L265.2,235.1 L275.7,280.4 L286.1,299.5 L296.5,300.0 L307.0,298.7 L317.4,278.0 L327.8,254.7 L338.2,241.1 L348.7,236.7 L359.1,279.0 L369.5,229.1 L379.9,218.9 L390.4,234.3 L400.8,232.5 L411.2,229.9 L421.6,218.9 L432.1,239.0 L442.5,233.5 L452.9,228.5 L463.3,249.5 L473.8,253.9 L484.2,240.6 L494.6,205.3 L505.0,202.4 L515.5,185.9 L525.9,186.7 L536.3,197.4 L546.8,227.5 L557.2,229.3 L567.6,211.3 L578.0,214.9 L588.5,185.6 L598.9,182.8 L609.3,190.1 L619.7,184.3 L630.2,208.9 L640.6,209.7 L651.0,206.8 L661.4,191.9 L671.9,189.8 L682.3,207.6 L692.7,220.7 L703.1,231.7 L713.6,251.6" fill="none" stroke="#2a78d6" stroke-width="2"/>
+<path d="M713.6,251.6 L724.0,277.5" fill="none" stroke="#2a78d6" stroke-width="2" stroke-dasharray="5 4"/>
 <circle cx="88.0" cy="101.1" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="88.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/10</text>
 <text x="88.0" y="89.1" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">218만</text>
-<circle cx="98.6" cy="188.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="98.6" y="356" font-size="11" fill="#898781" text-anchor="middle">7/13</text>
-<circle cx="109.2" cy="171.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="109.2" y="356" font-size="11" fill="#898781" text-anchor="middle">7/14</text>
-<circle cx="119.8" cy="126.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="119.8" y="356" font-size="11" fill="#898781" text-anchor="middle">7/15</text>
-<circle cx="130.4" cy="189.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="130.4" y="356" font-size="11" fill="#898781" text-anchor="middle">7/16</text>
-<circle cx="141.0" cy="210.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="141.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/20</text>
-<circle cx="151.6" cy="191.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="151.6" y="356" font-size="11" fill="#898781" text-anchor="middle">7/21</text>
-<circle cx="162.2" cy="192.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="162.2" y="356" font-size="11" fill="#898781" text-anchor="middle">7/22</text>
-<circle cx="172.8" cy="169.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="172.8" y="356" font-size="11" fill="#898781" text-anchor="middle">7/23</text>
-<circle cx="183.4" cy="211.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="183.4" y="356" font-size="11" fill="#898781" text-anchor="middle">7/24</text>
-<circle cx="194.0" cy="196.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="194.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/27</text>
-<circle cx="204.6" cy="266.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="204.6" y="356" font-size="11" fill="#898781" text-anchor="middle">7/28</text>
-<circle cx="215.2" cy="305.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="215.2" y="356" font-size="11" fill="#898781" text-anchor="middle">7/29</text>
-<circle cx="225.8" cy="325.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="225.8" y="356" font-size="11" fill="#898781" text-anchor="middle">7/30</text>
-<text x="225.8" y="347.6" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">132만</text>
-<circle cx="236.4" cy="222.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="236.4" y="356" font-size="11" fill="#898781" text-anchor="middle">7/31</text>
-<circle cx="247.0" cy="261.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="247.0" y="356" font-size="11" fill="#898781" text-anchor="middle">8/3</text>
-<circle cx="257.6" cy="258.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="257.6" y="356" font-size="11" fill="#898781" text-anchor="middle">8/4</text>
-<circle cx="268.2" cy="235.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="268.2" y="356" font-size="11" fill="#898781" text-anchor="middle">8/5</text>
-<circle cx="278.8" cy="280.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="278.8" y="356" font-size="11" fill="#898781" text-anchor="middle">8/6</text>
-<circle cx="289.4" cy="299.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="289.4" y="356" font-size="11" fill="#898781" text-anchor="middle">8/7</text>
-<circle cx="300.0" cy="300.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="300.0" y="356" font-size="11" fill="#898781" text-anchor="middle">8/10</text>
-<circle cx="310.6" cy="298.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="310.6" y="356" font-size="11" fill="#898781" text-anchor="middle">8/11</text>
-<circle cx="321.2" cy="278.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="321.2" y="356" font-size="11" fill="#898781" text-anchor="middle">8/12</text>
-<circle cx="331.8" cy="254.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="331.8" y="356" font-size="11" fill="#898781" text-anchor="middle">8/13</text>
-<circle cx="342.4" cy="241.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="342.4" y="356" font-size="11" fill="#898781" text-anchor="middle">8/14</text>
-<circle cx="353.0" cy="236.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="353.0" y="356" font-size="11" fill="#898781" text-anchor="middle">8/18</text>
-<circle cx="363.6" cy="279.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="363.6" y="356" font-size="11" fill="#898781" text-anchor="middle">8/19</text>
-<circle cx="374.2" cy="229.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="374.2" y="356" font-size="11" fill="#898781" text-anchor="middle">8/20</text>
-<circle cx="384.8" cy="218.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="384.8" y="356" font-size="11" fill="#898781" text-anchor="middle">8/21</text>
-<circle cx="395.4" cy="234.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="395.4" y="356" font-size="11" fill="#898781" text-anchor="middle">8/24</text>
-<circle cx="406.0" cy="232.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="406.0" y="356" font-size="11" fill="#898781" text-anchor="middle">8/25</text>
-<circle cx="416.6" cy="229.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="416.6" y="356" font-size="11" fill="#898781" text-anchor="middle">8/26</text>
-<circle cx="427.2" cy="218.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="427.2" y="356" font-size="11" fill="#898781" text-anchor="middle">8/27</text>
-<circle cx="437.8" cy="239.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="437.8" y="356" font-size="11" fill="#898781" text-anchor="middle">8/28</text>
-<circle cx="448.4" cy="233.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="448.4" y="356" font-size="11" fill="#898781" text-anchor="middle">8/31</text>
-<circle cx="459.0" cy="228.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="459.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/1</text>
-<circle cx="469.6" cy="249.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="469.6" y="356" font-size="11" fill="#898781" text-anchor="middle">9/2</text>
-<circle cx="480.2" cy="253.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="480.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/3</text>
-<circle cx="490.8" cy="240.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="490.8" y="356" font-size="11" fill="#898781" text-anchor="middle">9/4</text>
-<circle cx="501.4" cy="205.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="501.4" y="356" font-size="11" fill="#898781" text-anchor="middle">9/7</text>
-<circle cx="512.0" cy="202.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="512.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/8</text>
-<circle cx="522.6" cy="185.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="522.6" y="356" font-size="11" fill="#898781" text-anchor="middle">9/9</text>
-<circle cx="533.2" cy="186.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="533.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/10</text>
-<circle cx="543.8" cy="197.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="543.8" y="356" font-size="11" fill="#898781" text-anchor="middle">9/11</text>
-<circle cx="554.4" cy="227.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="554.4" y="356" font-size="11" fill="#898781" text-anchor="middle">9/14</text>
-<circle cx="565.0" cy="229.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="565.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/15</text>
-<circle cx="575.6" cy="211.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="575.6" y="356" font-size="11" fill="#898781" text-anchor="middle">9/16</text>
-<circle cx="586.2" cy="214.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="586.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/17</text>
-<circle cx="596.8" cy="185.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="596.8" y="356" font-size="11" fill="#898781" text-anchor="middle">9/18</text>
-<circle cx="607.4" cy="182.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="607.4" y="356" font-size="11" fill="#898781" text-anchor="middle">9/21</text>
-<circle cx="618.0" cy="190.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="618.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/22</text>
-<circle cx="628.6" cy="184.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="628.6" y="356" font-size="11" fill="#898781" text-anchor="middle">9/23</text>
-<circle cx="639.2" cy="208.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="639.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/28</text>
-<circle cx="649.8" cy="209.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="649.8" y="356" font-size="11" fill="#898781" text-anchor="middle">9/29</text>
-<circle cx="660.4" cy="206.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="660.4" y="356" font-size="11" fill="#898781" text-anchor="middle">9/30</text>
-<circle cx="671.0" cy="191.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="671.0" y="356" font-size="11" fill="#898781" text-anchor="middle">10/1</text>
-<circle cx="681.6" cy="189.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="681.6" y="356" font-size="11" fill="#898781" text-anchor="middle">10/2</text>
-<circle cx="692.2" cy="207.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="692.2" y="356" font-size="11" fill="#898781" text-anchor="middle">10/6</text>
-<circle cx="702.8" cy="220.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="702.8" y="356" font-size="11" fill="#898781" text-anchor="middle">10/7</text>
-<circle cx="713.4" cy="231.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="713.4" y="356" font-size="11" fill="#898781" text-anchor="middle">10/8</text>
-<circle cx="724.0" cy="251.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">10/12</text>
-<text x="724.0" y="239.6" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">160만</text>
+<circle cx="98.4" cy="188.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="98.4" y="356" font-size="11" fill="#898781" text-anchor="middle">7/13</text>
+<circle cx="108.9" cy="171.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="108.9" y="356" font-size="11" fill="#898781" text-anchor="middle">7/14</text>
+<circle cx="119.3" cy="126.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="119.3" y="356" font-size="11" fill="#898781" text-anchor="middle">7/15</text>
+<circle cx="129.7" cy="189.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="129.7" y="356" font-size="11" fill="#898781" text-anchor="middle">7/16</text>
+<circle cx="140.1" cy="210.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="140.1" y="356" font-size="11" fill="#898781" text-anchor="middle">7/20</text>
+<circle cx="150.6" cy="191.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="150.6" y="356" font-size="11" fill="#898781" text-anchor="middle">7/21</text>
+<circle cx="161.0" cy="192.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="161.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/22</text>
+<circle cx="171.4" cy="169.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="171.4" y="356" font-size="11" fill="#898781" text-anchor="middle">7/23</text>
+<circle cx="181.8" cy="211.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="181.8" y="356" font-size="11" fill="#898781" text-anchor="middle">7/24</text>
+<circle cx="192.3" cy="196.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="192.3" y="356" font-size="11" fill="#898781" text-anchor="middle">7/27</text>
+<circle cx="202.7" cy="266.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="202.7" y="356" font-size="11" fill="#898781" text-anchor="middle">7/28</text>
+<circle cx="213.1" cy="305.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="213.1" y="356" font-size="11" fill="#898781" text-anchor="middle">7/29</text>
+<circle cx="223.5" cy="325.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="223.5" y="356" font-size="11" fill="#898781" text-anchor="middle">7/30</text>
+<text x="223.5" y="347.6" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">132만</text>
+<circle cx="234.0" cy="222.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="234.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/31</text>
+<circle cx="244.4" cy="261.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="244.4" y="356" font-size="11" fill="#898781" text-anchor="middle">8/3</text>
+<circle cx="254.8" cy="258.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="254.8" y="356" font-size="11" fill="#898781" text-anchor="middle">8/4</text>
+<circle cx="265.2" cy="235.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="265.2" y="356" font-size="11" fill="#898781" text-anchor="middle">8/5</text>
+<circle cx="275.7" cy="280.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="275.7" y="356" font-size="11" fill="#898781" text-anchor="middle">8/6</text>
+<circle cx="286.1" cy="299.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="286.1" y="356" font-size="11" fill="#898781" text-anchor="middle">8/7</text>
+<circle cx="296.5" cy="300.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="296.5" y="356" font-size="11" fill="#898781" text-anchor="middle">8/10</text>
+<circle cx="307.0" cy="298.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="307.0" y="356" font-size="11" fill="#898781" text-anchor="middle">8/11</text>
+<circle cx="317.4" cy="278.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="317.4" y="356" font-size="11" fill="#898781" text-anchor="middle">8/12</text>
+<circle cx="327.8" cy="254.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="327.8" y="356" font-size="11" fill="#898781" text-anchor="middle">8/13</text>
+<circle cx="338.2" cy="241.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="338.2" y="356" font-size="11" fill="#898781" text-anchor="middle">8/14</text>
+<circle cx="348.7" cy="236.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="348.7" y="356" font-size="11" fill="#898781" text-anchor="middle">8/18</text>
+<circle cx="359.1" cy="279.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="359.1" y="356" font-size="11" fill="#898781" text-anchor="middle">8/19</text>
+<circle cx="369.5" cy="229.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="369.5" y="356" font-size="11" fill="#898781" text-anchor="middle">8/20</text>
+<circle cx="379.9" cy="218.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="379.9" y="356" font-size="11" fill="#898781" text-anchor="middle">8/21</text>
+<circle cx="390.4" cy="234.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="390.4" y="356" font-size="11" fill="#898781" text-anchor="middle">8/24</text>
+<circle cx="400.8" cy="232.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="400.8" y="356" font-size="11" fill="#898781" text-anchor="middle">8/25</text>
+<circle cx="411.2" cy="229.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="411.2" y="356" font-size="11" fill="#898781" text-anchor="middle">8/26</text>
+<circle cx="421.6" cy="218.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="421.6" y="356" font-size="11" fill="#898781" text-anchor="middle">8/27</text>
+<circle cx="432.1" cy="239.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="432.1" y="356" font-size="11" fill="#898781" text-anchor="middle">8/28</text>
+<circle cx="442.5" cy="233.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="442.5" y="356" font-size="11" fill="#898781" text-anchor="middle">8/31</text>
+<circle cx="452.9" cy="228.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="452.9" y="356" font-size="11" fill="#898781" text-anchor="middle">9/1</text>
+<circle cx="463.3" cy="249.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="463.3" y="356" font-size="11" fill="#898781" text-anchor="middle">9/2</text>
+<circle cx="473.8" cy="253.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="473.8" y="356" font-size="11" fill="#898781" text-anchor="middle">9/3</text>
+<circle cx="484.2" cy="240.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="484.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/4</text>
+<circle cx="494.6" cy="205.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="494.6" y="356" font-size="11" fill="#898781" text-anchor="middle">9/7</text>
+<circle cx="505.0" cy="202.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="505.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/8</text>
+<circle cx="515.5" cy="185.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="515.5" y="356" font-size="11" fill="#898781" text-anchor="middle">9/9</text>
+<circle cx="525.9" cy="186.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="525.9" y="356" font-size="11" fill="#898781" text-anchor="middle">9/10</text>
+<circle cx="536.3" cy="197.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="536.3" y="356" font-size="11" fill="#898781" text-anchor="middle">9/11</text>
+<circle cx="546.8" cy="227.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="546.8" y="356" font-size="11" fill="#898781" text-anchor="middle">9/14</text>
+<circle cx="557.2" cy="229.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="557.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/15</text>
+<circle cx="567.6" cy="211.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="567.6" y="356" font-size="11" fill="#898781" text-anchor="middle">9/16</text>
+<circle cx="578.0" cy="214.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="578.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/17</text>
+<circle cx="588.5" cy="185.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="588.5" y="356" font-size="11" fill="#898781" text-anchor="middle">9/18</text>
+<circle cx="598.9" cy="182.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="598.9" y="356" font-size="11" fill="#898781" text-anchor="middle">9/21</text>
+<circle cx="609.3" cy="190.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="609.3" y="356" font-size="11" fill="#898781" text-anchor="middle">9/22</text>
+<circle cx="619.7" cy="184.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="619.7" y="356" font-size="11" fill="#898781" text-anchor="middle">9/23</text>
+<circle cx="630.2" cy="208.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="630.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/28</text>
+<circle cx="640.6" cy="209.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="640.6" y="356" font-size="11" fill="#898781" text-anchor="middle">9/29</text>
+<circle cx="651.0" cy="206.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="651.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/30</text>
+<circle cx="661.4" cy="191.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="661.4" y="356" font-size="11" fill="#898781" text-anchor="middle">10/1</text>
+<circle cx="671.9" cy="189.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="671.9" y="356" font-size="11" fill="#898781" text-anchor="middle">10/2</text>
+<circle cx="682.3" cy="207.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="682.3" y="356" font-size="11" fill="#898781" text-anchor="middle">10/6</text>
+<circle cx="692.7" cy="220.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="692.7" y="356" font-size="11" fill="#898781" text-anchor="middle">10/7</text>
+<circle cx="703.1" cy="231.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="703.1" y="356" font-size="11" fill="#898781" text-anchor="middle">10/8</text>
+<circle cx="713.6" cy="251.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="713.6" y="356" font-size="11" fill="#898781" text-anchor="middle">10/12</text>
+<circle cx="724.0" cy="277.5" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
+<text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">10/13</text>
+<text x="724.0" y="265.5" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">151만</text>
 <circle cx="484" cy="66" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="494" y="70" font-size="11" fill="#52514e">확인 종가</text>
 <circle cx="564" cy="66" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
@@ -507,14 +510,20 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
     <td class="num"><strong>₩1,605,000</strong></td><td class="num" style="color:var(--down)">-4.52%</td>
     <td class="num">3,038,563주</td>
   </tr>
-  <tr><th colspan="6">오늘 시세 — 10/13 (화) 개장 직후: 확인 불가(트레이딩뷰 20분 지연 시세가 개장 전 값, 장중 갱신에서 반영)</th></tr>
+  <tr><th colspan="6">오늘 시세(진행 중) — 10/13 (화) ≈09:19 지연 시세(확정 아님) · 출처: 트레이딩뷰 KRX 피드(20분 지연) · 등락률은 10/12 확정 종가 기준</th></tr>
+  <tr><th>시가</th><th>고가</th><th>저가</th><th>현재가</th><th>등락</th><th>거래량</th></tr>
+  <tr>
+    <td class="num">₩1,538,000</td><td class="num">₩1,554,000</td><td class="num">₩1,504,000</td>
+    <td class="num"><strong>₩1,506,000</strong></td><td class="num" style="color:var(--down)">-6.17%</td>
+    <td class="num">591,204주</td>
+  </tr>
 </table>
 </div>
-<p>전일(10/8) 확정 종가 1,681,000원 대비 10/12 종가 1,605,000원은 <strong>-76,000원(-4.52%)</strong>입니다. 거래량은 트레이딩뷰 최종 3,038,563주로 마감 리포트의 15:52 시점 값(2,935,230주)을 갱신했습니다.</p>
+<p>전일(10/8) 확정 종가 1,681,000원 대비 10/12 종가 1,605,000원은 <strong>-76,000원(-4.52%)</strong>입니다(거래량 트레이딩뷰 최종 3,038,563주). 오늘 값은 지연 시세이며 10/12 종가 대비 <strong>-99,000원(-6.17%)</strong>입니다. 야후 quote.json은 전일 종가가 10/8 값(1,681,000원)으로 잡혀 -10.29%로 표시되지만(일봉에 10/12 봉 누락) 트레이딩뷰·10/12 확정 종가로 교차 확인해 사용하지 않았습니다.</p>
 
 <div class="tablewrap">
 <table class="tech-indicators">
-  <tr><th colspan="3">기술적 지표 — 10/12 야후 15:14 집계 기준(종가 미반영) <span id="ti-when" style="font-weight:400">· 2026-10-13 09:30 갱신</span></th></tr>
+  <tr><th colspan="3">기술적 지표 — 10/12 야후 15:14 집계 기준(종가 미반영) <span id="ti-when" style="font-weight:400">· 2026-10-13 09:45 갱신</span></th></tr>
   <tr><th>지표</th><th>값</th><th>해석</th></tr>
   <tr><td>MACD (12,26,9)</td><td class="num" id="ti-macd">-0.60만 / 시그널 +1.49만 / 히스토그램 <strong>-2.09만</strong></td><td id="ti-macd-read">하락 모멘텀 확대(히스토그램 10/8 종가 -1.31만 → 15:14 집계 -2.09만)</td></tr>
   <tr><td>ATR (14)</td><td class="num" id="ti-atr">8.41만 (5.2%)</td><td id="ti-atr-read">변동성 매우 큼</td></tr>
@@ -524,33 +533,33 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 </table>
 </div>
 
-<p><strong>4거래일 연속 하락과 함께 DMI -DI 우위·MACD 시그널 하회가 확대됐고 KDJ는 과매도 구간입니다.</strong> 위 지표는 10/12 15:14 집계(종가단일가 미반영)이며, 확정 종가 반영 지표는 장중 갱신에서 반영됩니다.</p>
+<p><strong>4거래일 연속 하락과 함께 DMI -DI 우위·MACD 시그널 하회가 확대됐고 KDJ는 과매도 구간입니다.</strong> 위 지표는 10/12 15:14 집계(종가단일가 미반영)입니다. 오늘 장중 야후 일봉에는 10/12 봉이 빠져 있어(10/8→10/13) 장중 지표가 왜곡될 수 있어 사용하지 않았고, 정상화되면 반영합니다.</p>
 </section>
 
 <section>
-<h2><span class="no">GLOBAL</span>오늘(10/13, 화) 전망 — 갭다운 가능성</h2>
-<p>10/12 종가(160.5만)와 간밤 해외 변수 기준으로 10/13 핵심 레벨과 관전 포인트를 정리합니다. 판정은 확정 종가 기준으로만 변경합니다.</p>
+<h2><span class="no">GLOBAL</span>오늘(10/13, 화) 전망 — 갭다운 후 낙폭 확대</h2>
+<p>10/12 종가(160.5만)와 오늘 장 초반(≈09:19 지연 시세) 기준으로 핵심 레벨과 관전 포인트를 정리합니다. 판정은 확정 종가 기준으로만 변경합니다.</p>
 
 <div class="tablewrap">
 <table class="kv">
   <tr><th colspan="2">오늘(10/13) 전망</th></tr>
   <tr><th>항목</th><th>내용</th></tr>
-  <tr><td>지지선</td><td>160.5만(10/12 종가·저가) — 하회 시 뚜렷한 지지 레벨 확인 불가(참고: 종가-ATR 152.1만)</td></tr>
-  <tr><td>저항선</td><td>164.0만(10/12 시가) · 165.3만(10/12 고가) · 168.1만(10/8 종가) · 172.2만(10/8 시가)·172.3만(10/7 종가)</td></tr>
-  <tr><td>예상 등락 레인지(참고용)</td><td>ATR(8.41만) 기준 152.1만 ~ 168.9만</td></tr>
+  <tr><td>지지선</td><td>150.4만(오늘 장중 저가, ≈09:19 지연) — 10/12 종가-ATR 참고선(152.1만)은 이미 하회, 그 아래는 뚜렷한 지지 레벨 확인 불가</td></tr>
+  <tr><td>저항선</td><td>153.8만(오늘 시가) · 155.4만(오늘 고가) · 160.5만(10/12 종가·갭 메우기) · 164.0만(10/12 시가) · 168.1만(10/8 종가)</td></tr>
+  <tr><td>예상 등락 레인지(참고용)</td><td>확인 불가 — 오늘 장중 지표가 왜곡될 수 있어 산정하지 않음(참고: 10/12 종가 ± ATR 8.41만 = 152.1만 ~ 168.9만, 하단 이미 이탈)</td></tr>
   <tr><td>예정 이벤트</td><td>3Q26 실적 발표 10/27(D-14) · 10/14(수) 반도체대전 개막 · 간밤 미국 반도체 약세(SOX -2.67%·마이크론 -3.88%) 후속 · 솔리다임 상장 전 투자 유치·ADR 락업 해제 보도 · 외국인 수급 · 원/달러(1,335원대)</td></tr>
-  <tr><td>관찰 포인트</td><td>갭다운 후 160.5만 지지 여부(어제 종가·저가), 164.0만(어제 시가)·168.1만 회복 여부, 종가 기준 DMI·MACD·KDJ(과매도 반등) 방향, 외국인·기관 수급, 미국 반도체(SOX)·ADR</td></tr>
-  <tr><td>상방 시나리오</td><td>KDJ 과매도 구간(K 12.4)이라 기술적 반등 가능. 164만대 회복과 함께 ①개선·③ 긍정 복귀가 종가 기준으로 확인돼야 매수 복귀 논의 가능</td></tr>
-  <tr><td>하방 시나리오</td><td>160.5만 종가 이탈 시 추가 약세·변동성 확대 가능(갭다운 출발 시 이미 이탈 상태일 수 있음). 단 ②④가 긍정인 한 매도 전환 조건(부정 3개 이상·긍정 0개)은 충족되지 않음</td></tr>
+  <tr><td>관찰 포인트</td><td>150.4만 지지 여부, 153.8만(시가)·160.5만(전일 종가) 회복 여부, 외국인·기관 수급, 미국 반도체(SOX)·ADR, 中 기술 추격(CXMT) 보도 후속</td></tr>
+  <tr><td>상방 시나리오</td><td>급락 후 과매도 반등 가능. 160만대(전일 종가) 회복은 갭 메움이며, ①개선·③ 긍정 복귀가 종가 기준으로 확인돼야 매수 복귀 논의 가능</td></tr>
+  <tr><td>하방 시나리오</td><td>150.4만 이탈 시 추가 약세·변동성 확대 가능. 종가에서 ③이 부정으로 바뀌어도 ②④가 긍정이면 매도 전환 조건(부정 3개 이상·긍정 0개)은 충족되지 않음</td></tr>
   <tr><td>야간선물</td><td>987.6(주간 종가 1,008.25 대비 -2.05%, updateTimeKST 10-13 06:00·20분 지연). 주간 선물(12월물) 개장 직전 975.60(-3.24%, 08:58)</td></tr>
 </table>
 </div>
-<p><strong>해석</strong> — 야간선물 -2.05%·SOX -2.67%·마이크론 -3.88%를 감안하면 갭다운 출발 가능성이 높아 보이나 ADR·EWY에는 이미 어제 한국장 낙폭이 반영돼 있어 폭은 단정하지 않습니다. 160.5만 지지 여부가 1차 관건이며, ②④ 긍정 유지로 4요소 합산은 변하지 않아 판정은 중립을 유지합니다(종가에서만 점검). 확률적 관점일 뿐 가격 예측이 아닙니다.</p>
+<p><strong>해석</strong> — 야간선물·SOX·마이크론 약세를 반영해 갭다운으로 출발한 뒤 낙폭이 -6%대로 확대됐고 삼성전자(-5.49%)·12월물(-4.87%)도 동반 하락해 개별 이슈보다 업종·시장 전반 약세로 보입니다(단정하지 않음). 오늘 판정은 변경하지 않고 15:30 종가에서 유지 규칙 표로만 점검합니다. 확률적 관점일 뿐 가격 예측이 아닙니다.</p>
 </section>
 
 <section>
-<h2><span class="no">03</span>최신 뉴스 Top 10 <small style="font-size:12px;font-weight:500;color:var(--muted)">SK하이닉스 실시간 뉴스 · 구글 뉴스 자동 수집 · <span id="news-feed-when">수집 2026-10-13 09:18 KST</span></small></h2>
-<ol class="news" id="news-feed"><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOemo4VDE4cGFnNV83aDZJSW1kUDZGYlNTX3Nya2ZxM2Zua3RSMmdZeTZ0VU5jaFE1WmhtbjdUX0drQWF2U2o5R1VlVXJveGV2VlkyTDl4Z0lJODZNdXR6SlFPZmJyWHJHai01cWN6Q2hMV3BfMVB3ckt2NXFoeVJ6LTlBdw?oc=5" target="_blank" rel="noopener">SK하이닉스는 잡음 끊이지 않는 &#x27;솔리다임 상장&#x27; 왜 밀어붙일까</a> <span style="color:var(--muted)">· 인베스트조선</span></h3></div></li><li><div><h3><span class="chip down">🔴 악재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UQS1mR1R1dWFabi1QTEc1OTBqVWJQTURoVl94LWRiMG1hMHBtMlRtWlFEOGw5OEd1d0dvNktCWmNUVnhZQ1k2VkpBdGkyNzFEdWY1aVFFWkV0UmNPOW9EVVNfck0?oc=5" target="_blank" rel="noopener">코스피, 6200선 밑으로 출발…삼성전자·SK하이닉스 약세</a> <span style="color:var(--muted)">· 매일일보</span></h3></div></li><li><div><h3><span class="chip up">🟢 호재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqbjhTWS12VXRNR3BEa3hocU9TNzJFSGF2MXpCVUVYY1psdkZEUHBjVjE0SWhfTzFOOXg4V1EzamhjNFhmRmRyd1oyZGwwdW5fa3RBSHBONjVNOW5POFJPbGg2dDk0ZXIy0gFuQVVfeXFMTU5SVENrSGZ6TndTUjlUeXNUMy1RXzdOWXZEWFZQVllfbFNPNkluQkZEM2M3eWdqTnRmeGZBb05fUC1nMWsyV1YzZFdzU2VCTFpvWWszWmZPS2g4VC1Cd2I3aThVajZmSG40YUtwSnc?oc=5" target="_blank" rel="noopener">&quot;SK하이닉스 올해 실적 전망치 상향조정…영업이익 405조&quot;-하나 - 머니투데이</a> <span style="color:var(--muted)">· 머니투데이</span></h3></div></li><li><div><h3><span class="chip up">🟢 호재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aa2F1ZG1vQ2RNa1FpNnhmTW9uQ3ZCRnBmQlFDLWtRUV83QVNhQ0hMb3ZHUFJLVFVmWXNzRmFkcVRKTHd2RGN6MFlRUHB1anZqa0E?oc=5" target="_blank" rel="noopener">환율 부담에도 버틴 D램…“SK하이닉스, 3분기 실적 기대치 부합할 것”</a> <span style="color:var(--muted)">· 매일경제 마켓</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IQ3JqZGY0TGRma0NWZ2NoaUE4V3FmaHU2Q2RtMVR0b195TDFXSkVkZ3pGNm9jN0k2NGxYcmlHR3FsZWFRZ0JMeHpTSndLX1N5SWdFU0tid3F0UVp3?oc=5" target="_blank" rel="noopener">[리포트 브리핑]SK하이닉스, &#x27;컨센서스에 부합&#x27; 목표가 3,600,000원 - 하나증권</a> <span style="color:var(--muted)">· 뉴스핌</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jSXpieW5xY2FCRXM4a0hzZFRxVEthLWczcWd6X3lLZUJ4aHlSSjlUS2hQTTFUZllSTVlLNjJGQ2NXaFk1Ni1IanRtaVZ4dzYxTGc?oc=5" target="_blank" rel="noopener">주가는 연일 떨어지는데…SK하이닉스 목표가 400만원 유지하는 이유</a> <span style="color:var(--muted)">· 매일경제 마켓</span></h3></div></li><li><div><h3><span class="chip up">🟢 호재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE03WHc5OHB2RnFBWkdTZGQ1Z3U4cGR6TWFBcWhxUWdFU2NSQTA2dzg0SE43bHJHaFJRRVE3b0JSUmlIdGFId1JtZVJEbTJ5eU0yREpUVjE5RVhmZUdYLWhrTkFMR3hTcm1BM3A3MUNXbk5iUm5k?oc=5" target="_blank" rel="noopener">&quot;내년 영업익 405조&quot; SK하이닉스, 증권가 낙관론에도 마이크론보다 저평가</a> <span style="color:var(--muted)">· 조세일보</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5GMjA5OHhsNlIyeVNUX0JQaGgwSzRnbTJFaWJTM2pmU1BpM21vakU0OXZhaTdVVDY3ZnNOZjFHUHpPWDAzSnV3NEt3SVd2NF9rajRjQl9xT2tjRkExVGs4RHhVNXBoT0hiUXR4MA?oc=5" target="_blank" rel="noopener">이익률 80% 넘보는 K-메모리…SK하이닉스로 이어질까</a> <span style="color:var(--muted)">· 비즈워치</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQSThYME03R2hEaC1lamRDNGpIX01qdFV5SXlFSHE4TlJaVE5GSUNIS0NtcEJKdGRUTkR4TWVkYmt6cHVYcFQ3Q01VSDl3Q0YwZHNsOG5uX2hSeGppSVNNdE1mRWJ1LXNueFQyNEFrTlMtQXh0b2NrUlNZZE14REJIbEZLa25Xc1k?oc=5" target="_blank" rel="noopener">미국 제조업 4540조원 투자계획…현대제철은 부지 공사, SK하이닉스는 기공식</a> <span style="color:var(--muted)">· 글로벌이코노믹</span></h3></div></li><li><div><h3><span class="chip down">🔴 악재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDRCOHJ2Rjd4a0tVcGNleWo4RFNOdTJ4cE1tVkMwcGNkOTBBN19nbldXZ3FiZGVHcnUxNjJZZGJNbnBWd2tRRDBZekJ0dmttak9rS0VaTC1FTmVGU3dQb0JvbGVrMDNaR1U1TXZXMFhGYjZsZFNaa1ltb2FQOHh1QU9VYktiTjhj?oc=5" target="_blank" rel="noopener">中 CXMT 차세대 메모리 기술 진전에 마이크론·SK하이닉스 주가 동반 하락</a> <span style="color:var(--muted)">· 글로벌이코노믹</span></h3></div></li></ol>
+<h2><span class="no">03</span>최신 뉴스 Top 10 <small style="font-size:12px;font-weight:500;color:var(--muted)">SK하이닉스 실시간 뉴스 · 구글 뉴스 자동 수집 · <span id="news-feed-when">수집 2026-10-13 09:38 KST</span></small></h2>
+<ol class="news" id="news-feed"><li><div><h3><span class="chip down">🔴 악재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQnhhaEM2cXJBdWxRaFpsODF2ZmdfbDY3RnpqUWUteElnaWxwVWU2YnRCbEMtdHN6ZHJpU3N3b29heDhmUVQ2MHRlNVlSNkNRS2RSWTNTYnFBNGUyRElYYU5JRFlFaTVDV2Vkbmt6NEs5SUxFU0ZoQ2dpWndFY2s3bmdpd01SUFoy?oc=5" target="_blank" rel="noopener">[특징주] 삼성전자·SK하이닉스, 중국발 기술 추격 우려.. &#x27;약세&#x27;</a> <span style="color:var(--muted)">· 글로벌이코노믹</span></h3></div></li><li><div><h3><span class="chip down">🔴 악재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iWHF6blNzSHhBdWVhcjlTUk5jakZYMXRVeTVfUGxWRmVlMDJ1RkZLRnZ1ZC16dkx2QVFMRE5GZUl2dV9GZVNQYXd5cmI2QnVQV2VGZElKZG8tcFE?oc=5" target="_blank" rel="noopener">[특징주] 삼성전자·SK하이닉스 동반 급락…美 반도체주 약세</a> <span style="color:var(--muted)">· 에너지경제신문</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxOemo4VDE4cGFnNV83aDZJSW1kUDZGYlNTX3Nya2ZxM2Zua3RSMmdZeTZ0VU5jaFE1WmhtbjdUX0drQWF2U2o5R1VlVXJveGV2VlkyTDl4Z0lJODZNdXR6SlFPZmJyWHJHai01cWN6Q2hMV3BfMVB3ckt2NXFoeVJ6LTlBdw?oc=5" target="_blank" rel="noopener">SK하이닉스는 잡음 끊이지 않는 &#x27;솔리다임 상장&#x27; 왜 밀어붙일까</a> <span style="color:var(--muted)">· 인베스트조선</span></h3></div></li><li><div><h3><span class="chip down">🔴 악재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5UQS1mR1R1dWFabi1QTEc1OTBqVWJQTURoVl94LWRiMG1hMHBtMlRtWlFEOGw5OEd1d0dvNktCWmNUVnhZQ1k2VkpBdGkyNzFEdWY1aVFFWkV0UmNPOW9EVVNfck0?oc=5" target="_blank" rel="noopener">코스피, 6200선 밑으로 출발…삼성전자·SK하이닉스 약세</a> <span style="color:var(--muted)">· 매일일보</span></h3></div></li><li><div><h3><span class="chip up">🟢 호재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqbjhTWS12VXRNR3BEa3hocU9TNzJFSGF2MXpCVUVYY1psdkZEUHBjVjE0SWhfTzFOOXg4V1EzamhjNFhmRmRyd1oyZGwwdW5fa3RBSHBONjVNOW5POFJPbGg2dDk0ZXIy0gFuQVVfeXFMTU5SVENrSGZ6TndTUjlUeXNUMy1RXzdOWXZEWFZQVllfbFNPNkluQkZEM2M3eWdqTnRmeGZBb05fUC1nMWsyV1YzZFdzU2VCTFpvWWszWmZPS2g4VC1Cd2I3aThVajZmSG40YUtwSnc?oc=5" target="_blank" rel="noopener">&quot;SK하이닉스 올해 실적 전망치 상향조정…영업이익 405조&quot;-하나 - 머니투데이</a> <span style="color:var(--muted)">· 머니투데이</span></h3></div></li><li><div><h3><span class="chip up">🟢 호재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aa2F1ZG1vQ2RNa1FpNnhmTW9uQ3ZCRnBmQlFDLWtRUV83QVNhQ0hMb3ZHUFJLVFVmWXNzRmFkcVRKTHd2RGN6MFlRUHB1anZqa0E?oc=5" target="_blank" rel="noopener">환율 부담에도 버틴 D램…“SK하이닉스, 3분기 실적 기대치 부합할 것”</a> <span style="color:var(--muted)">· 매일경제 마켓</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IQ3JqZGY0TGRma0NWZ2NoaUE4V3FmaHU2Q2RtMVR0b195TDFXSkVkZ3pGNm9jN0k2NGxYcmlHR3FsZWFRZ0JMeHpTSndLX1N5SWdFU0tid3F0UVp3?oc=5" target="_blank" rel="noopener">[리포트 브리핑]SK하이닉스, &#x27;컨센서스에 부합&#x27; 목표가 3,600,000원 - 하나증권</a> <span style="color:var(--muted)">· 뉴스핌</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jSXpieW5xY2FCRXM4a0hzZFRxVEthLWczcWd6X3lLZUJ4aHlSSjlUS2hQTTFUZllSTVlLNjJGQ2NXaFk1Ni1IanRtaVZ4dzYxTGc?oc=5" target="_blank" rel="noopener">주가는 연일 떨어지는데…SK하이닉스 목표가 400만원 유지하는 이유</a> <span style="color:var(--muted)">· 매일경제 마켓</span></h3></div></li><li><div><h3><span class="chip up">🟢 호재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WVjhHZUQxemE3azlHM3BZVkJJTWxwUUE2Qnk4b3p4NDdPMVZyTjctbjNsLXU5bDd3VTNuRzN4dHQzLTFFakVCMnZmWVJPZEZGVVZHNjVwM1VnSi1samE0?oc=5" target="_blank" rel="noopener">&quot;내년 영업익 405조&quot; SK하이닉스, 증권가 낙관론에도 마이크론보다 저평가</a> <span style="color:var(--muted)">· 조세일보</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-13</span> <a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5GMjA5OHhsNlIyeVNUX0JQaGgwSzRnbTJFaWJTM2pmU1BpM21vakU0OXZhaTdVVDY3ZnNOZjFHUHpPWDAzSnV3NEt3SVd2NF9rajRjQl9xT2tjRkExVGs4RHhVNXBoT0hiUXR4MA?oc=5" target="_blank" rel="noopener">이익률 80% 넘보는 K-메모리…SK하이닉스로 이어질까</a> <span style="color:var(--muted)">· 비즈워치</span></h3></div></li></ol>
 <p style="color:var(--muted);font-size:12px;margin-top:6px">※ 구글 뉴스에서 'SK하이닉스' 최신 기사를 자동 수집해 날짜순으로 표시합니다. 신호등(🟢 호재 / 🔴 악재 / ⚪ 중립)은 제목 키워드 기반 자동 분류로 참고용입니다. 웹 페이지에서는 실시간 갱신됩니다.</p>
 </section>
 
@@ -710,7 +719,7 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <text x="516.2" y="442" font-size="11" font-weight="600" fill="#898781" text-anchor="middle">컨센서스 322만</text>
 <text x="24" y="486" font-size="10.5" fill="#898781">출처: 뉴스핌(교보·미래에셋)·newsspace(맥쿼리)·한국경제(9/3 컨센서스)·Investing.com·조선비즈(메리츠, 10/12)</text>
 </svg></div>
-<p>컨센서스 목표주가 <strong>322만 원</strong>은 10/12 종가(160.5만) 대비 <strong>+100.6%</strong> 괴리입니다. 헤드라인 기준 메리츠증권은 10/12 목표주가를 320만원으로 상향했고(조선비즈·매일경제), SK증권은 400만원을 제시했고(뉴스핌, 10/12), 하나증권 360만원 "컨센서스 부합"(뉴스핌, 10/13)·유진투자증권 370만원(뉴스핌, 10/8)·IBK증권 400만원 유지가 거론됐습니다. DS투자증권은 9/29 원화 강세를 이유로 264만원으로 하향했고 대신증권은 320만원을 유지했습니다. 목표주가 괴리는 확대되고 있으나 주가는 종가 기준 4거래일 연속 반응하지 않고 있습니다.</p>
+<p>컨센서스 목표주가 <strong>322만 원</strong>은 10/12 종가(160.5만) 대비 <strong>+100.6%</strong> 괴리입니다(≈09:19 지연 시세 150.6만 기준 +113.8%). 헤드라인 기준 메리츠증권은 10/12 목표주가를 320만원으로 상향했고(조선비즈·매일경제), SK증권은 400만원을 제시했고(뉴스핌, 10/12), 하나증권 360만원 "컨센서스 부합"(뉴스핌, 10/13)·유진투자증권 370만원(뉴스핌, 10/8)·IBK증권 400만원 유지가 거론됐습니다. DS투자증권은 9/29 원화 강세를 이유로 264만원으로 하향했고 대신증권은 320만원을 유지했습니다. 목표주가 괴리는 확대되고 있으나 주가는 종가 기준 4거래일 연속 반응하지 않고 있습니다.</p>
 </section>
 
 <section>
@@ -718,10 +727,10 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <div class="tablewrap">
 <table class="bullbear">
   <tr><th style="color:var(--up)">투자 포인트 (Bull)</th><th style="color:var(--down)">리스크 요인 (Bear)</th></tr>
-  <tr><td>컨센서스 괴리 <strong>+100.6%</strong>, 메리츠 3Q 영업익 80조 전망·목표가 320만원 상향, 유진 370만·IBK 400만 등 목표주가 유지 보도</td><td>종가 기준 4거래일 연속 하락(10/2 대비 -12.8%), 10/12 160.5만 일중 저가 마감, DMI -DI 우위·MACD 시그널 하회, 외국인 매도</td></tr>
+  <tr><td>컨센서스 괴리 <strong>+100.6%</strong>, 메리츠 3Q 영업익 80조 전망·목표가 320만원 상향, 유진 370만·IBK 400만 등 목표주가 유지 보도</td><td>종가 기준 4거래일 연속 하락(10/2 대비 -12.8%)에 이어 10/13 갭다운·≈09:19 -6.17%, DMI -DI 우위·MACD 시그널 하회, 외국인 매도</td></tr>
   <tr><td>메모리 재고 10일 미만, 내년 사상 초유 공급부족 전망, 최대 실적 예고 보도</td><td>ADX 9.6로 추세 강도 매우 약함, ADR 락업 해제 임박·38% 프리미엄 매물 우려, 솔리다임 상장 관련 주주가치 훼손 논란</td></tr>
   <tr><td>HBM4 공급가 급등 확정, KDJ 과매도 구간(기술적 반등 여지)</td><td>ATR 5.0%로 변동성 큼, 10/12 미국장 SOX -2.67%·마이크론 -3.88% 약세, 야간선물 -2.05%, 집단 산재 신청 등 ESG 이슈</td></tr>
-  <tr><td>솔리다임 IPO 추진(가치 재평가 기대)·로봇용 D램 수요 전망(2030년 20배)</td><td>호재성 보도에도 일중 저가 마감(호재 둔감)</td></tr>
+  <tr><td>솔리다임 IPO 추진(가치 재평가 기대)·로봇용 D램 수요 전망(2030년 20배)</td><td>호재성 보도에도 갭다운·낙폭 확대(호재 둔감), 헤드라인 기준 중국발 기술 추격 우려</td></tr>
 </table>
 </div>
 </section>
@@ -729,19 +738,19 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <section>
 <h2><span class="no">08</span>투자 판단</h2>
 <div class="verdict" style="border-left-color:var(--neutral)">
-  <div class="head">의견: <em style="color:var(--neutral)">중립 (유지)</em> <small>· 10/12 종가 기준 판정 유지(오늘 장중 변경 없음) · 전일 종가 160.5만(-4.52%) · 판정은 종가 기준으로만 변경</small></div>
+  <div class="head">의견: <em style="color:var(--neutral)">중립 (유지)</em> <small>· 10/12 종가 기준 판정 유지(오늘 장중 변경 없음) · 현재 150.6만(-6.17%, ≈09:19 지연) · 판정은 종가 기준으로만 변경</small></div>
   <div class="tablewrap" style="margin-bottom:10px">
   <table class="factors">
     <tr><th>요소</th><th>방향</th><th>근거</th></tr>
-    <tr><td>① 추세/모멘텀</td><td class="num" style="color:var(--down)">부정(약화)</td><td>종가 기준 4거래일 연속 하락·10/12 종가 일중 저가 마감(-4.52%). 15:14 집계 기준 MACD 시그널 하회(-2.09만)·DMI -DI 우위(-13.9)·KDJ 격차 -13.3(과매도 구간, 종가 미반영)</td></tr>
-    <tr><td>② 밸류에이션 갭</td><td class="num" style="color:var(--up)">상승여력</td><td>컨센서스 322만원 대비 10/12 종가 160.5만원 — 괴리율 <strong>+100.6%</strong></td></tr>
-    <tr><td>③ 촉매</td><td class="num" style="color:var(--neutral)">중립</td><td>우호: 하나증권 실적 전망치 상향 보도(머니투데이, 10/13)·메리츠 3Q 영업익 80조 전망·목표가 320만원, AMD HBM 협력 강화 보도(테크월드), SK증권 목표가 400만원 리포트(뉴스핌), 최대 실적 예고, 로봇용 D램 수요 전망, 유진 370만·IBK 400만. 경계: 10/12 미국 반도체 약세(SOX -2.67%·마이크론 -3.88%), CXMT 차세대 D램 개발 진전 보도(Investing.com), ADR 락업 해제·38% 프리미엄 매물 우려, 솔리다임 주주가치 논란, 외국인 매도. 호재에도 일중 저가 마감(호재 둔감)해 우호·경계가 상쇄된다고 보고 중립 유지(방향 변경은 종가 기준 다수 세션 확인 후)</td></tr>
+    <tr><td>① 추세/모멘텀</td><td class="num" style="color:var(--down)">부정(약화)</td><td>종가 기준 4거래일 연속 하락·10/12 종가 일중 저가 마감(-4.52%), 오늘 갭다운 후 낙폭 확대(≈09:19 -6.17%). 10/12 15:14 집계 기준 MACD 시그널 하회(-2.09만)·DMI -DI 우위(-13.9)·KDJ 격차 -13.3(과매도 구간, 종가 미반영)</td></tr>
+    <tr><td>② 밸류에이션 갭</td><td class="num" style="color:var(--up)">상승여력</td><td>컨센서스 322만원 대비 10/12 종가 160.5만원 — 괴리율 <strong>+100.6%</strong>(≈09:19 지연 시세 150.6만 기준 +113.8%)</td></tr>
+    <tr><td>③ 촉매</td><td class="num" style="color:var(--neutral)">중립</td><td>우호: 하나증권 실적 전망치 상향 보도(머니투데이, 10/13)·메리츠 3Q 영업익 80조 전망·목표가 320만원, AMD HBM 협력 강화 보도(테크월드), SK증권 목표가 400만원 리포트(뉴스핌), 최대 실적 예고, 로봇용 D램 수요 전망, 유진 370만·IBK 400만. 경계: 중국발 기술 추격 우려·美 반도체주 약세 "특징주" 보도(글로벌이코노믹·에너지경제, 10/13), 10/12 미국 반도체 약세(SOX -2.67%·마이크론 -3.88%), CXMT 차세대 D램 개발 진전 보도(Investing.com), ADR 락업 해제·38% 프리미엄 매물 우려, 솔리다임 주주가치 논란, 외국인 매도. 호재에도 일중 저가 마감(호재 둔감)해 우호·경계가 상쇄된다고 보고 중립 유지(방향 변경은 종가 기준 다수 세션 확인 후)</td></tr>
     <tr><td>④ 산업 사이클</td><td class="num" style="color:var(--up)">개선</td><td>HBM4 공급가 급등 확정·메모리 재고 부족 구조 유지, 3Q26 이익 전망 상향 흐름 지속(메리츠 80조 전망 보도)</td></tr>
   </table>
   </div>
   <ul>
     <li><strong>종합: 긍정 2개(②④)·중립 1개(③)·부정 1개(①) → 중립 유지.</strong> 판정 규칙(2026-10-07 명문화)의 표는 종가마다 한 번만 적용합니다. 10/12 종가 적용 결과 중립을 유지하며, 오늘 아침 시점에는 이 판정만 언급하고 변경 여부는 15:30 확정 종가에서 점검합니다.</li>
-    <li><strong>전일 확정:</strong> 10/12 시가 164.0만→고가 165.3만→저가 160.5만→종가 160.5만(-4.52%, 트레이딩뷰 피드·quote.json 15:30 확정). 오늘 개장 직후 시세는 확인 불가입니다.</li>
+    <li><strong>전일 확정:</strong> 10/12 시가 164.0만→고가 165.3만→저가 160.5만→종가 160.5만(-4.52%, quote.json 15:30 확정). <strong>오늘(≈09:19 지연):</strong> 시가 153.8만→고가 155.4만→저가 150.4만→현재 150.6만(-6.17%, 10/12 종가 기준).</li>
     <li><strong>매수 복귀 조건:</strong> 중립 상태에서 매수 진입은 긍정 3개 이상·부정 0개가 필요합니다. 즉 ①이 부정에서 중립 이상으로 개선(종가 기준 DMI 재역전·MACD 시그널 상회·KDJ 반등이 다수 세션 확인)되고 ③이 긍정으로 복귀해야 합니다. <strong>매도 전환 조건:</strong> 부정 3개 이상·긍정 0개(현재는 해당 없음).</li>
     <li><strong>판정은 종가 기준으로만 변경합니다.</strong> 장중 시세·해외 변수는 서술로만 참고합니다.</li>
   </ul>
