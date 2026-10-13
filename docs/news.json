@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-13 10:26 KST",
+ "fetchedAt": "2026-10-13 10:39 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "코스피 5%대 급락, 매도 사이드카...삼성전자·SK하이닉스 동반 급락",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wcDNzTFd1bXhZVHYyZXlVRUxfeGFUeWw0TVQ4c3RBUDRvenRoMEJOV0lxT044YUoybWtjUG44TkcxOExzTDFtVE9OOU1HY1haVFpGRHBMZmVqdElUejdHdzFlT21nRlhpbHNSR0lMcUR5RlAz?oc=5",
-   "source": "조세일보",
+   "title": "‘중국발 반도체 쇼크’로 SK하이닉스 8%대, 삼성전자 6%대 급락… 매도 사이드카 발동",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDUlJxVDI1QzBHNW1OM3F4NHJSMURfN3Fadi1IUmZjQmNZdUNjYkRkUjJhLXZfamhPRDZneWdIQUFoZTZFd1NWWG5OdG0zTWl4RUgyMzJGSkpneXdvdlZxcUFZSzc0M3EzU2UxSEl3?oc=5",
+   "source": "주간동아",
    "date": "2026-10-13",
-   "datetime": "2026-10-13 10:21 KST",
+   "datetime": "2026-10-13 10:29 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
