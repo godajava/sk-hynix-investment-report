@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-13 11:18 KST",
+ "fetchedAt": "2026-10-13 11:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -76,11 +76,11 @@
    }
   },
   {
-   "title": "[특징주] 삼전·닉스, 5~6% 급락…'23만 전자·150만 닉스'로",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMT3lQM2ZJWEtVbVd2RHF1Q3lUanRDTExNWDJYenZGNmtlaGRJVXZGdVdva2ZwT0wwbU9EeEg4MGhHTHJKVTRSQlNnbkwxcFplemZfVXFUUlNlNUU0eDZUaNIBYEFVX3lxTFBMT3lQM2ZJWEtVbVd2RHF1Q3lUanRDTExNWDJYenZGNmtlaGRJVXZGdVdva2ZwT0wwbU9EeEg4MGhHTHJKVTRSQlNnbkwxcFplemZfVXFUUlNlNUU0eDZUaA?oc=5",
-   "source": "연합뉴스",
+   "title": "주가 하락에도…하나證, SK하이닉스 목표가 360만원 유지",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96YWdTalZpRFpGZ0Vqb25WRmRfVlkwSDRkb3NLTWxELWFia19SOTVLaThjUDk2R3NrV29MUEJweXloS3JxZms5Z0pnSUdhM1pvX29Gdmk0bldmbEVaMkZLQ2FEemxoYTlIWnZz0gFuQVVfeXFMTkZPZ3NDalRhSkxkUFJDRDJ1akNnWWJCTi13QmxkOXNjVXlqWmh3bF83aGdVMnJlLWJNVjdocGFJWV94OFVYMmtuampIeFpoSkdGbmx5TFFBb01DR2d0cjhzTllzeUJYOGEtS3FwVWc?oc=5",
+   "source": "뉴시안",
    "date": "2026-10-13",
-   "datetime": "2026-10-13 09:20 KST",
+   "datetime": "2026-10-13 09:31 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
