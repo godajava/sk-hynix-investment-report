@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-13 10:39 KST",
+ "fetchedAt": "2026-10-13 11:18 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -25,6 +25,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "코스피, 4% 넘게 밀려 6,100선 위협…SK하이닉스 5%대 급락",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHOUU5OExzd1NiN3hpdjkzLWI4YVBCRVhrMG16ZVBtNWdFV3o4ZG5QbXJtMVJtNmlyckptQi1ObmRjNm5TWUYwX2tyNUNMSDlpTFBtamc5TWhIcGF1MkE?oc=5",
+   "source": "뉴스투데이",
+   "date": "2026-10-13",
+   "datetime": "2026-10-13 09:56 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   },
   {
@@ -57,6 +69,18 @@
    "source": "글로벌이코노믹",
    "date": "2026-10-13",
    "datetime": "2026-10-13 09:34 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "[특징주] 삼전·닉스, 5~6% 급락…'23만 전자·150만 닉스'로",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMT3lQM2ZJWEtVbVd2RHF1Q3lUanRDTExNWDJYenZGNmtlaGRJVXZGdVdva2ZwT0wwbU9EeEg4MGhHTHJKVTRSQlNnbkwxcFplemZfVXFUUlNlNUU0eDZUaNIBYEFVX3lxTFBMT3lQM2ZJWEtVbVd2RHF1Q3lUanRDTExNWDJYenZGNmtlaGRJVXZGdVdva2ZwT0wwbU9EeEg4MGhHTHJKVTRSQlNnbkwxcFplemZfVXFUUlNlNUU0eDZUaA?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-13",
+   "datetime": "2026-10-13 09:20 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -97,30 +121,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "\"SK하이닉스 올해 실적 전망치 상향조정…영업이익 405조\"-하나 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBqbjhTWS12VXRNR3BEa3hocU9TNzJFSGF2MXpCVUVYY1psdkZEUHBjVjE0SWhfTzFOOXg4V1EzamhjNFhmRmRyd1oyZGwwdW5fa3RBSHBONjVNOW5POFJPbGg2dDk0ZXIy0gFuQVVfeXFMTU5SVENrSGZ6TndTUjlUeXNUMy1RXzdOWXZEWFZQVllfbFNPNkluQkZEM2M3eWdqTnRmeGZBb05fUC1nMWsyV1YzZFdzU2VCTFpvWWszWmZPS2g4VC1Cd2I3aThVajZmSG40YUtwSnc?oc=5",
-   "source": "머니투데이",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 08:57 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "환율 부담에도 버틴 D램…“SK하이닉스, 3분기 실적 기대치 부합할 것”",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aa2F1ZG1vQ2RNa1FpNnhmTW9uQ3ZCRnBmQlFDLWtRUV83QVNhQ0hMb3ZHUFJLVFVmWXNzRmFkcVRKTHd2RGN6MFlRUHB1anZqa0E?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 08:50 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
