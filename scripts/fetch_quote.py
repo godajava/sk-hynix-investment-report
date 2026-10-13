@@ -244,6 +244,12 @@ def main():
     prev, prev_src, warn = pick_prev(days, market_date, tv_prev_close())
     if warn:
         warnings.append(warn)
+    # 복원한 전일 봉은 야후 분봉이 종가단일가 전에 멈출 수 있으므로 검증된 전일 종가로 맞춘다
+    if prev_src == "tradingview" and len(days) >= 2 and days[-2].get("synthetic") \
+            and days[-1]["date"] == market_date:
+        days[-2]["close"] = prev
+        days[-2]["high"] = max(days[-2]["high"], prev)
+        days[-2]["low"] = min(days[-2]["low"], prev)
     # 진단 로그(Actions 로그에서 확인): 최근 일봉 6개
     for d in days[-6:]:
         print("  일봉", d["date"], d["open"], d["high"], d["low"], d["close"], d["volume"],
