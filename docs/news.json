@@ -1,8 +1,56 @@
 {
- "fetchedAt": "2026-10-13 09:38 KST",
+ "fetchedAt": "2026-10-13 10:26 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "코스피 5%대 급락, 매도 사이드카...삼성전자·SK하이닉스 동반 급락",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8wcDNzTFd1bXhZVHYyZXlVRUxfeGFUeWw0TVQ4c3RBUDRvenRoMEJOV0lxT044YUoybWtjUG44TkcxOExzTDFtVE9OOU1HY1haVFpGRHBMZmVqdElUejdHdzFlT21nRlhpbHNSR0lMcUR5RlAz?oc=5",
+   "source": "조세일보",
+   "date": "2026-10-13",
+   "datetime": "2026-10-13 10:21 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "삼성·SK하이닉스, 美 50억달러 연구동맹…차세대 반도체 공동 개발",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBocFljQWljRExIQVhyWGRMYmtUaUo1VGY0aWhDTHo1X2ZuM1FOQ0RxeTJwdjduZGtBMXhlXzIzZ1k3SnpCREMzWVNacTVrNGFwUXJveENQa3FWX2pi?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-13",
+   "datetime": "2026-10-13 10:02 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "'CXMT의 추격' 반도체 투심 위축…삼성전자 4%, SK하이닉스 5% 급락[핫종목]",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QZVZaVWwwcXozZDFIQV9QckZlVHZ3NXBheHFDMVZ5eXctQUktRVNWYm9uQTQ1T2d2N3RFd25ONnpiVkJqTXNJekVSZlp0WldoTFI5RHkzTEhlMkRwOHBv?oc=5",
+   "source": "뉴스1",
+   "date": "2026-10-13",
+   "datetime": "2026-10-13 09:49 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "2182조 사라진 코스피, 69%는 '반도체 투톱' … SK하이닉스만 908조",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fWXVCOUo4ZVhsTnEyVjdRSlREVnBzNVVZb1JiUHhiQ0lyMS1kSlIzQXhIenRuQmhzcXJ6RDhqazZWaVh2TW56NkFKa1NKV2JEakZfc015T3AxWmlGczY2LXZKVF9IcTRpY3ZOcWdIaGpncGYtc3JpSVVzUdIBgAFBVV95cUxPY2hXSVJvNlc3TnM4NGZXR0ZfSlk1UzQ0RXVqMGhmQ2RJUGI5cnRzV0FGRFQ5aDdkZFpmTDE5RVRkS21uVVoxM2JYMURPY2tLZnU1SHJsckFUTEE5YUs5c2g5SlNLZl9USzZCZ2NQdjNIQVdhX2JKRFNxWWVvN2dBVA?oc=5",
+   "source": "뉴데일리",
+   "date": "2026-10-13",
+   "datetime": "2026-10-13 09:36 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "[특징주] 삼성전자·SK하이닉스, 중국발 기술 추격 우려.. '약세'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQnhhaEM2cXJBdWxRaFpsODF2ZmdfbDY3RnpqUWUteElnaWxwVWU2YnRCbEMtdHN6ZHJpU3N3b29heDhmUVQ2MHRlNVlSNkNRS2RSWTNTYnFBNGUyRElYYU5JRFlFaTVDV2Vkbmt6NEs5SUxFU0ZoQ2dpWndFY2s3bmdpd01SUFoy?oc=5",
@@ -73,54 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[리포트 브리핑]SK하이닉스, '컨센서스에 부합' 목표가 3,600,000원 - 하나증권",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IQ3JqZGY0TGRma0NWZ2NoaUE4V3FmaHU2Q2RtMVR0b195TDFXSkVkZ3pGNm9jN0k2NGxYcmlHR3FsZWFRZ0JMeHpTSndLX1N5SWdFU0tid3F0UVp3?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 08:33 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "주가는 연일 떨어지는데…SK하이닉스 목표가 400만원 유지하는 이유",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jSXpieW5xY2FCRXM4a0hzZFRxVEthLWczcWd6X3lLZUJ4aHlSSjlUS2hQTTFUZllSTVlLNjJGQ2NXaFk1Ni1IanRtaVZ4dzYxTGc?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 08:24 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"내년 영업익 405조\" SK하이닉스, 증권가 낙관론에도 마이크론보다 저평가",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WVjhHZUQxemE3azlHM3BZVkJJTWxwUUE2Qnk4b3p4NDdPMVZyTjctbjNsLXU5bDd3VTNuRzN4dHQzLTFFakVCMnZmWVJPZEZGVVZHNjVwM1VnSi1samE0?oc=5",
-   "source": "조세일보",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 08:02 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "이익률 80% 넘보는 K-메모리…SK하이닉스로 이어질까",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GMjA5OHhsNlIyeVNUX0JQaGgwSzRnbTJFaWJTM2pmU1BpM21vakU0OXZhaTdVVDY3ZnNOZjFHUHpPWDAzSnV3NEt3SVd2NF9rajRjQl9xT2tjRkExVGs4RHhVNXBoT0hiUXR4MA?oc=5",
-   "source": "비즈워치",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 07:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
