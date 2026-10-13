@@ -215,7 +215,7 @@ def target_prices(d, out):
         p.append(f'<text x="{X(r["value"]) + 8:.1f}" y="{y + bh / 2 + 4}" font-size="11.5" font-weight="600" '
                  f'fill="{INK2}" style="font-variant-numeric:tabular-nums">{esc(label)}</text>')
     p.append(f'<line x1="{L}" y1="{T - 6}" x2="{L}" y2="{plot_b}" stroke="{BASELINE}" stroke-width="1"/>')
-    for v, name, color in ((cur, "현재가", INK), (cons, "컨센서스", MUTED)):
+    for v, name, color in ((cur, "현재가", INK), (cons, d["target_prices"].get("consensus_label", "컨센서스"), MUTED)):
         x = X(v)
         p.append(f'<line x1="{x:.1f}" y1="{T - 6}" x2="{x:.1f}" y2="{plot_b}" stroke="{color}" '
                  f'stroke-width="1.5" stroke-dasharray="4 3"/>')

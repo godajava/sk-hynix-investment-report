@@ -303,7 +303,7 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
   <div><div class="k">투자의견</div><div class="v" style="color:var(--neutral)">중립 <small style="color:var(--ink-2)">(유지 · 10/12 종가 기준 긍정 2·중립 1·부정 1)</small></div></div>
   <div><div class="k"><span id="live-label">현재가</span> <small id="live-when">(10/13 10:19 지연 시세·야후)</small></div><div class="v"><span id="live-price">147.2</span><small>만 원</small> <span id="live-chg" style="font-size:12.5px;font-weight:700;color:var(--down)">▼8.29%</span></div></div>
   <div><div class="k">2Q 영업이익 <small>(확정)</small></div><div class="v">60.5<small>조 원</small></div></div>
-  <div><div class="k">상승여력 <small>(컨센서스 323.2만·10/12 종가 기준)</small></div><div class="v">+101.4%</div></div>
+  <div><div class="k">상승여력 <small>(최근 1개월 6곳 평균 352.3만·10/12 종가 기준)</small></div><div class="v">+119.5%</div></div>
   <div><div class="k">오늘(10/13) 관건</div><div class="v" style="font-size:15px">147.0만(오늘 저가) 지지·153.8만(시가) 회복 여부</div></div>
 </div>
 <p class="asof">작성 2026-10-13 10:38 KST · <strong>장중 업데이트</strong>(현재가·OHLCV·기술지표는 야후 quote.json 10:19 기준의 20분 지연 시세 — 수집 로직 보강(10/13)으로 누락된 10/12 봉을 복원하고 전일 종가를 트레이딩뷰와 교차검증해 등락률은 10/12 확정 종가 160.5만 기준으로 정상 산출) · 기술지표는 복원한 10/12 봉(종가단일가 미반영)을 포함해 10/13 10:19 시점으로 계산 · 본 자료는 정보 제공 목적이며 투자 권유가 아닙니다</p>
@@ -1106,7 +1106,7 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <div class="chart"><svg xmlns="http://www.w3.org/2000/svg" width="760" height="386" viewBox="0 0 760 386" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="386" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
 <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">증권사 목표주가 vs 현재가</text>
-<text x="24" y="54" font-size="12" fill="#52514e">현재가는 10/12 확정 종가. 컨센서스는 최근 6개월 전체 증권사 평균(10/12 뉴스핌). 차트는 보도일 기준 최근 1개월(9/13~) 이내 목표가만 표시.</text>
+<text x="24" y="54" font-size="12" fill="#52514e">현재가는 10/12 확정 종가. 차트·평균은 보도일 기준 최근 1개월(9/13~) 이내 목표가를 낸 6곳의 단순 평균(352.3만).</text>
 <text x="120" y="101.0" font-size="12" fill="#0b0b0b" text-anchor="end">SK증권</text>
 <path d="M130,84 h499.7735849056603 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-499.7735849056603 z" fill="#2a78d6" opacity="1.0"/>
 <text x="641.8" y="101.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">400만 (10/12 유지)</text>
@@ -1128,12 +1128,12 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <line x1="130" y1="78" x2="130" y2="310" stroke="#c3c2b7" stroke-width="1"/>
 <line x1="332.1" y1="78" x2="332.1" y2="310" stroke="#0b0b0b" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="332.1" y="328" font-size="11" font-weight="600" fill="#0b0b0b" text-anchor="middle">현재가 160만</text>
-<line x1="537.1" y1="78" x2="537.1" y2="310" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
-<text x="537.1" y="328" font-size="11" font-weight="600" fill="#898781" text-anchor="middle">컨센서스 323만</text>
+<line x1="573.7" y1="78" x2="573.7" y2="310" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="573.7" y="328" font-size="11" font-weight="600" fill="#898781" text-anchor="middle">평균(6곳) 352만</text>
 <text x="24" y="372" font-size="10.5" fill="#898781">출처: 뉴스핌(SK증권·하나·유진·메리츠 리포트 브리핑)·조선비즈·Investing.com 보도 종합 (갱신일 2026-10-13, 1개월 초과 보도 제외)</text>
 </svg></div>
-<p style="color:var(--muted);font-size:12px;margin-top:6px">밸류에이션 갱신일: <strong>2026-10-13</strong>(직전 컨센서스 322만원은 9/3 한국경제 기준). 컨센서스는 뉴스핌 로보뉴스(SK증권 리포트 브리핑, 10/12)가 집계한 <strong>최근 6개월 전체 증권사 평균 목표가 3,232,083원</strong>이며, 집계 기간·방식(6개월 vs 12개월, 해외 IB 포함 여부)에 따라 다른 평균(예: 연합인포맥스 약 268만원, 약 4개월 전 기사)이 보도될 수 있습니다. <strong>차트에는 보도일 기준 최근 1개월(9/13~10/13) 이내 목표가만 표시</strong>하며, 1개월을 넘긴 리포트(예: 한국투자증권 470만원 7/30, KB증권 420만원 7/30 유지, 교보증권 400만원 7/9 등)는 제외했습니다. 6개월 평균 컨센서스에는 이런 오래된 리포트도 포함돼 있어 최근 1개월 개별 목표가의 평균과는 다릅니다.</p>
-<p>컨센서스 목표주가 <strong>323.2만 원</strong>은 10/12 종가(160.5만) 대비 <strong>+101.4%</strong> 괴리입니다(10:19 지연 시세 147.2만 기준 +119.6%). 최근 1개월 이내 개별 목표가는 헤드라인 기준 SK증권 400만원 유지(뉴스핌, 10/12)·IBK증권 400만원 유지(10/7)·유진투자증권 370만원(뉴스핌, 10/8)·하나증권 360만원 "컨센서스 부합"(뉴스핌, 10/13)·메리츠증권 320만원 상향(조선비즈·매일경제, 10/12)이며, DS투자증권은 9/29 원화 강세를 이유로 264만원으로 하향했습니다. 목표주가 괴리는 확대되고 있으나 주가는 종가 기준 4거래일 연속 반응하지 않고 있습니다.</p>
+<p style="color:var(--muted);font-size:12px;margin-top:6px">밸류에이션 갱신일: <strong>2026-10-13</strong>(직전 컨센서스 322만원은 9/3 한국경제 기준). <strong>차트에는 보도일 기준 최근 1개월(9/13~10/13) 이내 목표가를 낸 6곳만 표시하며, 평균 목표가도 이 6곳의 단순 평균(352.3만원)</strong>입니다. 1개월을 넘긴 리포트(예: 한국투자증권 470만원 7/30, KB증권 420만원 7/30 유지, 교보증권 400만원 7/9 등)는 평균에서도 제외했습니다. 참고로 뉴스핌 로보뉴스(SK증권 리포트 브리핑, 10/12)가 집계한 최근 6개월 전체 증권사 평균 목표가는 3,232,083원이며, 집계 기간·방식에 따라 다른 평균(예: 연합인포맥스 약 268만원, 약 4개월 전 기사)이 보도될 수 있습니다.</p>
+<p>최근 1개월 이내 6곳의 평균 목표주가 <strong>352.3만 원</strong>은 10/12 종가(160.5만) 대비 <strong>+119.5%</strong> 괴리입니다(10:19 지연 시세 147.2만 기준 +139.4%). 6곳은 헤드라인 기준 SK증권 400만원 유지(뉴스핌, 10/12)·IBK증권 400만원 유지(10/7)·유진투자증권 370만원(뉴스핌, 10/8)·하나증권 360만원 "컨센서스 부합"(뉴스핌, 10/13)·메리츠증권 320만원 상향(조선비즈·매일경제, 10/12)·DS투자증권 264만원(9/29 원화 강세를 이유로 하향)입니다. 표본이 6곳으로 적고 하향·상향 리포트가 섞여 있어 평균은 참고용입니다(6개월 전체 평균 323.2만원 대비 괴리율은 10/12 종가 기준 +101.4%). 목표주가 괴리는 확대되고 있으나 주가는 종가 기준 4거래일 연속 반응하지 않고 있습니다.</p>
 </section>
 
 <section>
@@ -1141,7 +1141,7 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <div class="tablewrap">
 <table class="bullbear">
   <tr><th style="color:var(--up)">투자 포인트 (Bull)</th><th style="color:var(--down)">리스크 요인 (Bear)</th></tr>
-  <tr><td>컨센서스 괴리 <strong>+101.4%</strong>, 메리츠 3Q 영업익 80조 전망·목표가 320만원 상향, 유진 370만·IBK 400만 등 목표주가 유지 보도</td><td>종가 기준 4거래일 연속 하락(10/2 대비 -12.8%)에 이어 10/13 갭다운·10:19 -8.29%, DMI -DI 우위·MACD 시그널 하회, 외국인 매도</td></tr>
+  <tr><td>목표가 평균(최근 1개월 6곳) 괴리 <strong>+119.5%</strong>, 메리츠 3Q 영업익 80조 전망·목표가 320만원 상향, 유진 370만·IBK 400만 등 목표주가 유지 보도</td><td>종가 기준 4거래일 연속 하락(10/2 대비 -12.8%)에 이어 10/13 갭다운·10:19 -8.29%, DMI -DI 우위·MACD 시그널 하회, 외국인 매도</td></tr>
   <tr><td>메모리 재고 10일 미만, 내년 사상 초유 공급부족 전망, 최대 실적 예고 보도</td><td>ADX 12.5로 추세 강도 약함, ADR 락업 해제 임박·38% 프리미엄 매물 우려, 솔리다임 상장 관련 주주가치 훼손 논란</td></tr>
   <tr><td>HBM4 공급가 급등 확정, KDJ 과매도 구간(기술적 반등 여지)</td><td>ATR 6.0%로 변동성 매우 큼, 10/12 미국장 SOX -2.67%·마이크론 -3.88% 약세, 야간선물 -2.05%, 집단 산재 신청 등 ESG 이슈</td></tr>
   <tr><td>솔리다임 IPO 추진(가치 재평가 기대)·로봇용 D램 수요 전망(2030년 20배)</td><td>호재성 보도에도 갭다운·낙폭 확대(호재 둔감), 헤드라인 기준 중국발 기술 추격 우려</td></tr>
@@ -1157,7 +1157,7 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
   <table class="factors">
     <tr><th>요소</th><th>방향</th><th>근거</th></tr>
     <tr><td>① 추세/모멘텀</td><td class="num" style="color:var(--down)">부정(약화)</td><td>종가 기준 4거래일 연속 하락·10/12 종가 일중 저가 마감(-4.52%), 오늘 갭다운 후 낙폭 확대(10:19 -8.29%). 10/13 10:19 잠정 MACD 시그널 하회(히스토그램 -3.40만)·DMI -DI 우위(-23.4)·KDJ 격차 -11.8(과매도 구간, 종가 미확정)</td></tr>
-    <tr><td>② 밸류에이션 갭</td><td class="num" style="color:var(--up)">상승여력</td><td>컨센서스 323.2만원 대비 10/12 종가 160.5만원 — 괴리율 <strong>+101.4%</strong>(10:19 지연 시세 147.2만 기준 +118.8%)</td></tr>
+    <tr><td>② 밸류에이션 갭</td><td class="num" style="color:var(--up)">상승여력</td><td>최근 1개월 6곳 평균 목표가 352.3만원 대비 10/12 종가 160.5만원 — 괴리율 <strong>+119.5%</strong>(10:19 지연 시세 147.2만 기준 +139.4%)</td></tr>
     <tr><td>③ 촉매</td><td class="num" style="color:var(--neutral)">중립</td><td>우호: 하나증권 실적 전망치 상향 보도(머니투데이, 10/13)·메리츠 3Q 영업익 80조 전망·목표가 320만원, AMD HBM 협력 강화 보도(테크월드), SK증권 목표가 400만원 리포트(뉴스핌), 최대 실적 예고, 로봇용 D램 수요 전망, 유진 370만·IBK 400만. 경계: "중국발 반도체 쇼크"·매도 사이드카 발동(주간동아)·CXMT 추격으로 투심 위축(뉴스1)·중국발 기술 추격 우려·美 반도체주 약세 "특징주" 보도(글로벌이코노믹·에너지경제, 10/13), 10/12 미국 반도체 약세(SOX -2.67%·마이크론 -3.88%), CXMT 차세대 D램 개발 진전 보도(Investing.com), ADR 락업 해제·38% 프리미엄 매물 우려, 솔리다임 주주가치 논란, 외국인 매도. 호재에도 일중 저가 마감(호재 둔감)해 우호·경계가 상쇄된다고 보고 중립 유지(방향 변경은 종가 기준 다수 세션 확인 후)</td></tr>
     <tr><td>④ 산업 사이클</td><td class="num" style="color:var(--up)">개선</td><td>HBM4 공급가 급등 확정·메모리 재고 부족 구조 유지, 3Q26 이익 전망 상향 흐름 지속(메리츠 80조 전망 보도)</td></tr>
   </table>
