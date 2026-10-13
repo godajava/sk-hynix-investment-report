@@ -9,6 +9,13 @@
 JSON으로 저장한다. GitHub Actions(quote.yml)가 장중 주기 실행해 Pages에
 배포하고, 아침 리포트 루틴은 전일 상세 시세 표를 채우는 데 사용한다.
 실패 시 비정상 종료해 기존 quote.json을 덮어쓰지 않는다.
+
+[2026-10-13 보강] 야후 일봉에서 직전 거래일 봉이 통째로 빠지는 경우가 확인됐다
+(10/12 봉 누락 → 전일 종가가 10/8로 잡혀 10/13 등락률이 -10.29%로 표시, 지표도 왜곡).
+  1) 일봉에 없는 거래일은 5분봉(range=5d)을 일 단위로 집계해 복원한다(synthetic=true).
+  2) 전일 종가를 트레이딩뷰 스캐너(KRX:000660의 close-change_abs)로 교차 검증하고,
+     야후 일봉 기반 값과 0.2% 넘게 다르면 트레이딩뷰 값을 쓴다(previousCloseSource).
+  3) 복원·보정 내역은 repairedDays / warnings 에 남긴다. 어느 보강이 실패해도 기존 동작은 유지.
 """
 import json
 import sys
@@ -17,6 +24,101 @@ import urllib.request
 
 URL = ("https://query1.finance.yahoo.com/v8/finance/chart/000660.KS"
        "?range=6mo&interval=1d")
+INTRADAY_URL = ("https://query1.finance.yahoo.com/v8/finance/chart/000660.KS"
+                "?range=5d&interval=5m")
+UA = {"User-Agent": "Mozilla/5.0"}
+PREV_MISMATCH = 0.002  # 야후 전일 종가 vs 트레이딩뷰 전일 종가 허용 오차(0.2%)
+
+
+def kst_date(t):
+    return time.strftime("%Y-%m-%d", time.gmtime(t + 9 * 3600))
+
+
+def parse_bars(ts, q):
+    """야후 chart 응답 → (유효 일봉 리스트, 종가 None인 날짜 리스트)."""
+    days, skipped = [], []
+    for i, t in enumerate(ts):
+        if q["close"][i] is None:
+            skipped.append(kst_date(t))
+            continue
+        days.append({
+            "date": kst_date(t),
+            "open": q["open"][i], "high": q["high"][i], "low": q["low"][i],
+            "close": q["close"][i], "volume": q["volume"][i],
+        })
+    return days, skipped
+
+
+def daily_from_intraday(ts, q):
+    """분봉 → KST 일자별 일봉 {date: bar}. 값이 None인 분봉은 건너뛴다."""
+    by = {}
+    for i, t in enumerate(ts):
+        c = q["close"][i]
+        if c is None:
+            continue
+        o = q["open"][i] if q["open"][i] is not None else c
+        h = q["high"][i] if q["high"][i] is not None else c
+        l = q["low"][i] if q["low"][i] is not None else c
+        v = q["volume"][i] or 0
+        d = kst_date(t)
+        b = by.get(d)
+        if b is None:
+            by[d] = {"date": d, "open": o, "high": h, "low": l, "close": c, "volume": v}
+        else:
+            b["high"] = max(b["high"], h)
+            b["low"] = min(b["low"], l)
+            b["close"] = c  # 시간순이므로 마지막 분봉 종가
+            b["volume"] += v
+    return by
+
+
+def merge_missing_days(days, intraday_days):
+    """일봉에 없는 거래일을 분봉 집계로 채운다. 반환: (병합 일봉, 복원 날짜 리스트)."""
+    have = {d["date"] for d in days}
+    first = days[0]["date"] if days else ""
+    added = []
+    for d, b in intraday_days.items():
+        if d not in have and d >= first:
+            nb = dict(b)
+            nb["synthetic"] = True
+            days.append(nb)
+            added.append(d)
+    days.sort(key=lambda x: x["date"])
+    return days, sorted(added)
+
+
+def pick_prev(days, market_date, tv_prev):
+    """전일 종가와 출처를 정한다. 야후 일봉 기반 값을 트레이딩뷰 값으로 교차 검증."""
+    if len(days) >= 2 and days[-1]["date"] == market_date:
+        prev = days[-2]["close"]
+    elif days and days[-1]["date"] != market_date:
+        prev = days[-1]["close"]
+    else:
+        prev = None
+    src = "yahoo-daily"
+    warn = None
+    if tv_prev:
+        if prev is None:
+            prev, src = tv_prev, "tradingview"
+        elif abs(prev - tv_prev) / tv_prev > PREV_MISMATCH:
+            warn = (f"전일 종가 불일치: 야후 일봉 기반 {prev:,.0f} vs 트레이딩뷰 {tv_prev:,.0f} "
+                    "→ 트레이딩뷰 값 사용")
+            prev, src = tv_prev, "tradingview"
+        else:
+            src = "yahoo-daily+tradingview-ok"
+    return prev, src, warn
+
+
+def tv_prev_close():
+    """트레이딩뷰 스캐너로 전일 종가(close - change_abs). 실패하면 None."""
+    try:
+        from fetch_night import tv_scan
+        r = tv_scan(["KRX:000660"], ["close", "change_abs"]).get("KRX:000660")
+        if r and r.get("close") and r.get("change_abs") is not None:
+            return float(r["close"]) - float(r["change_abs"])
+    except Exception as e:  # noqa: BLE001
+        print(f"[경고] 트레이딩뷰 전일 종가 조회 실패: {type(e).__name__}: {e}", file=sys.stderr)
+    return None
 
 
 def ema(vals, n):
@@ -107,7 +209,7 @@ def compute_indicators(days):
 def main():
     out = sys.argv[1] if len(sys.argv) > 1 else "docs/quote.json"
     history_out = sys.argv[2] if len(sys.argv) > 2 else None
-    req = urllib.request.Request(URL, headers={"User-Agent": "Mozilla/5.0"})
+    req = urllib.request.Request(URL, headers=UA)
     with urllib.request.urlopen(req, timeout=20) as r:
         data = json.load(r)
 
@@ -116,34 +218,42 @@ def main():
     ts = result.get("timestamp") or []
     q = result["indicators"]["quote"][0]
 
-    days = []
-    for i, t in enumerate(ts):
-        if q["close"][i] is None:
-            continue
-        days.append({
-            "date": time.strftime("%Y-%m-%d", time.gmtime(t + 9 * 3600)),  # KST
-            "open": q["open"][i], "high": q["high"][i], "low": q["low"][i],
-            "close": q["close"][i], "volume": q["volume"][i],
-        })
-
+    days, skipped = parse_bars(ts, q)
     price = meta.get("regularMarketPrice")
     if not price or not days:
         sys.exit("오류: 시세 데이터 없음")
 
-    # 전일 종가: 마지막 일봉이 당일(현재가와 같은 날) 봉이면 그 직전 봉의 종가.
-    # meta의 chartPreviousClose는 조회 범위(5d) 직전 종가라 사용하지 않는다.
-    market_date = time.strftime("%Y-%m-%d", time.gmtime(meta.get("regularMarketTime", 0) + 9 * 3600))
-    if len(days) >= 2 and days[-1]["date"] == market_date:
-        prev = days[-2]["close"]
-    elif days[-1]["date"] != market_date:
-        prev = days[-1]["close"]
-    else:
-        prev = None
+    warnings, repaired = [], []
+    if skipped:
+        warnings.append(f"야후 일봉 종가 None 건너뜀: {', '.join(skipped[-5:])}")
+
+    # 일봉에서 빠진 거래일을 5분봉 집계로 복원 (실패해도 기존 동작 유지)
+    try:
+        req2 = urllib.request.Request(INTRADAY_URL, headers=UA)
+        with urllib.request.urlopen(req2, timeout=20) as r2:
+            d2 = json.load(r2)["chart"]["result"][0]
+        q2 = d2["indicators"]["quote"][0]
+        idays = daily_from_intraday(d2.get("timestamp") or [], q2)
+        days, repaired = merge_missing_days(days, idays)
+        if repaired:
+            warnings.append(f"야후 일봉 누락일 복원(5분봉 집계): {', '.join(repaired)}")
+    except Exception as e:  # noqa: BLE001
+        print(f"[경고] 분봉 복원 실패: {type(e).__name__}: {e}", file=sys.stderr)
+
+    market_date = kst_date(meta.get("regularMarketTime", 0))
+    prev, prev_src, warn = pick_prev(days, market_date, tv_prev_close())
+    if warn:
+        warnings.append(warn)
+    # 진단 로그(Actions 로그에서 확인): 최근 일봉 6개
+    for d in days[-6:]:
+        print("  일봉", d["date"], d["open"], d["high"], d["low"], d["close"], d["volume"],
+              "(복원)" if d.get("synthetic") else "")
 
     payload = {
         "symbol": "000660.KS",
         "price": price,
         "previousClose": prev,
+        "previousCloseSource": prev_src,
         "change": round(price - prev) if prev else None,
         "changePercent": round((price - prev) / prev * 100, 2) if prev else None,
         "marketTime": time.strftime("%Y-%m-%d %H:%M KST",
@@ -152,6 +262,10 @@ def main():
         "days": days[-2:],  # [전일, 당일] 또는 [전전일, 전일]
         "indicators": compute_indicators(days),
     }
+    if repaired:
+        payload["repairedDays"] = repaired
+    if warnings:
+        payload["warnings"] = warnings
     with open(out, "w") as f:
         json.dump(payload, f, ensure_ascii=False, indent=1)
     if history_out:
