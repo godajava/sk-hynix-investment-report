@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="338" viewBox="0 0 760 338" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="338" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
 <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">글로벌 HBM 시장 점유율 추이</text>
-<text x="24" y="54" font-size="12" fill="#52514e">매출 기준, %. 26년(E)는 카운터포인트 연간 전망.</text>
+<text x="24" y="54" font-size="12" fill="#52514e">매출 기준, %. 25.1Q~26.1Q는 카운터포인트 분기 집계, 26년(E)는 트렌드포스 연간 전망.</text>
 <rect x="110" y="78" width="12" height="12" rx="3" fill="#2a78d6"/>
 <text x="128" y="88" font-size="11.5" fill="#52514e">SK하이닉스</text>
 <rect x="212" y="78" width="12" height="12" rx="3" fill="#008300"/>
@@ -36,5 +36,5 @@
 <text x="503.0" y="259.0" font-size="11.5" font-weight="600" fill="#ffffff" text-anchor="middle">28%</text>
 <rect x="589.9" y="240" width="133.1" height="30" rx="3" fill="#e87ba4"/>
 <text x="656.5" y="259.0" font-size="11.5" font-weight="600" fill="#0b0b0b" text-anchor="middle">22%</text>
-<text x="24" y="324" font-size="10.5" fill="#898781">출처: 카운터포인트리서치·포쓰저널 (2026-07 조사)</text>
+<text x="24" y="324" font-size="10.5" fill="#898781">출처: 카운터포인트리서치(1Q26까지)·트렌드포스 (산업 동향 갱신일 2026-10-13, 2Q26 이후 확정 점유율 미공개)</text>
 </svg>
