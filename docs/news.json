@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-14 15:52 KST",
+ "fetchedAt": "2026-10-14 21:50 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "안현 SK하이닉스 사장 \"HBM 넘어 메모리 계층 최적화 필요\"",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pS1E4SUxFZ1otNkFBSnQ2N0MxRlZna0paTFJzT2QxSHRJanNwV2NvUkRNSWFjX3lBeGtZc2hSMXJRcW9Ub094ckdhLUNZVlpWcGk4SVktcEJiYV9XRWxSYWYtU0lxbE9Xcms2bFNuSFd0UlBP0gF0QVVfeXFMUFB0S2hGNENXMVpqZzFOajVfVVNTS3lGYUZGOFY1cHBBYTAwQ3R1aWgzZGJ6OFdRZTRZUHpGaE9weGpiS2hSY1hpTld4Xy1mNjNoeElHalhRVmtOUnVGbUVpa3UtQWVmMl9SazJRbHEtSXVGQUY?oc=5",
-   "source": "MBC 뉴스",
+   "title": "낸드가 AI 연산...SK하이닉스, 3D FeNAND A-CiM 연구 성과 공개",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB1cmJ1STVqbEZTWlFqdWdKVVlQeHoxQTk2M1VGcW5kbE1qYU9LMjJ5eTdhb2pLSGV0YnhjRUYtaTlHc1pjekV0S2pxLVhjVC1TbWV3dkdaQ00wTjRJNTlqbk9teDRwQQ?oc=5",
+   "source": "디일렉",
    "date": "2026-10-14",
-   "datetime": "2026-10-14 15:23 KST",
+   "datetime": "2026-10-14 19:02 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,11 +16,47 @@
    }
   },
   {
-   "title": "에이루트 子, 삼성전자·SK하이닉스 출신 반도체 핵심 노광장비 전문가 영입",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OSGVSR0JJY0M2OG55cy1KRFloT3U3cWhGcV9DQXVBemJiM2FLdG5YNnNyYkhxMTdJWmZIWktiTlNxZF9SUE5IeElGYzhuSnB3M05UTW85YzRJTFBw?oc=5",
+   "title": "“SK하이닉스 팔 때인가 살 때인가”...월가 고수는 ‘찜’했다 [머니+]",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ERUYwcC1Rem0zUFJCdEhpaUw1cG1DTFE1QjFxWGtoSXVmdnUxZVMzNHg2SFkwRFQ5MUpxeFpEd3pHTk5VYVJpS0ZHR2xhZkxvbnlOSGNUblZnX3M?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 18:15 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 28일 3Q 경영실적 발표…영업이익률 80% 달성 주목",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtTjZacktwWE9RbG95VU8tX3JERHNtWmdHVGpHTFh3NnY2d29rOUV3cG5icnMzbHNreGtuZVdqTkdMTVRpSE5PTkN0UVh6ZVVOR0F3ajF5M2o3X2pvWWJnUldiTGs?oc=5",
+   "source": "뉴스1",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 18:11 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, ‘SEDEX 2026’서 HBF 구조 모형 전시",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUbkJtM0ZCWDQ5QmJmSzZ1ZlotLTc2VlNrUXhRcDlSYjBpa1RKcEN2LTUxWlpJZjhhUjVrU01JRGdQUWZqU21pSnBLMjY3MnBLY0NMR0FJWUljU01ZRVlqdDdkaG9GYW1wOXZReUpKUWY5cm5K0gF0QVVfeXFMUFRuQm0zRkJYNDlCYmZLNnVmWi0tNzZWU2tReFFwOVJiMGlrVEpwQ3YtNTFaWklmOGFSNWtTTUlEZ1BRZmpTbWlKcEsyNjcycEtjQ0xHQUlZSWNTTVlFWWp0N2Rob0ZhbXA5dlF5SkpRZjlybko?oc=5",
+   "source": "주간한국",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 18:02 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "청주시, SK하이닉스 100조 투자 뒷받침할 용수 확보…894억 협약",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MYzlrQWd2cVFfYXpPUjdxX3BFNG1NSHhYTkhYWmFwWkY3Qjh2SGxwTWFSeXJWMG05MUtVN1pOVTRzdllSUUtMcHFwTzFteTRGUUNmakFwTEptWmFD?oc=5",
    "source": "뉴스핌",
    "date": "2026-10-14",
-   "datetime": "2026-10-14 14:40 KST",
+   "datetime": "2026-10-14 17:48 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -28,83 +64,11 @@
    }
   },
   {
-   "title": "삼성·SK하이닉스, 차세대 메모리 경쟁서 '연산' 강조…전시회서 AI 반도체 놓고 맞불",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVG12STJxZ0lJWjJaN0JhNlN1X0JWSHBBQ09aVzNscHVOelk1bG5vZ1REeVo3LUtHZGZtenNOcEpXY3N1YzVCMUVDQjZYTi1CeTIxZG9CbHQ1N0JWcEhmMTF1RDNPMVliTEdFS0dBY3gtZ1JhOG9tNTRnV19WMFVLaERCVFhXZw?oc=5",
-   "source": "글로벌이코노믹",
+   "title": "외국인 투매에 SK하이닉스 6거래일 연속 하락…주가 23% 급락",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiNFlvRVFOd25fU2VGQ1gzZmgwNFRSS0xoRHcteGI2ZFpPX05UeXZTY2hDTHJHTklxRnUxeDc3NHVwRmUxUEhWOGZxaUpPUmNnMV8yTHd2UUdKZjFrTlYtREdxblQtS2xiOVVtX0ZabW7SAXRBVV95cUxPZTF5YlJ0YmZOOHNMSTk5WGxyd295MTZMMVYxTmt1RVNmMldRRDQ1RFJiNjN6V3VUbVNlNlpDbXI1NHBLSUItV2k2WTh2U1Vwc3B4X3d1QURiaURxZHBrY3NyTkNjZng3d25xemsza2V0V3BhcA?oc=5",
+   "source": "산경투데이",
    "date": "2026-10-14",
-   "datetime": "2026-10-14 14:32 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "中 YMTC, 낸드 출하량 키옥시아·마이크론 제쳐… 삼성·SK하이닉스 추격 - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV3lxQzBXeXVYYmdBSmpWcFcwdXhkVmo2VW5ERXo4QnVLZ2UxR2Vkc1A3Y2Ffa1VSNWlQMk41M0ljVlJfWW5iYzZnVlhZMnFfYUoxc0V0cllKZzhfRUZPR24tUklwR1VPa0owX21BaTExWHpFZ0hOQmZvRlNJcTlhZ29n0gGWAUFVX3lxTFBQMHY3VlNGcWFtUzhJVzJhSTVjQmhObFVwcENmUkp6YVVTVjZhRTdUNWtmVFlLZE5OTS11eThkOWhaNDRTV2hOY1BVQWJSQ1hBV1dBaWU4Vy13WTg0RGZacTMtVWJHR2s1bUtaeE1OdHN4TDZuVTgxYjFtLWM1QS1DMVhsX1Y1UjF4aUp0TEpRWXU1QUItQQ?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-10-14",
-   "datetime": "2026-10-14 11:50 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "올해 자사주 소각 62조원… 삼성전자·SK하이닉스가 절반 차지",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FRkpsQjBGd2pkbnF4SUxWTWYyMTY2RWNtVHE1N3JTeHhwX0JqMWkxWm0yNm0xRnZNY2VLaWhkVEw2cDZpMHNoZDJ2Y0VCT2JTRDhHQzZoeGV2YnBIRDAyV0xjRG5ROFJIWEE?oc=5",
-   "source": "천지일보",
-   "date": "2026-10-14",
-   "datetime": "2026-10-14 11:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, \"너무 떨어졌나\".. 동반 '상승'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdU5STExMdW9jZzBlRUY1Sk5kUjlobjlCaE1KeFRQZTlnOFhJcGJVaVF4YmFrbnNKN25FcHFEQzl6RzFHcFBtajdJX0w0aUl6aktwbG9lRi11MFowcVJkdXYtR0RPdENORm9sOUpJZU1PTEFiWGhERHpHWDIxWi1VOWI0RjJFMTRW?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-14",
-   "datetime": "2026-10-14 10:34 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스에 쏠린 관심… 검색 상위 20개는 상승·하락 반반",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qczRtTEZkYmR5LWhUNEltLTRsMGwxY0JmeUhGZG5JYmp3S3Fla0ZYd0NaNTNLcDFRcWltREZpQVh3WWZsSGNRamRwYWVZZ3A4blk5NDJpa1RMY1JaSklVR2g5Wm5VUTVtWThIc1g5ZHhBMnhUdF93NzJDRTJfdw?oc=5",
-   "source": "서울신문",
-   "date": "2026-10-14",
-   "datetime": "2026-10-14 09:16 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "'K-테크 싹쓸이 구상' 美 미시간 주지사, 현대차·SK하이닉스·HL만도 비밀리 훑고 간 이유",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yZnZPMkoxX3IxQ0h5WjlhTjN3RGt1bURoSlpLdUl0blpxcWY1Z0o1SWFmWWRoRWw5NmF5dDNaT2lGa3ROZVFMbVgtVVRNM0x0YWNQcVdlenpVZlBGM25WMzhpTQ?oc=5",
-   "source": "더구루",
-   "date": "2026-10-14",
-   "datetime": "2026-10-14 08:23 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[송재경의 인사이트] 삼성전자·SK하이닉스 발목 잡은 세 가지 악재…AI 투자 회의론 확산",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FcGZ0VkRpZUw3VVpSOUNDU0NObE1PQ1hveHlZLUdBMk9zQ0NFZDVVY1NnWnRiY0lzaXF5WmdhM2RmZ2ExX1gzQlQwblk0YkRxTTYw0gFYQVVfeXFMTk5TRHk2WnRLN1ctZ3VXcnR3ZktlNDVBNWJzU3B3dHBpUmpNb2YwdFZvWnp5YVlCZDFkR3dRMzVPajBXVXNVYjRjVmJVRlozSnZqN2cwT1E5cg?oc=5",
-   "source": "SBS Biz",
-   "date": "2026-10-14",
-   "datetime": "2026-10-14 07:50 KST",
+   "datetime": "2026-10-14 16:33 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -112,11 +76,47 @@
    }
   },
   {
-   "title": "144만원까지 추락한 SK하이닉스, 400만원 간다고?…증권가의 계산법",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iS1pOZ2FTN1JfdE43Y1ZkVjJqVUE4MjdMTTgxUVpCUzhIRm9Xa0ZPZjhSWWo0eHRSdlFNUFR1TnZMR1NTTVpnRWZ4eU16SkFOVUJ2c2NnRXJtUQ?oc=5",
-   "source": "경북매일",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 19:46 KST",
+   "title": "AI 시대 '전력 장벽' 넘는다…SK하이닉스가 제시하는 HBM의 미래 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UemdOc09BYktfaFB1bWVjSDIwZTZwbFFrWnpCV2loSEtsdDdQQXFmdjFFRXFub1hfWk9qM2FYQWtvSUJCSmdlVmdyczNxSnFGT0ZwdnlqdEJzZ1h0alNfbTVJQVpPMVRQU0ZKTVE4a1pQd9IBckFVX3lxTE9UemdOc09BYktfaFB1bWVjSDIwZTZwbFFrWnpCV2loSEtsdDdQQXFmdjFFRXFub1hfWk9qM2FYQWtvSUJCSmdlVmdyczNxSnFGT0ZwdnlqdEJzZ1h0alNfbTVJQVpPMVRQU0ZKTVE4a1pQdw?oc=5",
+   "source": "머니투데이",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 16:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "청주시, SK하이닉스 P&T7·M17 용수 공급망 구축",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9EWlV5Q05iZFN1dVdhdk90X0IyX0FPU2tVdWV2LXppX08yTXZYUmN1UWlSVGF0R0x6U3ZhMWdQNTRPUkhLNUlhcENCYnFXS1E0eHUzaDhWZF9IVmlHQkl2N0VSRVJUb3U3NW4wWHkxVlNQT0ViSDV5WtIBeEFVX3lxTE9EWlV5Q05iZFN1dVdhdk90X0IyX0FPU2tVdWV2LXppX08yTXZYUmN1UWlSVGF0R0x6U3ZhMWdQNTRPUkhLNUlhcENCYnFXS1E0eHUzaDhWZF9IVmlHQkl2N0VSRVJUb3U3NW4wWHkxVlNQT0ViSDV5Wg?oc=5",
+   "source": "뉴시스",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 15:52 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스 저격한 머스크…\"마이크론 메모리 가격만 적당\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yZGJLcmVJVHJyRnpWVlAycWc2RkF3dklKV0diUXhJN1N0TFh6Wi16Qm5hSG1tUXlnZ0VZeE40c2dUalE4dWliendrMEo4WV9BN0wxTmVCbk9CQWpKSmZTWkxFcXNPdjZNWGhJNDIxNnU?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 15:40 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "반도체대전 2026` 개막…차세대 메모리 내세운 삼성전자·SK하이닉스",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BdGNrV2J3TncyZzB6eXJoTFIzazh0UDJFREVhZElDUVhIRmp4b2ZVOWRINndjX0xOemoyNGFfT1dJVGNuUEFqZ1Y5NEU4R0E0dS1jREtRYmgtaUhlRUVUOVJ6c0c?oc=5",
+   "source": "디지털데일리",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 15:20 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
