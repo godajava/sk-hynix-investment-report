@@ -114,17 +114,76 @@ def _bigrams(title):
     return {s[i:i + 2] for i in range(len(s) - 1)} or {s}
 
 
-def dedup_topic(items, threshold=0.45):
-    """같은 주제를 다룬 기사가 여럿이면 가장 최신 1건만 남긴다.
+# 같은 사건을 다른 각도·다른 표현으로 쓴 기사(예: 10/13 급락 당일에만 "10% 폭락 마감",
+# "140만닉스 후퇴", "144만원 붕괴", "검은 화요일", "매도 사이드카" 등 15건 이상)는
+# 2-gram 겹침만으로는 잘 안 걸러진다. 그래서 제목에서 읽히는 '사안(주제) 태그'를
+# 먼저 부여하고, 같은 태그가 48시간 이내에 이미 채택돼 있으면 중복으로 본다.
+# 규칙은 위에서부터 첫 매치가 이기므로 구체적인 사안을 앞에 둔다
+# (예: "CXMT 쇼크…급락"은 'crash'가 아니라 'cxmt'로 묶여야 한다).
+TOPIC_RULES = (
+    ("cxmt", r"CXMT|창신|[中중]국(발)?\s?(반도체|메모리|D램|기술)|中\s?(반도체|메모리|D램)"),
+    ("leverage_etf", r"레버리지|인버스|ETF"),
+    ("target_price", r"목표가|목표주가|리포트 브리핑|증권가"),
+    ("earnings", r"영업이익|영업익|실적 전망|컨센서스|어닝|\d분기 실적|실적 발표|이익률"),
+    ("solidigm", r"솔리다임"),
+    ("adr", r"ADR|美 상장|미국 상장|락업"),
+    ("treasury", r"자사주|주주환원|배당"),
+    ("us_invest", r"R&D|연구동맹|EPIC|에픽|기공식|주지사|美\s?\d+조|미국 제조업"),
+    ("hbm_equipment", r"후공정|장비"),
+    ("expo", r"반도체대전|SEDEX"),
+    ("labor", r"노조|성과급|임단협|파업|노사"),
+    ("export", r"수출"),
+    ("crash", r"급락|폭락|곤두박질|추락|반토막|검은 화요일|사이드카|서킷브레이커|하락 마감|마감시황|10%대|붕괴"),
+    ("market_wrap", r"마감시황|증시\s?(마감|개장)|코스(피|닥).{0,12}(마감|출발)|시황"),
+)
+_TOPIC_RE = tuple((tag, re.compile(rx)) for tag, rx in TOPIC_RULES)
+# 정보량이 거의 없는 사진 캡션성 기사는 아예 제외한다.
+LOW_INFO = re.compile(r"^\s*\[(포토|사진|영상|화보|동영상)\]")
+TOPIC_WINDOW_HOURS = 48
+
+
+def topic_tag(title):
+    for tag, rx in _TOPIC_RE:
+        if rx.search(title):
+            return tag
+    return None
+
+
+def _hours_apart(a, b):
+    """_sort(ISO 문자열) 두 개의 시간 차(시간). 파싱 불가면 0(=같은 시기로 간주)."""
+    try:
+        return abs((datetime.fromisoformat(a) - datetime.fromisoformat(b)).total_seconds()) / 3600
+    except Exception:
+        return 0.0
+
+
+def dedup_topic(items, threshold=0.35):
+    """같은 사안을 다룬 기사가 여럿이면 가장 최신 1건만 남긴다.
+    1) 사진 캡션성 기사 제외
+    2) 사안 태그가 같고 48시간 이내면 중복
+    3) 제목 2-gram 겹침(threshold 이상)이면 중복
     호출 전 items는 최신순으로 정렬돼 있어야 한다(각 클러스터의 대표로
     가장 최근 기사가 남도록)."""
-    kept, kept_bg = [], []
+    kept, kept_bg, kept_tag = [], [], []
     for it in items:
+        if LOW_INFO.search(it["title"]):
+            continue
+        tag = topic_tag(it["title"])
         bg = _bigrams(it["title"])
-        if any(len(bg & prev) / min(len(bg), len(prev)) >= threshold for prev in kept_bg):
+        dup = False
+        for k, prev_bg, prev_tag in zip(kept, kept_bg, kept_tag):
+            near = _hours_apart(it.get("_sort", ""), k.get("_sort", "")) <= TOPIC_WINDOW_HOURS
+            if tag and prev_tag == tag and near:
+                dup = True
+                break
+            if len(bg & prev_bg) / min(len(bg), len(prev_bg)) >= threshold:
+                dup = True
+                break
+        if dup:
             continue
         kept.append(it)
         kept_bg.append(bg)
+        kept_tag.append(tag)
     return kept
 
 
