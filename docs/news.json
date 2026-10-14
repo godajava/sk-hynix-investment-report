@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-10-13 23:59 KST",
+ "fetchedAt": "2026-10-14 09:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "삼성전자·SK하이닉스에 쏠린 관심… 검색 상위 20개는 상승·하락 반반",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qczRtTEZkYmR5LWhUNEltLTRsMGwxY0JmeUhGZG5JYmp3S3Fla0ZYd0NaNTNLcDFRcWltREZpQVh3WWZsSGNRamRwYWVZZ3A4blk5NDJpa1RMY1JaSklVR2g5Wm5VUTVtWThIc1g5ZHhBMnhUdF93NzJDRTJfdw?oc=5",
+   "source": "서울신문",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 09:16 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "'K-테크 싹쓸이 구상' 美 미시간 주지사, 현대차·SK하이닉스·HL만도 비밀리 훑고 간 이유",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFbzhmQXdRN2dDMVQ4WWYxOWl6a3phT2l0ME5vRGFCbTJid0RhTW12Ui0xd2xZamZIaXY2MlZvZi03bE1RVEJxTUtFRFk3WEw3WGVid01OdW55QlZuYlE?oc=5",
+   "source": "더구루",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 08:23 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "美 증시 장초반 반도체 관련주 약세…마이크론·SK하이닉스ADR 5%대 하락",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12X1BRTVdTQlJ6Q1NERDV2SWZSTzU2cl9GenZvTkR0YldweE1CbFNCYVFhZjcybmpqOHB4bEdSczhlUHU4RHhYZ2xUMlc1WHJQ?oc=5",
@@ -21,6 +45,18 @@
    "source": "경북매일",
    "date": "2026-10-13",
    "datetime": "2026-10-13 19:46 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "솔리다임, 대관 총괄 첫 영입…SK하이닉스 상장 셈법은",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wNFh0LURzcGZ4SDN6SFJQb2l4TDBnalN2UHotUkZUYVNoeUJULVY3RzRiXzRfTWtINEVDdXJxRkVIX011cm5kX25GX005QzRZejQ5WmNpWlhQTF9ySmV2Q05vcnc?oc=5",
+   "source": "서울경제TV",
+   "date": "2026-10-13",
+   "datetime": "2026-10-13 18:34 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -76,51 +112,15 @@
    }
   },
   {
-   "title": "中 CXMT, 차세대 메모리 기술 약진…삼성·SK하이닉스 긴장",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBscnhyVExUN1RjYmZIVmlfT3Z2VWFBczd0TmtjX3N1MEdENFJPWUNVX0tXRG1qb3psN0VqaVluNWtyeEswMkYzMDNtTGkwVHZTUVdTTTRR?oc=5",
-   "source": "지디넷코리아",
+   "title": "하락 마감한 코스피·SK하이닉스·삼성전자",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zX2FVWm5YZ3F2cGNERWlLem8ydnpLWFI1LS04eW9RWEo5NEU4Q0d0cE9uVFFBQ2txelM1aFB2Y1NWS01MUl9WRUZCTlBQVGpfN0o5MHdabVRJQVct?oc=5",
+   "source": "뉴스핌",
    "date": "2026-10-13",
-   "datetime": "2026-10-13 16:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "하이닉스, 10% 폭락해 '140만 닉스' 마감…삼전도 7.4%↓(종합2보)",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ObkJ1THhjTVN1QjEzTnE1Wi1qTU5idkxvcldpYTRCYkxSR0owWm5XVGRMdnNtNlNDWHFNNFJJV1VsZWQwaG9sdTFyTkxfelpmRUcwc05paEh4M2g5OFlsYdIBYEFVX3lxTE5ObkJ1THhjTVN1QjEzTnE1Wi1qTU5idkxvcldpYTRCYkxSR0owWm5XVGRMdnNtNlNDWHFNNFJJV1VsZWQwaG9sdTFyTkxfelpmRUcwc05paEh4M2g5OFlsYQ?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 15:59 KST",
+   "datetime": "2026-10-13 16:02 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "삼성전자, SK하이닉스 하루만에 8~10%대 하락세 ‘검은 화요일’",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIcEdncjM5WDBadnphWmY5eTR5WkRuX04wMmJCUjlBOXFqcFZVdWROZlNFN1B2WmlrTFNpTkUzTWwzeUpOX3ptR1NSb2pjUVNWMUZPN3lB?oc=5",
-   "source": "중앙일보",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 15:33 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스, 美 6.6조 '반도체 R&D 허브' 합류…AI 칩 개발 속도전",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdFp2RzRXMldWa0FQbWVyRUcxdWdEQkFRUUx3cnNJX2Q5a1Rua1ZIMXRfSlpNd3NKSUhaVkVTbGVCNloxczRJUDhqbFVxUFdRLTFOTERXcy04ZEpMRElLTDRrNEw0OEVjem9wNmdqR3pOZVNteEhkVkxCQTZjQngyemNSV0JUZw?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 14:57 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
