@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-10-14 09:38 KST",
+ "fetchedAt": "2026-10-14 10:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, \"너무 떨어졌나\".. 동반 '상승'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdU5STExMdW9jZzBlRUY1Sk5kUjlobjlCaE1KeFRQZTlnOFhJcGJVaVF4YmFrbnNKN25FcHFEQzl6RzFHcFBtajdJX0w0aUl6aktwbG9lRi11MFowcVJkdXYtR0RPdENORm9sOUpJZU1PTEFiWGhERHpHWDIxWi1VOWI0RjJFMTRW?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 10:34 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "삼성전자·SK하이닉스에 쏠린 관심… 검색 상위 20개는 상승·하락 반반",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qczRtTEZkYmR5LWhUNEltLTRsMGwxY0JmeUhGZG5JYmp3S3Fla0ZYd0NaNTNLcDFRcWltREZpQVh3WWZsSGNRamRwYWVZZ3A4blk5NDJpa1RMY1JaSklVR2g5Wm5VUTVtWThIc1g5ZHhBMnhUdF93NzJDRTJfdw?oc=5",
@@ -13,6 +25,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[CXMT 추격③] 삼전하닉 급락, 中반도체뿐일까…내달 9일이 걸리는 이유",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aa2owcXR2MHg4bHZsMmt2cTRid1VCamFXY0pBd2V4ckNZaWZ2ZG0xT0p0MTJTMTVzV3d2bHB4bnNqWmR5UjlmRlRiNlk1eGd6Q0htWXczRXJETk9iMFFNcWQtd3BhQWo5NWZOWkNhTTZxWkY3?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 09:13 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   },
   {
@@ -97,30 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 다시 140만원대 추락…최고가 대비 ‘반토막’",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lSlZpUllETVNTMDZNOXhPWmJQdk9ESkh1ZzlxSkxJSnUwZkhkUFlFMVFVYXlnSG1FeU1FSzdja09US3lOelBpaTNnSEpxa0V6RV9DUzNHdEVlS25ES0tiQ1paTWFMbGhZNkNuTkJn0gFuQVVfeXFMT2VKVmlSWURNU1MwNk05eE9aYlB2T0RKSHVnOXFKTElKdTBmSGRQWUUxUVVheWdIbUV5TUVLN2NrT1RLeU56UGlpM2dISnFrRXpFX0NTM0d0RWVLbkRLS2JDWlpNYUxsaFk2Q25OQmc?oc=5",
-   "source": "중부매일",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 16:11 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "하락 마감한 코스피·SK하이닉스·삼성전자",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zX2FVWm5YZ3F2cGNERWlLem8ydnpLWFI1LS04eW9RWEo5NEU4Q0d0cE9uVFFBQ2txelM1aFB2Y1NWS01MUl9WRUZCTlBQVGpfN0o5MHdabVRJQVct?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 16:02 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
