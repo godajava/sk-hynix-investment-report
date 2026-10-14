@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-10-14 10:38 KST",
+ "fetchedAt": "2026-10-14 11:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[포토] SK하이닉스 PC DRAM 설명 듣는 관람객들",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOV1hkd3B6SHdyZFIyOWFzWnRUOUxFZlJfQ180SWZJdTU3WjVscGtSZFFoQnFDUTk3dUdmbTNBZEFwR0laeWI4dmxrOWhGOEJwNUxJSnh0YmpxTm5jWFIzeA?oc=5",
+   "source": "아시아경제",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 10:55 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[포토] HBM 전시한 SK하이닉스",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuRHFQV1dIUTlKMEpreDZGV1hRQWVQTjdIc3pfQWxQQlBWUk9MTHVXTy1ON2dCSzViM1ZPV3EyMjdjamRWMERxWFZaSl9YRlFyZ0JHMEpycF8xZGItZGNlWQ?oc=5",
+   "source": "아시아경제",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 10:54 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[특징주] 삼성전자·SK하이닉스, \"너무 떨어졌나\".. 동반 '상승'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdU5STExMdW9jZzBlRUY1Sk5kUjlobjlCaE1KeFRQZTlnOFhJcGJVaVF4YmFrbnNKN25FcHFEQzl6RzFHcFBtajdJX0w0aUl6aktwbG9lRi11MFowcVJkdXYtR0RPdENORm9sOUpJZU1PTEFiWGhERHpHWDIxWi1VOWI0RjJFMTRW?oc=5",
@@ -13,6 +37,18 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, HBM4 후공정 장비 일부 물량 내년으로 '연기'",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TOGJGeHpCR1lnUExrRXVvOF9oNXNIdWtHdzQ0M3Q5X2ROSE5VWGk1eTNtT29qYmJMUXllYTZoNGxiZXFLZGpYM0J2VWRrUWs?oc=5",
+   "source": "딜사이트",
+   "date": "2026-10-14",
+   "datetime": "2026-10-14 10:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -41,7 +77,7 @@
   },
   {
    "title": "'K-테크 싹쓸이 구상' 美 미시간 주지사, 현대차·SK하이닉스·HL만도 비밀리 훑고 간 이유",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFbzhmQXdRN2dDMVQ4WWYxOWl6a3phT2l0ME5vRGFCbTJid0RhTW12Ui0xd2xZamZIaXY2MlZvZi03bE1RVEJxTUtFRFk3WEw3WGVid01OdW55QlZuYlE?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yZnZPMkoxX3IxQ0h5WjlhTjN3RGt1bURoSlpLdUl0blpxcWY1Z0o1SWFmWWRoRWw5NmF5dDNaT2lGa3ROZVFMbVgtVVRNM0x0YWNQcVdlenpVZlBGM25WMzhpTQ?oc=5",
    "source": "더구루",
    "date": "2026-10-14",
    "datetime": "2026-10-14 08:23 KST",
@@ -81,42 +117,6 @@
    "source": "서울경제TV",
    "date": "2026-10-13",
    "datetime": "2026-10-13 18:34 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[마감시황] SK하이닉스 10% 급락…코스피 5.46% 빠진 6035",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VbEs3TVd2UXBHdVQyOFlMSGJ4dmw5Q3dWSHRtNWNSUGhFaVQ0Qmx5S1NwUlpWOWFHQ3NKem1sV29YOF9HQkZXc0dGQVVvLXh3OGdwLTItWWlCWHpXYTA5dkN5cEx2Rms?oc=5",
-   "source": "자본시장뉴스",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 17:06 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "삼전닉스 단일레버리지 14∼20% 급락…'하닉' 상장 후 최저가",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kaF9sUl9YU3BWUDI2aUo0RGo2MkJnd2NQdTdBNURhUFhWcmhqTXNwWXdTTjlLR3hxemQwX3dZV0Z5dDlJZm5CdHhzWTY3NzFkSVZtUnhseDV5M3JsYkZuYtIBYEFVX3lxTE5kaF9sUl9YU3BWUDI2aUo0RGo2MkJnd2NQdTdBNURhUFhWcmhqTXNwWXdTTjlLR3hxemQwX3dZV0Z5dDlJZm5CdHhzWTY3NzFkSVZtUnhseDV5M3JsYkZuYg?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 16:53 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[ETF 시황] 코스피 급락에 인버스 ETF '강세'…SK하이닉스 레버리지 20%↓",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hcVF1ejVhdTNIQXp2WndBQVhqNFhId3NPRVpQNUdrMUpMNlktR09adTJycWpkWFk4akNLSGowdGlUSTN6bzlhNUV4cU5mMV85UkdpQmNhcmtZSzZI?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-10-13",
-   "datetime": "2026-10-13 16:19 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
