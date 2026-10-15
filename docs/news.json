@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-15 10:38 KST",
+ "fetchedAt": "2026-10-15 11:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "삼성전자·SK하이닉스 동반 급락… 코스피 6000선 붕괴",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42Yk45aXFGSmcxMWNQTU9fSXZCYXFKYnl3TFNWQmVJMXFPRG5fZk40MnRmUkxrOVNVVkxMTWEzWmpsanZrZ01rMGVRTzhGbGlwYjF6c3VrOXhURTFyVDRpNTVGdVlhQUtmMFlOVGFNcnZxRUtFOTUwT1dNNkNCUQ?oc=5",
-   "source": "서울신문",
+   "title": "SK하이닉스 주가, 오늘 왜 급락했나?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PV05VSFN3YUgwMmpxeVA0Z2pFbGY5T0x1SnVxVk1GYjhKMjVSYkVGbjBPdjNIY21nUFduTG41OF9xb0s0M2d6cTN3S3hFdU9NUmszZ0tVLXVpbFdaMDlIT0VUdGpmSWZxaEp4SXdUckZudVZ4cG5R?oc=5",
+   "source": "Investing.com 한국어",
    "date": "2026-10-15",
-   "datetime": "2026-10-15 10:05 KST",
+   "datetime": "2026-10-15 11:06 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -29,7 +29,7 @@
   },
   {
    "title": "[특징주] 삼성전자·SK하이닉스, 장 초반 7∼8% 하락세",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13YktfODk4UlUwZHpjcWdzRzFFd1lsczBxQ0hrVGY2Z3RZZl9oaU80TnQ1ZzJOdnNIWEktY1NhWWVKTEwwY3c2UUVjVU1qRkJfRi1YZ1g4UTlmTHc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iNnlOYWtiOE52dy1fUjBQTFVUSkxwWFVGNFp2UF9IS1pUSkllTEFtWVhTNF9VQzhjWGhfUVNYRFBTbUVLbU1lbk5oUWt5eF94dWhmWFFYajhfN0ZHV1U0cdIBYEFVX3lxTE9iNnlOYWtiOE52dy1fUjBQTFVUSkxwWFVGNFp2UF9IS1pUSkllTEFtWVhTNF9VQzhjWGhfUVNYRFBTbUVLbU1lbk5oUWt5eF94dWhmWFFYajhfN0ZHV1U0cQ?oc=5",
    "source": "연합뉴스",
    "date": "2026-10-15",
    "datetime": "2026-10-15 09:34 KST",
