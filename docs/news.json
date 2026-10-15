@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-15 09:19 KST",
+ "fetchedAt": "2026-10-15 09:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[특징주] 삼전닉스, 프리마켓에서 6~7% 급락 …SK하이닉스 시가총액 1000조 하회",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMXBVcU5UNzJhejlkRXdFSTNjekNWd1NoWmVPTmw1QlpfSVVoSC1tWXZRVVhUdGdnZ05HNzVMUTZSeFcwYzZReTVsbUcwdWlqX1JLa1dKLXNkdFhPenpEbk9GRW5TRVhOQ2JIQzJtZVhnODI4cm00Z2d6YmdVSHZzUzB5M0VyNFMw?oc=5",
-   "source": "Chosunbiz",
+   "title": "[특징주] 美 CPI 충격·AI주 약세…삼성전자·SK하이닉스 급락",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TWVhuaUFITERRUVlEZE5xYmx1QkVZQzVLblZuUjJ1QXZudmJVNlYyQTFPT1JOd2ZfR2JfazJrYzIybHd4d2FEOS1teVRkRlVuclVJX0o3cVJrWWpVb0YxNUR4UQ?oc=5",
+   "source": "에너지경제신문",
    "date": "2026-10-15",
-   "datetime": "2026-10-15 09:01 KST",
+   "datetime": "2026-10-15 09:33 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
