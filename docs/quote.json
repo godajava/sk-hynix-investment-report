@@ -6,7 +6,7 @@
  "change": -24000,
  "changePercent": -1.66,
  "marketTime": "2026-10-14 15:30 KST",
- "fetchedAt": "2026-10-14 21:50 KST",
+ "fetchedAt": "2026-10-15 09:19 KST",
  "days": [
   {
    "date": "2026-10-13",
@@ -27,9 +27,9 @@
  ],
  "indicators": {
   "macd": {
-   "macd": -49989,
-   "signal": -5326,
-   "hist": -44663,
+   "macd": -49992,
+   "signal": -5330,
+   "hist": -44661,
    "read": "하락 모멘텀 (MACD < 시그널)"
   },
   "atr": {
@@ -55,5 +55,8 @@
    "ratio": 1.16,
    "read": "20일 평균 대비 1.2배 — 평균 수준"
   }
- }
+ },
+ "warnings": [
+  "야후 일봉 종가 None 건너뜀: 2026-10-15"
+ ]
 }
