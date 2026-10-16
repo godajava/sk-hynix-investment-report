@@ -1,8 +1,56 @@
 {
- "fetchedAt": "2026-10-16 13:38 KST",
+ "fetchedAt": "2026-10-16 14:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "\"숨은 주역에 감사\"…SK하이닉스, 협력사·사내 구성원 초청 행사",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11MUhGQzYwYW1XSURNWmRtdGtDelFTeWh3T1JpUjdVVVFYdDV6TnhEUk9qME5Lcy0wM0JSQUR3bHZLRDM3S1A0Wi1jdC1DVktmSkI3X1ktczFnaU05TFc1bg?oc=5",
+   "source": "아시아경제",
+   "date": "2026-10-16",
+   "datetime": "2026-10-16 14:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"최근 1년 구직자 관심기업 1위는 SK하이닉스, 2위 현대차\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBT0w2NWs1SjV1LVRNV2FBYkFpX3dmM2JsWHdZRWVGUHFILW1DWXMyS203TVpXNTdRQkNVcGNTYWE5N290ZlJtR0xOdFl5a0k5OWRWSWFMZHN6MW9Q?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-16",
+   "datetime": "2026-10-16 14:24 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스 급락은 '가격 왜곡'… 지금은 비중 확대 기회-KB",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01b2VoWlk3T05ZdlA2M3JfQV9Lb1hNdUREaWkxSWQ5anVRRElvVG1veHo4bTZpak12OXdIT0pWN1BTUWVMWkZtOG9tbFRlejlYVnU3TjBuMDNUaE92QWpqWTB1Vm5jbW10cnp2b2Z5SmZWX0pOZWc?oc=5",
+   "source": "인포스탁데일리",
+   "date": "2026-10-16",
+   "datetime": "2026-10-16 14:14 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스, 협력사와 상생 행보…구성원·가족 3만 명 초청",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pNElSOGotVXVQZEpDWHZyM1ZJbVpSSmwyOTRxSk53X29iNm9RbVJESGdoRWtpckJjQmtJNEY0ZzNsb1pkam1zdHR1aHBpVXd0S3FnbFdMQU9hdUpJU3o0UXpqNE1waEFY?oc=5",
+   "source": "테크월드",
+   "date": "2026-10-16",
+   "datetime": "2026-10-16 14:09 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스, AI 응답 지연 줄일 공유 메모리 기술 검증",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jcXFKVzQ3RWdveW9QZm9UbWVfTE1hMUduSl9BS0tJWE5zMW5sbXpCTXY2QXhkbHVkQV92dDkwR3VGVlVsNlIydHF6NnNzRXNfTnF0eXJETnRhTFBHdnFmUTNLMHg?oc=5",
@@ -17,7 +65,7 @@
   },
   {
    "title": "[오늘 이 종목] AI 수요 확인 SK하이닉스 · 실적 기대 삼성바이오로직스 '주목' - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hMzhzd2Uyd2Rvejc3Y0t6N2U2Nk55Y3g5ZGVPNUhaaHdaN1VBZ2xGSEFOZlhjOHY1WmdZbzlWRDI0cDFxYlNLRUtnd0Nib3NDRjMzc1lBMmRKT2RBMXdCZ2tZTDdtQTZN0gFuQVVfeXFMTzJFN3dNOTVEazVGSkg2S19qMENlal9zdjF4Z1lzZUZoRGVrYnZ3MUlleUM4ZjVoLXY0c3VNdVhmVktYbTJFbjBnYWlSZDhJUmNJRFJ1MGlXX3FwNjluN2o3cF9fMkRBenBucUFjS1E?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yRTd3TTk1RGs1RkpINktfajBDZWpfc3YxeGdZc2VGaERla2J2dzFJZXlDOGY1aC12NHN1TXVYZlZLWG0yRW4wZ2FpUmQ4SVJjSURSdTBpV19xcDY5bjdqN3BfXzJEQXpwbnFBY0tR0gFuQVVfeXFMTzJFN3dNOTVEazVGSkg2S19qMENlal9zdjF4Z1lzZUZoRGVrYnZ3MUlleUM4ZjVoLXY0c3VNdVhmVktYbTJFbjBnYWlSZDhJUmNJRFJ1MGlXX3FwNjluN2o3cF9fMkRBenBucUFjS1E?oc=5",
    "source": "머니투데이",
    "date": "2026-10-16",
    "datetime": "2026-10-16 12:04 KST",
@@ -69,54 +117,6 @@
    "source": "뉴시스",
    "date": "2026-10-16",
    "datetime": "2026-10-16 10:39 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, \"급락 과도했다\".. 동반 '강세'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1pBcWdYUnNId1BHZ0pTY3NWU0prblhqNUJhdk9LSHpEd3gtWF9aWWNudlNtajJJMmtNUFJCT3diSVJhSHVid3hqVXFuSHFhS1dmeHd4R1RNdlN3SWVSM3ZRdVVndzdxZlpfM2tpNEQ5eDk5dTlubHpMZmYzWDdFZ2lRQkZ2S2Vp?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 10:12 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "싱가포르 거래소, SK하이닉스·TSMC 등 AI 밸류체인 5개사 예탁증서 상장",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rYmJ3Z3puVy1mQmVhanpFTXdRb3hkSFQzOElpRmt2dHlNR3AxVmpJYmJnbTlucEQtUFIwNlVUYzJaZC1EOG1LMXhGSGFJNzVXOHF5OG51OEI2TUZlcFZ2ZnBJQQ?oc=5",
-   "source": "더구루",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 10:05 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"성과급 잭팟 SK하이닉스 가자\"… 삼성전자 제치고 구직자 관심 1위 등극",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YM2s3QUVCUVh1cm5NaHV3bHMxMkdRdm93VGhKNVIyVDdPNGVPZzQyQ25xWEkxOHNFTlRyd2d0OEZLTmFlZmFfRjBMN2d4cl9RY01rWVdqdWJxRXdHbjNZOGgxRm8?oc=5",
-   "source": "디지털데일리",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 09:55 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[기업 이모저모] 다시 초심으로!…SK하이닉스, 43년 역사 오려 붙인 이유",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1EYXF0dWtObnhsdC0zdmJnQmlYZ015LXJmRFphTlkwOXA2TTZsR05SWUh1TC1iSWNzazJPSzhXcmxpZF9SclhQR3FVNWY5Q0JVRHRmZFluWlBlLUt5LUxkOU5pMkNiUDJ1LUhKOWJNUU9qUUFo?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 09:16 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
