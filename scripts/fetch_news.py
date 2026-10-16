@@ -124,6 +124,7 @@ TOPIC_RULES = (
     ("keynote", r"안현|HBF|3D\s?D램|메모리 계층|AI 인프라|병목|SEDEX"),
     ("recruit", r"구직자|취준생|취업|관심기업|채용"),
     ("history", r"43년|초심"),
+    ("partner", r"협력사|상생|서울랜드|구성원·가족"),
     ("cxmt", r"CXMT|창신|[中중]국(발)?\s?(반도체|메모리|D램|기술)|中\s?(반도체|메모리|D램)"),
     ("leverage_etf", r"레버리지|인버스|ETF"),
     ("target_price", r"목표가|목표주가|리포트 브리핑|증권가"),
