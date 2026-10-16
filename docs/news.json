@@ -1,8 +1,44 @@
 {
- "fetchedAt": "2026-10-16 12:38 KST",
+ "fetchedAt": "2026-10-16 13:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스, AI 응답 지연 줄일 공유 메모리 기술 검증",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jcXFKVzQ3RWdveW9QZm9UbWVfTE1hMUduSl9BS0tJWE5zMW5sbXpCTXY2QXhkbHVkQV92dDkwR3VGVlVsNlIydHF6NnNzRXNfTnF0eXJETnRhTFBHdnFmUTNLMHg?oc=5",
+   "source": "매일일보",
+   "date": "2026-10-16",
+   "datetime": "2026-10-16 13:05 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[오늘 이 종목] AI 수요 확인 SK하이닉스 · 실적 기대 삼성바이오로직스 '주목' - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hMzhzd2Uyd2Rvejc3Y0t6N2U2Nk55Y3g5ZGVPNUhaaHdaN1VBZ2xGSEFOZlhjOHY1WmdZbzlWRDI0cDFxYlNLRUtnd0Nib3NDRjMzc1lBMmRKT2RBMXdCZ2tZTDdtQTZN0gFuQVVfeXFMTzJFN3dNOTVEazVGSkg2S19qMENlal9zdjF4Z1lzZUZoRGVrYnZ3MUlleUM4ZjVoLXY0c3VNdVhmVktYbTJFbjBnYWlSZDhJUmNJRFJ1MGlXX3FwNjluN2o3cF9fMkRBenBucUFjS1E?oc=5",
+   "source": "머니투데이",
+   "date": "2026-10-16",
+   "datetime": "2026-10-16 12:04 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "“어쩌면 마지막...” SK하이닉스의 ‘특별한 가을’",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40Z0hXUDJpWE9mU3VodWQtRDFZZVRrSmpXSTlZWUxkdDZNT2NoYlo5cFZQMUlNY1lBVzB6TVJQaU9IMldYYjJaT25VMW5UWDUzYVpTVFNKU1RoX2ZiZlE?oc=5",
+   "source": "뉴스투데이",
+   "date": "2026-10-16",
+   "datetime": "2026-10-16 11:57 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "AI 데이터 병목 뚫는다…·SK하이닉스, 'OCP 2026'서 차세대 메모리 솔루션 공개",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBQaEZVMnBwSXJiZ0YyYzNmUnNGQUIzcmZJRWdHTE1VQ1B2SE1jMFBkd3JzLTRnRXZpTy1IeVhVQlhabFpjdzRYZEZyVHdwNjhDRmhyNlNDU2pFdTZkeUdWYg?oc=5",
@@ -21,6 +57,18 @@
    "source": "Investing.com 한국어",
    "date": "2026-10-16",
    "datetime": "2026-10-16 10:41 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "日, 美 반도체 팹에 대규모 투자…삼성·SK하이닉스 '예의주시'",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CLXM0dVVRckp1eUJZTXBaSDlibC1objQyU2FKNE5Ha0IzODFKeENpV2o4U0VOYU1JaHJROGxwRUpueG95Q2R1eUpGWG5tcFhvNG1KMGl0SlJidTR0NHFBV9IBeEFVX3lxTE1QZ2x6emZWNUhUTWc2YVFPNGRUdE04Zmx3YVlUWUxaV3psNDEyd3FSeW85cVpDTmltY2EwNW5PWDZ1dFBKc1NyeFpDQ2hTNFFXc285N0lFN2tHUEZ0WXNDTTV1UlVnSW9hNlhwMWE0SDZ3UVB6RmRrZg?oc=5",
+   "source": "뉴시스",
+   "date": "2026-10-16",
+   "datetime": "2026-10-16 10:39 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -73,54 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[여의도 투자본부 2부] SK하이닉스 vs 한국콜마 vs 삼성전자 vs 스튜디오드래곤, 공략법은? - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qTk0yTlVhM3VkRU1TZU4zUEZoQjVTcHFMR0JCMHB6NXF5N3BXWGI0QlZnb1pOb1hsTVJvWG9LSnRmQVpJd0VjbFN1YmlyRXlNd1NhSnhwRlpYbzNleU41c3dMWHdFTC1sN3hja2ln0gFuQVVfeXFMTWpOTTJOVWEzdWRFTVNlTjNQRmhCNVNwcUxHQkIwcHo1cXk3cFdYYjRCVmdvWk5vWGxNUm9Yb0tKdGZBWkl3RWNsU3ViaXJFeU13U2FKeHBGWlhvM2V5TjVzd0xYd0VMLWw3eGNraWc?oc=5",
-   "source": "머니투데이",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 06:45 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "범대위, SK하이닉스 공문 공개 파문...“범대위도 안성시도 모르는 상생협약? SK와 안성시는 진상 밝혀라!”",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54SUpzR2xLb0Zzb3pwd3dTNmdPVUh0bjJGLWtlYmZ4U3Q5eEpXTDh4UDJ0aHVFb3FhY3YwNmxLMUhuUThUM0d1UktGUXRHMEgxc0FDOFFtblBMMW54OXlaMU5oaHBVYjgwWkU0cw?oc=5",
-   "source": "시사안성",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 06:27 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“삼성전자·SK하이닉스, 지금 어떻게 해야 하나”…개미들 패닉, 외국인은 2조5000억 투매",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SWWhZdExHTXRJblZqRTNvaUh0UFljSVg1VjRxV2swRkVQcXUtTW9mQjdtbmF1TmdMVnNVQngtaGwyQzJOT1RfOXJKbHJFRVFRRzNBWTBGVDlndw?oc=5",
-   "source": "경북매일",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 00:33 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "삼성·SK하이닉스 주가 폭락…中 반도체 추격에 '2029년 공급 과잉' 경고까지",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XZXZhOXVpMEU3ZjdESmdwNzZuTTB5RXVjU05LZ3F5QjdvaDZQelFtMTJ3QjFPUVZ1Ml8waVBCUktvRXlOOVRDeHFRVzlHZVhGN2pmLU5HUXIzdmR3?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-10-15",
-   "datetime": "2026-10-15 22:24 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
