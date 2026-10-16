@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-16 11:38 KST",
+ "fetchedAt": "2026-10-16 12:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -88,6 +88,18 @@
    }
   },
   {
+   "title": "구직자 관심기업 1위 SK하이닉스…현대차 2위·인천공항 3위",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CUXFib3VFcHpnTFpXLU93RTNaTWNGbnFCaHUtQkJhTWZ5dURxYmpUM3FsV29jQTRzeGZSVlpDYU1uYU1SVWNjQ1RaUFpvV2hHOFpBbE1WVFpPLV9KRFExa1hzNEw?oc=5",
+   "source": "서울경제TV",
+   "date": "2026-10-16",
+   "datetime": "2026-10-16 08:46 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스, HBM 16단처럼 쌓은 43년…’초심 3부작’ 공개 By EBN",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQN0JZbG1IdXF4Y3V3aS1ScGpiYURILUg5N0UzVTEwV3NSQ0NLTkYwU1dUM3ZUY0pvN01xQkJGNWRCN2Q0WXpBbnYxMzBhcWRIaVhFQmtoam5BNGNsUS1pYWpFQVMtSURWZFRFVDY2WXE?oc=5",
    "source": "Investing.com 한국어",
@@ -100,27 +112,15 @@
    }
   },
   {
-   "title": "[여의도 투자본부 1부] 'SK하이닉스, 지씨지놈' 명예의 전당 갈 종목은? - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12dnJWN0psenNPNjlHdEpES3RKaVFWYXFjekRBT2dUT0t4YV9tdkFGM2VwY0dLcjhoSGFFNlpKaFR0UmVMaml1NF9YSXJVWDlGaWhTSkI1cmFHNUVFbVRySmc1V1hSWEV6WnJOelln0gFuQVVfeXFMTXZ2clY3Smx6c082OUd0SkRLdEppUVZhcWN6REFPZ1RPS3hhX212QUYzZXBjR0tyOGhIYUU2WkpoVHRSZUxqaXU0X1hJclVYOUZpaFNKQjVyYUc1RUVtVHJKZzVXWFJYRXpack56WWc?oc=5",
-   "source": "머니투데이",
+   "title": "취준생이 주목한 기업은? SK하이닉스 1위",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EdEdyMUN0cDBGdzVicTBfaU9xb1hBQ2VMejZSLTJKN1VRbjBic010MzFZZEdYakpqRmV4Yl9nNzdjNEtFSndZa1kzbFRyV0ZtQ2ZaaF9HZXNZRHlwS3BlR2Y4Zi1Fak13SllzRg?oc=5",
+   "source": "한경매거진&북",
    "date": "2026-10-16",
-   "datetime": "2026-10-16 06:45 KST",
+   "datetime": "2026-10-16 07:36 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "“삼성전자·SK하이닉스, 지금 어떻게 해야 하나”…개미들 패닉, 외국인은 2조5000억 투매",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SWWhZdExHTXRJblZqRTNvaUh0UFljSVg1VjRxV2swRkVQcXUtTW9mQjdtbmF1TmdMVnNVQngtaGwyQzJOT1RfOXJKbHJFRVFRRzNBWTBGVDlndw?oc=5",
-   "source": "경북매일",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 00:33 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
