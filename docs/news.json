@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-19 09:38 KST",
+ "fetchedAt": "2026-10-19 10:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "美 반도체주 급락 충격…삼성전자·SK하이닉스 프리마켓 5%대 급락",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YSjQzS1VzX0J6OWdyZ0x5VkU4aXlRSWR0Z3dPX0dmNzdQckNxY3RjNkc1NHNrVFhZaVJjdWhqTVVnTkoxcVJqUkVoa1pIQ3lacVZTVUgzemExejNrcGgycUdyd2k2UktC?oc=5",
-   "source": "www.ebn.co.kr",
+   "title": "[특징주] 삼성전자·SK하이닉스, AI 업체 회사채 급락.. '약세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3FLMWFiMXpuMDNHd0k2TkJPWFdIVjd6SWtmb1phQVJoREk4cDBlZGo4UkE3ZUxGYkVuS3dCMHU1enRQUGJMVmdaVEgzcW1TNmw5Nzh2N3VWVDI4S3lQaElkeFpFVEV0bU1WUE1yUm1ZUXZkWGFuR1ZpSTlBd1l3NkhKcTFURlV3?oc=5",
+   "source": "글로벌이코노믹",
    "date": "2026-10-19",
-   "datetime": "2026-10-19 08:54 KST",
+   "datetime": "2026-10-19 10:21 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -16,11 +16,11 @@
    }
   },
   {
-   "title": "SK하이닉스, HBM 조직 늘리며 임원도 35%↑… 현대차·LG전자는 줄였다",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KeU00S0VibUpZc0J1U1RvZUdUZkdGTjBiMWhkbGtXY2hxVU9ENnRxRk0yTzdNQ0FweWxFOVM2bVVCOWtqOWFwVmdsdGM3UEhZd25TUWtuN1JtZFFJSHpMVFZxZk1QV2M?oc=5",
-   "source": "녹색경제신문",
+   "title": "100대 기업 임원 비중 5년째 0.8%대...SK하이닉스 증가폭 최대",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3aER6b0ZyRGRBSFBZYWI5bUZERV9yNE5tUXBsaEowdW1acWJrbHhtcTJkUmtxSmlVMi00OUhQQU9TSXZVNUJKem1Fa2JFUDBMelZRTlNYOF84OEhHRmFkdQ?oc=5",
+   "source": "KBC광주방송",
    "date": "2026-10-19",
-   "datetime": "2026-10-19 08:27 KST",
+   "datetime": "2026-10-19 09:48 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -28,9 +28,33 @@
    }
   },
   {
-   "title": "100대 기업 임원 비중 0.8%…SK하이닉스 최다 증가",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FSzRIc3JfY292UTYtT0xCeTdJQmpqdEtiMHQ3ZGh6OXJoYThUNEZVbVk0YnV3QXN2VHU3UlJ2QWtOXzJiLVZoUjRwU3RNUmpDTFptLVZkUmZPdEh6dGhZbUpFMl9UY3c?oc=5",
-   "source": "연합뉴스TV",
+   "title": "실적은 나란히 뛰었는데…삼성·SK하이닉스 임원 증원 '극과 극'",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54OXh5VFIzZjVvYVNDVGJzdUx5X3loM20zak9YQXJBNWstdEkydkFHRC15WnlQeWVmS1pGMkt2Qy1lVGxleWVTc0x4U01XZU1BX3h3WDY2blBIYzk5?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-19",
+   "datetime": "2026-10-19 09:48 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "121명당 1명꼴 ‘바늘구멍’ 대기업 임원⋯SK하이닉스 증가폭 1위",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83MHRyV1dTcUNOSkFIT0NXOUoxZmg5M2ZMMnZheVlnYWtWUW5teXBCc2w5NFM1NzNWR0E0LXJNQlc1ejV2dDlnb0ZfY2JDcFNWS21ZcmdKVFhWQQ?oc=5",
+   "source": "브릿지경제",
+   "date": "2026-10-19",
+   "datetime": "2026-10-19 08:30 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, HBM 조직 늘리며 임원도 35%↑… 현대차·LG전자는 줄였다",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KeU00S0VibUpZc0J1U1RvZUdUZkdGTjBiMWhkbGtXY2hxVU9ENnRxRk0yTzdNQ0FweWxFOVM2bVVCOWtqOWFwVmdsdGM3UEhZd25TUWtuN1JtZFFJSHpMVFZxZk1QV2M?oc=5",
+   "source": "녹색경제신문",
    "date": "2026-10-19",
    "datetime": "2026-10-19 08:27 KST",
    "signal": {
@@ -93,30 +117,6 @@
    "source": "글로벌이코노믹",
    "date": "2026-10-18",
    "datetime": "2026-10-18 16:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "청주 SK하이닉스 건설현장서 작업 중 로프 끊어져…근로자 2명 부상",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KRWpTV2dxcVdGeWVGb3VYRWdpSjduOXgxRmdaVll5T2hpdHR6ZHg0dzZqaF9aVDZMSThFaFIzZHlqUGRQdTFnVlVya1c0MHhYelI0dzQ5NVVBRG1WbmhhRW02QURKbWZxcjk2Uzd30gFuQVVfeXFMTUpFalNXZ3FxV0Z5ZUZvdVhFZ2lKN245eDFGZ1pWWXlPaGl0dHpkeDR3NmpoX1pUNkxJOEVoUjNkeWpQZFB1MWdWVXJrVzQweFh6UjR3NDk1VUFEbVZuaGFFbTZBREptZnFyOTZTN3c?oc=5",
-   "source": "중부매일",
-   "date": "2026-10-18",
-   "datetime": "2026-10-18 15:59 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "한국반도체마이스터고, SK하이닉스와 실무형 인재 양성 본격화",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSNE83VkZuaG1ZMVgzNDJKVnM5QS05SEk0SC1Tb2QxdUdUSV9QSjVHM1BjMk1lWFM0TU9LTDJMVHVsdVRKMjkybExJT2ExZ0U5b3FNSDE4UzE5MVBlcUMwa0h2a25LSVk?oc=5",
-   "source": "경상투데이",
-   "date": "2026-10-18",
-   "datetime": "2026-10-18 15:38 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
