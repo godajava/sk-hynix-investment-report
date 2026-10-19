@@ -1,11 +1,23 @@
 {
- "fetchedAt": "2026-10-19 09:08 KST",
+ "fetchedAt": "2026-10-19 09:38 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
+   "title": "美 반도체주 급락 충격…삼성전자·SK하이닉스 프리마켓 5%대 급락",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YSjQzS1VzX0J6OWdyZ0x5VkU4aXlRSWR0Z3dPX0dmNzdQckNxY3RjNkc1NHNrVFhZaVJjdWhqTVVnTkoxcVJqUkVoa1pIQ3lacVZTVUgzemExejNrcGgycUdyd2k2UktC?oc=5",
+   "source": "www.ebn.co.kr",
+   "date": "2026-10-19",
+   "datetime": "2026-10-19 08:54 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
    "title": "SK하이닉스, HBM 조직 늘리며 임원도 35%↑… 현대차·LG전자는 줄였다",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83SHBESE44Zy1pdVFiR3dQNHVfdzhJQU51cllqenNSSFcyQzhqT0NpMG9hRnljX1lNVDJ3cnJGT2lpT09iN2c2RzFuUjlyRExaeUpWSG9hMDFCaFNhLW5vaEtIVFVvQ2Qt?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KeU00S0VibUpZc0J1U1RvZUdUZkdGTjBiMWhkbGtXY2hxVU9ENnRxRk0yTzdNQ0FweWxFOVM2bVVCOWtqOWFwVmdsdGM3UEhZd25TUWtuN1JtZFFJSHpMVFZxZk1QV2M?oc=5",
    "source": "녹색경제신문",
    "date": "2026-10-19",
    "datetime": "2026-10-19 08:27 KST",
@@ -40,11 +52,11 @@
    }
   },
   {
-   "title": "주가 폭락에 '쪼개기 상장' 논란까지...시험대 오른 SK하이닉스",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hUjRPSHB3cUh6eDJib2RXZU9ZLTBuZWFZeTVVNVZrTGpRRnp0NUk3LVBsaGpTU29jdkhUMURLbEtKN3h3S0pNM1ctdjE2SGRuREhkanhlMmg1SnRZRnc?oc=5",
-   "source": "YTN",
-   "date": "2026-10-18",
-   "datetime": "2026-10-18 23:23 KST",
+   "title": "중복상장 논란 솔리다임… 하이닉스 주주 어떻게 달래나",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanU5QXJCQzd5Qk03Q1c4Yml1NkhOakg3MDQ5N1JQWXJVYTBXNHFaQURkREFabTN4cmlQdzFqcDZxSFJiTkZzUmN5YURFZ29DQWpqaHc2Z1VjYjhYa1lFNG5zTjhhRExFUzl5QXV4SUxTMzM0UDlXQko3RGM1cjFsNlhHUjNtWENFWk80?oc=5",
+   "source": "조선일보",
+   "date": "2026-10-19",
+   "datetime": "2026-10-19 00:31 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -109,18 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 솔리다임 美 상장에… 성장 동력 vs 주주가치 훼손",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TNTMzaVFRcmg3cElud1ptUXBRSDVEREVEVUNvUWQyZHVSVE9Wc050X1RIcW43TkRDdmt1RWp3ME9KWjUwS08tS2xoY1h6QnItM2pLNFpxUWF6eXQ0YVdMWGFwRU5RS2xTVU1oUUFNZ1FBOE9s0gF0QVVfeXFMTVM1MzNpUVFyaDdwSW53Wm1RcFFINURERURVQ29RZDJkdVJUT1ZzTnRfVEhxbjdOREN2a3VFancwT0paNTBLTy1LbGhjWHpCci0zaks0WnFRYXp5dDRhV0xYYXBFTlFLbFNVTWhRQU1nUUE4T2w?oc=5",
-   "source": "IT조선",
-   "date": "2026-10-18",
-   "datetime": "2026-10-18 14:58 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
