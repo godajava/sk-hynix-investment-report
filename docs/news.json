@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-16 21:21 KST",
+ "fetchedAt": "2026-10-19 09:08 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "한국반도체마이스터고, SK하이닉스와 산학협력 본격화",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJeXY4RUlFNXdxMjdvQWt1T3VVUEhSUFB0LVZ6bGltX3JLVTV4N1UxZHhKUzhHR0hQMG5Nc2Z2amNPRzNCand0SmFUbFlBZUdGTW9yNUpPUEcxdw?oc=5",
-   "source": "경주신문",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 19:14 KST",
+   "title": "SK하이닉스, HBM 조직 늘리며 임원도 35%↑… 현대차·LG전자는 줄였다",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83SHBESE44Zy1pdVFiR3dQNHVfdzhJQU51cllqenNSSFcyQzhqT0NpMG9hRnljX1lNVDJ3cnJGT2lpT09iN2c2RzFuUjlyRExaeUpWSG9hMDFCaFNhLW5vaEtIVFVvQ2Qt?oc=5",
+   "source": "녹색경제신문",
+   "date": "2026-10-19",
+   "datetime": "2026-10-19 08:27 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,95 +16,35 @@
    }
   },
   {
-   "title": "[기업] SK하이닉스, 협력사 임직원·가족 서울랜드 초청 '땡스풀 데이'",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83UWFiQTBtMVdQQWRSZ1lkWXF4NzdUemsweFpOckpaTnBmcWdfUERoTS16bGEyaHNsLURfX1ZCcU5QdXVsT19hYmp1Q3NpQ3BobXpPOGUzejl1b3VMV0E?oc=5",
+   "title": "100대 기업 임원 비중 0.8%…SK하이닉스 최다 증가",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FSzRIc3JfY292UTYtT0xCeTdJQmpqdEtiMHQ3ZGh6OXJoYThUNEZVbVk0YnV3QXN2VHU3UlJ2QWtOXzJiLVZoUjRwU3RNUmpDTFptLVZkUmZPdEh6dGhZbUpFMl9UY3c?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-10-19",
+   "datetime": "2026-10-19 08:27 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "'인사시즌 임박' SK하이닉스 임원, 올해 72명↑…현대차 25명·LG전자 19명↓",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKSmVoa0hSU0lSS2ljdV9TNVhMVTFXZEwtUnM2U0wwQVRfcGwyRkVQODc4VF9EQTU4dUFpYnZoU0lIMG9BOHp5TTRGem5VQ0VNdEYwRU5OSFYwZ21JZGhvdnh5c0JyNVNrVWFybzFWSks?oc=5",
+   "source": "신아일보",
+   "date": "2026-10-19",
+   "datetime": "2026-10-19 08:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "주가 폭락에 '쪼개기 상장' 논란까지...시험대 오른 SK하이닉스",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hUjRPSHB3cUh6eDJib2RXZU9ZLTBuZWFZeTVVNVZrTGpRRnp0NUk3LVBsaGpTU29jdkhUMURLbEtKN3h3S0pNM1ctdjE2SGRuREhkanhlMmg1SnRZRnc?oc=5",
    "source": "YTN",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 18:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[퇴근길머니] 20대 개미, 가장 많이 떠났다…\"SK하이닉스 가고 싶어요\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5LTFPQ01VNjdnNHBKM1hWcGVfbmo3dVlwQWdjU0JKQlJXWjdVNkpleXR4eFpKenVvdFhxMUhNWkdhaGVsUVVLcnFXZmE4Z1lfbkxlSEV4Rnc4aVVfTnlERdIBYEFVX3lxTFA5LTFPQ01VNjdnNHBKM1hWcGVfbmo3dVlwQWdjU0JKQlJXWjdVNkpleXR4eFpKenVvdFhxMUhNWkdhaGVsUVVLcnFXZmE4Z1lfbkxlSEV4Rnc4aVVfTnlERQ?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 17:20 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "머스크, 메모리 반도체 가격 정책 강력 비판...삼성·SK하이닉스 겨냥",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8taXRHMEJnMVJrT3JMTzJ4RUlONmxQeVpwY1hORUduejJCWVh1eVRHOUx3OFBNRnROQUFTdU9WREZ5X193NjhTdTRlSDVDMGpvTjZQMm1sZmY5SjJ3dlJ0aFY0ay1tVnlPX2c?oc=5",
-   "source": "AI타임스",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 17:15 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼전 2.6%·하닉 0.8% 상승…8~9거래일만에 반등(종합)",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14cDhaUjZ5dDBMTUY5VGphdzlDU1ByM0taczFkbjktS2RJanhLNnBrNmVpZldzdml2VmpOT2w3a2VoeUVSMVVJUWtQVGFhWUF2Tm41S3ctYXB4NFZnMmt0WtIBYEFVX3lxTE14cDhaUjZ5dDBMTUY5VGphdzlDU1ByM0taczFkbjktS2RJanhLNnBrNmVpZldzdml2VmpOT2w3a2VoeUVSMVVJUWtQVGFhWUF2Tm41S3ctYXB4NFZnMmt0Wg?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 16:11 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, AI 처리 속도 높일 차세대 메모리 기술 공개",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uUWlubUlzMlN0YTI1TnNzVXpWQW1tYndwRjlmc2ZRRERvcHZNY2p6WXAzZWI3UldMV3pjQTRjc1o3ZTlfRVQtcTZkeHkycnM0V0V1NUJhdlA4WDJV?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 15:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "경남대, SK하이닉스 전문가 초청 반도체 산업 세미나",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5td3NSMHdIUnVhYTFtcmVlemVkM0llYnhXT3RIVzA3dnJxejVZTUl6WnR1OVpkc1pob1Yxbk5SeGRMUVg0SmdTUDNzWUNQVE9CS2w4eHc4dDN0ckZpVUVLZFlMLVBnZw?oc=5",
-   "source": "한국대학신문",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 15:25 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성-SK하이닉스, 오늘은 반등...과연 '중국발 허풍'에 놀아났나?",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqR01qeGtRaVUzU1FTLWJmY0lsOWNhQnBFdGRpT2xwMWhzNUtFRzV4UkxNOW03WkFaNXhGU09WTzhqaENtRExzU19zbGVCa3NJS180SEk3MllUOUZHR3dRc1BDOVA3M1FsT1E?oc=5",
-   "source": "금융소비자뉴스",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 15:01 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스 급락은 '가격 왜곡'… 지금은 비중 확대 기회-KB",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01b2VoWlk3T05ZdlA2M3JfQV9Lb1hNdUREaWkxSWQ5anVRRElvVG1veHo4bTZpak12OXdIT0pWN1BTUWVMWkZtOG9tbFRlejlYVnU3TjBuMDNUaE92QWpqWTB1Vm5jbW10cnp2b2Z5SmZWX0pOZWc?oc=5",
-   "source": "인포스탁데일리",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 14:14 KST",
+   "date": "2026-10-18",
+   "datetime": "2026-10-18 23:23 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -112,15 +52,75 @@
    }
   },
   {
-   "title": "SK하이닉스, AI 응답 지연 줄일 공유 메모리 기술 검증",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jcXFKVzQ3RWdveW9QZm9UbWVfTE1hMUduSl9BS0tJWE5zMW5sbXpCTXY2QXhkbHVkQV92dDkwR3VGVlVsNlIydHF6NnNzRXNfTnF0eXJETnRhTFBHdnFmUTNLMHg?oc=5",
-   "source": "매일일보",
-   "date": "2026-10-16",
-   "datetime": "2026-10-16 13:05 KST",
+   "title": "삼전 이어 SK하이닉스도 '실적 잔치'... 3분기 영업익 77조 '역대 최대' 전망",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fU0kxTTFBalJ6TFAyenJwdDJBXzF1WElIb2hxakVFVzhyQjBuSUVzbWRTcFRVS2djTXFsdXFPVlhzMzlBbFM2aUxES09SdEtOU1ctck41SU5Odw?oc=5",
+   "source": "파이낸셜뉴스",
+   "date": "2026-10-18",
+   "datetime": "2026-10-18 18:34 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "\"억대 성과급, 인생 달겠다\"…SK하이닉스 직원에 이미주가 한 말 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4dHU3MlN2RHdoUDRYYjJDUmU2YzM0Q3JQM0pqOVNFUXQ5bnBiNkUwd2lucXNPYjJ0ejB3QVlpUk9Cajd3cnlUa0ZOUWdMYWE1ajFicWtjczRLZzhzRVFUVXRVLUVUdFh6WW5Sang5RnNicEHSAXhBVV95cUxOMzUtYTQ2V21tWHNNeGV2UkRKbW1aRGNhVHU4cFM1TS1FZHR1ZzZmR1d0OVYyalZDV1psTlRtR0hWcko2WWxYazU5dmF1ZG1KTW9DRUtkVWZ0ZmxkMWJWdEpDNlR6R0gzeVJLMERfOWpwd1l1X0RNaGQ?oc=5",
+   "source": "머니투데이",
+   "date": "2026-10-18",
+   "datetime": "2026-10-18 16:14 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성은 '확장' SK하이닉스는 '1.0 먼저'…AI메모리 표준화 시각차",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWnhEcUNTODZKWE14eTRNNzlUT2luTlJ6bHprTW9qYXVXRGl3WldMamtCMGY3RzA3VVQ2U2J6TE1nMXkwZW8zemxGTV83Z1h0YTJjZm1GSlN2VVJOS051YmFJNUJCNjE1WVAzN200cVBKWVZuS2F6Q0RpOFFKU3d2T3AyUzVjUQ?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-18",
+   "datetime": "2026-10-18 16:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "청주 SK하이닉스 건설현장서 작업 중 로프 끊어져…근로자 2명 부상",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KRWpTV2dxcVdGeWVGb3VYRWdpSjduOXgxRmdaVll5T2hpdHR6ZHg0dzZqaF9aVDZMSThFaFIzZHlqUGRQdTFnVlVya1c0MHhYelI0dzQ5NVVBRG1WbmhhRW02QURKbWZxcjk2Uzd30gFuQVVfeXFMTUpFalNXZ3FxV0Z5ZUZvdVhFZ2lKN245eDFGZ1pWWXlPaGl0dHpkeDR3NmpoX1pUNkxJOEVoUjNkeWpQZFB1MWdWVXJrVzQweFh6UjR3NDk1VUFEbVZuaGFFbTZBREptZnFyOTZTN3c?oc=5",
+   "source": "중부매일",
+   "date": "2026-10-18",
+   "datetime": "2026-10-18 15:59 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "한국반도체마이스터고, SK하이닉스와 실무형 인재 양성 본격화",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBSNE83VkZuaG1ZMVgzNDJKVnM5QS05SEk0SC1Tb2QxdUdUSV9QSjVHM1BjMk1lWFM0TU9LTDJMVHVsdVRKMjkybExJT2ExZ0U5b3FNSDE4UzE5MVBlcUMwa0h2a25LSVk?oc=5",
+   "source": "경상투데이",
+   "date": "2026-10-18",
+   "datetime": "2026-10-18 15:38 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 솔리다임 美 상장에… 성장 동력 vs 주주가치 훼손",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TNTMzaVFRcmg3cElud1ptUXBRSDVEREVEVUNvUWQyZHVSVE9Wc050X1RIcW43TkRDdmt1RWp3ME9KWjUwS08tS2xoY1h6QnItM2pLNFpxUWF6eXQ0YVdMWGFwRU5RS2xTVU1oUUFNZ1FBOE9s0gF0QVVfeXFMTVM1MzNpUVFyaDdwSW53Wm1RcFFINURERURVQ29RZDJkdVJUT1ZzTnRfVEhxbjdOREN2a3VFancwT0paNTBLTy1LbGhjWHpCci0zaks0WnFRYXp5dDRhV0xYYXBFTlFLbFNVTWhRQU1nUUE4T2w?oc=5",
+   "source": "IT조선",
+   "date": "2026-10-18",
+   "datetime": "2026-10-18 14:58 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   }
  ]
