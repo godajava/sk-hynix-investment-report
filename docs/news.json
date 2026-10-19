@@ -1,26 +1,14 @@
 {
- "fetchedAt": "2026-10-19 10:44 KST",
+ "fetchedAt": "2026-10-19 11:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[특징주] 삼성전자·SK하이닉스, AI 업체 회사채 급락.. '약세'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3FLMWFiMXpuMDNHd0k2TkJPWFdIVjd6SWtmb1phQVJoREk4cDBlZGo4UkE3ZUxGYkVuS3dCMHU1enRQUGJMVmdaVEgzcW1TNmw5Nzh2N3VWVDI4S3lQaElkeFpFVEV0bU1WUE1yUm1ZUXZkWGFuR1ZpSTlBd1l3NkhKcTFURlV3?oc=5",
-   "source": "글로벌이코노믹",
+   "title": "솔리다임 상장, SK하이닉스 ’HBM 실탄’ 될까…최대 20조 조달 주목 By EBN",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyaUVDQ1lWalZ5dzBBU01LQ25pekVPQ2RvMzAtbVJ1OXpBcFREQkJxWGNxTEJPRHNSTTNlckstekVkU1BTbGh0U1dyNTJYZGstcEo2VDlvbGJvM2VGUlRNd2V1Q1BnZW5KWUNrNDBCRzI?oc=5",
+   "source": "Investing.com 한국어",
    "date": "2026-10-19",
-   "datetime": "2026-10-19 10:21 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "100대 기업 임원 비중 5년째 0.8%대...SK하이닉스 증가폭 최대",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3aER6b0ZyRGRBSFBZYWI5bUZERV9yNE5tUXBsaEowdW1acWJrbHhtcTJkUmtxSmlVMi00OUhQQU9TSXZVNUJKem1Fa2JFUDBMelZRTlNYOF84OEhHRmFkdQ?oc=5",
-   "source": "KBC광주방송",
-   "date": "2026-10-19",
-   "datetime": "2026-10-19 09:48 KST",
+   "datetime": "2026-10-19 11:11 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -28,11 +16,35 @@
    }
   },
   {
-   "title": "중복상장 논란 솔리다임… 하이닉스 주주 어떻게 달래나",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanU5QXJCQzd5Qk03Q1c4Yml1NkhOakg3MDQ5N1JQWXJVYTBXNHFaQURkREFabTN4cmlQdzFqcDZxSFJiTkZzUmN5YURFZ29DQWpqaHc2Z1VjYjhYa1lFNG5zTjhhRExFUzl5QXV4SUxTMzM0UDlXQko3RGM1cjFsNlhHUjNtWENFWk80?oc=5",
-   "source": "조선일보",
+   "title": "대기업 직원 100명당 임원 0.8명… SK하이닉스 증가폭 최대",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hd0hOZzVzOGo4RVBjdE13SHVZcGUtbzJCcGw3eFROcHRwRXRYNGhMbFlURVA2bm9qZnJZRUtzaUZROFhXbHViTkNXVnZJbS02VElPZ2lrZHhMNWFrN1l2N25ManA2djBURFE?oc=5",
+   "source": "천지일보",
    "date": "2026-10-19",
-   "datetime": "2026-10-19 00:31 KST",
+   "datetime": "2026-10-19 11:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 국내 소부장 업체에 2조규모 수출보증 지원",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MTWFtX1NXaXFfS2JyWDhJZkZ0bUszYWkxVmtYT3k3QmhBWmVDekpCOV9vNVNOZWhYWjJFMVdNUVF0RXpwY1J3NlVBazh3d0s3a01PdXUwTGdsRjFDOWJ5d1dVZHVjTXRFcFBlZFEybXg?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-19",
+   "datetime": "2026-10-19 11:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, AI 업체 회사채 급락.. '약세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ3FLMWFiMXpuMDNHd0k2TkJPWFdIVjd6SWtmb1phQVJoREk4cDBlZGo4UkE3ZUxGYkVuS3dCMHU1enRQUGJMVmdaVEgzcW1TNmw5Nzh2N3VWVDI4S3lQaElkeFpFVEV0bU1WUE1yUm1ZUXZkWGFuR1ZpSTlBd1l3NkhKcTFURlV3?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-19",
+   "datetime": "2026-10-19 10:21 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -105,18 +117,6 @@
    "source": "글로벌이코노믹",
    "date": "2026-10-18",
    "datetime": "2026-10-18 11:07 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[T나는 경제] 머스크, 중국산 메모리 띄우는 이유는...삼성·SK하이닉스에 가격 견제구?",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAzbnRyaEtldGV2RUtiSW9XeVFDMk43NGV0YXN1b3ZaSGFZeEZJcXdybWQwMGRoRkhnWG04QUNRVXpYRTFCMmhwaFZkSGVaMTVZQkpNRExRY2tHREV6RkNmWHdn?oc=5",
-   "source": "티제이비",
-   "date": "2026-10-18",
-   "datetime": "2026-10-18 08:50 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
