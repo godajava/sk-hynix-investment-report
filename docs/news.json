@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-10-20 14:44 KST",
+ "fetchedAt": "2026-10-20 14:46 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
@@ -40,18 +40,6 @@
    }
   },
   {
-   "title": "KB국민은행, SK하이닉스 협력사에 2500억원 우대보증 지원",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VVW5xRFhrVVM5Rno1RUV3UkZyZ3RYWXBWazFHRG9sVzNaS0VQVnhYWHBhVi1oLXBHR1NzWXNSbkJfUW9KMTlXYkt4blhDejVZNmJSV0MxMzMzdw?oc=5",
-   "source": "브릿지경제",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 11:56 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "코스피 2%대 ↓...SK하이닉스 장중 한때 7% 급락",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uWHBmNnhiZHNXMGFnU3o5QTMwak1xM21wejZCelJoWlJtakw5bWVCTDlSR2FsMGNPZ3ZnaERfUmdqajlKT3JSN0hpM3k5OGdObmtnSjNLMkhpZnhGYUE?oc=5",
    "source": "YTN",
@@ -64,11 +52,11 @@
    }
   },
   {
-   "title": "4대 은행, SK하이닉스와 반도체 협력사 지원…총 2조 규모",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wTjUwcWsyX0FIMGRGX2ZVc0QwT0pjM1pOalRXRXFETEFzZElRRUVLYzh5REh5WnZORmZ1dTUtYWRNVGEzdDU4dVgwWHhLNHlLNm1DZGJUSjd2ZFJEbjFpbw?oc=5",
-   "source": "아시아경제",
+   "title": "4대 시중은행, SK하이닉스 반도체 협력사에 2조원 지원",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jSllqVS0wcnVuT3dtZVNSbWFpYy0tVHJGZ2ZTSEhSN004NHVXQy03alFDLWtzUFdVd1JWMkFkU1h2OUFYdmZVcmtzeEQ1WnJBalJPeDZrd1RobjlS?oc=5",
+   "source": "뉴스;트리",
    "date": "2026-10-20",
-   "datetime": "2026-10-20 10:21 KST",
+   "datetime": "2026-10-20 11:41 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -81,6 +69,18 @@
    "source": "글로벌이코노믹",
    "date": "2026-10-20",
    "datetime": "2026-10-20 09:26 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "청주시, SK하이닉스 등 16개 기업·단체와 상생협약",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yY3JyM0pYTkZ4ZTN5Znk1cmFHamhBQ2luaGVyWERFb0h3dDh3V0l5M0NDc3ZnY1NuYmJiam1vYVA2cHp1MGVQTFA1UTVwVHNhYk9iMDFyR2JVeVFVdERGQdIBYEFVX3lxTE5yY3JyM0pYTkZ4ZTN5Znk1cmFHamhBQ2luaGVyWERFb0h3dDh3V0l5M0NDc3ZnY1NuYmJiam1vYVA2cHp1MGVQTFA1UTVwVHNhYk9iMDFyR2JVeVFVdERGQQ?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 09:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
