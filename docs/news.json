@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-20 13:44 KST",
+ "fetchedAt": "2026-10-20 14:05 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[돌아온 SK하이닉스] 국고채 투자는 언제…\"시장 환경 등 종합 판단\"",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqcmlFQXRDb1pJQUQ1dlpvREkzWllPUm1UR1MwbzAyTVZLcnl2bFFrZ1FZeWhfX3VYRXpPaXJIcThOTVRycUU2Rmx4anBkVWZkMnJyVy1uNWoxbm9VcUdGZDdrUnVPSm9lQXhDeUJCN2RxR0810gF0QVVfeXFMUGpyaUVBdENvWklBRDV2Wm9ESTNaWU9SbVRHUzBvMDJNVktyeXZsUWtnUVl5aF9fdVhFek9pckhxOE5NVHJxRTZGbHhqcGRVZmQycnJXLW41ajFub1VxR0ZkN2tSdU9Kb2VBeEN5QkI3ZHFHTzU?oc=5",
-   "source": "연합인포맥스",
+   "title": "삼성·SK하이닉스에 도전장 낸 中 CXMT…“D램 초미세 공정 선도하겠다”",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55eTNJQ0pvSGRsT1c4eE9zNVE4OFdyT09nNUI2UVhPWUk3UGJSS3I4N2ZoeHg2Mkl1aGgyVzJ0cERNNVBTaWFtWUQ0TEZTcHpqUExORXRn?oc=5",
+   "source": "중앙일보",
    "date": "2026-10-20",
-   "datetime": "2026-10-20 12:03 KST",
+   "datetime": "2026-10-20 12:12 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,11 +16,11 @@
    }
   },
   {
-   "title": "[돌아온 SK하이닉스] 여전채 수천억 투자…브로커 자리에 매니저",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5reUU2ajBNaDFHMWRRdHRvcVc3Zk9IejU0UWNXZ2hHTHk3dTZIT1NqU3U3a2d6TjBQMUktM1Y0UGMxZzNaV2FRVFRvNnhoalk4VHQtQ2lZaUpfZE9ySEVQTVJxb2V2a293cE1Va1M2YkY?oc=5",
+   "title": "[돌아온 SK하이닉스] 국고채 투자는 언제…\"시장 환경 등 종합 판단\"",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqcmlFQXRDb1pJQUQ1dlpvREkzWllPUm1UR1MwbzAyTVZLcnl2bFFrZ1FZeWhfX3VYRXpPaXJIcThOTVRycUU2Rmx4anBkVWZkMnJyVy1uNWoxbm9VcUdGZDdrUnVPSm9lQXhDeUJCN2RxR0810gF0QVVfeXFMUGpyaUVBdENvWklBRDV2Wm9ESTNaWU9SbVRHUzBvMDJNVktyeXZsUWtnUVl5aF9fdVhFek9pckhxOE5NVHJxRTZGbHhqcGRVZmQycnJXLW41ajFub1VxR0ZkN2tSdU9Kb2VBeEN5QkI3ZHFHTzU?oc=5",
    "source": "연합인포맥스",
    "date": "2026-10-20",
-   "datetime": "2026-10-20 11:59 KST",
+   "datetime": "2026-10-20 12:03 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -52,18 +52,6 @@
    }
   },
   {
-   "title": "KB국민은행-SK하이닉스-무역보험공사, K-반도체 기업 자금난 해소 협력",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Qc3M2QmszQ3dHZThrQXBvZHhLOV9EelNjR25hQTl2T0JkbVlTWWx4RzZyQkhLVGFhMHc3azRKYkkySjQ2dGVZY2ZzRXdKTWg4ZTZmUUFZV1IyMWxZX0xWWVF3RGtoUQ?oc=5",
-   "source": "디일렉",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 11:35 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "SK하이닉스, 6개월 만에 120만원선 깨져… 중복상장 혼선",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tX2FkYVNWa2RtRDhEY2xhWHk3UHFLV1hjWS1rR3p5d2tPV0dSck8weVRCeWdlU3dXMjBwMXZ3UHMtdi1JTy1sTGtNek8xaWxqdW5yWGNZRVB1SWRZMmlKcnlkYWRqRGFfRktnN2xMSjNNUUNR0gF0QVVfeXFMT21fYWRhU1ZrZG1EOERjbGFYeTdQcUtXWGNZLWtHenl3a09XR1JyTzB5VEJ5Z2VTd1cyMHAxdndQcy12LUlPLWxMa016TzFpbGp1bnJYY1lFUHVJZFkyaUpyeWRhZGpEYV9GS2c3bExKM01RQ1E?oc=5",
    "source": "IT조선",
@@ -76,47 +64,59 @@
    }
   },
   {
-   "title": "美 반도체 반등에도 SK하이닉스ㆍ스퀘어 급락…솔리다임 변수에 투심 급랭",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMHdGaU9VVTVudFc1aVkya1VITU8zY1hMSGlncFd4MjNRbDYwM2trZ25KcmVjWS14YlN5R2p2UGhWVlFLQWM4RnlpeWN3T25rZDhHUTdpZnVxOHNhSzJ0a3hjLVZFUEt1aWN6cWhZSlRmS21IbjlUSHJya21EQVZjWUtWQQ?oc=5",
-   "source": "인베스트조선",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 10:53 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SKHY 4.67% 올랐는데…SK하이닉스는 왜 6% 하락이죠?",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQMmRxM21KOTJKaGdxX1JzQVNuclIyektrRWxiQS1tbVAwdHFtNzlpbnlBcnluWGthWFdnYmRVcEpIeEMzZmNPYzNuRlVmYjI4Q1FjMGx2bnNmZw?oc=5",
-   "source": "한국경제",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 10:10 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 美 기술주 훈풍에도 약세",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OMUFEZ2RJd2l4NU5LQm9pcEVWQWVIM0k3M0hDOGVPSFdfaHd4N1JYU0RFMEs1UFV3cUhZbV95YU02SWE1ZVlFcHdBSnBSeUd1SmpBT0laRjZCSHBD?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 09:35 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "마이크론, 로봇용 메모리 개발…삼성·SK하이닉스와 경쟁",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXZNQUNWN2Q4bHE5U0JsVThhaXREZHlSLXhpeHgxZWlwWTJCRThxWUF5X0wzTW0wZTJfQ0c2czVXelJZVDZmaVhaMi01VWxlTlBFNTYxdVlKbzA1TnhUcV9MMzMtalE5OG5FdzM0eEJGak5lLVVheFZGSHFfRnNRLUpZX25LTmdY?oc=5",
    "source": "글로벌이코노믹",
    "date": "2026-10-20",
    "datetime": "2026-10-20 09:26 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "청주시, SK하이닉스 등 16개 기업·단체와 상생협약",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yY3JyM0pYTkZ4ZTN5Znk1cmFHamhBQ2luaGVyWERFb0h3dDh3V0l5M0NDc3ZnY1NuYmJiam1vYVA2cHp1MGVQTFA1UTVwVHNhYk9iMDFyR2JVeVFVdERGQdIBYEFVX3lxTE5yY3JyM0pYTkZ4ZTN5Znk1cmFHamhBQ2luaGVyWERFb0h3dDh3V0l5M0NDc3ZnY1NuYmJiam1vYVA2cHp1MGVQTFA1UTVwVHNhYk9iMDFyR2JVeVFVdERGQQ?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 09:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "美반도체 2.5% 반등에도 SK하이닉스 외국인 매도 지속…40조 자사주가 주가 방어",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tQ3pkaFRWZElaQU1wTTExVGJRZ1ZPbF83aFBLYlVPeW5XNkMtX05hLXhjYTlXZGplU2VrLXhFSDBFNnJQTXVzUktsVFVLb1B5RG1qWnRGVU03enktRWJUWGRRWWQyenVJ?oc=5",
+   "source": "녹색경제신문",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 00:28 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 주가, 오늘 급등한 이유는?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xZjBYWGlLREpzQkVneXhJUzBfcDRVZU1pR0NCTmp5N0JfQVk5UFM3UVFHVUxRVFhsY0Q2SW55bU1QQkxsQlkyano0MWN4Q0JZZ3luaHBEbTJ0dUVzNG42Y0tnUWZra3JQdHhBUWludTUyeEVDRTJz?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-10-19",
+   "datetime": "2026-10-19 23:13 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "곽노정 SK하이닉스 사장 \"美·中·日 생태계 강화…우리도 키워야\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54T2NER1BOSS1hTEZjbUxlS1AwQXZLZFZUYUc1Zk9Dc003aFNxS05GamhwdVcxYW50UW1QaURqelMyUHZVRHNhRWstcw?oc=5",
+   "source": "아이뉴스24",
+   "date": "2026-10-19",
+   "datetime": "2026-10-19 20:24 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
