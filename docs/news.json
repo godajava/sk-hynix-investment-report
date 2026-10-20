@@ -1,10 +1,58 @@
 {
- "fetchedAt": "2026-10-19 23:37 KST",
+ "fetchedAt": "2026-10-20 09:09 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스 주가, 오늘 급등한 이유는? By Investing.com",
+   "title": "우리은행, SK하이닉스 협력사에 7500억원 금융지원",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBUeng0VHlFek16ZktjVlRLWHUxc0lBT2NYUW1peW52VU41YmVCT1JXMzlFdWFCeTFNUzJzbzItUW0wRGdyN1JuUjFjMmFnSmEyUm9Rb0tLXy0wQ01Oa3NaM1FtcEdPVUozR1Y2a29wS09oTDVo?oc=5",
+   "source": "조세일보",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 09:03 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[EBN 오늘(19일) 이슈 종합] 솔리다임 상장, SK하이닉스 ’HBM 실탄’ 될까 등 By EBN",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWSGl1cjN1c2NtcWZQWFRhOG1fUkloMVI5SnlIYUV5aVRWNUtsUWhkdWc1RmRuM2ludFRCZkxEVzZBLWk5cTJlT1ljdGgxYmZvMW00ZWlmVy14MGtzdVp4ektTQkgtTzBCb0JOSEkycHY?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 07:40 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "마이크론, 로봇용 메모리 개발…삼성·SK하이닉스와 경쟁",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXZNQUNWN2Q4bHE5U0JsVThhaXREZHlSLXhpeHgxZWlwWTJCRThxWUF5X0wzTW0wZTJfQ0c2czVXelJZVDZmaVhaMi01VWxlTlBFNTYxdVlKbzA1TnhUcV9MMzMtalE5OG5FdzM0eEJGak5lLVVheFZGSHFfRnNRLUpZX25LTmdY?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 03:40 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "美반도체 2.5% 반등에도 SK하이닉스 외국인 매도 지속…40조 자사주가 주가 방어",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tQ3pkaFRWZElaQU1wTTExVGJRZ1ZPbF83aFBLYlVPeW5XNkMtX05hLXhjYTlXZGplU2VrLXhFSDBFNnJQTXVzUktsVFVLb1B5RG1qWnRGVU03enktRWJUWGRRWWQyenVJ?oc=5",
+   "source": "녹색경제신문",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 00:28 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 주가, 오늘 급등한 이유는?",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xZjBYWGlLREpzQkVneXhJUzBfcDRVZU1pR0NCTmp5N0JfQVk5UFM3UVFHVUxRVFhsY0Q2SW55bU1QQkxsQlkyano0MWN4Q0JZZ3luaHBEbTJ0dUVzNG42Y0tnUWZra3JQdHhBUWludTUyeEVDRTJz?oc=5",
    "source": "Investing.com 한국어",
    "date": "2026-10-19",
@@ -28,11 +76,11 @@
    }
   },
   {
-   "title": "우리은행, SK하이닉스 협력사에 7500억원 금융지원…반도체 공급망 강화",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9kWDM5MTdITkI2WFhRTnpsam9ZaXhLc2xEYkViamxFa2U0RHJFOE03VXlzT0hYc2VoZkVhbjdWQjM5ZHN4NDMwaUhmMExydw?oc=5",
-   "source": "전자신문",
+   "title": "곽노정 SK하이닉스 사장 \"美·中·日 생태계 강화…우리도 키워야\"",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54T2NER1BOSS1hTEZjbUxlS1AwQXZLZFZUYUc1Zk9Dc003aFNxS05GamhwdVcxYW50UW1QaURqelMyUHZVRHNhRWstcw?oc=5",
+   "source": "아이뉴스24",
    "date": "2026-10-19",
-   "datetime": "2026-10-19 21:47 KST",
+   "datetime": "2026-10-19 20:24 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -45,18 +93,6 @@
    "source": "스트레이트뉴스",
    "date": "2026-10-19",
    "datetime": "2026-10-19 18:28 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "‘마트료시카 상장’ 솔리다임···SK하이닉스, 주주보호 어떻게",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yd2lFMm43blFXa3Z6RUt3d1JqdElpVUs5UDFZWm9YZEF2NFlCejVuS1VzV19tZXlDZWxDZnpvSEJGMUhsOU5zaUFCdzB4UmwwZ2VvT1pEeVdvZXhJLVRr0gFfQVVfeXFMTnJ3aUUybjduUVdrdnpFS3d3Ump0SWlVSzlQMVlab1hkQXY0WUJ6NW5LVXNXX21leUNlbENmem9IQkYxSGw5TnNpQUJ3MHhSbDBnZW9PWkR5V29leEktVGs?oc=5",
-   "source": "경향신문",
-   "date": "2026-10-19",
-   "datetime": "2026-10-19 17:23 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -85,42 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "[퇴근길머니] SK하이닉스 주주들 ’긴장’…폭락장 뭉칫돈 어디로",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GVWIxcktyZUkyc0pmdzVJWGVqQnh2MDZmb0ViaV9DVzVvcUNrN25aVmt2Q0t3akhZRFpGaV8wT1p6dUZ4UUNZY0VGNXNxWlNjYXdiZ2ZnVzlhSHNYdU9RR0Ytanh4UzQ?oc=5",
-   "source": "연합뉴스TV",
-   "date": "2026-10-19",
-   "datetime": "2026-10-19 17:18 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "삼성전자, 상승전환해 1%대 강세 마감…SK하이닉스도 0.4%↑(종합)",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZazlpZTYyZDZ6cGlhTFhZZkJXYmJoXzNCRzQ3TFdKMDRGVlJlYXkzVndIOG4zZEV6M2Ziam9NYV83UmtDMmkwTXhqc3lGQ0tMM3hDcnJMcWdTNjBqOFhoVNIBYEFVX3lxTE5ZazlpZTYyZDZ6cGlhTFhZZkJXYmJoXzNCRzQ3TFdKMDRGVlJlYXkzVndIOG4zZEV6M2Ziam9NYV83UmtDMmkwTXhqc3lGQ0tMM3hDcnJMcWdTNjBqOFhoVA?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-19",
-   "datetime": "2026-10-19 16:11 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "1년 새 임원 최대 증가 SK하이닉스, 최대 감소는 현대차",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1IX0lHci1ORnlockdSTXh6UkVpVmRtaUpzNXVGVGlCSjlWVHJrOFhrRGExWUdMY0tOcUVjbHBtUXdvZ002a2ZhbDZ4QzlyQmpPdnBtWEotdmJfTXBhOVRuU3lB?oc=5",
-   "source": "이코노미스트",
-   "date": "2026-10-19",
-   "datetime": "2026-10-19 14:48 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
