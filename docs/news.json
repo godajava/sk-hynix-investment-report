@@ -1,8 +1,44 @@
 {
- "fetchedAt": "2026-10-20 14:46 KST",
+ "fetchedAt": "2026-10-20 15:53 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "안성시의회, SK하이닉스 반도체 처리수 방류 전면 철회·상생협약 무효화 요구",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VYzhid3BSb2hRM2NXN1Z4Q3dsdmV1dUs1a0c3V3BicTJGbXgyNU56a2R6Q1kxenJPVlg1bjhQOTQtWldlbjJmazJRU1V5N3E0QThzT3E2VWNYcDFwMnpXcXVIdnpRNFV3ZldXMUNnTkw?oc=5",
+   "source": "인천일보",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 15:15 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "신한은행, SK하이닉스·한국무역보험공사와 반도체 수출공급망 금융지원 협약",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10NE1aX1JuelJvbGFfZWNlMm9KalkxY2pLUVRSaHlpcnV4QVhPYTRuS2RjblVDUkJObGRaWWMtUldhMEZVLUxrYmxoWjZZUndtR3JfY3hOMmFRT1RxZHExbk5tZTAzSWZFSlE?oc=5",
+   "source": "Daily NTN",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 15:04 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "코스피 4%대 하락...SK하이닉스 장중 한때 7% 급락",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNbVZRNEplZ3ZZTXZxZW1sQVNWQW1GRmlHZEtlWWFKLXd1TloweUhOQXlVY3lNTzlEckJWUGd0MUJsZG10T0xNR3pvTVZVWElNa1NMSmVZTDdGV2FTcHc?oc=5",
+   "source": "YTN",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 14:54 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "SK하이닉스, 솔리다임 중복상장 논란에 하락",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zd1E5cVFqaTY1Y2ttSFVHRFRKNk1sZlVxSDI3VmFUX25teUhDam5tdHM0MHotYzJ5Vk9aZlA1UE5OMlBxajVKOTdqWTV4eWhEZURWcHUyMGxsNFNwRlFNa0lKM1dibE0xNnhXOUxqZw?oc=5",
@@ -28,35 +64,11 @@
    }
   },
   {
-   "title": "[돌아온 SK하이닉스] 국고채 투자는 언제…\"시장 환경 등 종합 판단\"",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqcmlFQXRDb1pJQUQ1dlpvREkzWllPUm1UR1MwbzAyTVZLcnl2bFFrZ1FZeWhfX3VYRXpPaXJIcThOTVRycUU2Rmx4anBkVWZkMnJyVy1uNWoxbm9VcUdGZDdrUnVPSm9lQXhDeUJCN2RxR0810gF0QVVfeXFMUGpyaUVBdENvWklBRDV2Wm9ESTNaWU9SbVRHUzBvMDJNVktyeXZsUWtnUVl5aF9fdVhFek9pckhxOE5NVHJxRTZGbHhqcGRVZmQycnJXLW41ajFub1VxR0ZkN2tSdU9Kb2VBeEN5QkI3ZHFHTzU?oc=5",
+   "title": "[돌아온 SK하이닉스] 여전채 수천억 투자…브로커 자리에 매니저",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LYk9tWS13MDg2Qjc1WVhkV09fRDlrcXdhaWJ4MnNSMW9laHptOERwVnBWYWxma1RCVlBRU3VuVllvNGdkQmZnSVEzZVhkMkJjUkdHTGI2UzBOQXJ2eGhneFk2QXUwN2syek16MDdvSktWVmVV?oc=5",
    "source": "연합인포맥스",
    "date": "2026-10-20",
    "datetime": "2026-10-20 12:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "코스피 2%대 ↓...SK하이닉스 장중 한때 7% 급락",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9uWHBmNnhiZHNXMGFnU3o5QTMwak1xM21wejZCelJoWlJtakw5bWVCTDlSR2FsMGNPZ3ZnaERfUmdqajlKT3JSN0hpM3k5OGdObmtnSjNLMkhpZnhGYUE?oc=5",
-   "source": "YTN",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 11:43 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "4대 시중은행, SK하이닉스 반도체 협력사에 2조원 지원",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jSllqVS0wcnVuT3dtZVNSbWFpYy0tVHJGZ2ZTSEhSN004NHVXQy03alFDLWtzUFdVd1JWMkFkU1h2OUFYdmZVcmtzeEQ1WnJBalJPeDZrd1RobjlS?oc=5",
-   "source": "뉴스;트리",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 11:41 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -68,19 +80,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXZNQUNWN2Q4bHE5U0JsVThhaXREZHlSLXhpeHgxZWlwWTJCRThxWUF5X0wzTW0wZTJfQ0c2czVXelJZVDZmaVhaMi01VWxlTlBFNTYxdVlKbzA1TnhUcV9MMzMtalE5OG5FdzM0eEJGak5lLVVheFZGSHFfRnNRLUpZX25LTmdY?oc=5",
    "source": "글로벌이코노믹",
    "date": "2026-10-20",
-   "datetime": "2026-10-20 09:26 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "청주시, SK하이닉스 등 16개 기업·단체와 상생협약",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yY3JyM0pYTkZ4ZTN5Znk1cmFHamhBQ2luaGVyWERFb0h3dDh3V0l5M0NDc3ZnY1NuYmJiam1vYVA2cHp1MGVQTFA1UTVwVHNhYk9iMDFyR2JVeVFVdERGQdIBYEFVX3lxTE5yY3JyM0pYTkZ4ZTN5Znk1cmFHamhBQ2luaGVyWERFb0h3dDh3V0l5M0NDc3ZnY1NuYmJiam1vYVA2cHp1MGVQTFA1UTVwVHNhYk9iMDFyR2JVeVFVdERGQQ?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 09:00 KST",
+   "datetime": "2026-10-20 03:40 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -112,11 +112,11 @@
    }
   },
   {
-   "title": "곽노정 SK하이닉스 사장 \"美·中·日 생태계 강화…우리도 키워야\"",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE54T2NER1BOSS1hTEZjbUxlS1AwQXZLZFZUYUc1Zk9Dc003aFNxS05GamhwdVcxYW50UW1QaURqelMyUHZVRHNhRWstcw?oc=5",
-   "source": "아이뉴스24",
+   "title": "스펙 떼고 연 ‘SK하이닉스 AI 해커톤’…참가자 불만 속출 왜? [테크 자잘자잘]",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01RVJDZVlTOXhqZXgzUmNlR2g5NDBUZFZpMy1PanVsTXdQVEhuU00zbkVHWTVsa0NZT3lsTXhXNzVDb2wtSWpBUUF3aTJXN1NhTzIwUWJ5OVhMMlVOa09Rcg?oc=5",
+   "source": "한겨레",
    "date": "2026-10-19",
-   "datetime": "2026-10-19 20:24 KST",
+   "datetime": "2026-10-19 18:38 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
