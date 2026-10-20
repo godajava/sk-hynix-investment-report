@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-10-20 10:44 KST",
+ "fetchedAt": "2026-10-20 11:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "KB국민은행-SK하이닉스-무역보험공사, K-반도체 기업 자금난 해소 협력",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Qc3M2QmszQ3dHZThrQXBvZHhLOV9EelNjR25hQTl2T0JkbVlTWWx4RzZyQkhLVGFhMHc3azRKYkkySjQ2dGVZY2ZzRXdKTWg4ZTZmUUFZV1IyMWxZX0xWWVF3RGtoUQ?oc=5",
+   "source": "디일렉",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 11:35 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "美 반도체 반등에도 SK하이닉스ㆍ스퀘어 급락…솔리다임 변수에 투심 급랭",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMHdGaU9VVTVudFc1aVkya1VITU8zY1hMSGlncFd4MjNRbDYwM2trZ25KcmVjWS14YlN5R2p2UGhWVlFLQWM4RnlpeWN3T25rZDhHUTdpZnVxOHNhSzJ0a3hjLVZFUEt1aWN6cWhZSlRmS21IbjlUSHJya21EQVZjWUtWQQ?oc=5",
+   "source": "인베스트조선",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 10:53 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "4대 은행, SK하이닉스와 반도체 협력사 지원…총 2조 규모",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wTjUwcWsyX0FIMGRGX2ZVc0QwT0pjM1pOalRXRXFETEFzZElRRUVLYzh5REh5WnZORmZ1dTUtYWRNVGEzdDU4dVgwWHhLNHlLNm1DZGJUSjd2ZFJEbjFpbw?oc=5",
@@ -16,7 +40,19 @@
    }
   },
   {
-   "title": "SKHY 4.67% 올랐는데…SK하이닉스는 왜 5% 하락이죠?",
+   "title": "SK하이닉스 장중 120만원 붕괴…6% 급락",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDclJjYVdpTHViVE5yZHZVRnowQ1VjS0JWOXMyWFl1V0loRzE5UWJRVU90aDBaNHlFbEdoaWh6RVVUMmxkNnZLUlZqY09PZi1mZ21sX2tn?oc=5",
+   "source": "위키트리",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 10:19 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SKHY 4.67% 올랐는데…SK하이닉스는 왜 6% 하락이죠?",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQMmRxM21KOTJKaGdxX1JzQVNuclIyektrRWxiQS1tbVAwdHFtNzlpbnlBcnluWGthWFdnYmRVcEpIeEMzZmNPYzNuRlVmYjI4Q1FjMGx2bnNmZw?oc=5",
    "source": "한국경제",
    "date": "2026-10-20",
@@ -49,18 +85,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "코스피 하락 출발...SK하이닉스 장중 5% 급락",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMQmMyQjVtN1lzRFFsb0hPTmlhTnBqY3duRXViX0ZFVG52bm5aeGliMWNCTTBDRFh4M2F5UmZCanE5NXNLd1hrQk9VSXkwdHZGd2x4Qno2aE1CYkNfQkE?oc=5",
-   "source": "YTN",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 09:39 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   },
   {
@@ -97,30 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 3%대 하락…AI 수익성 논란 여전히 발목 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iaG9oelRIUGVvUHp2YU42cTcyR25wQ3ZsYkt5RkRrSkg0X21lSFpJWHV2c2pFeUNvVHEycW1oYzRUVFRoaS1iNkZ6SFJBZFR5YmxHMmZhaGZ4S2plWnZfUlkxSVg0c0tFMnhFM2JB0gFuQVVfeXFMTmJob2h6VEhQZW9QenZhTjZxNzJHbnBDdmxiS3lGRGtKSDRfbWVIWklYdXZzakV5Q29UcTJxbWhjNFRUVGhpLWI2RnpIUkFkVHlibEcyZmFoZnhLamVadl9SWTFJWDRzS0UyeEUzYkE?oc=5",
-   "source": "머니투데이",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 09:17 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "검색 상위 20개 중 14개 하락… 삼성전자·SK하이닉스 동반 약세",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QWHIwUHBMSnc5TzBlMXEwLWFFV002RFI2ZGpYYmRVMlVia1kxZ1R1bE96ajJVWlk0VHI4VDRMYzZCUXJDSlVnM3loX0NjNFUtNG9uRGVKWG54b1Q5NEZXVWJCQ2dHMjZJVWNuX1hLUmduVDNxRUdtN0ktX0dQZw?oc=5",
-   "source": "서울신문",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 09:14 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
