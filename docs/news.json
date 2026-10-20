@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-20 15:53 KST",
+ "fetchedAt": "2026-10-20 21:41 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "안성시의회, SK하이닉스 반도체 처리수 방류 전면 철회·상생협약 무효화 요구",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VYzhid3BSb2hRM2NXN1Z4Q3dsdmV1dUs1a0c3V3BicTJGbXgyNU56a2R6Q1kxenJPVlg1bjhQOTQtWldlbjJmazJRU1V5N3E0QThzT3E2VWNYcDFwMnpXcXVIdnpRNFV3ZldXMUNnTkw?oc=5",
-   "source": "인천일보",
+   "title": "안성시의회 “SK하이닉스 반도체 처리수 방류 전면 반대”",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSjR1SF9QLWgtUDIyUmloTjNxdzZyV2JFT2lWUV9RVGwydDFzZkowYmg4ZmlsY0NPaWZYMVc0eDFxQjU5SVpRbk1EZ2pubXpnY2c?oc=5",
+   "source": "경인일보",
    "date": "2026-10-20",
-   "datetime": "2026-10-20 15:15 KST",
+   "datetime": "2026-10-20 18:57 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,11 +16,23 @@
    }
   },
   {
-   "title": "신한은행, SK하이닉스·한국무역보험공사와 반도체 수출공급망 금융지원 협약",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10NE1aX1JuelJvbGFfZWNlMm9KalkxY2pLUVRSaHlpcnV4QVhPYTRuS2RjblVDUkJObGRaWWMtUldhMEZVLUxrYmxoWjZZUndtR3JfY3hOMmFRT1RxZHExbk5tZTAzSWZFSlE?oc=5",
-   "source": "Daily NTN",
+   "title": "SK하이닉스 레버리지 ETF 5천원도 붕괴...1/10 토막",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oM2NPa2JJSVV4YXBST0NTdG1scHpUT1hUWGNGWDB5OUloOWs5c3JlNXhKQXhmbVZoU1h0V21tQTM4TEtUaVRzUDNjZEtIVUZuM3Iyc2o2Z21DaDRjY01vczF3?oc=5",
+   "source": "티제이비",
    "date": "2026-10-20",
-   "datetime": "2026-10-20 15:04 KST",
+   "datetime": "2026-10-20 17:36 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "[이슈체크] SK하이닉스, 28일 IR서 '솔리다임 중복상장' 이슈 설명하나?",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aNE5rb2ZuU1VXcFZMVmU5bWktRUZYMm9FXzA0VHF0VzhzZmVZLXlReG9pYmFsaGZxWW9PanI0a0w1blhzcU5WaFNpaGp2cVJKaFMzblVKYWhiTGtzanctSG00bw?oc=5",
+   "source": "조세금융신문",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 17:34 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -28,11 +40,23 @@
    }
   },
   {
-   "title": "코스피 4%대 하락...SK하이닉스 장중 한때 7% 급락",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNbVZRNEplZ3ZZTXZxZW1sQVNWQW1GRmlHZEtlWWFKLXd1TloweUhOQXlVY3lNTzlEckJWUGd0MUJsZG10T0xNR3pvTVZVWElNa1NMSmVZTDdGV2FTcHc?oc=5",
-   "source": "YTN",
+   "title": "4대 은행, SK하이닉스·무보와 반도체 협력기업에 2조원 금융지원",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EZlNldjNrR2VzLWtjZGEwTnN0ZTFkWjFMMGlCcmxVYmZzTnJzYl92aUNQZFY1WVJKZG1HUlBOdmVhRUs0MnVIYi1Lc3VrV3FVQUN4TmtvU1pQSkxyTnczdE8yREt1MS1YWXpV0gFvQVVfeXFMUGlSdWNPLWVNZmVsOFVpMzZXMXg0UGVzRmxNMDgyeC1VM1lTbjNEN1RFN1dRS2RXSHdoZl9weW1UNHNZRWRJNkdNM3BQb0FKWE1yM0NhMHpwbU9HakxCdUVqdG5xSFFLNHFGSFFHeTFN?oc=5",
+   "source": "한국보험신문",
    "date": "2026-10-20",
-   "datetime": "2026-10-20 14:54 KST",
+   "datetime": "2026-10-20 17:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자, 낙폭 키워 3% 하락 마감…SK하이닉스도 4.2%↓(종합)",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTN3BSRjRaSkU3LXpKWVRKQmN4N0VfS1lvRHZoQU8xN2VtSkI2TXE4QXVxWmZIanltY1o2c2dNaWZ0cEF1c3hFU09kZGFtbXBia21MUzUzS1ZpeVHSAWBBVV95cUxNbnN2ZmpGTndVX0JrWlJhMVduaXA0akdPTFBzakc0TGEteTJOYmxscjFYY1U3YWFkSWtMUWtBWHR0LTBfMG9uWmJ1Nm1YdUdDUWxmWERUWm41eTlZLWxPTjM?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 16:32 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -40,15 +64,51 @@
    }
   },
   {
-   "title": "SK하이닉스, 솔리다임 중복상장 논란에 하락",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zd1E5cVFqaTY1Y2ttSFVHRFRKNk1sZlVxSDI3VmFUX25teUhDam5tdHM0MHotYzJ5Vk9aZlA1UE5OMlBxajVKOTdqWTV4eWhEZURWcHUyMGxsNFNwRlFNa0lKM1dibE0xNnhXOUxqZw?oc=5",
-   "source": "진일보 | 전남일보",
+   "title": "SK하이닉스 자사주 매입 종료 D-1···삼성전자 이어 ‘수급공백’ 우려 확산",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51Z3hZOE9BTjVHRFE2VHVpOHd4RndldGV1UlU4NHZWa3N6S29ncUwwQUkzdDdqeGhTR2JqanZib3JON1hhSHBUSDRjYVR0QVBFcDhrVGpEZHhEUUN0UkpBOFhTWmx5ME53UG9UckNmUXZXcjQ3SHfSAXZBVV95cUxOdWd4WThPQU41R0RRNlR1aTh3eEZ3ZXRldVJVODR2VmtzektvZ3FMMEFJM3Q3anhoU0diamp2Ym9yTjdYYUhwVEg0Y2FUdEFQRXA4a1RqRGR4RFFDdFJKQThYU1pseTBOd1BvVHJDZlF2V3I0N0h3?oc=5",
+   "source": "시사저널e",
    "date": "2026-10-20",
-   "datetime": "2026-10-20 13:43 KST",
+   "datetime": "2026-10-20 16:10 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스, 청주 SK로에 3.3㎞ 도시숲 조성",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xVTF5dU9PWmljQ3A1cjV3aHRJNV9DTWdHd3NnQnNZUlE2N2hTVWpaTkhzQkM0aThQQUc4TDNGdTNmb1NkUXpmelNMaDBoTFRWbmwyclFDTHQtalhBZ3ZfZ04weEZDWENsVVBpY2FB0gFuQVVfeXFMTzFVMXl1T09aaWNDcDVyNXdodEk1X0NNZ0d3c2dCc1lSUTY3aFNValpOSHNCQzRpOFBBRzhMM0Z1M2ZvU2RRemZ6U0xoMGhMVFZubDJyUUNMdC1qWEFndl9nTjB4RkNYQ2xVUGljYUE?oc=5",
+   "source": "중부매일",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 16:06 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "“하이닉스 470만·삼성전자 67만 간다”…노무라 파격 전망, 왜",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyN0M5dnh6Q01SN2ppdHpuS0Fyazc1ejVTVlB4bUJoMExhZzRhRXlmMDMyNUllRE9iZEVQUTYwY2NwV2tHRUtrUFVFMEFXTHJTeUlPMGdB?oc=5",
+   "source": "중앙일보",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 15:40 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "용인 반도체 클러스터에 4대은행·SK하이닉스 모인 사연은?",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CSE55cGY4Z213WThBODM4MXJLNTdPTENBODVyMHhvVlpUUGtoQmtHNEtNSWt5WHV4ZUQzRVhobHVScGlIc09SU25CZW44Xzh3ZWZteHF4SjIwaU9xdzIycm1B?oc=5",
+   "source": "이코노미스트",
+   "date": "2026-10-20",
+   "datetime": "2026-10-20 14:51 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -57,66 +117,6 @@
    "source": "중앙일보",
    "date": "2026-10-20",
    "datetime": "2026-10-20 12:12 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[돌아온 SK하이닉스] 여전채 수천억 투자…브로커 자리에 매니저",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LYk9tWS13MDg2Qjc1WVhkV09fRDlrcXdhaWJ4MnNSMW9laHptOERwVnBWYWxma1RCVlBRU3VuVllvNGdkQmZnSVEzZVhkMkJjUkdHTGI2UzBOQXJ2eGhneFk2QXUwN2syek16MDdvSktWVmVV?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 12:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "마이크론, 로봇용 메모리 개발…삼성·SK하이닉스와 경쟁",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXZNQUNWN2Q4bHE5U0JsVThhaXREZHlSLXhpeHgxZWlwWTJCRThxWUF5X0wzTW0wZTJfQ0c2czVXelJZVDZmaVhaMi01VWxlTlBFNTYxdVlKbzA1TnhUcV9MMzMtalE5OG5FdzM0eEJGak5lLVVheFZGSHFfRnNRLUpZX25LTmdY?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 03:40 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "美반도체 2.5% 반등에도 SK하이닉스 외국인 매도 지속…40조 자사주가 주가 방어",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tQ3pkaFRWZElaQU1wTTExVGJRZ1ZPbF83aFBLYlVPeW5XNkMtX05hLXhjYTlXZGplU2VrLXhFSDBFNnJQTXVzUktsVFVLb1B5RG1qWnRGVU03enktRWJUWGRRWWQyenVJ?oc=5",
-   "source": "녹색경제신문",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 00:28 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 주가, 오늘 급등한 이유는?",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xZjBYWGlLREpzQkVneXhJUzBfcDRVZU1pR0NCTmp5N0JfQVk5UFM3UVFHVUxRVFhsY0Q2SW55bU1QQkxsQlkyano0MWN4Q0JZZ3luaHBEbTJ0dUVzNG42Y0tnUWZra3JQdHhBUWludTUyeEVDRTJz?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-10-19",
-   "datetime": "2026-10-19 23:13 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "스펙 떼고 연 ‘SK하이닉스 AI 해커톤’…참가자 불만 속출 왜? [테크 자잘자잘]",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01RVJDZVlTOXhqZXgzUmNlR2g5NDBUZFZpMy1PanVsTXdQVEhuU00zbkVHWTVsa0NZT3lsTXhXNzVDb2wtSWpBUUF3aTJXN1NhTzIwUWJ5OVhMMlVOa09Rcg?oc=5",
-   "source": "한겨레",
-   "date": "2026-10-19",
-   "datetime": "2026-10-19 18:38 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
