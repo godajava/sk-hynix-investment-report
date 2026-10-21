@@ -4,15 +4,39 @@
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[진단] SK하이닉스, 솔리다임 美 상장 추진… 안철수, 국민연금 ‘제동’ 촉구",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NY0s5MFNZbmxWZC1GcTNrQUc1VTRMODRjbVRHcVhYZS1TelN1b1lvTWFvX2dJMHNFSGZ0QjVLd0lKSl9NYm1teHExRG56RzE2R1NFd3lQZGljdzJ1ZDBYaHlBMlBFYTFzSHlmVw?oc=5",
-   "source": "이코노미톡뉴스",
+   "title": "코스피, 폭락 딛고 5700선 탈환…삼성전자 4%·SK하이닉스 6%↑",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KcWFfbjVqNG42M3hpY3FWUGJSaVhNVVZWazlNSEQ5aW9pU2pwU2dTTkhzb0M4ZGVSODNWRm1RbnpNZTdCTldsVEZfRUQwY0VxSEkzZ19Bcmp6LUpHR2gtd3p0NWc?oc=5",
+   "source": "디지털데일리",
    "date": "2026-10-21",
-   "datetime": "2026-10-21 09:00 KST",
+   "datetime": "2026-10-21 09:31 KST",
    "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "금융당국 “솔리다임 중복상장 대상”…SK하이닉스 주가 영향은",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZUkdHbkxXTDBhdk5vWl9McDZkU0xsTHpwT0Y5NVoxV0UteHNSaWU5RkJSdE1LTlhwTFZTRjdEaXJOYThFajlRWjd4Y0xGNzdNemZrT3VWaWlkSGFpcTBNZkRWQno?oc=5",
+   "source": "서울경제TV",
+   "date": "2026-10-21",
+   "datetime": "2026-10-21 09:03 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "안성시의회, SK하이닉스 반도체 처리수 방류 철회·상생협약 파기 촉구",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DUGctTW8xQzRWdWlkMWpVbXF3Rlp2N1NDVXNpT3Z1M20zdHNKalplNkh6eFhtYVZ3dFR6dkFmVW9ydEoxNDBnMExteFE0MDktaURXbEJMZ2I5LU1fUmxjTnJDR18?oc=5",
+   "source": "매일일보",
+   "date": "2026-10-21",
+   "datetime": "2026-10-21 08:46 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -25,6 +49,18 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, 반도체 소부장에 2조원 금융 지원…공급망 경쟁력 높인다",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GengzSnlMbWhneEVxWGJwSFNsMkJXX1F5eTZJdnNsUEJ5OFhnUEtvVk1IVERReG1zdks2SEduMUhSSWxzTmNVS0MwS0cyMG1QU2xVaWw1c19POGZZQUx3elIyT3BwZlhq?oc=5",
+   "source": "테크월드",
+   "date": "2026-10-21",
+   "datetime": "2026-10-21 07:44 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -64,11 +100,11 @@
    }
   },
   {
-   "title": "안성시의회 “SK하이닉스 반도체 처리수 방류 전면 반대”",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kSjR1SF9QLWgtUDIyUmloTjNxdzZyV2JFT2lWUV9RVGwydDFzZkowYmg4ZmlsY0NPaWZYMVc0eDFxQjU5SVpRbk1EZ2pubXpnY2c?oc=5",
-   "source": "경인일보",
+   "title": "청주 SK로에 ‘가로수길’ … SK하이닉스 도시 숲 준공",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pLVBZRTJMSjBHQW9tWnc1eGJnTkN6dDlHSUNBMjViNDdGdWFVZThyM0w2WEN3b2xFakxPT0xqWDEwY0wwbjd6TjR4R3JmUXVOc3plbHlMbEhNSTk1OEd5VTNoQ1ZGZl94?oc=5",
+   "source": "충청타임즈",
    "date": "2026-10-20",
-   "datetime": "2026-10-20 18:57 KST",
+   "datetime": "2026-10-20 19:37 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -85,42 +121,6 @@
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   }
-  },
-  {
-   "title": "4대 은행, SK하이닉스·무보와 반도체 협력기업에 2조원 금융지원",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EZlNldjNrR2VzLWtjZGEwTnN0ZTFkWjFMMGlCcmxVYmZzTnJzYl92aUNQZFY1WVJKZG1HUlBOdmVhRUs0MnVIYi1Lc3VrV3FVQUN4TmtvU1pQSkxyTnczdE8yREt1MS1YWXpV0gFvQVVfeXFMUGlSdWNPLWVNZmVsOFVpMzZXMXg0UGVzRmxNMDgyeC1VM1lTbjNEN1RFN1dRS2RXSHdoZl9weW1UNHNZRWRJNkdNM3BQb0FKWE1yM0NhMHpwbU9HakxCdUVqdG5xSFFLNHFGSFFHeTFN?oc=5",
-   "source": "한국보험신문",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 17:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자, 낙폭 키워 3% 하락 마감…SK하이닉스도 4.2%↓(종합)",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTN3BSRjRaSkU3LXpKWVRKQmN4N0VfS1lvRHZoQU8xN2VtSkI2TXE4QXVxWmZIanltY1o2c2dNaWZ0cEF1c3hFU09kZGFtbXBia21MUzUzS1ZpeVHSAWBBVV95cUxNbnN2ZmpGTndVX0JrWlJhMVduaXA0akdPTFBzakc0TGEteTJOYmxscjFYY1U3YWFkSWtMUWtBWHR0LTBfMG9uWmJ1Nm1YdUdDUWxmWERUWm41eTlZLWxPTjM?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 16:32 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스, 청주 SK로에 3.3㎞ 도시숲 조성",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8xVTF5dU9PWmljQ3A1cjV3aHRJNV9DTWdHd3NnQnNZUlE2N2hTVWpaTkhzQkM0aThQQUc4TDNGdTNmb1NkUXpmelNMaDBoTFRWbmwyclFDTHQtalhBZ3ZfZ04weEZDWENsVVBpY2FB0gFuQVVfeXFMTzFVMXl1T09aaWNDcDVyNXdodEk1X0NNZ0d3c2dCc1lSUTY3aFNValpOSHNCQzRpOFBBRzhMM0Z1M2ZvU2RRemZ6U0xoMGhMVFZubDJyUUNMdC1qWEFndl9nTjB4RkNYQ2xVUGljYUE?oc=5",
-   "source": "중부매일",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 16:06 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
