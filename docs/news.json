@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-10-21 12:44 KST",
+ "fetchedAt": "2026-10-21 13:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스 주가, 오늘 급등한 이유는?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lakI3S3ZJQktveW9KNm9BbnZZVjdnWkFCdTVfcnh1V05fcGEyNUdZbWdVOWkxdEYzNXNIbHd0OGNvSFJ4Z1Bxb0tCV2Y1RWkxaXhCOFptVHdRcVdBUVNGM25vOWFfOGxMak91UVNJSFc1Z0VoYlow?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-10-21",
+   "datetime": "2026-10-21 13:13 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "“SK하이닉스 상생협약 파기하라”…안성 농민·정치권 반발 확산",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80TnZMS1d4UGlsUlltTkhHZ2NyX0dlUDBzSFltWmlqMkRsN2RTMmlwNng4N3p6Q1pNUFlhUzZQdHJNUmFvZU1HQmhZSjlwNTRfSlNua3RqdnhTcjA?oc=5",
@@ -13,18 +25,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "코스피 급반등에 매수 사이드카 발동…삼성전자·SK하이닉스 7%대 급등",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ibXhuRV9tRzFwRE1IMlpweEl2c1pQMFI4eEQwNkU4S1cyc2czUXBZUGNsdUdYZ2w3ZGNmUnF6bUlqbm5vcV9fSnBWZ2FQd3cx?oc=5",
-   "source": "블루밍비트",
-   "date": "2026-10-21",
-   "datetime": "2026-10-21 11:08 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   },
   {
