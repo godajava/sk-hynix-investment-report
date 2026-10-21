@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-10-21 10:44 KST",
+ "fetchedAt": "2026-10-21 11:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "코스피 급반등에 매수 사이드카 발동…삼성전자·SK하이닉스 7%대 급등",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ibXhuRV9tRzFwRE1IMlpweEl2c1pQMFI4eEQwNkU4S1cyc2czUXBZUGNsdUdYZ2w3ZGNmUnF6bUlqbm5vcV9fSnBWZ2FQd3cx?oc=5",
+   "source": "블루밍비트",
+   "date": "2026-10-21",
+   "datetime": "2026-10-21 11:08 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[르포] 용인 SK하이닉스 산단 공사현장은",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DaW8xWE4xaXRTU0Y4SUdWeTdEa2FyUzNkdGdMQUpvZlNyd3IzbXByZHRSeTFvcmhhMEZ2M1l5Z1dORGZnNk9ad2hfUGQxZXAteTdQWTltZXE5RktIYnpEUElKMUx4S2piYXJzRTlGQQ?oc=5",
+   "source": "기호일보",
+   "date": "2026-10-21",
+   "datetime": "2026-10-21 11:02 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[특징주] SK·SK하이닉스, 행동주의 펀드 저평가 제기에 동반 '강세'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVhmMWxjVXBldXdjN251UE5EV19TR0RzVng3TkFXZnVfZm5DOGFsaElLQ3JMb3JUa2FOQV84b1J1eEFVOWs5b2RfMFhCdThHODlLb1EwajVGOUN5SG05dE1pNGZrTVhIUGJtU1MzTjE3WnozY2haVU1OcHNEdC1NSkhmYWJ6YjlI?oc=5",
@@ -25,18 +49,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "코스피, 폭락 딛고 5700선 탈환…삼성전자 4%·SK하이닉스 6%↑",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KcWFfbjVqNG42M3hpY3FWUGJSaVhNVVZWazlNSEQ5aW9pU2pwU2dTTkhzb0M4ZGVSODNWRm1RbnpNZTdCTldsVEZfRUQwY0VxSEkzZ19Bcmp6LUpHR2gtd3p0NWc?oc=5",
-   "source": "디지털데일리",
-   "date": "2026-10-21",
-   "datetime": "2026-10-21 09:31 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   },
   {
@@ -81,18 +93,6 @@
    "source": "테크월드",
    "date": "2026-10-21",
    "datetime": "2026-10-21 07:44 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[르포] 용인 SK하이닉스 산단 공사현장은",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DaW8xWE4xaXRTU0Y4SUdWeTdEa2FyUzNkdGdMQUpvZlNyd3IzbXByZHRSeTFvcmhhMEZ2M1l5Z1dORGZnNk9ad2hfUGQxZXAteTdQWTltZXE5RktIYnpEUElKMUx4S2piYXJzRTlGQQ?oc=5",
-   "source": "기호일보",
-   "date": "2026-10-21",
-   "datetime": "2026-10-21 06:16 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
