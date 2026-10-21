@@ -28,6 +28,18 @@
    }
   },
   {
+   "title": "코스피, 폭락 딛고 5700선 탈환…삼성전자 4%·SK하이닉스 6%↑",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KcWFfbjVqNG42M3hpY3FWUGJSaVhNVVZWazlNSEQ5aW9pU2pwU2dTTkhzb0M4ZGVSODNWRm1RbnpNZTdCTldsVEZfRUQwY0VxSEkzZ19Bcmp6LUpHR2gtd3p0NWc?oc=5",
+   "source": "디지털데일리",
+   "date": "2026-10-21",
+   "datetime": "2026-10-21 09:31 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
    "title": "금융당국 “솔리다임 중복상장 대상”…SK하이닉스 주가 영향은",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZUkdHbkxXTDBhdk5vWl9McDZkU0xsTHpwT0Y5NVoxV0UteHNSaWU5RkJSdE1LTlhwTFZTRjdEaXJOYThFajlRWjd4Y0xGNzdNemZrT3VWaWlkSGFpcTBNZkRWQno?oc=5",
    "source": "서울경제TV",
@@ -69,18 +81,6 @@
    "source": "테크월드",
    "date": "2026-10-21",
    "datetime": "2026-10-21 07:44 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "얼라인, SK㈜ 지분 1.5% 보유 공개…\"하이닉스 가치 미반영\"",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yUGhqVDR6RHg5ckowanNybDBVSVRXa0Vva3dWNE14bWhKUTBYejRSRTFNV0hpclpLTlpjaEU2b3VqM3VxOWhsRVFYRlNNMW1wUGZnUmdGMnBOSjBza2FqU1BoN0RFZVF1TmdDWWllSDA?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-10-21",
-   "datetime": "2026-10-21 07:23 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
