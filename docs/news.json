@@ -1,18 +1,30 @@
 {
- "fetchedAt": "2026-10-21 09:48 KST",
+ "fetchedAt": "2026-10-21 10:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "코스피, 폭락 딛고 5700선 탈환…삼성전자 4%·SK하이닉스 6%↑",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KcWFfbjVqNG42M3hpY3FWUGJSaVhNVVZWazlNSEQ5aW9pU2pwU2dTTkhzb0M4ZGVSODNWRm1RbnpNZTdCTldsVEZfRUQwY0VxSEkzZ19Bcmp6LUpHR2gtd3p0NWc?oc=5",
-   "source": "디지털데일리",
+   "title": "[특징주] SK·SK하이닉스, 행동주의 펀드 저평가 제기에 동반 '강세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVhmMWxjVXBldXdjN251UE5EV19TR0RzVng3TkFXZnVfZm5DOGFsaElLQ3JMb3JUa2FOQV84b1J1eEFVOWs5b2RfMFhCdThHODlLb1EwajVGOUN5SG05dE1pNGZrTVhIUGJtU1MzTjE3WnozY2haVU1OcHNEdC1NSkhmYWJ6YjlI?oc=5",
+   "source": "글로벌이코노믹",
    "date": "2026-10-21",
-   "datetime": "2026-10-21 09:31 KST",
+   "datetime": "2026-10-21 10:40 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 3분기 실적 분기점… 공급 병목에 HBM4 가격 주도권 쥐는 이유",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0xzRUhwR2pFYUhJcXVPTzU4M2VBZFdzd3pBV2dUTGpCWTIxaHoxVzU3TWZHbnRvX3YwOEhpOGJJTktnSFM1bFZ0NkQ1dkh0cUpiOVR0TENLcFpkMUNnVzB6YlFUWkx1TWhQNk5ER012cUVNcms1aDFxbFpyRW1XcHV0Zi1hNXBJ?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-21",
+   "datetime": "2026-10-21 10:35 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -65,10 +77,10 @@
   },
   {
    "title": "얼라인, SK㈜ 지분 1.5% 보유 공개…\"하이닉스 가치 미반영\"",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZbnRqcmwtX2tybEVBX05BLWJ1UWFRYTB3dTEzWEZ5U3BGaFB0QnBtRW5BZVF0UUE1WC1MTmN6VlpXbkY4VnhDa3dZenBRWjh2eHBrZU1QeVJoQkhiSm8tdWlMTDR1QjB1X2ljOFhMOHYzei1X?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yUGhqVDR6RHg5ckowanNybDBVSVRXa0Vva3dWNE14bWhKUTBYejRSRTFNV0hpclpLTlpjaEU2b3VqM3VxOWhsRVFYRlNNMW1wUGZnUmdGMnBOSjBza2FqU1BoN0RFZVF1TmdDWWllSDA?oc=5",
    "source": "연합인포맥스",
    "date": "2026-10-21",
-   "datetime": "2026-10-21 07:34 KST",
+   "datetime": "2026-10-21 07:23 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -109,18 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 레버리지 ETF 5천원도 붕괴...1/10 토막",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oM2NPa2JJSVV4YXBST0NTdG1scHpUT1hUWGNGWDB5OUloOWs5c3JlNXhKQXhmbVZoU1h0V21tQTM4TEtUaVRzUDNjZEtIVUZuM3Iyc2o2Z21DaDRjY01vczF3?oc=5",
-   "source": "티제이비",
-   "date": "2026-10-20",
-   "datetime": "2026-10-20 17:36 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
