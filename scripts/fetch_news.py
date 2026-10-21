@@ -216,6 +216,8 @@ POS_PHRASES = (
     "실적 상향", "점유율 확대", "매출 확대", "수주 확대", "투자 확대", "생산 확대",
     "출하 확대", "공급부족", "공급 부족", "품귀", "1위 탈환", "1위 굳히기", "1위 수성",
     "경쟁력 강화", "경쟁 우위",
+    # "폭락 딛고 반등"처럼 악재 키워드가 이미 지난 일로 쓰인 반등 보도
+    "폭락 딛고", "급락 딛고", "낙폭 딛고", "하락 딛고",
     # 승소/서프라이즈 계열 — "소송"(악재 키워드)·"기대"(호재 키워드) 등과 결합돼도
     # 방향이 뒤집히지 않도록 문구 단위로 먼저 확정한다.
     "승소", "어닝서프라이즈", "실적 서프라이즈", "깜짝 실적", "예상 상회", "기대 상회",
@@ -282,6 +284,38 @@ def classify(title):
     return {"cls": "flat", "label": "중립", "emoji": "⚪"}
 
 
+def merge_previous(items, out_path, keep_days=7):
+    """직전 news.json의 기사를 이번 수집분과 합친다(제목 앞 40자 기준 중복 제외)."""
+    try:
+        with open(out_path, encoding="utf-8") as f:
+            old = json.load(f).get("items", [])
+    except Exception:
+        return items
+    seen = {re.sub(r"\s+", "", it["title"])[:40] for it in items}
+    cutoff = datetime.now(KST) - timedelta(days=keep_days)
+    merged = list(items)
+    for o in old:
+        title, url, dt_str = o.get("title"), o.get("url"), o.get("datetime", "")
+        if not title or not url:
+            continue
+        key = re.sub(r"\s+", "", title)[:40]
+        if key in seen:
+            continue
+        try:
+            dt = datetime.strptime(dt_str.replace(" KST", ""), "%Y-%m-%d %H:%M").replace(tzinfo=KST)
+        except Exception:
+            continue
+        if dt < cutoff:
+            continue
+        seen.add(key)
+        merged.append({
+            "title": title, "url": url, "source": o.get("source", ""),
+            "date": o.get("date", ""), "datetime": dt_str,
+            "signal": classify(title), "_sort": dt.isoformat(),
+        })
+    return merged
+
+
 def main():
     out_path = sys.argv[1] if len(sys.argv) > 1 else "docs/news.json"
     limit = int(sys.argv[2]) if len(sys.argv) > 2 else 10
@@ -292,6 +326,9 @@ def main():
 
     items = parse_rss(xml_bytes)
     raw_count = len(items)
+    # 구글 뉴스 RSS는 호출마다 반환 구성이 조금씩 달라, 직전에 잡혔던 오늘 기사가 다음
+    # 호출에서 빠지는 일이 있다. 직전 news.json의 기사(7일 이내)를 풀에 합쳐 사라지지 않게 한다.
+    items = merge_previous(items, out_path)
     items = dedup(items)
     # 최신순 정렬(발행일 있는 항목 우선) 후 같은 주제 기사는 최신 1건만 남긴다.
     # limit으로 자르기 전에 전체 수집분을 대상으로 주제 중복을 제거하므로,
