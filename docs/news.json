@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-10-21 13:44 KST",
+ "fetchedAt": "2026-10-21 14:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[르포] 용인 SK하이닉스 산단 공사현장은",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DaW8xWE4xaXRTU0Y4SUdWeTdEa2FyUzNkdGdMQUpvZlNyd3IzbXByZHRSeTFvcmhhMEZ2M1l5Z1dORGZnNk9ad2hfUGQxZXAteTdQWTltZXE5RktIYnpEUElKMUx4S2piYXJzRTlGQQ?oc=5",
+   "source": "기호일보",
+   "date": "2026-10-21",
+   "datetime": "2026-10-21 14:03 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 \"에이전트 AI 시대 HBM만으론 한계\"…HBF·CXL 해법 제시",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UQXYxeGNVazZ5MjczUWRQU0hvYjk4VHd5WkZxdUI3N0RfQi1NVjhmbFlrSlV4Rk10QkVyNDhsTXRtMU1nV1EzbEM1Qm9IaEdXMDlkbHhVZUV1QkQyblZQMTFwQQ?oc=5",
+   "source": "더구루",
+   "date": "2026-10-21",
+   "datetime": "2026-10-21 13:18 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스 주가, 오늘 급등한 이유는?",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5lakI3S3ZJQktveW9KNm9BbnZZVjdnWkFCdTVfcnh1V05fcGEyNUdZbWdVOWkxdEYzNXNIbHd0OGNvSFJ4Z1Bxb0tCV2Y1RWkxaXhCOFptVHdRcVdBUVNGM25vOWFfOGxMak91UVNJSFc1Z0VoYlow?oc=5",
@@ -28,18 +52,6 @@
    }
   },
   {
-   "title": "[르포] 용인 SK하이닉스 산단 공사현장은",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DaW8xWE4xaXRTU0Y4SUdWeTdEa2FyUzNkdGdMQUpvZlNyd3IzbXByZHRSeTFvcmhhMEZ2M1l5Z1dORGZnNk9ad2hfUGQxZXAteTdQWTltZXE5RktIYnpEUElKMUx4S2piYXJzRTlGQQ?oc=5",
-   "source": "기호일보",
-   "date": "2026-10-21",
-   "datetime": "2026-10-21 11:02 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "[특징주] SK·SK하이닉스, 행동주의 펀드 저평가 제기에 동반 '강세'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVhmMWxjVXBldXdjN251UE5EV19TR0RzVng3TkFXZnVfZm5DOGFsaElLQ3JMb3JUa2FOQV84b1J1eEFVOWs5b2RfMFhCdThHODlLb1EwajVGOUN5SG05dE1pNGZrTVhIUGJtU1MzTjE3WnozY2haVU1OcHNEdC1NSkhmYWJ6YjlI?oc=5",
    "source": "글로벌이코노믹",
@@ -52,11 +64,11 @@
    }
   },
   {
-   "title": "SK하이닉스 3분기 실적 분기점… 공급 병목에 HBM4 가격 주도권 쥐는 이유",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0xzRUhwR2pFYUhJcXVPTzU4M2VBZFdzd3pBV2dUTGpCWTIxaHoxVzU3TWZHbnRvX3YwOEhpOGJJTktnSFM1bFZ0NkQ1dkh0cUpiOVR0TENLcFpkMUNnVzB6YlFUWkx1TWhQNk5ER012cUVNcms1aDFxbFpyRW1XcHV0Zi1hNXBJ?oc=5",
-   "source": "글로벌이코노믹",
+   "title": "금융당국 “솔리다임 중복상장 대상”…SK하이닉스 주가 영향은",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZUkdHbkxXTDBhdk5vWl9McDZkU0xsTHpwT0Y5NVoxV0UteHNSaWU5RkJSdE1LTlhwTFZTRjdEaXJOYThFajlRWjd4Y0xGNzdNemZrT3VWaWlkSGFpcTBNZkRWQno?oc=5",
+   "source": "서울경제TV",
    "date": "2026-10-21",
-   "datetime": "2026-10-21 10:35 KST",
+   "datetime": "2026-10-21 09:03 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -64,11 +76,11 @@
    }
   },
   {
-   "title": "금융당국 “솔리다임 중복상장 대상”…SK하이닉스 주가 영향은",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZUkdHbkxXTDBhdk5vWl9McDZkU0xsTHpwT0Y5NVoxV0UteHNSaWU5RkJSdE1LTlhwTFZTRjdEaXJOYThFajlRWjd4Y0xGNzdNemZrT3VWaWlkSGFpcTBNZkRWQno?oc=5",
-   "source": "서울경제TV",
+   "title": "반도체 떨어지자 '줍줍'…초고수, SK하이닉스 사고 라온시큐어 팔았다",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iWFRidlJ5elZWWGZzTllnbmtXZ3l4Qy1iRHMybHhlTUxEZFNZOUk2Nl9fUm56dUkxUXhkRDB1ek1TbW1JbHc1cy14aTk2VjQ3WGhoMUZMTFhUZw?oc=5",
+   "source": "한국경제",
    "date": "2026-10-21",
-   "datetime": "2026-10-21 09:03 KST",
+   "datetime": "2026-10-21 09:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -105,18 +117,6 @@
    "source": "Chosunbiz",
    "date": "2026-10-21",
    "datetime": "2026-10-21 06:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "조혜련, \"SK하이닉스, 20년 전 여걸식스때 300원..수익3배 놓쳐\" ('머니인더트랩') - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbVpQYllLaXV3R09rN3BkaDVLMEVpT3NSWl85SFJZeXlfSkNPUXhRUkowVDN4ZGJSNmo0NW5VeTV1Ni1pb2E3dWkwby0wazNxZko1a2VMQlBpZk5JTE83U05pdllfaGRoZmtqcDBDTVhOX1RuMlpFQlNCMzYzUUFrQUtxTnlkTGpFcHJtQWw0WlpfMzjSAacBQVVfeXFMTzMybDZ4a3hNeS02Zml5MThKcUw3bHJiRTZKWjhIek5iYkItMEdJdnNEUmtWZ2FSU0JhdWNKblc5RUpQTmZIeFdVaDJacVVsejdLZVIyQ2lKVjFHZ2pVUVdjeU1lcndWb3diZW1NZnJWa3laZHV1X0lyS0xzaWZjck1zaHotSmUtelRQdjdaanFrR0FzYmxkbVRRUTd1MVhaaG5oZGw2RzA?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-10-21",
-   "datetime": "2026-10-21 00:06 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
