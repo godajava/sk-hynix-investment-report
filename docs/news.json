@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-10-22 13:44 KST",
+ "fetchedAt": "2026-10-22 14:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "이억원 “솔리다임은 중복상장 규제 대상…SK하이닉스 등 모회사 의무 발생” - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUIwc1A4TC1CNllqbFZBZFdQSl9lSXRMb3lJdG8yUlNfNUtkTmJRRlZ0UE1iN1p2M3dSYXFWNi1FM2gyZ1M1dUZhTnR2d3hnMHpVckZEUFVxRk1UUWQ4aVEyUlphU2NIYVg1RHBSRmpseFNZVXd4QnFCT3pxMW5sNUFCWGdudWxj0gGcAUFVX3lxTE9JTU4tVlpXU0RNSzg1TDRXODZTZ3RUVWJJLUpDdHZZX3JLeEZQNXBtakRmaklWQUZraUtaZm10QnBoR3BjTGdkOUtJazhBUW5fRVhUU29Da1FQVWlBdkk0dWZINzktTGtodTI0VUlaUUZCZUdLRXJVXzZhekp0ckRaYkJsNWFBQnNJbkp3RU0xaXBTTmxkamJOVGdpSg?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-10-22",
+   "datetime": "2026-10-22 14:09 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "삼성E＆A 15% 급등… 삼성전자·SK하이닉스는 동반 약세",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OZjdmTlR4N0hidDR0RkRrZkF2MWxCN0d0U3RJdU9OTUZtbTlZMjVkbmxVWDhHTVI2UThHdVJnbXBDR1czamJKSnN1RzQwZHpoRkhpRWVXUC1RbTYwM3BXMEFlR1kyQnFNWURCdk02R2ZQeThCWElqd3ZvcEhxQQ?oc=5",
@@ -28,23 +40,11 @@
    }
   },
   {
-   "title": "이억원 \"솔리다임 중복상장 규제대상‥SK하이닉스 등 의무 발생\"",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qaTBBZjFldjA3M29JSWY5Qk5XX0J3OFNsc094NXJQQzZHZVJKYnE2aHdOV1hPQjdVTTZ5cVM5X0lBV1ltWm15QzVDZmRrOTRfTUFjWWY5V2x3NXM0aUIzckhfLU0xOTctRDFhM2dPUWpPbGF50gF0QVVfeXFMTl9ic2d0cjZOYW1fWUgzM3NucWxlSEI1dEMxVGpyS0FrV3RPNUU4V2lUMEpMdG5JXzY2UWNTV0x2WjdwQnZ1TlZWU292R0hWWjQzdEFnQkVQdEI4eEtQNFpRMVVBWkxKNHdMR3QxMFFHRzVoVDE?oc=5",
-   "source": "MBC 뉴스",
+   "title": "SK하이닉스, 대규모 자사주 매입 마무리…추가 주주환원에 '눈길'",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWNVgtVlFvR3JpWjkwM3lIdFEtTFlsLUc2eTdXZzlxQXE3UXlPUnpuSWlLa0hmbm83YTYxZ0lFb2NEeHZZUWVKMEg2djNiNElfME1Jdl8tTW8wTWgyX1JQRFB3Z1h6d3hLNC15a0V5X2o?oc=5",
+   "source": "연합인포맥스",
    "date": "2026-10-22",
-   "datetime": "2026-10-22 11:51 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "[특징주] 55조 자사주 매수 끝났다…삼성전자·SK하이닉스 약세",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2c2JRQnhmUi1MOVBxVXFCWkw4YTNIY0k5NmstQVNhaXVuVnZiMVU0NlFUR1pkYm1DMTFSa2ZyT2oxQmltZGJtS3JDOURhZ0VuSFVDRFpwZ3Bvb2FW?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-10-22",
-   "datetime": "2026-10-22 11:01 KST",
+   "datetime": "2026-10-22 11:44 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
