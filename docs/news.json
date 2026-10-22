@@ -1,8 +1,56 @@
 {
- "fetchedAt": "2026-10-22 15:53 KST",
+ "fetchedAt": "2026-10-22 21:56 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스, 대규모 자사주 매입 마무리…추가 주주환원에 '눈길'",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWNVgtVlFvR3JpWjkwM3lIdFEtTFlsLUc2eTdXZzlxQXE3UXlPUnpuSWlLa0hmbm83YTYxZ0lFb2NEeHZZUWVKMEg2djNiNElfME1Jdl8tTW8wTWgyX1JQRFB3Z1h6d3hLNC15a0V5X2o?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-22",
+   "datetime": "2026-10-22 17:58 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하닉, '3조원' 들고 채권시장 복귀…여전채 중심 매수 전망(종합)",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xNHU2Q1k3Si02VnFmcmN6eVgtbGVMMlVuRUQxY2ZUNlRHMS1sclVQUkpwMmd6UEVNeExFcW1HZjNLUlhrcE84NzZESEtVSGo1MHBWTUdONVZhYjM1VVY3c9IBYEFVX3lxTE9xNHU2Q1k3Si02VnFmcmN6eVgtbGVMMlVuRUQxY2ZUNlRHMS1sclVQUkpwMmd6UEVNeExFcW1HZjNLUlhrcE84NzZESEtVSGo1MHBWTUdONVZhYjM1VVY3cw?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-22",
+   "datetime": "2026-10-22 16:44 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "이억원 \"솔리다임 중복상장 규제대상…SK하이닉스 등 의무 발생\"(종합)",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Ceks5YnUzUzBYUGJ5VlVjcTNheFF3QXVxMURuNFozd05LWlBqN2FQQ0RYSlQwYlVXZ2RETEJON3pIZVFhT3V4WHZRQ0o3cnNVenYtTjQxMVRQNmvSAWBBVV95cUxPeXg5T3VLVFliNEJKdUI1b2VKWk1ELTVad01OYXRmQU9BM1ExUi1XN1I2MjBJMTlNNDl0U1JsMUg2WWRIaU1lZ0lxUHRvNE94eW5MVGJFX1RrUjNsQXduWnI?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-22",
+   "datetime": "2026-10-22 16:40 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스 5.49% 하락… 거래대금 2조 9882억원으로 최대",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NZGJSU2xDQUFOdUJwcGIxaFVXakVxbUhUMnZDMUkySmNocWQ3alZVcGtsZU5nUkdWZ3hGUE1BSy1JRG03VXRHQmp3T3FxN2JIdzE5eW9uMDAyT2U1N08xYzRfbXY1RjMwa09MRlVnbFZ3QnNZZEVwT0FKd3Z4QQ?oc=5",
+   "source": "서울신문",
+   "date": "2026-10-22",
+   "datetime": "2026-10-22 15:43 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "SK하이닉스, '반도체의 날' 5관왕…권재순 부사장 동탑산업훈장",
    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lVTF5NEc2Rkt3WTZ2NWhJQk5nb0xUSXh5ZmZ6SWpLQ3pvN0tld0RrU2tLcnZSbGM0UFdzbldTWkhYZlhqY3p1ckljUmxhdjhuZkRlT0lheHZKZFRx?oc=5",
@@ -21,42 +69,6 @@
    "source": "Investing.com 한국어",
    "date": "2026-10-22",
    "datetime": "2026-10-22 14:51 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "이억원 “솔리다임은 중복상장 규제 대상…SK하이닉스 등 모회사 의무 발생” - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcUIwc1A4TC1CNllqbFZBZFdQSl9lSXRMb3lJdG8yUlNfNUtkTmJRRlZ0UE1iN1p2M3dSYXFWNi1FM2gyZ1M1dUZhTnR2d3hnMHpVckZEUFVxRk1UUWQ4aVEyUlphU2NIYVg1RHBSRmpseFNZVXd4QnFCT3pxMW5sNUFCWGdudWxj0gGcAUFVX3lxTE9JTU4tVlpXU0RNSzg1TDRXODZTZ3RUVWJJLUpDdHZZX3JLeEZQNXBtakRmaklWQUZraUtaZm10QnBoR3BjTGdkOUtJazhBUW5fRVhUU29Da1FQVWlBdkk0dWZINzktTGtodTI0VUlaUUZCZUdLRXJVXzZhekp0ckRaYkJsNWFBQnNJbkp3RU0xaXBTTmxkamJOVGdpSg?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-10-22",
-   "datetime": "2026-10-22 14:09 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "삼성E＆A 15% 급등… 삼성전자·SK하이닉스는 동반 약세",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OZjdmTlR4N0hidDR0RkRrZkF2MWxCN0d0U3RJdU9OTUZtbTlZMjVkbmxVWDhHTVI2UThHdVJnbXBDR1czamJKSnN1RzQwZHpoRkhpRWVXUC1RbTYwM3BXMEFlR1kyQnFNWURCdk02R2ZQeThCWElqd3ZvcEhxQQ?oc=5",
-   "source": "서울신문",
-   "date": "2026-10-22",
-   "datetime": "2026-10-22 13:24 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 대규모 자사주 매입 마무리…추가 주주환원에 '눈길'",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWNVgtVlFvR3JpWjkwM3lIdFEtTFlsLUc2eTdXZzlxQXE3UXlPUnpuSWlLa0hmbm83YTYxZ0lFb2NEeHZZUWVKMEg2djNiNElfME1Jdl8tTW8wTWgyX1JQRFB3Z1h6d3hLNC15a0V5X2o?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-10-22",
-   "datetime": "2026-10-22 11:44 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -97,18 +109,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하닉, '3조원' 들고 채권시장 복귀…여전채 중심 매수 전망",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ISUJXdjVqOUpXdHdlM1ZjNVNaa2N2UE55eFFlTkpXZTl0c2Rfclh5UlRMMmZnUDZkT2FLdnUyQkk0N1ZlRGhvWDRRSDk2ZGQ0cV8yZnB6WVBWd1ltWHZPa9IBYEFVX3lxTE9ISUJXdjVqOUpXdHdlM1ZjNVNaa2N2UE55eFFlTkpXZTl0c2Rfclh5UlRMMmZnUDZkT2FLdnUyQkk0N1ZlRGhvWDRRSDk2ZGQ0cV8yZnB6WVBWd1ltWHZPaw?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-22",
-   "datetime": "2026-10-22 10:42 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   },
   {
