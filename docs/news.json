@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-22 10:44 KST",
+ "fetchedAt": "2026-10-22 11:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "거래대금 1·2위는 SK하이닉스·삼성전자… 삼성SDI 2.53% 하락",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6VkFvS0VfNHVJVE16VE9oTHRpOUJBcXZNalN3NWx0UVctZ3N0M0Y3R2xGMU9aV3ZjTEZnRWxVVHlfYkUxVUZZemhyNXBub3M1c3IzUExVRTFUeGRqQXhJUHdtd0JLOUFDd1lrM2JpWUNGQkg4LUlvX1dpekZqUQ?oc=5",
-   "source": "서울신문",
+   "title": "“바닥은 어디”…삼성전자·SK하이닉스, 나란히 3%대 약세",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xNFRsdnY3SkF3cHFCd2E5TVA2a19VWGxmTm1sS3d2T0VRUlgwbEtnUDUxa2ItQlhlTU5uZmU4T2NlMm9faG5iWW9tMjE0dnJFcmc?oc=5",
+   "source": "매일경제 마켓",
    "date": "2026-10-22",
-   "datetime": "2026-10-22 09:19 KST",
+   "datetime": "2026-10-22 11:31 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -16,11 +16,11 @@
    }
   },
   {
-   "title": "[솔리다임 논란①] SK하이닉스 던지는 외국인…한 달째 16조 줄매도",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9faV9kNFBYZ0x2Y2J0YTVHSXY4UUtLYkZ5ZHZ4NDZudG5xdkJaZWdZX3FsMWdaQ01iVVh6UjRWbk5JTmdmMGdBb2JDTGRta3htX2tOd3ZiTHNkTVcwZ3RzQlFwTUZ1QW5wREpBU1ZlOF8?oc=5",
-   "source": "연합인포맥스",
+   "title": "이억원 \"솔리다임 중복상장 규제대상…SK하이닉스 등 의무 발생\"",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kelJER0E0elMxQmF3M0sweDlObm43UVZPNlhHbmV4UVdGVGhJa2MwOGtZM2NFQ1ZJbXhCS1ZUMXF5aWZQbmJJY0FJNG1MaUtEUUppS0E0MG5EWVVRcWV3SUo1NjNScXZMYzFYUmRIRW5ldmtv?oc=5",
+   "source": "연합뉴스 한민족센터",
    "date": "2026-10-22",
-   "datetime": "2026-10-22 09:10 KST",
+   "datetime": "2026-10-22 11:10 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
@@ -28,11 +28,47 @@
    }
   },
   {
-   "title": "SK하이닉스 자사주 매입도 끝 이제 누가 수급을 받쳐주나",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVGtRbFNVNnQwZjNOdkppRkExNHRwSUlDdnJXOVo3YjRJRWp3Wm1mcDR1b2RwWEFWbThjdmY4WXRQSXNXNVcwTWJucHo1MTFmaG5sZm5XenVQUDNQQk1UZDJLX0xENWFqX3Z4a0VvY3bSAXRBVV95cUxQemkzNnh0VENmWmhzTmFiTnVTU2c1aWhUNEdzdHJyaWdpdDlEV0FRZ000UmlYSURGNHlvd2Rha25IMHdEelF1Q2hkN0NONnhrMjZJS0pGOTJxWXdMdmhLN2lyOV8xeGFIZFJJSXMxM0ptNFE0SA?oc=5",
-   "source": "연합인포맥스",
+   "title": "[특징주] 55조 자사주 매수 끝났다…삼성전자·SK하이닉스 약세",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2c2JRQnhmUi1MOVBxVXFCWkw4YTNIY0k5NmstQVNhaXVuVnZiMVU0NlFUR1pkYm1DMTFSa2ZyT2oxQmltZGJtS3JDOURhZ0VuSFVDRFpwZ3Bvb2FW?oc=5",
+   "source": "뉴스핌",
    "date": "2026-10-22",
-   "datetime": "2026-10-22 08:59 KST",
+   "datetime": "2026-10-22 11:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "기술 혁신으로 쌓아 올린 금자탑… SK하이닉스, ‘제19회 반도체의 날’서 5관왕 영예",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAxbmgyTzFVZ1VQdGxxYVF1UVdCbTlGSEpuN21xWWlQc3JwZDVYWjk3YVRoX2FWazluVVdxaHVsSmkxR05DeGFBY2ZHX0tDR3I0MHYtZW52azBjNFBQTkc4?oc=5",
+   "source": "SK hynix",
+   "date": "2026-10-22",
+   "datetime": "2026-10-22 11:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "을지로 뜬 최태원, 깜짝 회식…SK하이닉스 개미들 반응은",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NMlhsT1E0Z0drNXA0UUZvaV9BUUY2SUlnaUM5V2lUVURhWXdtQzVFSDhYbGIzWVFlR0NnYkVhVDBvMXVGWnZLdU04SEQ1ai02Q0FLR015WmlTTkRvM0lNQ0tNQTEtRWs?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-10-22",
+   "datetime": "2026-10-22 10:50 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "러시아 데이터센터 불타자 삼성·SK하이닉스 빗장 풀려는 크렘린",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUlaZlV0b1E3dXNQWjVVdGQ3cjZ5b1dUdFB0cFQ2X3FSMWdLVEluVGlJUFY3a0JQX2h3Mjg1djB4Xy05eTZYSEdIZElyalJpUm9PQ3p6dGdSOVVWZGRacnYzS1pzYUxSZzhzUU9EWHRGeWhnS0ZwMXAxVU5FcWgzWXk2SjQ0cktE?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-22",
+   "datetime": "2026-10-22 07:18 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -81,42 +117,6 @@
    "source": "Investing.com 한국어",
    "date": "2026-10-21",
    "datetime": "2026-10-21 20:16 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "반도체의 날, 권재순 SK하이닉스 부사장-김영부 큐알티 회장 동탑산업훈장",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OOG5wdVlWZE84MWJkUXYyQlM2bnhKdk96N0tLTEZLUUlMSWsxSzBBWVBuUFhJenZZWlI2SzE2V3o5Qk93alhjYmFSZGJfTTcwV3pRTDZPUENxMkZWMjdHc9IBYEFVX3lxTE9OOG5wdVlWZE84MWJkUXYyQlM2bnhKdk96N0tLTEZLUUlMSWsxSzBBWVBuUFhJenZZWlI2SzE2V3o5Qk93alhjYmFSZGJfTTcwV3pRTDZPUENxMkZWMjdHcw?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-21",
-   "datetime": "2026-10-21 18:41 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "‘77조 신기록’ SK하이닉스…HBM4 독주엔 ‘경고등’",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIY2VlckpBcXdJNVdYUHI4Y0FfajFuRWwtMlJtd01tcUVQZUVwNFBlOEtBUzhBX2c3QThVUXlFRUxERnlRTVI3MDhkYzludDFLS2RTbUQ5T3hfbzhTRWFSUVR5MEc?oc=5",
-   "source": "서울경제TV",
-   "date": "2026-10-21",
-   "datetime": "2026-10-21 17:59 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "SK하이닉스, 발열 잡는 'iHBM' 공급망 협의 착수…HBM 선두 수성 승부수",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oWVl5X1J4VmlmRjdfZVlJazZtbmU4U3ZFWkdIZEVXY3pNMG11WU5qMlB5TUpZc0h1NmFHUmVhQUR6ajI0c3NQSnE0OVRFQQ?oc=5",
-   "source": "전자신문",
-   "date": "2026-10-21",
-   "datetime": "2026-10-21 16:30 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
