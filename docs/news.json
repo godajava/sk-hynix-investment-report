@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-10-22 12:44 KST",
+ "fetchedAt": "2026-10-22 13:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "삼성E＆A 15% 급등… 삼성전자·SK하이닉스는 동반 약세",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OZjdmTlR4N0hidDR0RkRrZkF2MWxCN0d0U3RJdU9OTUZtbTlZMjVkbmxVWDhHTVI2UThHdVJnbXBDR1czamJKSnN1RzQwZHpoRkhpRWVXUC1RbTYwM3BXMEFlR1kyQnFNWURCdk02R2ZQeThCWElqd3ZvcEhxQQ?oc=5",
+   "source": "서울신문",
+   "date": "2026-10-22",
+   "datetime": "2026-10-22 13:24 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스, '반도체의 날' 동탑산업훈장 등 5관왕",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DMzlPaWxadzZBMUFFQkZ1SmZGTWVEQUpOa3RjX0tuV3A1MGd1OVpFMU9GMnloX05oMVlHRnZVOHI1eUtFVXdVandPdnRoRzZPUGQxcVctcFZTWWhzMmNMetIBYEFVX3lxTE1DMzlPaWxadzZBMUFFQkZ1SmZGTWVEQUpOa3RjX0tuV3A1MGd1OVpFMU9GMnloX05oMVlHRnZVOHI1eUtFVXdVandPdnRoRzZPUGQxcVctcFZTWWhzMmNMeg?oc=5",
@@ -16,23 +28,11 @@
    }
   },
   {
-   "title": "“바닥은 어디”…삼성전자·SK하이닉스, 나란히 3%대 약세",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xNFRsdnY3SkF3cHFCd2E5TVA2a19VWGxmTm1sS3d2T0VRUlgwbEtnUDUxa2ItQlhlTU5uZmU4T2NlMm9faG5iWW9tMjE0dnJFcmc?oc=5",
-   "source": "매일경제 마켓",
+   "title": "이억원 \"솔리다임 중복상장 규제대상‥SK하이닉스 등 의무 발생\"",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qaTBBZjFldjA3M29JSWY5Qk5XX0J3OFNsc094NXJQQzZHZVJKYnE2aHdOV1hPQjdVTTZ5cVM5X0lBV1ltWm15QzVDZmRrOTRfTUFjWWY5V2x3NXM0aUIzckhfLU0xOTctRDFhM2dPUWpPbGF50gF0QVVfeXFMTl9ic2d0cjZOYW1fWUgzM3NucWxlSEI1dEMxVGpyS0FrV3RPNUU4V2lUMEpMdG5JXzY2UWNTV0x2WjdwQnZ1TlZWU292R0hWWjQzdEFnQkVQdEI4eEtQNFpRMVVBWkxKNHdMR3QxMFFHRzVoVDE?oc=5",
+   "source": "MBC 뉴스",
    "date": "2026-10-22",
-   "datetime": "2026-10-22 11:31 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   }
-  },
-  {
-   "title": "이억원 \"솔리다임 중복상장 규제대상…SK하이닉스 등 의무 발생\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wRFAzdHZ1eTd5QUo0cmpOT0s5bWlDWXczOV93cmFySHR5R0NHbkN0RjB1OERFX0ZrbDc4ckwyR1M0czBIdnVLOWEtUHp3Vjc0NFE3eXkwS09CN2JyaEZGX9IBYEFVX3lxTE5wRFAzdHZ1eTd5QUo0cmpOT0s5bWlDWXczOV93cmFySHR5R0NHbkN0RjB1OERFX0ZrbDc4ckwyR1M0czBIdnVLOWEtUHp3Vjc0NFE3eXkwS09CN2JyaEZGXw?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-22",
-   "datetime": "2026-10-22 11:10 KST",
+   "datetime": "2026-10-22 11:51 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
