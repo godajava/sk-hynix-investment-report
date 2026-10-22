@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-10-22 09:10 KST",
+ "fetchedAt": "2026-10-22 09:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "거래대금 1·2위는 SK하이닉스·삼성전자… 삼성SDI 2.53% 하락",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6VkFvS0VfNHVJVE16VE9oTHRpOUJBcXZNalN3NWx0UVctZ3N0M0Y3R2xGMU9aV3ZjTEZnRWxVVHlfYkUxVUZZemhyNXBub3M1c3IzUExVRTFUeGRqQXhJUHdtd0JLOUFDd1lrM2JpWUNGQkg4LUlvX1dpekZqUQ?oc=5",
+   "source": "서울신문",
+   "date": "2026-10-22",
+   "datetime": "2026-10-22 09:19 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "[솔리다임 논란①] SK하이닉스 던지는 외국인…한 달째 16조 줄매도",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9faV9kNFBYZ0x2Y2J0YTVHSXY4UUtLYkZ5ZHZ4NDZudG5xdkJaZWdZX3FsMWdaQ01iVVh6UjRWbk5JTmdmMGdBb2JDTGRta3htX2tOd3ZiTHNkTVcwZ3RzQlFwTUZ1QW5wREpBU1ZlOF8?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-22",
+   "datetime": "2026-10-22 09:10 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "SK하이닉스 자사주 매입도 끝 이제 누가 수급을 받쳐주나",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVGtRbFNVNnQwZjNOdkppRkExNHRwSUlDdnJXOVo3YjRJRWp3Wm1mcDR1b2RwWEFWbThjdmY4WXRQSXNXNVcwTWJucHo1MTFmaG5sZm5XenVQUDNQQk1UZDJLX0xENWFqX3Z4a0VvY3bSAXRBVV95cUxQemkzNnh0VENmWmhzTmFiTnVTU2c1aWhUNEdzdHJyaWdpdDlEV0FRZ000UmlYSURGNHlvd2Rha25IMHdEelF1Q2hkN0NONnhrMjZJS0pGOTJxWXdMdmhLN2lyOV8xeGFIZFJJSXMxM0ptNFE0SA?oc=5",
@@ -25,18 +49,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "‘솔리다임 상장 논란’ SK하이닉스, 외국인 지분율 50% 미만으로 급감",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CX2ZCbnlISW1waDU5V0ctT3h3YjJ0VDZtRERQUHJVT214eDNIZ1hWM3dsRUh6X3REaTdCSnRyeHV6Zmp6Tl9HWVl0Mk5rTVFzZ0JkTkh5elhQbDF1RmJMaC1tOVI?oc=5",
-   "source": "주간동아",
-   "date": "2026-10-22",
-   "datetime": "2026-10-22 07:00 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   },
   {
@@ -109,18 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[속보]삼성전자 5.7% SK하이닉스 5.8% 상승 마감",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qNk1iUk8yelE3ZzJkZGo3NndMWm9zSW9qN29qSXJjaWxuQlVhQW1Pd0ZYWTVQbmFYUHpWRmtHQzFNNWpsWXVhT1ZUaFVQZ3EzaEhteE5USGx3WGdHN2ZZQ9IBeEFVX3lxTE1GVk92TEhsYjB6TkdfcWpZSUlHdG5la0xEYkJXQlNEX0xKQXFKMTJPYlV2dXFXWlNfemZYckstMVZnODY3MzA5ai01bHJoU0FQSkl1UGZ0Y3FObG1VZDhSdlhGaDd4NlZWdW1peTNrNVlFbTFqZm96Zg?oc=5",
-   "source": "뉴시스",
-   "date": "2026-10-21",
-   "datetime": "2026-10-21 15:31 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
