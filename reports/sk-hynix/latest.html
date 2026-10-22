@@ -292,11 +292,11 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <div class="sheet"><div class="paper">
 
 <div class="eyebrow">
-  <b>Company Report</b><span>반도체 / 메모리</span><span>2026-10-21 (수) · <b>마감 리포트(15:58 KST, 종가 확정)</b> · <b style="color:var(--neutral)">확정 판정 중립 유지</b> · 확정 종가 129.4만(+5.81%) · 코스피200 선물 +3.51%</span>
-  <span style="margin-left:auto">sk-hynix-analyst · 다음 갱신 10/22(목) 08:00 프리마켓 · 09:00 아침</span>
+  <b>Company Report</b><span>반도체 / 메모리</span><span>2026-10-22 (목) · <b>아침 리포트(09:13 KST, 개장 전 데이터)</b> · <b style="color:var(--neutral)">확정 판정 중립 유지</b> · 전일 종가 129.4만(+5.81%) · 야간선물 -0.53%·ADR +2.48%</span>
+  <span style="margin-left:auto">sk-hynix-analyst · 다음 갱신 10/22(목) 장중 09:30~14:30 매시 · 15:30 마감</span>
 </div>
 
-<h1>10/21 확정 종가 129.4만(+5.81%) — 장중 고가 132.9만(+8.67%) 후 상승폭 축소, 종가 기준 10/20 낙폭 모두 회복, 확정 판정 중립 유지(긍정 2·부정 1·③ 중립), 내일은 129.0만 지지와 132.5만~133.2만 저항대가 관건</h1>
+<h1>전일 종가 129.4만(+5.81%) — 야간선물 -0.53%(주간 종가 대비) vs 미국 반도체·ADR 강세(SOX +1.97%·ADR +2.48%)로 엇갈림, 확정 판정은 중립 유지(긍정 2·부정 1·③ 중립)</h1>
 <p class="ticker"><strong>SK하이닉스</strong> <span>KRX 000660 · NASDAQ 상장(7/10)</span></p>
 
 <div class="stats">
@@ -304,9 +304,9 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
   <div><div class="k"><span id="live-label">종가</span> <small id="live-when">(10/21 15:30 마감·야후·트레이딩뷰 확정)</small></div><div class="v"><span id="live-price">129.4</span><small>만 원</small> <span id="live-chg" style="font-size:12.5px;font-weight:700;color:var(--up)">▲5.81%</span></div></div>
   <div><div class="k">2Q 영업이익 <small>(확정)</small></div><div class="v">60.5<small>조 원</small></div></div>
   <div><div class="k">상승여력 <small>(최근 1개월 6곳 평균 352.3만·10/21 종가 기준)</small></div><div class="v">+172.3%</div></div>
-  <div><div class="k">내일(10/22) 관건</div><div class="v" style="font-size:15px">129.0만 지지 유지, 132.5만~133.2만 저항대 돌파 여부</div></div>
+  <div><div class="k">오늘(10/22) 관건</div><div class="v" style="font-size:15px">갭 방향(야간선물 vs 미국 반도체·ADR), 129.0만 지지, 132.5만~133.2만 저항대</div></div>
 </div>
-<p class="asof">작성 2026-10-21 15:58 KST · <strong>마감 리포트</strong>(종가·OHLCV는 야후 quote.json(marketTime 10/21 15:30 KST 확정)과 트레이딩뷰 KRX 피드(종가 1,294,000원·거래량 3,976,449주 일치) 기준 · 등락률은 10/20 확정 종가 기준) · 확정 판정은 10/21 종가 기준이며 다음 확정은 10/22 종가입니다 · 본 자료는 정보 제공 목적이며 투자 권유가 아닙니다</p>
+<p class="asof">작성 2026-10-22 09:13 KST · <strong>아침 리포트</strong>(전일 종가·OHLCV는 야후 quote.json(marketTime 10/21 15:30 KST 확정) 기준이며 거래량은 야후 최신 정정치 · 간밤 지표는 night.yml 스냅샷(2026-10-22 08:04 KST, night_futures_valid true, 원/달러 08:04 값)이고 오늘 정규장 시세는 수집 시점에 미반영이라 확인 불가) · 확정 판정은 10/21 종가 기준을 인용하며 오늘 종가에서만 갱신합니다 · 본 자료는 정보 제공 목적이며 투자 권유가 아닙니다</p>
 
 <div class="toolbar">
   <button class="refresh" type="button" title="시세·지표·뉴스를 즉시 다시 불러옵니다" onclick="window.refreshNow ? window.refreshNow(this) : location.reload()">↻ 새로고침</button>
@@ -314,7 +314,7 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
   <a class="livelink" href="https://www.tossinvest.com/stocks/A000660/order" target="_blank" rel="noopener">토스증권 ↗</a>
   <a class="livelink" href="https://godajava.github.io/sk-hynix-investment-report/archive.html" target="_blank" rel="noopener">지난 리포트 ↗</a>
   <button class="theme-toggle" type="button" id="theme-toggle" title="라이트/다크 테마 전환" onclick="window.toggleTheme && window.toggleTheme(this)">🌙 다크</button>
-  <span class="note" id="live-note">10/21 마감 · 확정 종가 129.4만(+5.81%) · 확정 판정 중립 유지 · 다음 갱신 10/22(목) 08:00 프리마켓·09:00 아침</span>
+  <span class="note" id="live-note">10/22 아침(개장 직후) · 전일 종가 129.4만(+5.81%) · 확정 판정 중립 유지 · 다음 갱신 10/22 장중 09:30~14:30 매시·15:30 마감</span>
 </div>
 
 <section>
@@ -539,7 +539,7 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <rect x="700.8" y="510.0" width="6.8" height="20.0" fill="#2a78d6" opacity="0.55"/>
 <rect x="711.0" y="513.6" width="6.8" height="16.4" fill="#d64545" opacity="0.55"/>
 <rect x="721.3" y="514.8" width="6.8" height="15.2" fill="#2a78d6" opacity="0.55"/>
-<rect x="731.5" y="512.5" width="6.8" height="17.5" fill="#d64545" opacity="0.55"/>
+<rect x="731.5" y="511.4" width="6.8" height="18.6" fill="#d64545" opacity="0.55"/>
 <path d="M263.7,502.9 L274.0,504.2 L284.2,504.5 L294.5,504.7 L304.7,504.9 L314.9,505.0 L325.2,504.8 L335.4,504.8 L345.7,505.0 L355.9,505.0 L366.2,506.2 L376.4,508.2 L386.6,509.5 L396.9,510.9 L407.1,511.5 L417.4,512.1 L427.6,512.4 L437.8,513.0 L448.1,513.3 L458.3,513.1 L468.6,513.2 L478.8,513.2 L489.1,513.7 L499.3,513.8 L509.5,514.3 L519.8,514.6 L530.0,515.2 L540.3,515.1 L550.5,515.4 L560.8,515.5 L571.0,515.5 L581.2,515.5 L591.5,515.7 L601.7,515.8 L612.0,515.9 L622.2,516.0 L632.5,516.0 L642.7,516.0 L652.9,516.1 L663.2,516.3 L673.4,515.9 L683.7,516.1 L693.9,515.4 L704.2,515.2 L714.4,515.0 L724.6,514.9 L734.9,514.6" fill="none" stroke="#008300" stroke-width="2"/>
 <text x="69.1" y="548" font-size="10" fill="#898781" text-anchor="middle">07/14</text>
 <text x="181.8" y="548" font-size="10" fill="#898781" text-anchor="middle">07/30</text>
@@ -566,22 +566,22 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <rect x="640.1" y="159.2" width="5.1" height="11.2" fill="#2a78d6" opacity="0.4"/>
 <rect x="629.9" y="159.2" width="5.1" height="1.5" fill="#2a78d6" opacity="0.4"/>
 <rect x="619.7" y="154.1" width="5.1" height="5.1" fill="#d64545" opacity="0.4"/>
-<rect x="609.4" y="155.9" width="5.1" height="3.2" fill="#d64545" opacity="0.4"/>
+<rect x="609.4" y="156.0" width="5.1" height="3.2" fill="#d64545" opacity="0.4"/>
 <rect x="599.2" y="158.4" width="5.1" height="1.0" fill="#d64545" opacity="0.4"/>
-<rect x="588.9" y="153.4" width="5.1" height="5.8" fill="#d64545" opacity="0.4"/>
-<rect x="578.7" y="144.7" width="5.1" height="14.5" fill="#d64545" opacity="0.4"/>
-<rect x="568.4" y="133.1" width="5.1" height="26.1" fill="#d64545" opacity="0.4"/>
-<rect x="558.2" y="132.9" width="5.1" height="26.2" fill="#d64545" opacity="0.4"/>
+<rect x="588.9" y="153.5" width="5.1" height="5.8" fill="#d64545" opacity="0.4"/>
+<rect x="578.7" y="144.8" width="5.1" height="14.5" fill="#d64545" opacity="0.4"/>
+<rect x="568.4" y="133.2" width="5.1" height="26.1" fill="#d64545" opacity="0.4"/>
+<rect x="558.2" y="133.0" width="5.1" height="26.2" fill="#d64545" opacity="0.4"/>
 <rect x="548.0" y="131.6" width="5.1" height="27.6" fill="#d64545" opacity="0.4"/>
-<rect x="537.7" y="136.6" width="5.1" height="22.5" fill="#d64545" opacity="0.4"/>
+<rect x="537.7" y="136.7" width="5.1" height="22.5" fill="#d64545" opacity="0.4"/>
 <rect x="527.5" y="145.0" width="5.1" height="14.2" fill="#d64545" opacity="0.4"/>
-<rect x="517.2" y="141.0" width="5.1" height="18.2" fill="#d64545" opacity="0.4"/>
+<rect x="517.2" y="141.1" width="5.1" height="18.1" fill="#d64545" opacity="0.4"/>
 <rect x="507.0" y="138.6" width="5.1" height="20.6" fill="#d64545" opacity="0.4"/>
 <rect x="496.7" y="125.0" width="5.1" height="34.2" fill="#d64545" opacity="0.4"/>
 <rect x="486.5" y="107.2" width="5.1" height="52.0" fill="#d64545" opacity="0.4"/>
-<rect x="476.3" y="102.0" width="5.1" height="57.1" fill="#d64545" opacity="0.4"/>
+<rect x="476.3" y="102.1" width="5.1" height="57.1" fill="#d64545" opacity="0.4"/>
 <rect x="466.0" y="105.1" width="5.1" height="54.1" fill="#d64545" opacity="0.4"/>
-<rect x="455.8" y="114.4" width="5.1" height="44.8" fill="#d64545" opacity="0.4"/>
+<rect x="455.8" y="114.5" width="5.1" height="44.7" fill="#d64545" opacity="0.4"/>
 <rect x="445.5" y="121.8" width="5.1" height="37.4" fill="#d64545" opacity="0.4"/>
 <rect x="435.3" y="134.0" width="5.1" height="25.2" fill="#d64545" opacity="0.4"/>
 <rect x="425.0" y="131.9" width="5.1" height="27.3" fill="#d64545" opacity="0.4"/>
@@ -590,14 +590,14 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <rect x="394.3" y="105.1" width="5.1" height="54.1" fill="#d64545" opacity="0.4"/>
 <rect x="384.1" y="99.0" width="5.1" height="60.2" fill="#d64545" opacity="0.4"/>
 <rect x="373.8" y="89.0" width="5.1" height="70.2" fill="#d64545" opacity="0.4"/>
-<rect x="363.6" y="89.7" width="5.1" height="69.5" fill="#d64545" opacity="0.4"/>
-<rect x="353.3" y="87.4" width="5.1" height="71.7" fill="#d64545" opacity="0.4"/>
-<rect x="343.1" y="85.6" width="5.1" height="73.6" fill="#d64545" opacity="0.4"/>
+<rect x="363.6" y="89.8" width="5.1" height="69.5" fill="#d64545" opacity="0.4"/>
+<rect x="353.3" y="87.5" width="5.1" height="71.7" fill="#d64545" opacity="0.4"/>
+<rect x="343.1" y="85.7" width="5.1" height="73.6" fill="#d64545" opacity="0.4"/>
 <rect x="332.9" y="84.9" width="5.1" height="74.3" fill="#d64545" opacity="0.4"/>
 <rect x="322.6" y="96.8" width="5.1" height="62.4" fill="#d64545" opacity="0.4"/>
 <rect x="312.4" y="111.1" width="5.1" height="48.1" fill="#d64545" opacity="0.4"/>
 <rect x="302.1" y="102.6" width="5.1" height="56.6" fill="#d64545" opacity="0.4"/>
-<rect x="291.9" y="117.0" width="5.1" height="42.1" fill="#d64545" opacity="0.4"/>
+<rect x="291.9" y="117.1" width="5.1" height="42.1" fill="#d64545" opacity="0.4"/>
 <rect x="281.7" y="136.9" width="5.1" height="22.3" fill="#d64545" opacity="0.4"/>
 <rect x="271.4" y="157.6" width="5.1" height="1.6" fill="#d64545" opacity="0.4"/>
 <rect x="261.2" y="159.2" width="5.1" height="12.7" fill="#2a78d6" opacity="0.4"/>
@@ -636,8 +636,8 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <text x="58" y="67.5" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">+6만</text>
 <line x1="64" y1="159.2" x2="740" y2="159.2" stroke="#898781" stroke-width="1" stroke-dasharray="3 4"/>
 <text x="742" y="162.2" font-size="9" fill="#898781">0</text>
-<path d="M69.1,254.1 L79.4,262.6 L89.6,299.4 L99.8,336.8 L110.1,354.7 L120.3,367.3 L130.6,363.1 L140.8,378.4 L151.1,380.5 L161.3,414.3 L171.5,457.3 L181.8,497.9 L192.0,474.2 L202.3,471.7 L212.5,464.9 L222.8,444.2 L233.0,447.3 L243.2,456.0 L253.5,459.7 L263.7,458.5 L274.0,443.8 L284.2,417.5 L294.5,387.1 L304.7,358.5 L314.9,355.0 L325.2,325.1 L335.4,294.7 L345.7,277.0 L355.9,260.9 L366.2,245.8 L376.4,227.5 L386.6,222.4 L396.9,215.0 L407.1,206.1 L417.4,209.0 L427.6,212.9 L437.8,208.7 L448.1,187.1 L458.3,168.6 L468.6,145.8 L478.8,128.4 L489.1,120.5 L499.3,129.8 L509.5,138.3 L519.8,136.2 L530.0,136.6 L540.3,122.6 L550.5,110.6 L560.8,105.4 L571.0,99.1 L581.2,107.1 L591.5,114.3 L601.7,119.1 L612.0,115.8 L622.2,112.7 L632.5,119.7 L642.7,132.1 L652.9,147.7 L663.2,169.9 L673.4,208.3 L683.7,240.9 L693.9,286.1 L704.2,318.7 L714.4,341.8 L724.6,364.8 L734.9,371.2" fill="none" stroke="#2a78d6" stroke-width="1.8"/>
-<path d="M69.1,96.1 L79.4,129.4 L89.6,163.4 L99.8,198.1 L110.1,229.4 L120.3,257.0 L130.6,278.2 L140.8,298.3 L151.1,314.7 L161.3,334.6 L171.5,359.2 L181.8,386.9 L192.0,404.3 L202.3,417.8 L212.5,427.2 L222.8,430.6 L233.0,434.0 L243.2,438.4 L253.5,442.6 L263.7,445.8 L274.0,445.4 L284.2,439.8 L294.5,429.3 L304.7,415.1 L314.9,403.1 L325.2,387.5 L335.4,368.9 L345.7,350.5 L355.9,332.6 L366.2,315.2 L376.4,297.7 L386.6,282.6 L396.9,269.1 L407.1,256.5 L417.4,247.0 L427.6,240.2 L437.8,233.9 L448.1,224.5 L458.3,213.4 L468.6,199.8 L478.8,185.6 L489.1,172.5 L499.3,164.0 L509.5,158.8 L519.8,154.3 L530.0,150.8 L540.3,145.1 L550.5,138.2 L560.8,131.7 L571.0,125.1 L581.2,121.5 L591.5,120.1 L601.7,119.9 L612.0,119.1 L622.2,117.8 L632.5,118.2 L642.7,121.0 L652.9,126.3 L663.2,135.0 L673.4,149.7 L683.7,167.9 L693.9,191.6 L704.2,217.0 L714.4,241.9 L724.6,266.5 L734.9,287.5" fill="none" stroke="#008300" stroke-width="1.8"/>
+<path d="M69.1,254.1 L79.4,262.6 L89.6,299.4 L99.8,336.8 L110.1,354.7 L120.3,367.3 L130.6,363.1 L140.8,378.4 L151.1,380.5 L161.3,414.3 L171.5,457.3 L181.8,497.9 L192.0,474.2 L202.3,471.7 L212.5,464.9 L222.8,444.2 L233.0,447.3 L243.2,456.0 L253.5,459.7 L263.7,458.5 L274.0,443.8 L284.2,417.5 L294.5,387.2 L304.7,358.6 L314.9,355.0 L325.2,325.1 L335.4,294.7 L345.7,277.0 L355.9,260.9 L366.2,245.8 L376.4,227.5 L386.6,222.5 L396.9,215.0 L407.1,206.1 L417.4,209.0 L427.6,212.9 L437.8,208.7 L448.1,187.2 L458.3,168.6 L468.6,145.8 L478.8,128.4 L489.1,120.5 L499.3,129.8 L509.5,138.3 L519.8,136.2 L530.0,136.6 L540.3,122.6 L550.5,110.6 L560.8,105.4 L571.0,99.1 L581.2,107.1 L591.5,114.4 L601.7,119.1 L612.0,115.9 L622.2,112.8 L632.5,119.7 L642.7,132.2 L652.9,147.7 L663.2,169.9 L673.4,208.3 L683.7,241.0 L693.9,286.1 L704.2,318.7 L714.4,341.8 L724.6,364.8 L734.9,371.3" fill="none" stroke="#2a78d6" stroke-width="1.8"/>
+<path d="M69.1,96.1 L79.4,129.4 L89.6,163.4 L99.8,198.1 L110.1,229.4 L120.3,257.0 L130.6,278.2 L140.8,298.3 L151.1,314.7 L161.3,334.6 L171.5,359.2 L181.8,386.9 L192.0,404.3 L202.3,417.8 L212.5,427.2 L222.8,430.6 L233.0,434.0 L243.2,438.4 L253.5,442.6 L263.7,445.8 L274.0,445.4 L284.2,439.8 L294.5,429.3 L304.7,415.2 L314.9,403.1 L325.2,387.5 L335.4,368.9 L345.7,350.6 L355.9,332.6 L366.2,315.3 L376.4,297.7 L386.6,282.7 L396.9,269.1 L407.1,256.5 L417.4,247.0 L427.6,240.2 L437.8,233.9 L448.1,224.6 L458.3,213.4 L468.6,199.9 L478.8,185.6 L489.1,172.6 L499.3,164.0 L509.5,158.9 L519.8,154.3 L530.0,150.8 L540.3,145.2 L550.5,138.2 L560.8,131.7 L571.0,125.2 L581.2,121.6 L591.5,120.1 L601.7,119.9 L612.0,119.1 L622.2,117.8 L632.5,118.2 L642.7,121.0 L652.9,126.3 L663.2,135.1 L673.4,149.7 L683.7,168.0 L693.9,191.6 L704.2,217.0 L714.4,242.0 L724.6,266.5 L734.9,287.5" fill="none" stroke="#008300" stroke-width="1.8"/>
 <text x="69.1" y="548" font-size="10" fill="#898781" text-anchor="middle">07/14</text>
 <text x="181.8" y="548" font-size="10" fill="#898781" text-anchor="middle">07/30</text>
 <text x="294.5" y="548" font-size="10" fill="#898781" text-anchor="middle">08/14</text>
@@ -703,11 +703,11 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <text x="58" y="160.7" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">44</text>
 <line x1="64" y1="64.0" x2="740" y2="64.0" stroke="#e1e0d9" stroke-width="1"/>
 <text x="58" y="67.5" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">53</text>
-<line x1="64" y1="342.5" x2="740" y2="342.5" stroke="#898781" stroke-width="1" stroke-dasharray="3 4"/>
-<text x="742" y="345.5" font-size="9" fill="#898781">25</text>
-<path d="M69.1,302.5 L79.4,307.7 L89.6,305.4 L99.8,301.0 L110.1,296.8 L120.3,299.4 L130.6,301.8 L140.8,301.0 L151.1,298.8 L161.3,291.9 L171.5,278.1 L181.8,265.3 L192.0,268.9 L202.3,271.4 L212.5,271.3 L222.8,275.4 L233.0,274.0 L243.2,270.6 L253.5,267.0 L263.7,263.0 L274.0,265.7 L284.2,273.9 L294.5,285.4 L304.7,301.9 L314.9,310.0 L325.2,326.6 L335.4,344.8 L345.7,361.7 L355.9,372.5 L366.2,385.3 L376.4,399.4 L386.6,410.2 L396.9,415.9 L407.1,423.9 L417.4,428.9 L427.6,430.5 L437.8,434.5 L448.1,445.4 L458.3,449.0 L468.6,452.3 L478.8,454.9 L489.1,460.9 L499.3,467.2 L509.5,471.9 L519.8,479.0 L530.0,485.9 L540.3,486.4 L550.5,484.4 L560.8,479.0 L571.0,474.0 L581.2,476.8 L591.5,482.7 L601.7,484.7 L612.0,489.3 L622.2,491.3 L632.5,497.3 L642.7,497.9 L652.9,494.4 L663.2,484.5 L673.4,463.6 L683.7,443.0 L693.9,416.4 L704.2,391.7 L714.4,367.2 L724.6,343.4 L734.9,330.0" fill="none" stroke="#52514e" stroke-width="1.8"/>
-<path d="M69.1,439.7 L79.4,381.9 L89.6,397.9 L99.8,407.1 L110.1,416.0 L120.3,389.0 L130.6,396.8 L140.8,407.5 L151.1,414.6 L161.3,430.3 L171.5,449.3 L181.8,457.1 L192.0,394.5 L202.3,404.0 L212.5,412.8 L222.8,396.7 L233.0,408.8 L243.2,417.1 L253.5,422.7 L263.7,427.8 L274.0,399.8 L284.2,376.4 L294.5,360.1 L304.7,336.0 L314.9,354.2 L325.2,311.1 L335.4,301.4 L345.7,308.4 L355.9,324.1 L366.2,311.5 L376.4,300.2 L386.6,310.9 L396.9,324.1 L407.1,312.7 L417.4,324.5 L427.6,337.5 L437.8,331.0 L448.1,296.0 L458.3,256.2 L468.6,273.2 L478.8,283.7 L489.1,299.2 L499.3,320.9 L509.5,330.5 L519.8,323.3 L530.0,315.8 L540.3,289.2 L550.5,276.6 L560.8,266.9 L571.0,281.5 L581.2,302.1 L591.5,313.0 L601.7,298.5 L612.0,317.1 L622.2,306.3 L632.5,322.4 L642.7,334.9 L652.9,351.6 L663.2,366.9 L673.4,398.2 L683.7,412.4 L693.9,435.7 L704.2,444.5 L714.4,452.1 L724.6,461.8 L734.9,426.1" fill="none" stroke="#d64545" stroke-width="1.8"/>
-<path d="M69.1,240.8 L79.4,267.7 L89.6,219.7 L99.8,211.5 L110.1,229.1 L120.3,249.2 L130.6,262.3 L140.8,250.0 L151.1,248.0 L161.3,226.3 L171.5,173.6 L181.8,196.9 L192.0,244.8 L202.3,254.3 L212.5,245.0 L222.8,259.2 L233.0,224.9 L243.2,217.1 L253.5,224.9 L263.7,227.2 L274.0,244.5 L284.2,262.2 L294.5,276.0 L304.7,295.6 L314.9,254.5 L325.2,284.1 L335.4,297.3 L345.7,312.3 L355.9,279.9 L366.2,290.0 L376.4,303.8 L386.6,288.3 L396.9,265.9 L407.1,276.0 L417.4,268.6 L427.6,255.6 L437.8,271.6 L448.1,295.4 L458.3,313.7 L468.6,327.8 L478.8,339.9 L489.1,327.2 L499.3,298.7 L509.5,300.0 L519.8,313.5 L530.0,322.6 L540.3,342.3 L550.5,349.2 L560.8,366.2 L571.0,376.3 L581.2,342.8 L591.5,329.0 L601.7,340.7 L612.0,338.5 L622.2,344.5 L632.5,315.1 L642.7,288.3 L652.9,273.2 L663.2,230.0 L673.4,141.6 L683.7,157.1 L693.9,96.1 L704.2,124.6 L714.4,119.8 L724.6,134.6 L734.9,170.7" fill="none" stroke="#2a78d6" stroke-width="1.8"/>
+<line x1="64" y1="342.4" x2="740" y2="342.4" stroke="#898781" stroke-width="1" stroke-dasharray="3 4"/>
+<text x="742" y="345.4" font-size="9" fill="#898781">25</text>
+<path d="M69.1,303.2 L79.4,308.5 L89.6,306.2 L99.8,301.8 L110.1,297.7 L120.3,300.3 L130.6,302.7 L140.8,301.9 L151.1,299.7 L161.3,292.8 L171.5,279.1 L181.8,266.3 L192.0,269.8 L202.3,272.3 L212.5,272.2 L222.8,276.3 L233.0,274.8 L243.2,271.4 L253.5,267.8 L263.7,263.7 L274.0,266.5 L284.2,274.6 L294.5,286.1 L304.7,302.5 L314.9,310.6 L325.2,327.2 L335.4,345.4 L345.7,362.2 L355.9,373.0 L366.2,385.8 L376.4,399.8 L386.6,410.5 L396.9,416.3 L407.1,424.2 L417.4,429.2 L427.6,430.8 L437.8,434.8 L448.1,445.7 L458.3,449.2 L468.6,452.5 L478.8,455.1 L489.1,461.0 L499.3,467.3 L509.5,472.1 L519.8,479.1 L530.0,486.0 L540.3,486.5 L550.5,484.5 L560.8,479.1 L571.0,474.1 L581.2,476.9 L591.5,482.7 L601.7,484.8 L612.0,489.3 L622.2,491.3 L632.5,497.3 L642.7,497.9 L652.9,494.4 L663.2,484.5 L673.4,463.6 L683.7,443.0 L693.9,416.4 L704.2,391.7 L714.4,367.2 L724.6,343.4 L734.9,330.0" fill="none" stroke="#52514e" stroke-width="1.8"/>
+<path d="M69.1,439.1 L79.4,381.4 L89.6,397.5 L99.8,406.6 L110.1,415.5 L120.3,388.6 L130.6,396.4 L140.8,407.1 L151.1,414.2 L161.3,429.9 L171.5,448.9 L181.8,456.8 L192.0,394.2 L202.3,403.8 L212.5,412.6 L222.8,396.5 L233.0,408.6 L243.2,416.9 L253.5,422.5 L263.7,427.6 L274.0,399.6 L284.2,376.2 L294.5,360.0 L304.7,335.8 L314.9,354.1 L325.2,311.0 L335.4,301.3 L345.7,308.3 L355.9,324.0 L366.2,311.4 L376.4,300.1 L386.6,310.8 L396.9,324.0 L407.1,312.6 L417.4,324.4 L427.6,337.4 L437.8,330.9 L448.1,296.0 L458.3,256.1 L468.6,273.1 L478.8,283.7 L489.1,299.1 L499.3,320.9 L509.5,330.5 L519.8,323.2 L530.0,315.7 L540.3,289.1 L550.5,276.6 L560.8,266.8 L571.0,281.4 L581.2,302.0 L591.5,313.0 L601.7,298.4 L612.0,317.1 L622.2,306.2 L632.5,322.3 L642.7,334.8 L652.9,351.5 L663.2,366.8 L673.4,398.1 L683.7,412.3 L693.9,435.6 L704.2,444.5 L714.4,452.0 L724.6,461.7 L734.9,426.0" fill="none" stroke="#d64545" stroke-width="1.8"/>
+<path d="M69.1,241.1 L79.4,267.9 L89.6,219.9 L99.8,211.8 L110.1,229.3 L120.3,249.4 L130.6,262.5 L140.8,250.1 L151.1,248.2 L161.3,226.5 L171.5,173.8 L181.8,197.1 L192.0,244.9 L202.3,254.3 L212.5,245.1 L222.8,259.3 L233.0,225.0 L243.2,217.2 L253.5,225.0 L263.7,227.3 L274.0,244.6 L284.2,262.3 L294.5,276.1 L304.7,295.6 L314.9,254.5 L325.2,284.1 L335.4,297.3 L345.7,312.3 L355.9,279.9 L366.2,290.0 L376.4,303.8 L386.6,288.3 L396.9,265.9 L407.1,276.0 L417.4,268.6 L427.6,255.6 L437.8,271.6 L448.1,295.4 L458.3,313.7 L468.6,327.8 L478.8,339.8 L489.1,327.2 L499.3,298.7 L509.5,300.0 L519.8,313.5 L530.0,322.6 L540.3,342.2 L550.5,349.2 L560.8,366.2 L571.0,376.3 L581.2,342.8 L591.5,329.0 L601.7,340.6 L612.0,338.5 L622.2,344.5 L632.5,315.1 L642.7,288.3 L652.9,273.2 L663.2,230.0 L673.4,141.6 L683.7,157.1 L693.9,96.1 L704.2,124.6 L714.4,119.8 L724.6,134.5 L734.9,170.7" fill="none" stroke="#2a78d6" stroke-width="1.8"/>
 <text x="69.1" y="548" font-size="10" fill="#898781" text-anchor="middle">07/14</text>
 <text x="181.8" y="548" font-size="10" fill="#898781" text-anchor="middle">07/30</text>
 <text x="294.5" y="548" font-size="10" fill="#898781" text-anchor="middle">08/14</text>
@@ -730,10 +730,10 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <line x1="64" y1="250.4" x2="740" y2="250.4" stroke="#e1e0d9" stroke-width="1"/>
 <text x="58" y="253.9" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">18.0만</text>
 <line x1="64" y1="157.2" x2="740" y2="157.2" stroke="#e1e0d9" stroke-width="1"/>
-<text x="58" y="160.7" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">21.6만</text>
+<text x="58" y="160.7" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">21.7만</text>
 <line x1="64" y1="64.0" x2="740" y2="64.0" stroke="#e1e0d9" stroke-width="1"/>
 <text x="58" y="67.5" font-size="10" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">25.3만</text>
-<path d="M69.1,104.2 L79.4,100.3 L89.6,96.1 L99.8,111.4 L110.1,125.6 L120.3,135.3 L130.6,154.9 L140.8,164.2 L151.1,182.5 L161.3,171.6 L171.5,141.7 L181.8,151.0 L192.0,118.4 L202.3,132.2 L212.5,146.8 L222.8,164.5 L233.0,169.4 L243.2,183.8 L253.5,205.2 L263.7,226.5 L274.0,238.5 L284.2,248.6 L294.5,262.7 L304.7,267.0 L314.9,266.6 L325.2,258.1 L335.4,271.6 L345.7,280.8 L355.9,287.8 L366.2,304.9 L376.4,315.7 L386.6,330.0 L396.9,339.7 L407.1,355.2 L417.4,366.0 L427.6,374.1 L437.8,382.4 L448.1,381.1 L458.3,384.3 L468.6,391.3 L478.8,399.9 L489.1,406.7 L499.3,405.5 L509.5,416.9 L519.8,424.6 L530.0,436.1 L540.3,435.3 L550.5,447.7 L560.8,447.8 L571.0,455.1 L581.2,456.3 L591.5,465.2 L601.7,472.2 L612.0,474.0 L622.2,485.7 L632.5,489.1 L642.7,494.9 L652.9,496.3 L663.2,497.9 L673.4,480.2 L683.7,479.5 L693.9,463.0 L704.2,466.6 L714.4,471.6 L724.6,471.6 L734.9,469.5" fill="none" stroke="#e87ba4" stroke-width="1.8"/>
+<path d="M69.1,104.1 L79.4,100.2 L89.6,96.1 L99.8,111.4 L110.1,125.6 L120.3,135.3 L130.6,155.0 L140.8,164.3 L151.1,182.6 L161.3,171.7 L171.5,141.9 L181.8,151.2 L192.0,118.6 L202.3,132.5 L212.5,147.0 L222.8,164.8 L233.0,169.6 L243.2,184.1 L253.5,205.4 L263.7,226.7 L274.0,238.7 L284.2,248.8 L294.5,262.9 L304.7,267.2 L314.9,266.8 L325.2,258.4 L335.4,271.8 L345.7,281.0 L355.9,288.0 L366.2,305.1 L376.4,315.9 L386.6,330.2 L396.9,339.8 L407.1,355.4 L417.4,366.1 L427.6,374.2 L437.8,382.5 L448.1,381.2 L458.3,384.4 L468.6,391.5 L478.8,400.0 L489.1,406.8 L499.3,405.6 L509.5,417.0 L519.8,424.6 L530.0,436.1 L540.3,435.4 L550.5,447.8 L560.8,447.9 L571.0,455.2 L581.2,456.4 L591.5,465.2 L601.7,472.2 L612.0,474.0 L622.2,485.7 L632.5,489.1 L642.7,494.9 L652.9,496.3 L663.2,497.9 L673.4,480.2 L683.7,479.5 L693.9,463.0 L704.2,466.6 L714.4,471.6 L724.6,471.7 L734.9,469.5" fill="none" stroke="#e87ba4" stroke-width="1.8"/>
 <text x="69.1" y="548" font-size="10" fill="#898781" text-anchor="middle">07/14</text>
 <text x="181.8" y="548" font-size="10" fill="#898781" text-anchor="middle">07/30</text>
 <text x="294.5" y="548" font-size="10" fill="#898781" text-anchor="middle">08/14</text>
@@ -746,21 +746,21 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <section>
 <h2><span class="no">01</span>투자 요약</h2>
 <ul>
-  <li><strong>투자의견: 확정 판정 중립 유지</strong> — 10/21 종가 데이터로 유지 규칙 표를 적용한 확정 결과입니다(직전 확정 10/20 중립). 방향성 4요소는 긍정 2개(②④)·부정 1개(①)·중립 1개(③)로 중립→매수(긍정 3개 이상·부정 0개)와 중립→매도(부정 3개 이상·긍정 0개) 모두 미충족입니다. 종가 +5.81% 반등에도 ①이 종가 기준 반전 신호(DMI 재역전·MACD 시그널 상회) 미확인이라 부정으로 남았고, ③을 긍정으로 올려도 부정 1개(①)가 남아 매수 조건(부정 0개)은 충족되지 않습니다.</li>
-  <li><strong>10/21 확정 종가 129.4만(+5.81%)</strong> — 시가 126.0만(10/20 종가 대비 +3.03% 갭업)·고가 132.9만(+8.67%)·저가 125.4만(+2.54%), 거래량 397.6만주(20일 평균의 1.15배; 야후와 트레이딩뷰 모두 3,976,449주로 일치, 야후 거래량은 마감 후 정정될 수 있음). 고가 대비 -2.6%, 저가 대비 +3.2%에서 마감했습니다. 같은 날 코스피200 12월물 선물이 +3.51%(891.30, 15:33), 삼성전자가 223,500원(+5.67%)으로 시장 전반이 반등했습니다. 10/2 종가(184.1만) 대비로는 -29.7%입니다.</li>
-  <li><strong>마감 후 확인 변수</strong>: 15:53 수집은 주간 시간대라 야간선물은 확인 불가이며 내일 08:00 프리마켓 스냅샷에서 확인합니다. 10/21 미국장(한국시간 10/22 새벽) 결과도 확인 불가입니다. 마감 직후 헤드라인은 글로벌이코노믹 "'쪼개기 논란' 솔리다임 상장 제동…SK하이닉스 주주보호 '시험대'", Investing.com "삼성·SK하이닉스, 중국 공장에서 고급 메모리 반도체 생산 추진", 머니투데이 "삼성전자·SK하이닉스 강세…증권가 목표가·투자의견 고수"입니다(헤드라인만 확인, 솔리다임 제동의 주체·내용과 중국 공장 생산 추진의 구체 내용은 확인 불가).</li>
-  <li><strong>지표(10/21 quote.json 종가 확정)</strong>: DMI 격차 -26.0(+DI 16.5 &lt; -DI 42.5), KDJ K 11.3·D 9.6(격차 +1.7, K&gt;D, 과매도 구간), MACD 히스토그램 -5.13만(시그널 하회). 거래량은 20일 평균의 1.15배입니다. 3Q26 실적 발표(10/27)까지 <strong>D-6</strong>(10/22 기준 D-5)이고 반도체대전(10/14 개막)이 진행 중입니다.</li>
+  <li><strong>투자의견: 확정 판정 중립 유지</strong> — 판정은 종가 기준으로만 변경하므로 아침 리포트는 10/21 종가 기준 확정 판정(중립)을 그대로 인용합니다. 방향성 4요소는 긍정 2개(②④)·부정 1개(①)·중립 1개(③)였고, 중립→매수는 긍정 3개 이상·부정 0개, 중립→매도는 부정 3개 이상·긍정 0개가 필요해 둘 다 미충족입니다. 간밤 미국 반도체(SOX +1.97%)·ADR(+2.48%)은 강세지만 코스피200 야간선물은 -0.53%(주간 종가 대비)라 엇갈리며, 판정은 오늘 종가에서만 바꿉니다.</li>
+  <li><strong>10/21 확정 종가 129.4만(+5.81%)</strong> — 시가 126.0만(10/20 종가 대비 +3.03% 갭업)·고가 132.9만(+8.67%)·저가 125.4만(+2.54%), 거래량 452.2만주(야후 최신 정정치, 20일 평균의 1.31배; 마감 리포트의 397.6만주는 15:53 시점 값이었고 이후 정정됐으며 트레이딩뷰 20:00 기준은 406.2만주). 고가 대비 -2.6%에서 마감했고 종가 기준으로 10/20 낙폭(-4.23%)을 모두 되돌렸습니다. 10/2 종가(184.1만) 대비로는 -29.7%입니다.</li>
+  <li><strong>간밤 변수·개장 전 헤드라인</strong>: 미국장(10/21 수)은 반도체가 강세였습니다. SOX +1.97%(11,505.56)·나스닥 +1.05%·S&amp;P500 +0.58%, 마이크론 +1.96%, 엔비디아 +2.54%, SK하이닉스 ADR 143.25달러(+2.48%), EWY +1.88%였고 원/달러는 1,326.10원(-0.04%, 08:04)입니다. 코스피200 야간선물은 888.3으로 주간 종가(893.05) 대비 -0.53%(10/22 06:00 기준 20분 지연, 야간 세션 값인지 첫 실측 검증 진행 중)입니다. 헤드라인은 연합인포맥스 "SK하이닉스 자사주 매입도 끝 이제 누가 수급을 받쳐주나", 주간동아 "정부와 손잡고 소부장 협력사에 2조 금융 지원"·"'솔리다임 상장 논란' SK하이닉스, 외국인 지분율 50% 미만으로 급감"(🔴), 서울경제TV "'77조 신기록' SK하이닉스…HBM4 독주엔 '경고등'"(🔴)입니다(헤드라인만 확인, 자사주 매입 규모·외국인 지분율 수치·금융지원 세부 내용은 확인 불가).</li>
+  <li><strong>지표(10/21 quote.json 종가 확정)</strong>: DMI 격차 -26.0(+DI 16.5 &lt; -DI 42.5), KDJ K 11.3·D 9.6(격차 +1.7, K&gt;D, 과매도 구간), MACD 히스토그램 -5.13만(시그널 하회). 거래량은 20일 평균의 1.31배입니다. 3Q26 실적 발표(10/27)까지 <strong>D-5</strong>이고 반도체대전(10/14 개막)이 진행 중입니다.</li>
 </ul>
 </section>
 
 <section>
-<h2><span class="no">02</span>주가 동향 (10/21 마감)</h2>
-<p>10/20(화) 장중 저가 118.3만원(-7.36%) 이후 122.3만원(-4.23%)에 마감한 SK하이닉스는 10/21(수) 시가 126.0만원(+3.03% 갭업)으로 출발해 장중 132.9만원(+8.67%)까지 올랐다가 오후에 상승폭이 줄었고 129.4만원(+5.81%)에 마감했습니다. 코스피200 12월물 선물 +3.51%, 삼성전자 +5.67%로 시장 전반이 반등한 날이며, 종가 기준으로 10/20의 낙폭(-4.23%)을 모두 되돌렸습니다(10/19 종가 127.7만 대비 +1.3%). 반등 원인은 헤드라인상 시장 급반등·마이크론 파업 예고·행동주의 펀드의 저평가 제기 등이 거론되나 확인 불가입니다(방향성 참고일 뿐 가격 예측이 아닙니다).</p>
+<h2><span class="no">02</span>주가 동향 (10/21 마감 + 10/22 개장 전)</h2>
+<p>10/21(수) SK하이닉스는 시가 126.0만원(+3.03% 갭업)으로 출발해 장중 132.9만원(+8.67%)까지 올랐다가 상승폭이 줄어 129.4만원(+5.81%)에 마감했습니다. 같은 날 코스피200 12월물 선물 +3.51%, 삼성전자 +5.67%로 시장 전반이 반등했습니다. 10/22(목) 개장 전에는 야간선물이 주간 종가 대비 -0.53%로 소폭 약세지만 SOX +1.97%·마이크론 +1.96%·ADR +2.48%·EWY +1.88%는 강세여서, 야간선물과 해외 지표가 엇갈려 보합~소폭 갭업 가능성 정도로만 볼 수 있고 전일 고점(132.9만) 부근에서는 매물이 나올 수 있습니다. 정규장 시세는 확인 불가입니다(방향성 참고일 뿐 가격 예측이 아닙니다).</p>
 <p>종가 기준 지표 흐름은 DMI 격차 9/29 +1.6 → 9/30 +4.3 → 10/1 +2.2 → 10/2 +3.9 → 10/6 -0.8 → 10/7 -4.7 → 10/8 -7.9(종가 확정), KDJ 격차 9/29 -8.4 → 9/30 -8.9 → 10/1 -5.2 → 10/2 -2.2 → 10/6 -8.2 → 10/7 -14.1 → 10/8 -15.1(종가 확정)입니다. 10/8 값은 마감 리포트의 15:14 집계(-7.1·-14.4)에서 종가단일가 반영으로 갱신됐습니다. DMI 약세가 확대되고 KDJ는 과매도 구간(10/8 K 17.3 → 10/14 종가 K 7.3)에 있어 기술적 반등 여지는 있으나 추세 전환 신호는 없습니다. 10/12 값은 15:14 집계(DMI -13.9·KDJ -13.3, 종가단일가 미반영), 10/13 종가 확정 기준은 DMI -26.1·KDJ -10.9, 10/14 종가 확정 기준은 DMI -25.9·KDJ -8.4입니다.</p>
 <div class="chart"><svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="400" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
 <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">SK하이닉스 주가 흐름 (7/10 ~ 10/14)</text>
-<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 10/21 종가 129.4만(+5.81%, 시가 126.0만·고가 132.9만·저가 125.4만, 15:30 확정). 지표는 10/21 종가 확정.</text>
+<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 10/21 종가 129.4만(+5.81%, 시가 126.0만·고가 132.9만·저가 125.4만, 15:30 확정). 10/22 정규장 시세는 아침 리포트 작성 시점에 확인 불가. 지표는 10/21 종가 확정.</text>
 <line x1="88" y1="332.7" x2="724" y2="332.7" stroke="#e1e0d9" stroke-width="1"/>
 <text x="80" y="336.7" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">120만</text>
 <line x1="88" y1="308.9" x2="724" y2="308.9" stroke="#e1e0d9" stroke-width="1"/>
@@ -933,33 +933,33 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 
 <div class="tablewrap">
 <table class="ohlcv">
-  <tr><th colspan="6">전일 시세(확정) — 10/20 (화) 15:30 KST 마감 · 출처: 야후 quote.json(marketTime 15:30 KST 확정)·트레이딩뷰 KRX 피드 교차 확인(종가 1,223,000원 일치) · 등락률은 10/19 확정 종가 기준 · 거래량은 야후 최신 정정치(마감 리포트 3,285,245주)</th></tr>
-  <tr><th>시가</th><th>고가</th><th>저가</th><th>종가</th><th>등락</th><th>거래량</th></tr>
-  <tr>
-    <td class="num">₩1,265,000</td><td class="num">₩1,267,000</td><td class="num">₩1,183,000</td>
-    <td class="num"><strong>₩1,223,000</strong></td><td class="num" style="color:var(--down)">-4.23%</td>
-    <td class="num">3,464,412주</td>
-  </tr>
-  <tr><th colspan="6">오늘 시세(확정) — 10/21 (수) 15:30 KST 마감 · 출처: 야후 quote.json(marketTime 15:30 KST 확정)·트레이딩뷰 KRX 피드 교차 확인(종가 1,294,000원·거래량 3,976,449주 일치) · 등락률은 10/20 확정 종가 기준</th></tr>
+  <tr><th colspan="6">전일 시세(확정) — 10/21 (수) 15:30 KST 마감 · 출처: 야후 quote.json(marketTime 15:30 KST 확정)·트레이딩뷰 KRX 피드 교차 확인(종가 1,294,000원 일치) · 등락률은 10/20 확정 종가 기준 · 거래량은 야후 최신 정정치(마감 리포트 3,976,449주)</th></tr>
   <tr><th>시가</th><th>고가</th><th>저가</th><th>종가</th><th>등락</th><th>거래량</th></tr>
   <tr>
     <td class="num">₩1,260,000</td><td class="num">₩1,329,000</td><td class="num">₩1,254,000</td>
     <td class="num"><strong>₩1,294,000</strong></td><td class="num" style="color:var(--up)">+5.81%</td>
-    <td class="num">3,976,449주</td>
+    <td class="num">4,522,003주</td>
+  </tr>
+  <tr><th colspan="6">오늘 시세 — 10/22 (목) 개장 전 · 정규장 시세는 야후 quote.json(09:13 수집)에 미반영 — 확인 불가 · 10/21 확정 종가 1,294,000원이 기준</th></tr>
+  <tr><th>시가</th><th>고가</th><th>저가</th><th>현재가</th><th>등락</th><th>거래량</th></tr>
+  <tr>
+    <td class="num">확인 불가</td><td class="num">확인 불가</td><td class="num">확인 불가</td>
+    <td class="num"><strong>확인 불가</strong></td><td class="num">확인 불가</td>
+    <td class="num">확인 불가</td>
   </tr>
 </table>
 </div>
-<p>10/21 확정 종가 1,294,000원은 10/20 종가(1,223,000원) 대비 <strong>+71,000원(+5.81%)</strong>입니다. 종가는 quote.json marketTime 15:30 KST 확정이며 트레이딩뷰 KRX 피드와 종가·거래량이 일치합니다. 아래 기술지표는 야후 일봉 10/21 종가 확정분입니다.</p>
+<p>10/21 확정 종가 1,294,000원은 10/20 종가(1,223,000원) 대비 <strong>+71,000원(+5.81%)</strong>입니다. 종가는 quote.json marketTime 15:30 KST 확정이며 트레이딩뷰와 일치합니다. 아래 기술지표는 야후 일봉 10/21 종가 확정분이며, 마감 리포트(15:58) 이후 거래량이 정정됐습니다(397.6만 → 452.2만주).</p>
 
 <div class="tablewrap">
 <table class="tech-indicators">
-  <tr><th colspan="3">기술적 지표 — 10/21 종가 확정 기준(야후 일봉) <span id="ti-when" style="font-weight:400">· 2026-10-21 15:58 갱신</span></th></tr>
+  <tr><th colspan="3">기술적 지표 — 10/21 종가 확정 기준(야후 일봉) <span id="ti-when" style="font-weight:400">· 2026-10-22 09:13 갱신</span></th></tr>
   <tr><th>지표</th><th>값</th><th>해석</th></tr>
   <tr><td>MACD (12,26,9)</td><td class="num" id="ti-macd">-12.97만 / 시그널 -7.85만 / 히스토그램 <strong>-5.13만</strong></td><td id="ti-macd-read">하락 모멘텀 지속(MACD가 시그널 아래·0선 아래)</td></tr>
   <tr><td>ATR (14)</td><td class="num" id="ti-atr">9.51만 (7.4%)</td><td id="ti-atr-read">변동성 매우 큼</td></tr>
   <tr><td>ADX / DMI (14)</td><td class="num" id="ti-adx">ADX 26.3 · +DI 16.5 · -DI 42.5</td><td id="ti-adx-read">추세 강함 · <strong>-DI 우위 격차 -26.0</strong>(하락 우위 지속)</td></tr>
   <tr><td>KDJ (9,3,3)</td><td class="num" id="ti-kdj">K 11.3 · D 9.6 · J 14.7</td><td id="ti-kdj-read">과매도 구간 · <strong>K&gt;D 상승 우위 전환</strong>(격차 +1.7, 10/20 종가 -1.4)</td></tr>
-  <tr><td>거래량 / 20일 이평</td><td class="num" id="ti-vol">397.6만 주 / 평균 344.5만 주</td><td id="ti-vol-read">20일 평균의 1.15배</td></tr>
+  <tr><td>거래량 / 20일 이평</td><td class="num" id="ti-vol">452.2만 주 / 평균 344.5만 주</td><td id="ti-vol-read">20일 평균의 1.31배</td></tr>
 </table>
 </div>
 
@@ -967,29 +967,29 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 </section>
 
 <section>
-<h2><span class="no">GLOBAL</span>내일(10/22, 목) 전망 — 129.0만 지지 유지, 132.5만~133.2만 저항대 돌파 여부</h2>
-<p>10/21 확정 종가(129.4만)·장중 레벨(저가 125.4만·고가 132.9만)과 마감 후 확인된 지표를 기준으로 내일(10/22)의 핵심 레벨과 관전 포인트를 정리합니다. 야간선물·미국장은 아직 확인 불가이며 확정 판정은 내일 종가 기준으로만 변경합니다.</p>
+<h2><span class="no">GLOBAL</span>오늘(10/22, 목) 전망 — 야간선물 약세 vs 미국 반도체·ADR 강세, 129.0만 지지와 132.5만~133.2만 저항대</h2>
+<p>10/21 확정 종가(129.4만)·장중 레벨(저가 125.4만·고가 132.9만)과 간밤 해외 지표를 기준으로 오늘(10/22)의 핵심 레벨과 관전 포인트를 정리합니다. 정규장 시세는 확인 불가이며 확정 판정은 종가 기준으로만 변경합니다.</p>
 
 <div class="tablewrap">
 <table class="kv">
-  <tr><th colspan="2">내일(10/22) 전망</th></tr>
+  <tr><th colspan="2">오늘(10/22) 전망</th></tr>
   <tr><th>항목</th><th>내용</th></tr>
   <tr><td>지지선</td><td>129.0만(10/16 시가) · 127.7만(10/19 종가) · 127.2만(10/16 종가) · 126.7만(10/20 고가) · 126.0만(10/21 시가) · 125.4만(10/21 저가)</td></tr>
   <tr><td>저항선</td><td>132.5만(10/16 고가) · 132.9만(10/21 고가) · 133.2만(10/15 고가) · 140.2만(10/14 저가) · 141.9만(10/14 종가) · 144.3만(10/13 종가)</td></tr>
   <tr><td>예상 등락 레인지(참고용)</td><td>10/21 종가 ± ATR 9.51만 = 119.9만 ~ 138.9만(참고용)</td></tr>
-  <tr><td>예정 이벤트</td><td>3Q26 실적 발표 10/27(10/22 기준 D-5) · 반도체대전(10/14 개막) 진행 중(종료일 확인 불가) · 10/21 미국장 결과(한국시간 10/22 새벽)와 코스피200 야간선물(확인 불가, 내일 08:00 프리마켓 스냅샷) · 솔리다임 상장 제동·금융당국/국민연금 논의의 후속(주체·결과·시점 확인 불가) · 안성 상생협약 파기 요구 반발 확산의 후속(확인 불가) · 마이크론 파업 예고의 후속(규모·시점 확인 불가) · 삼성·SK하이닉스 중국 공장 고급 메모리 생산 추진 보도의 후속(확인 불가) · 외국인 수급(확인 불가)</td></tr>
-  <tr><td>관찰 포인트</td><td>129.0만(10/16 시가) 지지 유지 여부, 132.5만(10/16 고가)~133.2만(10/15 고가) 저항대 돌파 여부, 갭업 이후 거래량(10/21 거래량은 평균의 1.15배), 코스피200 선물(+3.51%) 반등의 지속 여부, 외국인 수급 전환 여부(확인 불가), 종가 기준 DMI·MACD 변화(MACD 시그널 상회 여부)</td></tr>
-  <tr><td>상방 시나리오</td><td>종가 기준으로 10/20 낙폭을 모두 되돌렸고 KDJ가 K>D(격차 +1.7)를 유지해 132.5만~133.2만 저항대 재도전이 가능함. 다만 ①의 종가 기준 개선(DMI 재역전·MACD 시그널 상회)이 확인돼야 하며, 매수 복귀에는 긍정 3개 이상·부정 0개가 필요(현재 긍정 2·부정 1·③ 중립)</td></tr>
-  <tr><td>하방 시나리오</td><td>10/21 장중 고점(132.9만) 대비 종가가 -2.6%로 상단 매물이 확인됐고 129.0만 이탈 시 127.7만~126.0만 갭 영역 재시험 가능성이 있음. 변동성은 매우 큼(ATR 7.4%)이며 매도 진입(부정 3개 이상·긍정 0개)은 ②④가 모두 긍정에서 이탈해야 해 현재는 해당 없음</td></tr>
-  <tr><td>야간선물</td><td>확인 불가(15:53 수집이 주간 시간대라 night_futures_valid false; 내일 08:00 프리마켓 스냅샷에서 확인). 참고: 코스피200 12월물 주간 마감 직후 891.30(+3.51%, 15:33)</td></tr>
+  <tr><td>예정 이벤트</td><td>3Q26 실적 발표 10/27(10/22 기준 D-5) · 반도체대전(10/14 개막) 진행 중(종료일 확인 불가) · 간밤 해외 지표(SOX +1.97%·마이크론 +1.96%·ADR +2.48%·EWY +1.88%)와 코스피200 야간선물 -0.53% · 자사주 매입 종료 후 수급 공백 헤드라인(규모 확인 불가) · 솔리다임 상장 논란·외국인 지분율 50% 미만 급감 헤드라인(수치 확인 불가) · 정부와 소부장 협력사 2조 금융 지원 보도(세부 확인 불가) · 삼성·SK하이닉스 중국 공장 낸드 공정 고도화 로이터 보도(영향 확인 불가) · 원/달러 1,326.10원(-0.04%)</td></tr>
+  <tr><td>관찰 포인트</td><td>갭 방향(야간선물 -0.53% vs 미국 반도체·ADR 강세), 129.0만(10/16 시가) 지지 유지 여부, 132.5만(10/16 고가)~133.2만(10/15 고가) 저항대 돌파 여부, 반등 시 거래량 동반 여부(10/21 거래량은 평균의 1.31배), 외국인 수급(확인 불가), 종가 기준 DMI·MACD 변화(MACD 시그널 상회 여부)</td></tr>
+  <tr><td>상방 시나리오</td><td>SOX +1.97%·마이크론 +1.96%·ADR +2.48% 등 해외 반도체 강세가 갭업·반등으로 이어지면 132.5만~133.2만 저항대 재도전이 가능하고 KDJ는 K>D(격차 +1.7)를 유지 중임. 다만 ①의 종가 기준 개선(DMI 재역전·MACD 시그널 상회)이 확인돼야 하며, 매수 복귀에는 긍정 3개 이상·부정 0개가 필요(현재 긍정 2·부정 1·③ 중립)</td></tr>
+  <tr><td>하방 시나리오</td><td>야간선물 -0.53%와 10/21 장중 고점(132.9만) 대비 종가 -2.6%로 확인된 상단 매물, 자사주 매입 종료·외국인 지분율 급감 헤드라인이 반등을 제한하면 129.0만 이탈 시 127.7만~126.0만 갭 영역을 재시험할 수 있음(ATR 7.4%). 매도 진입(부정 3개 이상·긍정 0개)은 ②④가 모두 긍정에서 이탈해야 해 현재는 해당 없음</td></tr>
+  <tr><td>야간선물</td><td>888.3(코스피200 야간선물, 주간 종가 893.05 대비 -0.53%·updateTimeKST 10-22 06:00·20분 지연; 야간 세션 값인지 첫 실측 검증 진행 중)</td></tr>
 </table>
 </div>
-<p><strong>해석</strong> — 10/21은 야간선물 +1.84% 예고와 ADR(-2.16%)·EWY(-1.65%) 약세가 엇갈린 가운데 시가 126.0만(+3.03% 갭업)으로 출발해 장중 132.9만(+8.67%)까지 올랐고, 코스피200 선물 +3.51%의 시장 전반 반등 속에 129.4만(+5.81%)에 마감했습니다. 종가는 고점 대비 -2.6%로 상승폭이 줄었고 거래량은 평균의 1.15배라 내일 방향은 단정하기 어렵습니다(방향성 참고일 뿐 가격 예측이 아닙니다).</p>
+<p><strong>해석</strong> — 야간선물은 주간 종가 대비 -0.53%로 소폭 약세지만 SOX(+1.97%)·마이크론(+1.96%)·ADR(+2.48%)·EWY(+1.88%)는 강세여서 개장 직후 보합~소폭 갭업 가능성 정도로 보이며, 10/21 장중 고점(132.9만) 부근에서는 상단 매물이 나올 수 있습니다. 전일 +5.81% 반등 이후에도 KDJ는 과매도 구간(K 11.3)이고 변동성이 커(ATR 7.4%) 장 초반 등락이 클 수 있습니다(방향성 참고일 뿐 가격 예측이 아닙니다).</p>
 </section>
 
 <section>
-<h2><span class="no">03</span>최신 뉴스 Top 10 <small style="font-size:12px;font-weight:500;color:var(--muted)">SK하이닉스 실시간 뉴스 · 구글 뉴스 자동 수집 · <span id="news-feed-when">수집 2026-10-21 15:53 KST</span></small></h2>
-<ol class="news" id="news-feed"><li><div><h3><span class="chip down">🔴 악재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYm5UMlVpUkVOUXZwVnNZeldORVVFSTBMMjVHa1VjdXQyeEQ5M0tpa0FuTFFkRUlsY1ZVaFZOTmJDWEFnUFNtclJ5cV9ZTUNLZC0yd2tCdDdGa3ZMZmhOV3BsUk5GSHB0dWJGcFprcTVET280aFVuZ0s1ajh5TFdWZGpid0VUZldT?oc=5" target="_blank" rel="noopener">&#x27;쪼개기 논란&#x27; 솔리다임 상장 제동…SK하이닉스 주주보호 &#x27;시험대&#x27;</a> <span style="color:var(--muted)">· 글로벌이코노믹</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRUE5Rndqa3pHOXpUaXJ2WkJxQjZMSGxTWk4wVjRwTFpPOGRKNXExNmJod1oxQXlYRTVzak5rMG9RMmd0MU9VUWYxVmx2TDU1UGFqZ2lRczVpNnpNNVR4bm5TbW9iSmEyLUctaEZ4Rmg?oc=5" target="_blank" rel="noopener">삼성·SK하이닉스, 중국 공장에서 고급 메모리 반도체 생산 추진</a> <span style="color:var(--muted)">· Investing.com 한국어</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTE9DaW8xWE4xaXRTU0Y4SUdWeTdEa2FyUzNkdGdMQUpvZlNyd3IzbXByZHRSeTFvcmhhMEZ2M1l5Z1dORGZnNk9ad2hfUGQxZXAteTdQWTltZXE5RktIYnpEUElKMUx4S2piYXJzRTlGQQ?oc=5" target="_blank" rel="noopener">[르포] 용인 SK하이닉스 산단 공사현장은</a> <span style="color:var(--muted)">· 기호일보</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UQXYxeGNVazZ5MjczUWRQU0hvYjk4VHd5WkZxdUI3N0RfQi1NVjhmbFlrSlV4Rk10QkVyNDhsTXRtMU1nV1EzbEM1Qm9IaEdXMDlkbHhVZUV1QkQyblZQMTFwQQ?oc=5" target="_blank" rel="noopener">SK하이닉스 &quot;에이전트 AI 시대 HBM만으론 한계&quot;…HBF·CXL 해법 제시</a> <span style="color:var(--muted)">· 더구루</span></h3></div></li><li><div><h3><span class="chip up">🟢 호재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5lakI3S3ZJQktveW9KNm9BbnZZVjdnWkFCdTVfcnh1V05fcGEyNUdZbWdVOWkxdEYzNXNIbHd0OGNvSFJ4Z1Bxb0tCV2Y1RWkxaXhCOFptVHdRcVdBUVNGM25vOWFfOGxMak91UVNJSFc1Z0VoYlow?oc=5" target="_blank" rel="noopener">SK하이닉스 주가, 오늘 급등한 이유는?</a> <span style="color:var(--muted)">· Investing.com 한국어</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE80TnZMS1d4UGlsUlltTkhHZ2NyX0dlUDBzSFltWmlqMkRsN2RTMmlwNng4N3p6Q1pNUFlhUzZQdHJNUmFvZU1HQmhZSjlwNTRfSlNua3RqdnhTcjA?oc=5" target="_blank" rel="noopener">“SK하이닉스 상생협약 파기하라”…안성 농민·정치권 반발 확산</a> <span style="color:var(--muted)">· 경기일보</span></h3></div></li><li><div><h3><span class="chip up">🟢 호재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xMmItQmRBMFdoMDV2UU8yV3BYWlVZNU1rTF80X1ZsZlFFMnpBbjhQUlpOSWpQazlZMmJscWNtc2wtNTRNWGQwcXlzVFZnUGxlMkZyVWk5dWpVMDlpcWZyTTE3X0ZnUXJT0gFuQVVfeXFMTWhVM0Uzd1diUEJaTWlhQ0RfZmNzQUVYWFVjRFR3MzA5QjFhclBWUUQ5TWJlc2VtV1BlbnBrNnBwSmw3MWpPUXlQc04zVWRoT3ZRcU1zWkQxZlBmSzlFUXNUanY2LXBka0xSXzVranc?oc=5" target="_blank" rel="noopener">삼성전자·SK하이닉스 강세…증권가 목표가·투자의견 고수 - 머니투데이</a> <span style="color:var(--muted)">· 머니투데이</span></h3></div></li><li><div><h3><span class="chip up">🟢 호재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVhmMWxjVXBldXdjN251UE5EV19TR0RzVng3TkFXZnVfZm5DOGFsaElLQ3JMb3JUa2FOQV84b1J1eEFVOWs5b2RfMFhCdThHODlLb1EwajVGOUN5SG05dE1pNGZrTVhIUGJtU1MzTjE3WnozY2haVU1OcHNEdC1NSkhmYWJ6YjlI?oc=5" target="_blank" rel="noopener">[특징주] SK·SK하이닉스, 행동주의 펀드 저평가 제기에 동반 &#x27;강세&#x27;</a> <span style="color:var(--muted)">· 글로벌이코노믹</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iWFRidlJ5elZWWGZzTllnbmtXZ3l4Qy1iRHMybHhlTUxEZFNZOUk2Nl9fUm56dUkxUXhkRDB1ek1TbW1JbHc1cy14aTk2VjQ3WGhoMUZMTFhUZw?oc=5" target="_blank" rel="noopener">반도체 떨어지자 &#x27;줍줍&#x27;…초고수, SK하이닉스 사고 라온시큐어 팔았다</a> <span style="color:var(--muted)">· 한국경제</span></h3></div></li><li><div><h3><span class="chip up">🟢 호재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1zTWNnOU1Lc0Q2eEFqcGtYeUJITWRxNXpRVlhuZE5DXzhnV01oN1Iza3J0TFg2czV3ODJXUTVtdDNyY01paERDRUd4ak1yMmVxUkQtUVFKTE5jT29hUGdTQ0VUMXY3Wm1ZbTlSQmhOOXo?oc=5" target="_blank" rel="noopener">마이크론 파업 예고…삼성전자·SK하이닉스 반사이익 기대</a> <span style="color:var(--muted)">· 연합인포맥스</span></h3></div></li></ol>
+<h2><span class="no">03</span>최신 뉴스 Top 10 <small style="font-size:12px;font-weight:500;color:var(--muted)">SK하이닉스 실시간 뉴스 · 구글 뉴스 자동 수집 · <span id="news-feed-when">수집 2026-10-22 09:10 KST</span></small></h2>
+<ol class="news" id="news-feed"><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-22</span> <a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1xVGtRbFNVNnQwZjNOdkppRkExNHRwSUlDdnJXOVo3YjRJRWp3Wm1mcDR1b2RwWEFWbThjdmY4WXRQSXNXNVcwTWJucHo1MTFmaG5sZm5XenVQUDNQQk1UZDJLX0xENWFqX3Z4a0VvY3bSAXRBVV95cUxQemkzNnh0VENmWmhzTmFiTnVTU2c1aWhUNEdzdHJyaWdpdDlEV0FRZ000UmlYSURGNHlvd2Rha25IMHdEelF1Q2hkN0NONnhrMjZJS0pGOTJxWXdMdmhLN2lyOV8xeGFIZFJJSXMxM0ptNFE0SA?oc=5" target="_blank" rel="noopener">SK하이닉스 자사주 매입도 끝 이제 누가 수급을 받쳐주나</a> <span style="color:var(--muted)">· 연합인포맥스</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-22</span> <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE9la3pTT2h2Q1F6alFXaldhSlFoUENYeWdLRXZ5ck5uT0p0LVNybjFyV2dBZ3FuYVVXb0dYdTllS21VYXlvR3piU1g5aTJtajNLRGhqdWlRQlQzeEFqX1l6YnlER08?oc=5" target="_blank" rel="noopener">SK하이닉스, 정부와 손잡고 소부장 협력사에 2조 금융 지원</a> <span style="color:var(--muted)">· 주간동아</span></h3></div></li><li><div><h3><span class="chip down">🔴 악재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-22</span> <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CX2ZCbnlISW1waDU5V0ctT3h3YjJ0VDZtRERQUHJVT214eDNIZ1hWM3dsRUh6X3REaTdCSnRyeHV6Zmp6Tl9HWVl0Mk5rTVFzZ0JkTkh5elhQbDF1RmJMaC1tOVI?oc=5" target="_blank" rel="noopener">‘솔리다임 상장 논란’ SK하이닉스, 외국인 지분율 50% 미만으로 급감</a> <span style="color:var(--muted)">· 주간동아</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OV09uTTRXLUVDbTNXTlVXam5acHplNHB1UDhjLUdFMm9DbG9Xa3BDT3ZPa0JKN2tJMmhGM2VBVElpOVhaMEpMajFlUUdfR1VDUTVpT2hwOHJoZw?oc=5" target="_blank" rel="noopener">&quot;정말 피가 마릅니다&quot;…SK하이닉스 폭등에도 개미들은 &#x27;한숨&#x27; [분석+]</a> <span style="color:var(--muted)">· 한국경제</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE45b2RyRDhZUjNCSFctTW9BODRBbjlHamh3WlNjRFRES0pjVk1KNFMtN05QN2RQbVQ3ZWZmRkNPZVlDMFRIcVlXd0lla2lVcUFzQ2lHNWkwUDl1d0RJS3Y2VHA3clN2aHpPMzE2VHNQWTZ4Rl9qcmpB?oc=5" target="_blank" rel="noopener">SK하이닉스 ADR, 오늘 장전 거래에서 왜 오르나?</a> <span style="color:var(--muted)">· Investing.com 한국어</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BVmVzbTBQMVVyR2R3VVJJdXB5NE91UmF2ZkcwTXVNcFJHYV82cmpxUkFiT1o4aThaSXJRZHRvMWNNTXcyQmlMd1c4c1BjQ1Y4dHhnbjBKSmVTcmNNSFlxS3FZS00?oc=5" target="_blank" rel="noopener">로이터 &quot;삼성전자·SK하이닉스, 中 공장 낸드 생산 공정 고도화&quot;</a> <span style="color:var(--muted)">· 매일일보</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OOG5wdVlWZE84MWJkUXYyQlM2bnhKdk96N0tLTEZLUUlMSWsxSzBBWVBuUFhJenZZWlI2SzE2V3o5Qk93alhjYmFSZGJfTTcwV3pRTDZPUENxMkZWMjdHc9IBYEFVX3lxTE9OOG5wdVlWZE84MWJkUXYyQlM2bnhKdk96N0tLTEZLUUlMSWsxSzBBWVBuUFhJenZZWlI2SzE2V3o5Qk93alhjYmFSZGJfTTcwV3pRTDZPUENxMkZWMjdHcw?oc=5" target="_blank" rel="noopener">반도체의 날, 권재순 SK하이닉스 부사장-김영부 큐알티 회장 동탑산업훈장</a> <span style="color:var(--muted)">· 연합뉴스</span></h3></div></li><li><div><h3><span class="chip down">🔴 악재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIY2VlckpBcXdJNVdYUHI4Y0FfajFuRWwtMlJtd01tcUVQZUVwNFBlOEtBUzhBX2c3QThVUXlFRUxERnlRTVI3MDhkYzludDFLS2RTbUQ5T3hfbzhTRWFSUVR5MEc?oc=5" target="_blank" rel="noopener">‘77조 신기록’ SK하이닉스…HBM4 독주엔 ‘경고등’</a> <span style="color:var(--muted)">· 서울경제TV</span></h3></div></li><li><div><h3><span class="chip flat">⚪ 중립</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oWVl5X1J4VmlmRjdfZVlJazZtbmU4U3ZFWkdIZEVXY3pNMG11WU5qMlB5TUpZc0h1NmFHUmVhQUR6ajI0c3NQSnE0OVRFQQ?oc=5" target="_blank" rel="noopener">SK하이닉스, 발열 잡는 &#x27;iHBM&#x27; 공급망 협의 착수…HBM 선두 수성 승부수</a> <span style="color:var(--muted)">· 전자신문</span></h3></div></li><li><div><h3><span class="chip up">🟢 호재</span> <span class="chip flat" style="font-variant-numeric:tabular-nums">2026-10-21</span> <a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qNk1iUk8yelE3ZzJkZGo3NndMWm9zSW9qN29qSXJjaWxuQlVhQW1Pd0ZYWTVQbmFYUHpWRmtHQzFNNWpsWXVhT1ZUaFVQZ3EzaEhteE5USGx3WGdHN2ZZQ9IBeEFVX3lxTE1GVk92TEhsYjB6TkdfcWpZSUlHdG5la0xEYkJXQlNEX0xKQXFKMTJPYlV2dXFXWlNfemZYckstMVZnODY3MzA5ai01bHJoU0FQSkl1UGZ0Y3FObG1VZDhSdlhGaDd4NlZWdW1peTNrNVlFbTFqZm96Zg?oc=5" target="_blank" rel="noopener">[속보]삼성전자 5.7% SK하이닉스 5.8% 상승 마감</a> <span style="color:var(--muted)">· 뉴시스</span></h3></div></li></ol>
 <p style="color:var(--muted);font-size:12px;margin-top:6px">※ 구글 뉴스에서 'SK하이닉스' 최신 기사를 자동 수집해 날짜순으로 표시합니다. 신호등(🟢 호재 / 🔴 악재 / ⚪ 중립)은 제목 키워드 기반 자동 분류로 참고용입니다. 웹 페이지에서는 실시간 갱신됩니다.</p>
 </section>
 
@@ -1165,19 +1165,19 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <section>
 <h2><span class="no">08</span>투자 판단</h2>
 <div class="verdict" style="border-left-color:var(--neutral)">
-  <div class="head">의견: <em style="color:var(--neutral)">중립 (유지)</em> <small>· 확정 판정(10/21 종가 기준) 중립 · 확정 종가 129.4만(+5.81%) · 다음 확정은 10/22 종가</small></div>
+  <div class="head">의견: <em style="color:var(--neutral)">중립 (유지)</em> <small>· 확정 판정(10/21 종가 기준) 중립 · 전일 종가 129.4만(+5.81%) · 아침 리포트는 확정 판정만 인용</small></div>
   <div class="tablewrap" style="margin-bottom:10px">
   <table class="factors">
     <tr><th>요소</th><th>방향</th><th>근거</th></tr>
     <tr><td>① 추세/모멘텀</td><td class="num" style="color:var(--down)">부정(완화 조짐)</td><td>종가 기준 10/20 -4.23% 이후 10/21 +5.81% 반등 마감으로 낙폭을 모두 되돌렸고(10/19 종가 127.7만 대비 +1.3%) KDJ는 K&gt;D(격차 +1.7)·DMI 격차는 -26.0으로 축소됐습니다. 다만 종가 확정 MACD 시그널 하회(히스토그램 -5.13만)·-DI 우위로 종가 기준 반전 신호는 미확인(10/2 종가 대비 -29.7%)</td></tr>
     <tr><td>② 밸류에이션 갭</td><td class="num" style="color:var(--up)">상승여력</td><td>최근 1개월 6곳 평균 목표가 352.3만원 대비 10/21 종가 129.4만원 — 괴리율 <strong>+172.3%</strong>(10/20 종가 122.3만원 기준 +188.1%)</td></tr>
-    <tr><td>③ 촉매</td><td class="num" style="color:var(--neutral)">중립(확정)</td><td>확정 판정 시점(10/21 종가) 마감 후 Top10(같은 내용 기사는 1건으로 묶은 뒤) 자동분류는 🟢 호재 4건(Investing.com "주가 오늘 급등한 이유는?"·머니투데이 "삼성전자·SK하이닉스 강세…증권가 목표가·투자의견 고수"·글로벌이코노믹 "[특징주] 행동주의 펀드 저평가 제기에 동반 '강세'"·연합인포맥스 "마이크론 파업 예고…반사이익 기대")·🔴 악재 1건(글로벌이코노믹 "'쪼개기 논란' 솔리다임 상장 제동…SK하이닉스 주주보호 '시험대'")·⚪ 중립 5건입니다. 호재 중 두 건은 가격 결과 기사이고 나머지는 증권가 목표가 유지와 경쟁사 파업 예고 반사이익 기대(헤드라인 기준)입니다. 반면 솔리다임 상장 제동·주주보호, 안성 상생협약 반발 확산, HBM4 우위 약화 같은 우려성 기사도 있어 호재·악재가 엇갈린다고 보고 ③은 중립(확정)으로 판정합니다. ③을 긍정으로 올려도 ①이 부정이라 매수 조건(부정 0개)은 충족되지 않습니다(모두 헤드라인만 확인).</td></tr>
+    <tr><td>③ 촉매</td><td class="num" style="color:var(--neutral)">중립(확정 유지)</td><td>확정 판정 시점(10/21 종가) 중립(확정)을 유지했습니다. 개장 전(09:13) Top10(같은 내용 기사는 1건으로 묶은 뒤) 자동분류는 🟢 호재 1건(뉴시스 "[속보]삼성전자 5.7% SK하이닉스 5.8% 상승 마감"; 가격 결과 기사)·🔴 악재 2건(주간동아 "'솔리다임 상장 논란' SK하이닉스, 외국인 지분율 50% 미만으로 급감"·서울경제TV "'77조 신기록' SK하이닉스…HBM4 독주엔 '경고등'")·⚪ 중립 7건입니다. 소부장 협력사 2조 금융 지원, iHBM 공급망 협의 착수, 중국 공장 낸드 공정 고도화 같은 사업 소식이 있는 반면, 자사주 매입 종료 후 수급 공백과 외국인 지분율 급감, HBM4 우위 약화 우려도 있어 호재·악재가 엇갈립니다. 이에 확정 ③은 바꾸지 않고 개장 후 재확인합니다(모두 헤드라인만 확인, 자사주 매입 규모·외국인 지분율 수치·HBM4 점유율은 확인 불가).</td></tr>
     <tr><td>④ 산업 사이클</td><td class="num" style="color:var(--up)">개선</td><td>HBM4 공급가 급등 확정·메모리 재고 부족 구조 유지, 3Q26 이익 전망 상향 흐름 지속(메리츠 80조 전망 보도)</td></tr>
   </table>
   </div>
   <ul>
     <li><strong>종합(10/21 종가 확정): 긍정 2개(②④)·부정 1개(①)·중립 1개(③) → 중립 유지(확정).</strong> 판정 규칙(2026-10-07 명문화, 2026-10-13 개정)의 표를 현재 판정(10/20 확정 중립)에 10/21 종가 데이터로 적용한 결과입니다. 중립 상태의 진입 조건은 매수 = 긍정 3개 이상·부정 0개, 매도 = 부정 3개 이상·긍정 0개이며 둘 다 미충족입니다. 다음 확정은 10/22 종가입니다.</li>
-    <li><strong>10/21 확정:</strong> 시가 126.0만→고가 132.9만→저가 125.4만→종가 129.4만(+5.81%, quote.json 15:30 확정). <strong>전일 확정(10/20):</strong> 종가 122.3만(-4.23%).</li>
+    <li><strong>10/21 확정:</strong> 시가 126.0만→고가 132.9만→저가 125.4만→종가 129.4만(+5.81%, quote.json 15:30 확정). <strong>오늘(10/22):</strong> 정규장 시세 확인 불가(개장 전 야간선물 -0.53%).</li>
     <li><strong>매수 복귀 조건:</strong> 중립 상태에서 매수 진입은 긍정 3개 이상·부정 0개가 필요합니다. 현재 긍정이 2개(②④)이고 ①이 부정(③ 중립)이라 미충족이며, ①이 종가 기준 DMI 재역전·MACD 시그널 상회로 중립 이상이 되고 ③이 긍정으로 올라와야 합니다. <strong>매도 전환 조건:</strong> 부정 3개 이상·긍정 0개(현재 부정 1·긍정 2로 해당 없음; ②④가 모두 긍정에서 이탈해야 함).</li>
     <li><strong>확정 판정은 종가 기준으로만 변경합니다.</strong> 장중에는 같은 표를 적용한 장중 판정(잠정)을 병기합니다.</li>
   </ul>
