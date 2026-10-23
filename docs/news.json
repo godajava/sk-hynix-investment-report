@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-23 14:44 KST",
+ "fetchedAt": "2026-10-23 15:52 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 2%대 상승…솔리다임 IPO 검토 중단 영향 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pelBoazJGRUlUWjJkeWVyQW15RFRTdkZHTWExUG81U25fYU9UTzk2MFMyakRabGVOWmlVaE9RdHhNWVNMYVZpQ2VBWlRYMjhWYnlBdFFjcDZkNkZ5WTlwQTZ1X21uS2gt0gFuQVVfeXFMTVFkQzVoZ2ItMndPMVNUQmFZSk44eU9UM01VRlA2M3hIN1U1QkhpalFIcTlqTmpLMk9ucVFiWlZVZXlaUEdvVE5OT1JJQlBSQkI1ZjNqb09UX2MybkRuRjhNU19jVC1ZejRzeEVJV1E?oc=5",
-   "source": "머니투데이",
+   "title": "SK하이닉스, 솔라다임 IPO 검토 철회 外",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rZElnVUNZclZ1STRodzB6eVo5MjJGbmotSnJEVF9rLXpoWDNzUUhZOGdHcERRLWpDZHN1R3ZQcWd1OGR2OXZTUDBaNVl5LTZv?oc=5",
+   "source": "톱데일리",
    "date": "2026-10-23",
-   "datetime": "2026-10-23 13:20 KST",
+   "datetime": "2026-10-23 15:21 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,11 +16,23 @@
    }
   },
   {
+   "title": "주주 반발에 SK하이닉스, 솔리다임 미국 상장 중단…“재추진 여지 있다”",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KUXNLSEVmcjQ2djA3MHZLZHFoSDhQU1B6VTNhRTRkR05LSDVCNmNmNVp4cGQ2eERHRzJOMEIzYnp1Y1ZWczYxMmpySzdEN08xODJWOXVB?oc=5",
+   "source": "중앙일보",
+   "date": "2026-10-23",
+   "datetime": "2026-10-23 14:46 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
    "title": "골드만삭스 \"SK하이닉스 ADR 유통물량 확대시 나스닥 100 편입 가능\"",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QajZ1QWl4YzB6RXhIQUNqMEtTNnVTT1hJOWpzTUlucWRHRFcxZzFpcXVwS2VBdXNQMllWUFpiblhjTENtOG5qZ3RLZ0ZwVkhac2ptRnh3ZDlDZEIyMU4zLXE4Z0NoajhINjVXY1ZNRFVrN2VR?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OVFFnbEJJd2pEc25XZHFabjdvQVIteXFVTE1HdFpoamwtam9pSVdnUkZzcjNPV2E1RUtQUEUtY00tUXo4dWJIS0V5cm1lYkkyVWxzZ2tYSXBYWVA5YmM1X3R4Njdqa0w4eGc3eUN5VHg?oc=5",
    "source": "연합인포맥스",
    "date": "2026-10-23",
-   "datetime": "2026-10-23 11:21 KST",
+   "datetime": "2026-10-23 11:12 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -109,18 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, `반도체의 날` 동탑산업훈장 등 5관왕",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmUWswRG1rNzFaYWN3eDRHT0NZYnlBVFBNUnJkaVUxMDlqc3FQQ3dxUXQyMGk4RWYzX0trSkdHcEp0UW92aXlkelFXY3FDLXZjcC1RbjlLbG8wcmhQTW9nem9EUEQ?oc=5",
-   "source": "디지털데일리",
-   "date": "2026-10-22",
-   "datetime": "2026-10-22 15:53 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
