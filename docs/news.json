@@ -1,18 +1,18 @@
 {
- "fetchedAt": "2026-10-23 12:44 KST",
+ "fetchedAt": "2026-10-23 13:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "‘중복 상장’ 논란에…SK하이닉스 “솔리다임, IPO 검토 중단”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vbUxDUmx3UFc2YlF3M2hMaWxveDY3ZEdSelVQUFFaZjlrSS04dnZUcHVvOVhBRURpYm9GaE5NOXBLNWhRbW9kZGtfN1hQc2NZSF9xelpoU0lseVU?oc=5",
-   "source": "KBS 뉴스",
+   "title": "SK하이닉스, 2%대 상승…솔리다임 IPO 검토 중단 영향 - 머니투데이",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pelBoazJGRUlUWjJkeWVyQW15RFRTdkZHTWExUG81U25fYU9UTzk2MFMyakRabGVOWmlVaE9RdHhNWVNMYVZpQ2VBWlRYMjhWYnlBdFFjcDZkNkZ5WTlwQTZ1X21uS2gt0gFuQVVfeXFMTVFkQzVoZ2ItMndPMVNUQmFZSk44eU9UM01VRlA2M3hIN1U1QkhpalFIcTlqTmpLMk9ucVFiWlZVZXlaUEdvVE5OT1JJQlBSQkI1ZjNqb09UX2MybkRuRjhNU19jVC1ZejRzeEVJV1E?oc=5",
+   "source": "머니투데이",
    "date": "2026-10-23",
-   "datetime": "2026-10-23 12:06 KST",
+   "datetime": "2026-10-23 13:20 KST",
    "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
