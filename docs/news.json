@@ -1,18 +1,30 @@
 {
- "fetchedAt": "2026-10-23 09:08 KST",
+ "fetchedAt": "2026-10-23 09:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 솔리다임 IPO 검토 중단...“시장 여건 고려”",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5andXY18wU0VPMUtSV0daeGMzRXZvNVNTNzZYb19rSGpnZTY4VHNKbGVRcm42NmVwQ05oQmViQ19ReEY4WklSUkVmZENxd3NCUlB1WGg0Wk9sRjY1NTNkd0VhRQ?oc=5",
+   "title": "솔리다임 상장 접은 SK하이닉스…한 달 만의 ‘유턴’ 왜",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HUmVOclhSZUtDTkp6aVNHYzUxbkg3TDY3dl93Z0xqMTVoaVJudUZIQk5OTlF1enM3V3Q2WXZVWnlZZTBraWxHOE9nc2RTZ1oxdmZjMF9IUkt3WE4zVnZ1MXdR?oc=5",
    "source": "에너지경제신문",
    "date": "2026-10-23",
-   "datetime": "2026-10-23 09:00 KST",
+   "datetime": "2026-10-23 09:40 KST",
    "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "같은 SK하이닉스인데 미국선 47% 더 비싸…“ADR 전환 한도 늘려야” [오늘 나온 보고서]",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFakM1eGx0elNfamlJOVpodFYyVjJ6bU4wdTJpRklVWXA4cFEtN0o2NEhnQlBhdnBxLVEzV1BOZEJneFVsUjZKQi14QzFMVjhCVFE?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-10-23",
+   "datetime": "2026-10-23 09:18 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -109,18 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "KIC 주식운용 부장, SK하이닉스로…지방 이전론에 커지는 인력 유출 우려",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdzJ5QXhZTmxIWWNORV95RU85Z2FQSEVRQkZEd0hHNWtPRnQ3UU5OR3VuZEpPUmFoUGJ0YWFwQXk3YTB4a2tUZXBrZTAxZGoxNEhOVUJOZEJGYTlWVG1kQkZXakRJM3Flajh5V1JqbW5XZTBISEtDQ0g5ZU5nekowR0dnMA?oc=5",
-   "source": "인베스트조선",
-   "date": "2026-10-22",
-   "datetime": "2026-10-22 14:27 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
    }
   }
  ]
