@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-26 12:44 KST",
+ "fetchedAt": "2026-10-26 13:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[속보]SK하이닉스, 차익 16조원 ‘특별 배당’ 추진설에 “확정된 것 없다”",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1SHlpTTVDeHFpbWtPX2RqeHJVVDNwOEFPSXdPUlZlVVA3d3laZTZmX1I0NVJkMnkxZ2w4aVB0cFgtMkkwZWl5eG1mLU82eTZk?oc=5",
-   "source": "문화일보",
+   "title": "SK하이닉스, 16조원 특별배당 보도에 “확정 사항 없어…28일 발표”",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hS2RneE5RazBVWkVGUzRRVTQzb0ZtclV4dGdwREhJQ3kzQklfd0JlQ2hQZkxzd1l4V053V0I5eFBGbV93aUFjc29VS2QzUQ?oc=5",
+   "source": "전자신문",
    "date": "2026-10-26",
-   "datetime": "2026-10-26 11:48 KST",
+   "datetime": "2026-10-26 12:28 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -68,7 +68,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44c25YUzZIaHE1QjF4anhkbGV5cjljOFlNWm5ONWZSaENIVDhxSWpET3pTZEJtV2ZFaXk5NWxZYW85N0lIMHp4cjhEaFZCUDJvbXZUNUFxM0lUWFgwUjJiR213?oc=5",
    "source": "이코노미스트",
    "date": "2026-10-26",
-   "datetime": "2026-10-26 07:03 KST",
+   "datetime": "2026-10-26 07:07 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
