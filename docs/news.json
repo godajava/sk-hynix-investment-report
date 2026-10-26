@@ -1,14 +1,26 @@
 {
- "fetchedAt": "2026-10-26 13:44 KST",
+ "fetchedAt": "2026-10-26 14:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 16조원 특별배당 보도에 “확정 사항 없어…28일 발표”",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hS2RneE5RazBVWkVGUzRRVTQzb0ZtclV4dGdwREhJQ3kzQklfd0JlQ2hQZkxzd1l4V053V0I5eFBGbV93aUFjc29VS2QzUQ?oc=5",
-   "source": "전자신문",
+   "title": "SK하이닉스, ‘초심 Crafted by SK hynix’ 전시 개최… 관람객과 함께 반도체 위에 초심을 새기다",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHeGU0NmVLUzM0TEswVVdzMVQyZEctNzFMZWN4TUxEaXlnd3BQLXY2elBoNXV0LTFtdElNaE8yNVh0V1NOUFdObnExN01Uc0V2Uk9aNGFacFIxeVhlUmN3eDcyWUtOWGtF?oc=5",
+   "source": "SK hynix",
    "date": "2026-10-26",
-   "datetime": "2026-10-26 12:28 KST",
+   "datetime": "2026-10-26 14:24 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 추가 주주환원안 이사회 거쳐 발표… 키옥시아 차익 특별배당엔 “미확정” - 조선비즈",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDhGM1Y0MnRwZXF0SHFIVURmOVh4RTR6T29WN0t5cXVNWTZWX25FN3RoeVA5NUZRcVRZWFJ3R3pyRm5Eb1RWWWk5SnZfMFNMOXhIdXBkOFFSVE9SYkFWX1pUeXAwZjlCSEtFX0FfT2ZxekZKSU9OV2hLNjV3b1dzdUdn0gGWAUFVX3lxTFBmcVZMWTVEbTlGRXZtejZmZlFpRnhDQWMzVlhsUEVSb0w4QWdVbDliTTBYWDVBRG9zYmdCVDUtXzNwdkxoMGEzNWZGTUl5UVdWOG1Kclp0ci1kdlJkb0NLTWhpek1EME5GODlzeEdkdVVrMGpKNVNGQ3h0Ukd5Sk1yRnF3RzVLSTRvSm5kOWJ2NmlMRmhmQQ?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-10-26",
+   "datetime": "2026-10-26 13:38 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -105,18 +117,6 @@
    "source": "용인신문",
    "date": "2026-10-25",
    "datetime": "2026-10-25 12:52 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "\"최태원 회장 큰 결단\"…속타던 SK하이닉스 개미들 '환호' [강경주의 테크X]",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HT1VGWkUtOHNDWXhKSzIzcnlsbUU3Nm1QWlJUNGJYYW1kTjRmdnQ4U3NQenR5UlZPTmNJOG5yYU54cko4VGlfeHA5ZVpCNnZWZHJZUFZHUjFqdw?oc=5",
-   "source": "한국경제",
-   "date": "2026-10-24",
-   "datetime": "2026-10-24 09:30 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
