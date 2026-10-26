@@ -1,14 +1,26 @@
 {
- "fetchedAt": "2026-10-26 14:44 KST",
+ "fetchedAt": "2026-10-26 15:52 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, ‘초심 Crafted by SK hynix’ 전시 개최… 관람객과 함께 반도체 위에 초심을 새기다",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHeGU0NmVLUzM0TEswVVdzMVQyZEctNzFMZWN4TUxEaXlnd3BQLXY2elBoNXV0LTFtdElNaE8yNVh0V1NOUFdObnExN01Uc0V2Uk9aNGFacFIxeVhlUmN3eDcyWUtOWGtF?oc=5",
-   "source": "SK hynix",
+   "title": "SK하이닉스 추가 주주환원과 브라질 재정 리스크까지 이시각 주요뉴스",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSUh3bF9rbUtwQWRraGhLNWNKNEw1VEdYdTBqV0JjUWF6UVZCNUhKMkZqc1IyT1pTN3RyakJyWjZGbTRLOUFBWHA0UEJWbktwdkNyVHBKQzlLbkZqT3VtdjVtaGFLVFg5SlNMeE5zaELSAXRBVV95cUxOMEFBdEM0dXNpcTR2azVJY2JSMVh3ZWxTNEhLUXRGNWhjT0RVeDhvT3pLMGJ4ZmpCaVJQOTZPdGRUeWRIRXRZVXJxM2puS1RLYTNmSGc3VmQtTWhoQzVaeXZNMzVFdGNxRTJPanhXYnJvc0Y5dw?oc=5",
+   "source": "연합인포맥스",
    "date": "2026-10-26",
-   "datetime": "2026-10-26 14:24 KST",
+   "datetime": "2026-10-26 15:44 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스, 여의도서 ’초심’ 전시…43년 기술 개발 역사 조명 By EBN",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jY2hobU5yYnc1UGpzajFHLW56U0JxeW8zOFJzYVZjU0RKbW95WHJHaHZJc0lTYm96Q1NjSmlpRjBhUWVxQml3VG5ZRk11TEZQQ0RNR3dUblFISWdLSE9aOUZfM2xaTklaSDR3bjBBbzY?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-10-26",
+   "datetime": "2026-10-26 15:35 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -16,11 +28,11 @@
    }
   },
   {
-   "title": "SK하이닉스, 추가 주주환원안 이사회 거쳐 발표… 키옥시아 차익 특별배당엔 “미확정” - 조선비즈",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZDhGM1Y0MnRwZXF0SHFIVURmOVh4RTR6T29WN0t5cXVNWTZWX25FN3RoeVA5NUZRcVRZWFJ3R3pyRm5Eb1RWWWk5SnZfMFNMOXhIdXBkOFFSVE9SYkFWX1pUeXAwZjlCSEtFX0FfT2ZxekZKSU9OV2hLNjV3b1dzdUdn0gGWAUFVX3lxTFBmcVZMWTVEbTlGRXZtejZmZlFpRnhDQWMzVlhsUEVSb0w4QWdVbDliTTBYWDVBRG9zYmdCVDUtXzNwdkxoMGEzNWZGTUl5UVdWOG1Kclp0ci1kdlJkb0NLTWhpek1EME5GODlzeEdkdVVrMGpKNVNGQ3h0Ukd5Sk1yRnF3RzVLSTRvSm5kOWJ2NmlMRmhmQQ?oc=5",
-   "source": "Chosunbiz",
+   "title": "美 상장 SK하이닉스 레버리지 ETF 2종, 출시 3개월 만에 상장폐지",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PRVZsN2ZKT0R6WXhxYXhucjd0M1NBcWNfdlZkd25Cdmk0eURFNVVTcWprTnRVU3laWHdycVJiNUN6TFhIMGxSSUo5c2JTdWQ2?oc=5",
+   "source": "블루밍비트",
    "date": "2026-10-26",
-   "datetime": "2026-10-26 13:38 KST",
+   "datetime": "2026-10-26 14:46 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -105,18 +117,6 @@
    "source": "조선일보",
    "date": "2026-10-25",
    "datetime": "2026-10-25 17:04 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "안성 정치권·경기도 ‘SK하이닉스’ 압박",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93V2I4MkF5a3daMkRTN3NDTXpZTURhU3J2Z1FRZ1F3LWpEQ2tKZW9VNXJVbzdsTmxvN3ROdm1nQzVFcFludEtEN1pqaGZISVdyQkhNWmV6cURjcGx0S2pzbDZWcFQ?oc=5",
-   "source": "용인신문",
-   "date": "2026-10-25",
-   "datetime": "2026-10-25 12:52 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
