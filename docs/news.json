@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-10-26 10:44 KST",
+ "fetchedAt": "2026-10-26 11:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[오늘의 삼전닉스] SK하이닉스 추가 16조 주주환원 기대감, 급등 신호탄?",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QZ29KWU0xOUtRa2tKSm9ZOWJmMk1Ial9pdmRlMWhXQ3hhLW9DUXhFdUJ2ZG1US1d2ZXJHQzVPY2RIVVhSMzlCSkw3YzJJUmxnUlc2aDVTUEZzLUE3ODlKbUVR?oc=5",
+   "source": "이코노미스트",
+   "date": "2026-10-26",
+   "datetime": "2026-10-26 11:29 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "SK하이닉스, 매도 우위 속 더블바텀 형성 중: 실시간 업데이트",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aZUowS3ZDVDByek01c3owUXlQWUFSZFQxTWlZdGxTeXltNWdxZ01naHZLLXFNWmhqbHZVWDFiRkFFUGZtalRiOWR5bTdPci14RnBnUE1KU2xGa0lHVnhucmE4UXFJdmNsdkhybjVUd1EwUDMyajh3?oc=5",
@@ -16,18 +28,6 @@
    }
   },
   {
-   "title": "[특징주] SK하이닉스, \"약 16조원 특별 배당\" 보도.. '강세'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHY2czgzZzMzdEhtOVZYS0x2Q00tamcwNlI0THRIUFEtcWZac1dnZGdjVnNyNVZVaUQ5Tkw5dWV2SXFBenZLUzAyOGlLUTBzc2pXamQ3YmdXQmVya2lkTWVnZXNXNk1rTVpFSVNUU0E5bG9VQnJINkpFdG5JcFk1QVF2VzNwMW9p?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-26",
-   "datetime": "2026-10-26 09:29 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
    "title": "[특징주] '솔리다임 상장 검토 철회' SK하이닉스, 장초반 2%대 상승",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IRmZXbHNSNWdaNW9HRHdHOFl2S09UMDExTXk0Vkg1aEkyWW9tVW83LUcxbndacUlmNDM3VzNCQnB4OUFPYl8wX0hicFV3bG5DUVplR05lWlk4SERudHY5RtIBYEFVX3lxTE5IRmZXbHNSNWdaNW9HRHdHOFl2S09UMDExTXk0Vkg1aEkyWW9tVW83LUcxbndacUlmNDM3VzNCQnB4OUFPYl8wX0hicFV3bG5DUVplR05lWlk4SERudHY5Rg?oc=5",
    "source": "연합뉴스",
@@ -37,6 +37,18 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
+   }
+  },
+  {
+   "title": "AI 거품이라는데…SK하이닉스가 54조 쏟아붓는 이유",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ub3RONmJNNW1zdmFrTV9tR2dLcFFtcHlZT3V6cy05NXU1QkZSWW1aTVBqZkM2ZVFPUTFMb29uaEZSYnhYQjA4RU1tb2RJeWxIeTZ4S2NxOUFCU1U5amtzQ2xn?oc=5",
+   "source": "이코노미스트",
+   "date": "2026-10-26",
+   "datetime": "2026-10-26 08:02 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -105,18 +117,6 @@
    "source": "한국경제",
    "date": "2026-10-24",
    "datetime": "2026-10-24 09:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "솔리다임 미국 상장 철회...하이닉스 \"시장여건 고려\"",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDaU1BUVRZekVUMklVYmxYUjR0V2xPZE9oSkRKeVI5a2RfTVM5YXJFU1hISXA2UTlLV3BqV0V5LS1XeXFiRFB5UG9Pd0JwX1h4SzdDRG1kRS1TZnZTWlE?oc=5",
-   "source": "YTN",
-   "date": "2026-10-23",
-   "datetime": "2026-10-23 22:04 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
