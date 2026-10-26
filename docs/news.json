@@ -1,18 +1,18 @@
 {
- "fetchedAt": "2026-10-26 11:44 KST",
+ "fetchedAt": "2026-10-26 12:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[오늘의 삼전닉스] SK하이닉스 추가 16조 주주환원 기대감, 급등 신호탄?",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QZ29KWU0xOUtRa2tKSm9ZOWJmMk1Ial9pdmRlMWhXQ3hhLW9DUXhFdUJ2ZG1US1d2ZXJHQzVPY2RIVVhSMzlCSkw3YzJJUmxnUlc2aDVTUEZzLUE3ODlKbUVR?oc=5",
-   "source": "이코노미스트",
+   "title": "[속보]SK하이닉스, 차익 16조원 ‘특별 배당’ 추진설에 “확정된 것 없다”",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1SHlpTTVDeHFpbWtPX2RqeHJVVDNwOEFPSXdPUlZlVVA3d3laZTZmX1I0NVJkMnkxZ2w4aVB0cFgtMkkwZWl5eG1mLU82eTZk?oc=5",
+   "source": "문화일보",
    "date": "2026-10-26",
-   "datetime": "2026-10-26 11:29 KST",
+   "datetime": "2026-10-26 11:48 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -33,6 +33,18 @@
    "source": "연합뉴스",
    "date": "2026-10-26",
    "datetime": "2026-10-26 09:21 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[특징주] '삼전닉스' 프리마켓 동반 상승…SK하이닉스 1%↑",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGRkkzRnQ1VEhCOUdwTUpxUlBPaldJTVcxVU9NRTlXRVZjelc2RTRibHE3eWxTUW9qU3NzZUhaYVYwVGFvSjBmMWN6bnl0OHZMVG1GUVZ5YXFfZVdt?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-26",
+   "datetime": "2026-10-26 08:17 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -93,18 +105,6 @@
    "source": "용인신문",
    "date": "2026-10-25",
    "datetime": "2026-10-25 12:52 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "고점 대비 56% 급락 SK하이닉스…이번주 실적발표 반등 계기되나",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByNFpoaEtoczFYN0NiUUdmX195OElwZ0M3VTE1bG9kTTBxcDFqZnNsTVg1SC1PN1NhZ3lUcWtxOW9tSDJGcWJkYjJfRk9JRElMTzNjNHUzMFJyd0l6a2xmZNIBYEFVX3lxTFByNFpoaEtoczFYN0NiUUdmX195OElwZ0M3VTE1bG9kTTBxcDFqZnNsTVg1SC1PN1NhZ3lUcWtxOW9tSDJGcWJkYjJfRk9JRElMTzNjNHUzMFJyd0l6a2xmZA?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-10-25",
-   "datetime": "2026-10-25 06:05 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
