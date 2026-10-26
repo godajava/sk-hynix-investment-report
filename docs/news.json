@@ -1,18 +1,42 @@
 {
- "fetchedAt": "2026-10-26 15:52 KST",
+ "fetchedAt": "2026-10-26 23:11 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스 추가 주주환원과 브라질 재정 리스크까지 이시각 주요뉴스",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSUh3bF9rbUtwQWRraGhLNWNKNEw1VEdYdTBqV0JjUWF6UVZCNUhKMkZqc1IyT1pTN3RyakJyWjZGbTRLOUFBWHA0UEJWbktwdkNyVHBKQzlLbkZqT3VtdjVtaGFLVFg5SlNMeE5zaELSAXRBVV95cUxOMEFBdEM0dXNpcTR2azVJY2JSMVh3ZWxTNEhLUXRGNWhjT0RVeDhvT3pLMGJ4ZmpCaVJQOTZPdGRUeWRIRXRZVXJxM2puS1RLYTNmSGc3VmQtTWhoQzVaeXZNMzVFdGNxRTJPanhXYnJvc0Y5dw?oc=5",
-   "source": "연합인포맥스",
+   "title": "SK하이닉스, 내달 5일 자사주 40조 태운다…추가 환원 주목",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9nb0dPbFlOUFI2U1JGS3Z2R1NMSFFQbDhON09OMXNiNzdHZzdkbWtIU0J5YXhaZ290U1VHdmR4QjJ0YzMwRkJBbWpMWnlUOHNEWUVWMVJHZTBaZ2V2?oc=5",
+   "source": "뉴스핌",
    "date": "2026-10-26",
-   "datetime": "2026-10-26 15:44 KST",
+   "datetime": "2026-10-26 18:29 KST",
    "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 여의도 IFC몰서 기업광고 캠페인 단행",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QbXVPOHNkQnU2Yl9KVTdHRXB1M0ItSkwwdFZaRE1ZNWN3bUYwV3BxMnJMNlNIMHRFTS11d1FaUk9FSzh3eDUtb3U1MXFLeDY5ZExxM2RWQmRKZVVMdmE1RklhZmQ?oc=5",
+   "source": "매일일보",
+   "date": "2026-10-26",
+   "datetime": "2026-10-26 17:26 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "HD현대, SK하이닉스 전력기기 수주 릴레이",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE52UTNhYUMzRFJscW8zME1MMXh5UmlqdkhSa00wa29jWDJqc0ViNVVsSlVwa1Z4eU5jQklSQ09HNUtnVGRBZDZ6OGstRnBYTUp2a1NaMEhQN2JvdjdlbUl5WlhZV2d6Zw?oc=5",
+   "source": "디일렉",
+   "date": "2026-10-26",
+   "datetime": "2026-10-26 16:53 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
    }
   },
   {
@@ -28,11 +52,23 @@
    }
   },
   {
-   "title": "美 상장 SK하이닉스 레버리지 ETF 2종, 출시 3개월 만에 상장폐지",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PRVZsN2ZKT0R6WXhxYXhucjd0M1NBcWNfdlZkd25Cdmk0eURFNVVTcWprTnRVU3laWHdycVJiNUN6TFhIMGxSSUo5c2JTdWQ2?oc=5",
-   "source": "블루밍비트",
+   "title": "SK하이닉스 미국 레버리지 ETF, 3개월 만에 청산",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SWnpwM3B1ZFdveHdIckxubWQ1TUhMZFpWaUZ4b1NURk1SazdVLWQtalhORmxwY1YtbDhxQ3owMDdWSEtLTWNUSGtzYzRnUVNhY0NPeWJqaWt0OG9fM2RQOUhzVDJkVXM?oc=5",
+   "source": "M이코노미뉴스",
    "date": "2026-10-26",
-   "datetime": "2026-10-26 14:46 KST",
+   "datetime": "2026-10-26 15:26 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성·SK하이닉스 곁으로…도쿄오카, 시총 스미토모화학 제쳤다",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MaGhhZWttMmk3bmhCNDIyOXRpY3FobWFzVXd3azVpa01SejNvbExaMkdjNHNMRktlQlJBcV9mYlV4TFZOaF9iUHd3dzdfc1FZOWl0QlhWVndEdw?oc=5",
+   "source": "한국경제",
+   "date": "2026-10-26",
+   "datetime": "2026-10-26 12:00 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -81,42 +117,6 @@
    "source": "이코노미스트",
    "date": "2026-10-26",
    "datetime": "2026-10-26 08:02 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스에 밀린 삼성의 반격…HBM4 판 뒤집을 ‘비장의 카드’",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44c25YUzZIaHE1QjF4anhkbGV5cjljOFlNWm5ONWZSaENIVDhxSWpET3pTZEJtV2ZFaXk5NWxZYW85N0lIMHp4cjhEaFZCUDJvbXZUNUFxM0lUWFgwUjJiR213?oc=5",
-   "source": "이코노미스트",
-   "date": "2026-10-26",
-   "datetime": "2026-10-26 07:07 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "삼성전자·SK하이닉스 영업이익 180조 전망...주주환원책 '주목'",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50c0ZDdkhfWFhTal9uQlVaalJWZEJqRERZTC1Lc1haeGF6eGVEdm5LNUxJVGZDWUtja1ZnWU1BU3BaRGZQT3NIUGN4dHRCRlM4ZFptUHRYTEtxVFJ2ZFE?oc=5",
-   "source": "YTN",
-   "date": "2026-10-25",
-   "datetime": "2026-10-25 19:02 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "180조도 ‘예고된 호실적’... 삼전닉스 가이던스, 감동 줄까",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMnBSaW4td2NzMmVFRFZwMkxyRlE2N2lqLXdQdWMwQWNicUxucVJFUGlVa0d3RlEtOGpoV3dxMmtXdlBEZ1RUYjNuSmcwZ0VsY1h0SUVkbHZfaDVnRmdsVFhFa2dWekpnSzlReGs3RVJXdkNaWDRUcXRxS1owREstQWM4WQ?oc=5",
-   "source": "조선일보",
-   "date": "2026-10-25",
-   "datetime": "2026-10-25 17:04 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
