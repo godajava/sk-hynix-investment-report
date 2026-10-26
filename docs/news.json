@@ -1,11 +1,35 @@
 {
- "fetchedAt": "2026-10-26 09:44 KST",
+ "fetchedAt": "2026-10-26 10:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
+   "title": "SK하이닉스, 매도 우위 속 더블바텀 형성 중: 실시간 업데이트",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aZUowS3ZDVDByek01c3owUXlQWUFSZFQxTWlZdGxTeXltNWdxZ01naHZLLXFNWmhqbHZVWDFiRkFFUGZtalRiOWR5bTdPci14RnBnUE1KU2xGa0lHVnhucmE4UXFJdmNsdkhybjVUd1EwUDMyajh3?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-10-26",
+   "datetime": "2026-10-26 10:06 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "[특징주] SK하이닉스, \"약 16조원 특별 배당\" 보도.. '강세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHY2czgzZzMzdEhtOVZYS0x2Q00tamcwNlI0THRIUFEtcWZac1dnZGdjVnNyNVZVaUQ5Tkw5dWV2SXFBenZLUzAyOGlLUTBzc2pXamQ3YmdXQmVya2lkTWVnZXNXNk1rTVpFSVNUU0E5bG9VQnJINkpFdG5JcFk1QVF2VzNwMW9p?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-26",
+   "datetime": "2026-10-26 09:29 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
    "title": "[특징주] '솔리다임 상장 검토 철회' SK하이닉스, 장초반 2%대 상승",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpVHVGQnZsTGRwOU96ZXliRU5xemNUVTltSzQxa0lmcm9IMnN3eHlEeGRSTWRTWFR6NXlZem9OV2RiSjVQTnd6LXkxQ3ZOU3RTOG1ZcUtwcVlTU0nSAWBBVV95cUxOSEZmV2xzUjVnWjVvR0R3RzhZdktPVDAxMU15NFZINWhJMllvbVVvNy1HMW53WnFJZjQzN1czQkJweDlBT2JfMF9IYnBVd2xuQ1FaZUdOZVpZOEhEbnR2OUY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IRmZXbHNSNWdaNW9HRHdHOFl2S09UMDExTXk0Vkg1aEkyWW9tVW83LUcxbndacUlmNDM3VzNCQnB4OUFPYl8wX0hicFV3bG5DUVplR05lWlk4SERudHY5RtIBYEFVX3lxTE5IRmZXbHNSNWdaNW9HRHdHOFl2S09UMDExTXk0Vkg1aEkyWW9tVW83LUcxbndacUlmNDM3VzNCQnB4OUFPYl8wX0hicFV3bG5DUVplR05lWlk4SERudHY5Rg?oc=5",
    "source": "연합뉴스",
    "date": "2026-10-26",
    "datetime": "2026-10-26 09:21 KST",
@@ -33,6 +57,18 @@
    "source": "YTN",
    "date": "2026-10-25",
    "datetime": "2026-10-25 19:02 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "180조도 ‘예고된 호실적’... 삼전닉스 가이던스, 감동 줄까",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMnBSaW4td2NzMmVFRFZwMkxyRlE2N2lqLXdQdWMwQWNicUxucVJFUGlVa0d3RlEtOGpoV3dxMmtXdlBEZ1RUYjNuSmcwZ0VsY1h0SUVkbHZfaDVnRmdsVFhFa2dWekpnSzlReGs3RVJXdkNaWDRUcXRxS1owREstQWM4WQ?oc=5",
+   "source": "조선일보",
+   "date": "2026-10-25",
+   "datetime": "2026-10-25 17:04 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -85,42 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 ADR, 오늘 급등한 이유는?",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wU1o2dzJ1dDB1R21UenlHeUJLWm0wdkMyWWJzd0tOREQzeUNUQlFkVzM3YTdUQ3kwaUdhYmlIUHZfSFdLYW5wMXJyOTF4dUNHR0lTR0JOVUgyNjBsUE5zRFZ1NXVOemdSSm8zRjNHMDBUcExKbTRJ?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-10-23",
-   "datetime": "2026-10-23 18:52 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스 4%대 상승 마감…증권가 “중복상장 우려 해소 영향”",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVEkwMlpVLWZXOG9weWZRN2NYS2VmeF81bWJXTVdLMU50UVI4V0NmeGFDbnMtNHNLcFN0S0ZMS1VsZUZLM2ZBNm5peUVNMFBHdk5HeGYyZkVBZmUyNWVZbnNxWHl0THc?oc=5",
-   "source": "한겨레",
-   "date": "2026-10-23",
-   "datetime": "2026-10-23 17:13 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "“SK하이닉스가 구세주”…코스피 반등에 개미들, 저점 매수 나설까 [머니+]",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80VnJKYnREeUZaOU1kbXdEcjI0NGpZM19nNVFsZi14RW9lS2JZZWRiMUZhMGhwVlNYTmlxOHhaUHRaeGV2Q1RrWkQ1UTRzczY3QnZNT0dlTjJYdEE?oc=5",
-   "source": "에너지경제신문",
-   "date": "2026-10-23",
-   "datetime": "2026-10-23 16:08 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
