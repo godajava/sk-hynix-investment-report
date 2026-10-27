@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-10-27 10:44 KST",
+ "fetchedAt": "2026-10-27 11:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스, 16조원 특별배당 보도에 2주 만에 최고가 기록",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QcFRCUXZ2RFdtZEdEb0dKZmgtNldJcExheVgxRER6bi0zUXJTc2dDbWxVZWNOSVB6eG10RkVpVnFXWTZ5WmI1WnlIbW5YeklydzhGU3JhdHMwQjJKby16LW81aUJZZG93dEFLdV9xVDY?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-10-27",
+   "datetime": "2026-10-27 10:35 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "코스피 매수 사이드카…SK하이닉스 7% 급등",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMNWphcm1JT0J3NGU2M2xZX1ItT3BDVXpLU0NtSDJ2bl9DamFJUTJYbHM4aFlYa21sVjZ3TVIyNE1uR3Z2b3VhUTNxMERHV2QxWnZtTmZ1UzZwZVhMMGhQVTcxU1hHR0huX1k0NFVPZDDSAXRBVV95cUxNMEhiME5neXMtZV96Q3FBdHc4d0oxeFB2b25xMVYxRGtiakswMXEzRkxaMk90ajJQOU5TUFN2VXR0N2V5Y1JMd3Nacld4dGtIbXVkNkc3SFlmZnJyTlFLdHRvLWhlaDRQRDd6anFWVnNrc0NYTw?oc=5",
@@ -28,11 +40,11 @@
    }
   },
   {
-   "title": "KB증권 \"삼성전자·SK하이닉스, 추가 주주환원 120조 기대\"",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UeHFtTTVKSlBaYmQ4eTBqUkhaNWRyYlViVC11WktSY2VGR2FrODU5ODNNcnEwNjRwcWZVTndkMGRvZzZJMHM0bEtuc05wMm1PRlN2OTFLMFNMb0xJYXRpaHZ3aUpKNzdEWm82RXMxQlDSAXRBVV95cUxPSXgwaF9QYllDSlVxMGRuTmZ3NGpScDVJTXRIVUJEQU4yX3lCWjdBaDVpZnhBSFZYcm9rZDRDanhCUEQ3dVdwZ2dycWtXV2VwN0VpQllyTHduN3FtZ2tlQVNqZDRtREkyekwwQkRtME1XaU45UA?oc=5",
-   "source": "연합인포맥스",
+   "title": "[속보]삼성전자·SK하이닉스 4% 상승 출발",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RZHIzLU5hMzhRdnNrVlpsU2JibVY0azFkdkpCTFczWG8wMGUxQ0Q5aklfaGs3dU1ZcmtHYmItZ0NaNE1tdTZOUWs2TzQ2dWZTc0JjQjQ1Y2M1S1RycFl5VtIBeEFVX3lxTE54VXNHUXQ3UWJTYnRyMWg5eUJ0bnZjX3Y5UHlWdmNUR3pwVlRJeWFEV01RTENrOUZETk8wc1VfOUFjX0I4T3NVWU44VC1TQkVsREVwMUtaT29KVi1OVHNIR0ZuNVVBV2VjaHVreE5IRTZlYUpSWTB4Nw?oc=5",
+   "source": "뉴시스",
    "date": "2026-10-27",
-   "datetime": "2026-10-27 08:54 KST",
+   "datetime": "2026-10-27 09:03 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -109,18 +121,6 @@
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   }
-  },
-  {
-   "title": "SK하이닉스, 여의도서 ’초심’ 전시…43년 기술 개발 역사 조명 By EBN",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jY2hobU5yYnc1UGpzajFHLW56U0JxeW8zOFJzYVZjU0RKbW95WHJHaHZJc0lTYm96Q1NjSmlpRjBhUWVxQml3VG5ZRk11TEZQQ0RNR3dUblFISWdLSE9aOUZfM2xaTklaSDR3bjBBbzY?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-10-26",
-   "datetime": "2026-10-26 15:35 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
    }
   }
  ]
