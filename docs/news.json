@@ -1,8 +1,44 @@
 {
- "fetchedAt": "2026-10-27 13:44 KST",
+ "fetchedAt": "2026-10-27 14:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "RBC, SK하이닉스 ADR 목표가 200달러 유지…40% 상승 여력",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxTE14a3hXUElMR2ZfSk1nbjJTWnhQb2gwQ2JyMXJwbDBaalROMDZDYlJCTUx1MW5IT2N6RzVrU1E4SXZORWFrWm13UVdxMjJLWUFKaU5lSWRUQkkzWDdIWGZKMWlsMkFmRVp6SnBtdXk?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-27",
+   "datetime": "2026-10-27 14:28 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "최대 실적 예상되는 SK하이닉스… 주가 하락 속 주주환원에 쏠린 눈",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdE1TblhldmV3RkdESlJQQmY5S0t5eHVVZTFYVHZSQUdScnJDaExEM3hlNWxiQWJmOTZ3V1g0U013QkRVRktManBPSVgtUmtwQzJyeE1HQ28xUzJtTnhEcFQ1M1U4VGw1S29PNVlUV3Rycmd1a0ZPbzRZMGhVdlBYekNKbWdVdw?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-10-27",
+   "datetime": "2026-10-27 14:11 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "엔비디아, 베라 루빈 HBM4 대역폭 13% 하향…삼성·SK하이닉스 공급 확대 기대",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1na3VUa0Ztb2JTRTBHVlBkQmFhQWVJX2hBbGJEbmJsM3NUQ1dYc2FkdkZuTWcyOHJVSWlmSTlyd3dkWXRUNUZnek1uUFctdw?oc=5",
+   "source": "전자신문",
+   "date": "2026-10-27",
+   "datetime": "2026-10-27 13:58 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[특징주] 삼성전자·SK하이닉스, 앤트로픽 사상 최대 IPO.. '강세'",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkgzUy1NQ1JXTnNQREh5SUdKYzcxTE5FQ0JkRThVYVV6R0FuenZrS0xCaVRBYXR1UlhiZUM1dTg1UG1fRGptc0ZFeF9mZjNwT0w0X0RGZE5ic3Fna2h4T3luOUtKanRMbHU0VmNTOEk3cFJUdEZfMFQ4TDVoR0hXRjA3bzFpanBq?oc=5",
@@ -16,15 +52,15 @@
    }
   },
   {
-   "title": "[ET특징주] SK하이닉스 대규모 추가 주주환원 가능성에… SK·스퀘어 동반 급등",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tYzBMTURyM0VNOHZpTmVrLUVmRGw5YjdxZzdIN0JILUNERnVzbkgyNEtPYTlLRGtxWnJ3anBmbzlzMkdOMGZZRGF4enVGdw?oc=5",
-   "source": "전자신문",
+   "title": "신문 1만 조각·유리 16장으로 구현한 SK하이닉스 43년",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaTmRodkUwYWp0UG1nSGotSU54SkFvYTJaeF9YNTlXY2lCYXVyN0VrM1dTVFAyUUlyM2dFYVYtNzhNamMtUlllcXdjcm43QzBqR2g5ZQ?oc=5",
+   "source": "JTBC",
    "date": "2026-10-27",
-   "datetime": "2026-10-27 10:58 KST",
+   "datetime": "2026-10-27 09:21 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
@@ -52,6 +88,18 @@
    }
   },
   {
+   "title": "[남승표의 궁변통구] SK하이닉스 실적발표서 듣고 싶은 말",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZV3RDRDJ2NzJzMWZhbjlaeDVTaEVjRXdFaUcweUpPTHZMMU96MHdLMVlnYkZiU3ZBWHNvU0d6X2pGVFQ2LU9wSlp2UUpEQ2dfLWFrU21rbk9wVENBMFpDYjQ2LXVnRzh3WHVsT2l4VGdRWENs?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-27",
+   "datetime": "2026-10-27 08:54 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스 내일 3분기 실적 발표...주주환원 관심",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91LV9QeHRmRUFLU3pSUUVIWmQ0Mk9Sam9ZMmhKMkJhZ2dLR3dSVEk4WUhIc0psWmtxQWxXWnVmVHFVZ1lyR2dYaHh3NGZSaU40ZG1ZeFVndUVPdDJSakE?oc=5",
    "source": "YTN",
@@ -64,59 +112,11 @@
    }
   },
   {
-   "title": "[남승표의 궁변통구] SK하이닉스 실적발표서 듣고 싶은 말",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAydGlSTFVjSVJEMnRQbm1yTlFJOHhzTzJNREZEVjJaZno2bjZGSEs1bUhrdWhsQXM0X01EZ1NWZVh5MjVJcUhHZmQ2Q2Q5b09sNDNtbHZCdEpNUVU5OGlkV013T0VHVlh0WEEtNlFBOTY?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-10-27",
-   "datetime": "2026-10-27 08:50 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "SK하이닉스, 슈퍼트렌드 저항 테스트 중: 매시간 업데이트",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aZUowS3ZDVDByek01c3owUXlQWUFSZFQxTWlZdGxTeXltNWdxZ01naHZLLXFNWmhqbHZVWDFiRkFFUGZtalRiOWR5bTdPci14RnBnUE1KU2xGa0lHVnhucmE4UXFJdmNsdkhybjVUd1EwUDMyajh3?oc=5",
    "source": "Investing.com 한국어",
    "date": "2026-10-27",
    "datetime": "2026-10-27 06:24 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "美 반도체주 일제히 상승…마이크론 3%·SK하이닉스 ADR 4%↑",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6ZTBDQ0QySXc4LXlxcUJBZmZ6Wk52VURfdVRCdmJfTWwxY0MxME9SMU15U0xERzYyR1dhZVR3cklndFdDTjZfeHhYaDhobFpPT0NwM0NKblQ5TXVuLU5zbV9FLXBOVXc?oc=5",
-   "source": "뉴스1",
-   "date": "2026-10-27",
-   "datetime": "2026-10-27 05:18 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "오늘 SK하이닉스 주가가 상승한 이유는?",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pek04SXZJZVpDQWxuTC1DbXh1Q0lmWmlpWWVSUTFpeUJjcXNoVGpMVXkzSDBjMjV1R2VZbTB0QlJqaUl5Q0FTQW1CM01TZjRHMlVSNk1nRGlCc1pjZGhtSlhYWWl1aXBJT1NXckNxSExCWVJnMzhJ?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-10-26",
-   "datetime": "2026-10-26 22:47 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "이천시의회 송옥란 의원, SK하이닉스에 “반도체를 만드는 기술만큼, 물을 지키는 책임도 앞서가야”",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIWlJZaHMybFZLTzRDUndiVGhManpFSEY2X0NTd2poUGhYM2NTb01VTXllS1RhZlc1NEJwa2psOW1salhJMm5TMWU0T3pBWXBEdHRfN3VXVDNNak5sQWFucQ?oc=5",
-   "source": "유교신문",
-   "date": "2026-10-26",
-   "datetime": "2026-10-26 19:26 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
