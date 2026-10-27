@@ -1,8 +1,20 @@
 {
- "fetchedAt": "2026-10-27 09:44 KST",
+ "fetchedAt": "2026-10-27 10:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "코스피 매수 사이드카…SK하이닉스 7% 급등",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMNWphcm1JT0J3NGU2M2xZX1ItT3BDVXpLU0NtSDJ2bl9DamFJUTJYbHM4aFlYa21sVjZ3TVIyNE1uR3Z2b3VhUTNxMERHV2QxWnZtTmZ1UzZwZVhMMGhQVTcxU1hHR0huX1k0NFVPZDDSAXRBVV95cUxNMEhiME5neXMtZV96Q3FBdHc4d0oxeFB2b25xMVYxRGtiakswMXEzRkxaMk90ajJQOU5TUFN2VXR0N2V5Y1JMd3Nacld4dGtIbXVkNkc3SFlmZnJyTlFLdHRvLWhlaDRQRDd6anFWVnNrc0NYTw?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-27",
+   "datetime": "2026-10-27 10:17 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "SK하이닉스 레버리지 ETF 2종, 美 상장 석 달 만에 상장 폐지 By 인포스탁데일리",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Yclo4NzR6UDE4cWI5TTNWY1hWdTd4SUpSUHFYLVdsZjVMRVpLSTNZLVR4MFZKTEhLNElHcnJWZWhsWFBaY3djRDU3YVh0Z3M2UV9FcEJEYXcyVXk0XzZpQTVWT29FZi0yY3F6SDZGam0?oc=5",
@@ -49,18 +61,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] 삼전닉스 프리마켓 동반 강세…SK하이닉스 3%↑",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFMWh4M3FSV2otVmdQLWVTSFhCMTNRVU5maUl0M1ZsMUN0a0M4YnJXSjRiUHVURE1INzFoQmszeFhpdEJXN2w2QmZ2UFMtV0dyLWNxOFR4elFWalU2?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-10-27",
-   "datetime": "2026-10-27 08:08 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   },
   {
