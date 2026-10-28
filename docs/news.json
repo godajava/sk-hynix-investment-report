@@ -1,35 +1,47 @@
 {
- "fetchedAt": "2026-10-28 10:44 KST",
+ "fetchedAt": "2026-10-28 11:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 분기 영업익 83조 ‘역대 최대’…주당 2만원 배당",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1KYTNDeWswYkJiZ0ljejlnN2U1QVUwWEowb3lsR1lYbEJySF9zbGxBOFhEZmlfRW9aLXZxM191T2gxYnZxdGFRcWZJSGY3ZFVaWE1VQg?oc=5",
-   "source": "JTBC",
+   "title": "기록 경신 SK하이닉스…\"주주와 성과 나눌 것\"",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TaUo4azEtbHpOdmZQbTl6aEJ1ZUpub09xQlBlZ1czY010bnYwUnFreGk0OWZVNS1iQlU4TjQ2bXNIZFl4Umg3RGU3blNiR1dRSENubndhbC1YUWtmeC1GQ0ZUNnYxanc?oc=5",
+   "source": "연합뉴스TV",
    "date": "2026-10-28",
-   "datetime": "2026-10-28 10:33 KST",
+   "datetime": "2026-10-28 11:38 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
-   "title": "메타 훈풍에 SK하이닉스 '역대급 실적'…코스피 5% 급등하며 6000선 근접",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WOHI4cm1UYkFvUU5rUWk2UWRoMXVTekJ1U1BwUWhMUlBuQldBNm5OOHBWOV85a2FBeGFhaHdkLTlzMUY2Wm56Rmp1WVItRmhwRFVfak5rQzFGVGRsbXJ0SWVxUlltaTJuR3c?oc=5",
-   "source": "비즈워치",
+   "title": "SK하이닉스, 3분기 영업이익 83조 ‘어닝 서프라이즈’",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45THZxNnRhaDNXakthcXpUNUY0TC1uRGpKU3RrTTRvSEhNck5sQmxld0lKNjFVMkpqb3cyb1VxN1JacTh2SVJRLWFNQ0lhM3drdHhMNjBrclRmNDlzUlpUREVwbFdld3ZEa2c?oc=5",
+   "source": "한겨레",
    "date": "2026-10-28",
-   "datetime": "2026-10-28 10:29 KST",
+   "datetime": "2026-10-28 11:34 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "앤트로픽이 끌고 SK하이닉스가 밀고…반도체 투심 되살아나나",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTY1o0bnB2N042T0ZudTNWZkZ6R2cyYU80QWxxd3FybjI0VkppZFg1Tmh5WWs3aEFmaWNCNGlpbjVMSmRzV1JlOFBOYkhsdXp0MG44bHk5N0stWEHSAWBBVV95cUxOVEdkN3M3ZmNyWEhsekZrX2VabmowaW11SDg4elRCeEVqdU9EeWRvQ2xKSkFXVC1LSkRyNDhJcmI5TElUczR3SnNPbEx5OUhYa0NzTG9LOUo3YWRiMVRjZTk?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-28",
+   "datetime": "2026-10-28 10:51 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
    }
   },
   {
    "title": "SK하이닉스, CXMT 기술전환에 \"기존 기술 최대한 활용이 우선\"",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xLVphLXZ0ZG9mT1JFa1NBRzhaTUN0STNzZ0swVnJwT1ZhZDNTLU44VmRCYlNLbVoxRjZEeXZxZnoxeWZLTzk1UkJCTkNfcW4wbWpKRFEwYkxNZUXSAWBBVV95cUxNcF9hd2RkNGNMbU8tek5UbEZZQV9KUUpSVXlud3NXQS1jU0dTUG56Qm9jelQxZDczT2Z4TTlHVXU2SnJ2alhWTlgtZDFuLWhadVkyaGhlMkhselJlY1U2d1g?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wX2F3ZGQ0Y0xtTy16TlRsRllBX0pRSlJVeW53c1dBLWNTR1NQbnpCb2N6VDFkNzNPZnhNOUdVdTZKcnZqWFZOWC1kMW4taFp1WTJoaGUySGx6UmVjVTZ3WNIBYEFVX3lxTE1wX2F3ZGQ0Y0xtTy16TlRsRllBX0pRSlJVeW53c1dBLWNTR1NQbnpCb2N6VDFkNzNPZnhNOUdVdTZKcnZqWFZOWC1kMW4taFp1WTJoaGUySGx6UmVjVTZ3WA?oc=5",
    "source": "연합뉴스",
    "date": "2026-10-28",
    "datetime": "2026-10-28 10:27 KST",
@@ -49,6 +61,18 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 \"고객 재무건전성도 점검…투자 리스크 면밀 관리\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LUzhncC1YTXlIUzFSendMSktscUgyMXdDUk1jTmpEZldqV1Y5Z3c2Z2hEMTNHb1lDN081dW81akdMRXMzNXNmMHVvQmZHS2w0cHBMekpGTlIxMFHSAWBBVV95cUxQVGNNc3ZucHI1NEZsb3JjQ0RxS2VqWWpTSVhnWnZPcTFtWkpCRTNLM1FhQmh1VXZIbXNnRXdGQnAwemQySV9GZE55Z2RUTnpoOFhOSFFSOWZ4Nm9HV2dNR28?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-28",
+   "datetime": "2026-10-28 10:19 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
    }
   },
   {
@@ -76,47 +100,23 @@
    }
   },
   {
+   "title": "SK하이닉스 \"2029년까지 3년간 D램·HBM 사실상 완판\"",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JaE5JUUtSbEZtM2UyTHM0RUQzRllHSnA1SU5NanhBTHQyV1Rra0VGM1ZLSkFWanFqdElhWTRzWk84S2pMNVEwaEVNME9qRGQxWlQyamhNMGoydEnSAWBBVV95cUxPeGRlWFdkZjZKT1ZFa0owaGhrbnp4eEVtZGFqYld6a0dpWGw1SEhwYVk2amVWa18zcXFwQzViMDdmR1dsYXplOW1vejZ2OHpmcTI4N3FkY0lVWnZXT083Mkk?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-28",
+   "datetime": "2026-10-28 10:07 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "SK하이닉스, 향후 2년 생산능력 절반 계약완료…AI고점론에 맞불",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81NThDYUdyZTdIYVkyc2h0a2UtbFFVNFhXSURLNWd4X20yMkZqaTI2OWFpNENjOWxNbHp2NmR5cnU2N0UxcHRKbjc0U0pQS3JwcHc?oc=5",
    "source": "매일경제 마켓",
    "date": "2026-10-28",
    "datetime": "2026-10-28 10:05 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "카운터포인트 \"SK하이닉스 실적 정점 아직\"…HBM4·가격 전략 주목 By EBN",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9McGZOOEJUZWM5WUk2VnMwYTFmSEpoM2dpQmdtV0ZEMm1YblNkOVFxakczUnZIV1B5OHZMTU14V3d6YWxiSE5NTVhsVHRZMEo1SFExOHRDQ1F3SE9LZWNuQmhKaVJ0N1NvQ2t1ODZFb1Y?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-10-28",
-   "datetime": "2026-10-28 10:04 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 \"HBM4, 4Q 출하량·매출 비중 모두 HBM3E 넘을 것\"(종합)",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrbVBQcC1ydF9SSDVmUUItblJCVU9MOHQ1R0RnQ0U0RXhveFdMZXR5X1JCVk9rN3RrN2dnSnNsa1pTYXZGLUliU01QOG02c21IRV9JZG1CbDFEX2JXY3QxYW42RzkzNFVkY0FUNHZ2Nk4?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-10-28",
-   "datetime": "2026-10-28 09:59 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 \"2029년까지 D램·HBM 물량 완판…중장기 판매 가시성 높아져\"(종합)",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yQ1BsLVY2cUhkenZTNUdfUks5MU5fakV4VW11cjU4bkdrMWlvdDdvdUZTczBaZVZWMUh2VXh2bWNwQXFsOHZfcWVwWjgwWmFfTXhNV2g0a0ZZLTQ3VDh2NUFjdWwzRjhNMEU5Rk1ZOUQ?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-10-28",
-   "datetime": "2026-10-28 09:57 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
