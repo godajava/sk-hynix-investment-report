@@ -3,6 +3,7 @@
 
 사용법:
     python3 scripts/fetch_news.py [출력경로=docs/news.json] [개수=10]
+    python3 scripts/fetch_news.py --apply-summaries [news.json]   # 사이드카 요약만 재반영
 
 구글 뉴스 RSS 검색(SK하이닉스, 최근 7일)에서 최신 기사를 수집해
 제목·링크·언론사·발행일(KST)을 docs/news.json으로 저장한다.
@@ -48,15 +49,6 @@ def clean_title(title):
     return title, src.strip()
 
 
-def clean_summary(desc, limit=160):
-    """RSS <description>(HTML, 관련 기사 제목 나열)에서 태그·엔티티를 걷어낸 요약문."""
-    import html as _html
-    s = re.sub(r"</(li|p|div)>|<br\s*/?>", " ", desc or "")
-    s = _html.unescape(re.sub(r"<[^>]+>", "", s)).replace("\xa0", " ")
-    s = re.sub(r"\s+", " ", s).strip()
-    return s if len(s) <= limit else s[:limit].rstrip() + "…"
-
-
 def parse_rss(xml_bytes):
     root = ET.fromstring(xml_bytes)
     ns = {"": ""}  # 기본 네임스페이스 없음(RSS 2.0)
@@ -92,7 +84,6 @@ def parse_rss(xml_bytes):
             "source": source,
             "date": date_str,
             "datetime": dt_str,
-            "summary": clean_summary(it.findtext("description")),
             "signal": classify(title),
             "_sort": sort_key,
         })
@@ -295,6 +286,32 @@ def classify(title):
     return {"cls": "flat", "label": "중립", "emoji": "⚪"}
 
 
+SUMMARY_PATH = "docs/news_summaries.json"
+
+
+def title_key(title):
+    return re.sub(r"\s+", "", title)[:40]
+
+
+def apply_summaries(items, path=SUMMARY_PATH):
+    """사람이(리포트 작성 주기마다) 쓴 한 줄 요약 사이드카(제목 앞 40자 키 → 요약문)를
+    기사에 붙인다. 사이드카에 없는 기사는 요약 없이 둔다(RSS 설명은 관련 기사 제목을
+    이어 붙인 것이라 요약으로 쓰지 않는다). 기사가 목록에서 빠져도 사이드카 항목은 남겨
+    같은 기사가 다시 잡힐 때 재사용한다."""
+    try:
+        with open(path, encoding="utf-8") as f:
+            table = json.load(f)
+    except Exception:
+        table = {}
+    for it in items:
+        s = table.get(title_key(it["title"]))
+        if s:
+            it["summary"] = s
+        else:
+            it.pop("summary", None)
+    return items
+
+
 def merge_previous(items, out_path, keep_days=7):
     """직전 news.json의 기사를 이번 수집분과 합친다(제목 앞 40자 기준 중복 제외)."""
     try:
@@ -322,13 +339,25 @@ def merge_previous(items, out_path, keep_days=7):
         merged.append({
             "title": title, "url": url, "source": o.get("source", ""),
             "date": o.get("date", ""), "datetime": dt_str,
-            "summary": o.get("summary", ""),
             "signal": classify(title), "_sort": dt.isoformat(),
         })
     return merged
 
 
+def reapply_only(out_path="docs/news.json"):
+    """네트워크 없이 사이드카 요약만 news.json에 다시 반영한다(요약을 새로 쓴 직후 사용)."""
+    with open(out_path, encoding="utf-8") as f:
+        data = json.load(f)
+    apply_summaries(data["items"])
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=1)
+    n = sum(1 for it in data["items"] if it.get("summary"))
+    print(f"요약 반영: {out_path} — {n}/{len(data['items'])}건")
+
+
 def main():
+    if len(sys.argv) > 1 and sys.argv[1] == "--apply-summaries":
+        return reapply_only(*(sys.argv[2:3]))
     out_path = sys.argv[1] if len(sys.argv) > 1 else "docs/news.json"
     limit = int(sys.argv[2]) if len(sys.argv) > 2 else 10
 
@@ -350,6 +379,7 @@ def main():
     items = dedup_topic(items)
     topic_unique_count = len(items)
     items = items[:limit]
+    apply_summaries(items)
     for it in items:
         it.pop("_sort", None)
 
