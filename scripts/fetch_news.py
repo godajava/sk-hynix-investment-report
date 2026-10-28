@@ -3,7 +3,7 @@
 
 사용법:
     python3 scripts/fetch_news.py [출력경로=docs/news.json] [개수=10]
-    python3 scripts/fetch_news.py --apply-summaries [news.json]   # 사이드카 요약만 재반영
+    python3 scripts/fetch_news.py --apply-summaries [news.json]   # 사이드카 요약·신호등 재반영
 
 구글 뉴스 RSS 검색(SK하이닉스, 최근 7일)에서 최신 기사를 수집해
 제목·링크·언론사·발행일(KST)을 docs/news.json으로 저장한다.
@@ -224,6 +224,9 @@ POS_PHRASES = (
     # 방향이 뒤집히지 않도록 문구 단위로 먼저 확정한다.
     "승소", "어닝서프라이즈", "실적 서프라이즈", "깜짝 실적", "예상 상회", "기대 상회",
     "컨센서스 상회", "눈높이 상회",
+    # 실적·주주환원·수요 확정 계열 — 제목에 호재 키워드가 없어 중립으로 빠지던 표현
+    "기록 경신", "신기록", "역대급", "완판", "현금배당", "자사주 매입", "자사주 소각",
+    "주주환원", "배당 확대", "생산능력 절반 계약", "물량 계약", "장기계약 체결",
 )
 NEG_PHRASES = (
     "적자 전환", "적자 확대", "손실 확대", "목표가 하향", "목표주가 하향", "목표가 인하",
@@ -238,7 +241,7 @@ NEG_PHRASES = (
 POS_KEYWORDS = (
     "상승", "급등", "강세", "신고가", "최고가", "돌파", "반등", "회복", "호재",
     "상향", "매수", "수주", "흑자", "개선", "성장", "수혜", "양산", "낙관",
-    "기대", "톱", "인수", "훈풍", "질주", "랠리",
+    "기대", "톱", "인수", "훈풍", "질주", "랠리", "자신감",
 )
 NEG_KEYWORDS = (
     "하락", "급락", "약세", "신저가", "최저가", "이탈", "붕괴", "악재", "우려",
@@ -248,7 +251,9 @@ NEG_KEYWORDS = (
 )
 # 악재 키워드 뒤에 이런 표현이 붙으면 "그 우려/위기가 해소됐다"는 뜻이므로
 # 악재 카운트에서 제외한다. 예: "공급부족 우려 해소", "규제 리스크 완화"
-RESOLUTION_SUFFIXES = ("해소", "완화", "진정", "종식", "극복", "누그러")
+RESOLUTION_SUFFIXES = ("해소", "완화", "진정", "종식", "극복", "누그러",
+                       # 악재 단어를 '반박·관리 대상'으로 쓴 표현 — 예: "위기론 일축", "리스크 면밀 관리"
+                       "일축", "반박", "부인", "해명", "불식", "잠재", "관리", "점검", "대응", "대비")
 
 
 def _strip_resolved_negatives(title, neg_hits):
@@ -258,7 +263,7 @@ def _strip_resolved_negatives(title, neg_hits):
         idx = title.find(kw)
         if idx == -1:
             continue
-        tail = title[idx + len(kw): idx + len(kw) + 6]
+        tail = title[idx + len(kw): idx + len(kw) + 8]
         if any(suf in tail for suf in RESOLUTION_SUFFIXES):
             resolved += 1
     return resolved
@@ -271,7 +276,7 @@ def classify(title):
         if p in title:
             return {"cls": "up", "label": "호재", "emoji": "🟢"}
     for p in NEG_PHRASES:
-        if p in title:
+        if p in title and not _strip_resolved_negatives(title, [p]):
             return {"cls": "down", "label": "악재", "emoji": "🔴"}
 
     pos_hits = [k for k in POS_KEYWORDS if k in title]
@@ -345,10 +350,12 @@ def merge_previous(items, out_path, keep_days=7):
 
 
 def reapply_only(out_path="docs/news.json"):
-    """네트워크 없이 사이드카 요약만 news.json에 다시 반영한다(요약을 새로 쓴 직후 사용)."""
+    """네트워크 없이 사이드카 요약과 신호등 분류를 news.json에 다시 반영한다(요약을 새로 쓰거나 분류 규칙을 고친 직후 사용)."""
     with open(out_path, encoding="utf-8") as f:
         data = json.load(f)
     apply_summaries(data["items"])
+    for it in data["items"]:
+        it["signal"] = classify(it["title"])
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
     n = sum(1 for it in data["items"] if it.get("summary"))
