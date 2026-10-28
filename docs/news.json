@@ -1,14 +1,14 @@
 {
- "fetchedAt": "2026-10-28 09:10 KST",
+ "fetchedAt": "2026-10-28 09:44 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "[속보] SK하이닉스 3분기 영업익 83조…사상 최대",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZdE5PVERka0NIZ3ZoMnZpSTFSTWd1ekFjTmtSbDdRT2NSOU5ROEE0MkFGZkUxcVU2aUZ0Q3FDYXlyUHMtMFhOekY1QVJJRGYxdmpWcmtES2NOS2VTUWZ0Um82dkh4ek0?oc=5",
-   "source": "연합뉴스TV",
+   "title": "SK하이닉스, 예상 넘어선 영업익 83조 기록… 매출은 첫 100조 돌파(종합)",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeE1ZV1JIWENRb0pYcWx3ZzBOd3c4ZGVFOXlLYTcwdTBzb2ppdE9WcVIwbWwtNFdkMXRncWZZMTRkWG9IZmFXUDd4QlFyMFpOWnhpeHg4OE56cE9XS0s4TzI4VjVzZ3VIQXN1a3NKV1lzdTNQaXhsak1KUjFaZWFTRHZobXVwQQ?oc=5",
+   "source": "글로벌이코노믹",
    "date": "2026-10-28",
-   "datetime": "2026-10-28 09:03 KST",
+   "datetime": "2026-10-28 09:34 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -16,11 +16,35 @@
    }
   },
   {
-   "title": "코스피, 2.23% 상승한 5,763.85 출발…SK하이닉스 주주환원 훈풍",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QdGRGQkRUalZfblpMdzFUZEE0UmJGVW5uaUdJQWtUUXpFU0RjandyN0pGLWV6dC1naHRVdW5UczJPaVFwMmFMcDNyZE5LbUNkbzVwd0NFQmZELU1XRUZRNkdNaXU1T25HWl9FSXVQS1PSAXRBVV95cUxPR3UwOGR0QTZtOW5OT0M0ZzdveTlleVJDemd0cFpCZmJNUlFUN1NXdDYyQ01MbWF3cXVvdFRIYVQ2VHVEVWxKb1hIQ3dlX3UxeHBVc0E3MXdUUFdFRHZzS1h4MXVCVWxqZ0VaQ0J4QWZtVUtYdA?oc=5",
+   "title": "SK하이닉스 \"키옥시아 나머지 투자수익, 결산배당에 포함\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYNEZydHdKcGxEUTQwQnBESlhSdFdGckdOYV85aTB5Undsd3VXY2pLOEJwOVRxaU0wa29zVC03dUU1Y1FyeHBlQlF5MkYxTFJVcjduZ1pBN3hfVGFBMkFiSkFpV3dnOWw4blJVRW44d23SAXRBVV95cUxNOWxNTm9xXzNjYW5DVVNWY0wyU2V3cklYVVRuRlkwQXBtOUVjckxjSWpRTnlUOTU0dVdhZkpLb043b25hX3pfTEdmOHFZdVlPWTk4SkRyZjF0VFdqRjlZaTNPQnFBZHRacmN5LU5RV3VVd3NTRw?oc=5",
    "source": "연합인포맥스",
    "date": "2026-10-28",
-   "datetime": "2026-10-28 09:01 KST",
+   "datetime": "2026-10-28 09:26 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 \"4분기 HBM4 출하량·매출 비중 HBM3E 넘어설 예정\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41R2FzdnhvWXBwdnVxRlg0T1lBU0VVMEdYajZCNnNwN3QtXzZJVE5JcU5WdXNsSEExdndWQVVRTFBwQ3BVSnZBRnlTMVZOVG9NREdEMWZHZldWalJVZFNyQ2dWY1JrakRXYTVuRkFhcmzSAXRBVV95cUxOTFhXYUQwYzNrNU5FdkQ4TkJGREtpOVZUOGFidkNob0U3cWVhMlVNSFdpYTdBaVBRZmt6blhncG9Wc3ZyOFRwaXQtUWhUcjN6d3RGOUg0bnBXOHNydF9sQl9lWWhucmxsNmRTRzZvU2JaUzlPRw?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-28",
+   "datetime": "2026-10-28 09:20 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 \"3분기 D램 ASP, 20% 후반대 상승률\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qdU9ZaXFxYWs5VGhGbW5laEFWZlpZU3pKMks0Nk9zaWp4eEhhbXdkaFhfTksxRXZHX2tHSW1LcE81dlU1MlhuUmxLQnk2RUtsYWlrekF5b2NtV3VlWGVjX0UyY0J6OXU3a25FQ0pZYXHSAXRBVV95cUxOSFFxc2g2amZ4aVJiT0N3aTkxcUhrNlRabUNjcnhtRzRzc1RDaWRfVlVsX3JoeFFyTTVVZkd2cXlGMFVoczQyVXdlV1dvQVVPTS05RlFUeTg5LXR2Z3JMMXhDZHI0VnhCS0cwTmlVcjZwNW5QVQ?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-28",
+   "datetime": "2026-10-28 09:14 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -37,18 +61,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스, 3Q 매출 104.6조…사상 첫 100조 돌파",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sN2JLOWlfel9vMEl3QlBzMU9xT0d4NllWeW5XVUNjbUFLQ2lPT0ZlSVAwMlk0RkgwY0V1T01vX0E1UXVXV1hIOFFDVy04am5GTHJKZS1BbURQZkFJNnA2Q3JFSF9nN0JVVGNTOURJZ1rSAXRBVV95cUxOcVEybENGOVp3eWM0WUdOaW82amlkbFQ4dXI2ci1JaGxLWjNkMkc1UUJFckFWOENyY056Y3hQSDhCczhEQjBpMWJoRmpKeERyY1JRTXRkUGJNRlRsX1lYNnB1NTdmdjFuZTc1X1Nhc0o4RE15NQ?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-10-28",
-   "datetime": "2026-10-28 08:29 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   },
   {
@@ -109,18 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "RBC, SK하이닉스 ADR 목표가 200달러 유지…40% 상승 여력",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IT0RFVzZ0M3o5NmhwTnNrVFdTV2FyTXJ6aVJpbUlkdEZ4NXRKWHhsUm45Q1B2ZlBibGhLX0JON0dpY2NZMnVBdWRRXzctVEJ0LXBUNm12bUZuZ2E2SngxMmtFX2E4bHBQM3hrQTJibEhoTmJC?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-10-27",
-   "datetime": "2026-10-27 14:32 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
