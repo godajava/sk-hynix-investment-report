@@ -269,9 +269,56 @@ def _strip_resolved_negatives(title, neg_hits):
     return resolved
 
 
-# "영업익 83조", "영업이익 76.9조"처럼 조 단위 영업이익을 제목에 내건 기사는 수치 자체가
-# 호재(SK하이닉스 분기 영업이익이 수십 조 단위인 국면)이므로 악재 키워드가 없으면 호재로 본다.
-BIG_PROFIT = re.compile(r"(영업익|영업이익)\s*\d+(\.\d+)?\s*조")
+# 매출·영업이익이 조 단위 숫자로만 제시된 제목(예: "3분기 영업익 83조·매출 104조")은 직전 분기와
+# 비교해 판정한다 — 둘 다(제목에 나온 지표 모두) 늘었으면 호재, 모두 줄었으면 악재, 엇갈리거나
+# 비교 불가면 판정하지 않는다. 직전 분기 값은 최신 리포트 data.json의 quarterly_earnings에서 읽는다.
+# '전년' 비교 표현이 섞이면 기준이 달라 건너뛰고, 예상 상회/하회·쇼크 등 기존 문구 규칙이 먼저 적용된다.
+_QOQ_METRICS = (("revenue", re.compile(r"매출(?:액)?\s*(\d+(?:\.\d+)?)\s*조")),
+                ("op", re.compile(r"(?:영업이익|영업익)\s*(\d+(?:\.\d+)?)\s*조")))
+_QUARTER = re.compile(r"(?:(\d{2,4})\s*년\s*)?(\d)\s*분기")
+
+
+def _load_quarters():
+    import glob
+    for path in sorted(glob.glob("reports/sk-hynix/assets/*/data.json"), reverse=True):
+        try:
+            with open(path, encoding="utf-8") as fh:
+                rows = json.load(fh)["quarterly_earnings"]["rows"]
+            if rows:
+                return rows
+        except Exception:
+            continue
+    return []
+
+
+def qoq_signal(title, rows=None):
+    """제목의 매출·영업이익(조)을 직전 분기와 비교한다. 반환: 'up' | 'down' | None."""
+    if "전년" in title:
+        return None
+    rows = rows if rows is not None else _load_quarters()
+    if len(rows) < 2:
+        return None
+    labels = [r["label"] for r in rows]
+    m = _QUARTER.search(title)
+    if m:
+        yy = (m.group(1) or labels[-1].split(".")[0])[-2:]
+        label = f"{yy}.{m.group(2)}Q"
+    else:
+        label = labels[-1]            # 분기 표기가 없으면 가장 최근 발표 분기로 본다
+    if label not in labels or labels.index(label) == 0:
+        return None
+    prev = rows[labels.index(label) - 1]
+    votes = []
+    for key, rx in _QOQ_METRICS:
+        mm = rx.search(title)
+        if mm and prev.get(key):
+            val, ref = float(mm.group(1)), float(prev[key])
+            votes.append(1 if val > ref * 1.01 else -1 if val < ref * 0.99 else 0)
+    if votes and all(v == 1 for v in votes):
+        return "up"
+    if votes and all(v == -1 for v in votes):
+        return "down"
+    return None
 
 
 def classify(title):
@@ -289,8 +336,11 @@ def classify(title):
     pos = len(pos_hits)
     neg = len(neg_hits) - _strip_resolved_negatives(title, neg_hits)
 
-    if neg <= 0 and BIG_PROFIT.search(title):
+    qoq = qoq_signal(title)
+    if qoq == "up" and neg <= 0:
         return {"cls": "up", "label": "호재", "emoji": "🟢"}
+    if qoq == "down" and pos <= 0:
+        return {"cls": "down", "label": "악재", "emoji": "🔴"}
     if pos > neg:
         return {"cls": "up", "label": "호재", "emoji": "🟢"}
     if neg > pos:
