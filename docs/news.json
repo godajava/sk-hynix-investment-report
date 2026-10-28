@@ -1,8 +1,68 @@
 {
- "fetchedAt": "2026-10-27 22:09 KST",
+ "fetchedAt": "2026-10-28 09:10 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "[속보] SK하이닉스 3분기 영업익 83조…사상 최대",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ZdE5PVERka0NIZ3ZoMnZpSTFSTWd1ekFjTmtSbDdRT2NSOU5ROEE0MkFGZkUxcVU2aUZ0Q3FDYXlyUHMtMFhOekY1QVJJRGYxdmpWcmtES2NOS2VTUWZ0Um82dkh4ek0?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-10-28",
+   "datetime": "2026-10-28 09:03 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "코스피, 2.23% 상승한 5,763.85 출발…SK하이닉스 주주환원 훈풍",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QdGRGQkRUalZfblpMdzFUZEE0UmJGVW5uaUdJQWtUUXpFU0RjandyN0pGLWV6dC1naHRVdW5UczJPaVFwMmFMcDNyZE5LbUNkbzVwd0NFQmZELU1XRUZRNkdNaXU1T25HWl9FSXVQS1PSAXRBVV95cUxPR3UwOGR0QTZtOW5OT0M0ZzdveTlleVJDemd0cFpCZmJNUlFUN1NXdDYyQ01MbWF3cXVvdFRIYVQ2VHVEVWxKb1hIQ3dlX3UxeHBVc0E3MXdUUFdFRHZzS1h4MXVCVWxqZ0VaQ0J4QWZtVUtYdA?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-28",
+   "datetime": "2026-10-28 09:01 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 \"14개 고객과 LTA 체결…일부는 5년이상 논의\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSdGxUOTBldmUxby1tcHFDNzczQkN6TDBPbFFlZ2c2TUctV2xGTEtJbFhsUngxOW9ZVG9hb09hV21QVE9ka1NQWi1JVGpyNW5wRzM5SWtKUGxnY3lDVXU5dkUxbFJZaTVGcDRkN09MNjHSAXRBVV95cUxNS3NQQWVRZFVlN2hiUzV6Rm9jTHBpb2ZTZFdHQ2FQT2NseVFYY1VtN0ZUWW9fT3U5clduU2V1VzNIdm1pYjgxQ1VLVjJzaXlROHlTY1VUdjZVSEJZS1dUeUdtUlE4S05HUXpuRjNWRk4xTlFKVw?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-28",
+   "datetime": "2026-10-28 08:48 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 3Q 매출 104.6조…사상 첫 100조 돌파",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sN2JLOWlfel9vMEl3QlBzMU9xT0d4NllWeW5XVUNjbUFLQ2lPT0ZlSVAwMlk0RkgwY0V1T01vX0E1UXVXV1hIOFFDVy04am5GTHJKZS1BbURQZkFJNnA2Q3JFSF9nN0JVVGNTOURJZ1rSAXRBVV95cUxOcVEybENGOVp3eWM0WUdOaW82amlkbFQ4dXI2ci1JaGxLWjNkMkc1UUJFckFWOENyY056Y3hQSDhCczhEQjBpMWJoRmpKeERyY1JRTXRkUGJNRlRsX1lYNnB1NTdmdjFuZTc1X1Nhc0o4RE15NQ?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-28",
+   "datetime": "2026-10-28 08:29 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "\"내일은 빨간불 뜨겠죠?\"…SK하이닉스 개미들 '초긴장' [종목+]",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QN21OTVY3cGhvSUdWZElraHlGazJhSjVUZFp6SWlHb29aVXFLNXlzTE9ZZ0hGaXNlY1dPV1UyWFVSa0h1RmtCaWpkamNHREE5cWRuZkptbFAyUQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-10-27",
+   "datetime": "2026-10-27 22:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "[박동흠의 생활 속 회계이야기]SK하이닉스 ‘솔리다임 상장 사태’가 K증시에 남긴 교훈",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xVEg3T3hQU1Ytd2F1blY4YVRvVU9hdEplN3NQaEhKdTU4SWRyTVhJRm9qamRjYVVXQm9yNV9uaUdjbDM1NzRHNVNJT0wxc0ZpNWN2TzJXVk90QdIBX0FVX3lxTE05YWl1cWhKODNvUWdTUHhMMzNIbGt0TnJubVB3d0FwZGlXeGVEVFZQMUJFZ3VxOXFSWFd4bUxNUmpIWUkzN2txeVA0N0xncjJSOEt0N1A3TWJ2LVlwcVZn?oc=5",
@@ -40,30 +100,6 @@
    }
   },
   {
-   "title": "SK하이닉스 실적발표 D-1···관건은 ‘영업이익’과 ‘주주환원’",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiV3ZXN1hEdjAyQ0hmWHJZaUtNRGVtTGFaekVtUXBCYzkxdjdUUDdsTzF5eE1wWHgxZVIySnNGWTNxR2pIM3czem9mNlh2TG1jbFlNbjAycWVLWUNmMnVjeExxdHMzZ0hMQnNHVENKeTZ5QdIBdkFVX3lxTE1JN2tIUGg1bXBYZ18tTTlQYXBRUVZ3cGJFNVNEaGM4OWtVNXlQOFhwTjd0aUVSV3FmeUpDdlk4QWZ0STFQdjA0cGwyTGN5dGQyMEN6VVRTdjBnakx4ZEpzZ3AxWThZNWZvVHAzS0ptY2tQU19URHc?oc=5",
-   "source": "시사저널e",
-   "date": "2026-10-27",
-   "datetime": "2026-10-27 16:16 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "예탁금 90조 아래로…'SK하이닉스' 주주환원, 수급 돌릴까",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mTDdJMWJSLWJVZkJLOUM1TWl6aFVqalBWM3YzeTFidzFVZF9rOHR3YnJ3NG9SMjNrMEQ0UDk4ejVsaV9YOHJYVDl1WjhGUGRTRzZLdENuVXdERmlM?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-10-27",
-   "datetime": "2026-10-27 15:33 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
    "title": "SK하이닉스 美 레버리지 ETF 2종, 상장 3개월 만에 청산",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SQV9Ccl84ZjBkWkJyaVZnZzRwOGN5U2Y4ZHV2UFZpck1FaFVzZWY3RVZPZDB3MXlpb3NiRVpVY0syR1lUcWYtamNQeTZRWnU0ZGM3UzBmUFBNakxEVnc5MnVUcl9iV3BnT2V4ZGZn?oc=5",
    "source": "아시아투데이",
@@ -77,46 +113,10 @@
   },
   {
    "title": "RBC, SK하이닉스 ADR 목표가 200달러 유지…40% 상승 여력",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxTE14a3hXUElMR2ZfSk1nbjJTWnhQb2gwQ2JyMXJwbDBaalROMDZDYlJCTUx1MW5IT2N6RzVrU1E4SXZORWFrWm13UVdxMjJLWUFKaU5lSWRUQkkzWDdIWGZKMWlsMkFmRVp6SnBtdXk?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IT0RFVzZ0M3o5NmhwTnNrVFdTV2FyTXJ6aVJpbUlkdEZ4NXRKWHhsUm45Q1B2ZlBibGhLX0JON0dpY2NZMnVBdWRRXzctVEJ0LXBUNm12bUZuZ2E2SngxMmtFX2E4bHBQM3hrQTJibEhoTmJC?oc=5",
    "source": "연합인포맥스",
    "date": "2026-10-27",
-   "datetime": "2026-10-27 14:28 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
-   "title": "엔비디아, 베라 루빈 HBM4 대역폭 13% 하향…삼성·SK하이닉스 공급 확대 기대",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1na3VUa0Ztb2JTRTBHVlBkQmFhQWVJX2hBbGJEbmJsM3NUQ1dYc2FkdkZuTWcyOHJVSWlmSTlyd3dkWXRUNUZnek1uUFctdw?oc=5",
-   "source": "전자신문",
-   "date": "2026-10-27",
-   "datetime": "2026-10-27 13:58 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "3개월 동안 77조 쓸어 담는다…SK하이닉스 '역대급 실적' 예고",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUTJBbVoxZWZfempTOFhTeDEtWlk3S052am03MDV2MDJoaWVTZXc1NVBWTWd0MTJUMnhaaTdST28wY0h1Q1ZiN0YtbERSbFlrV01VTFBCMnYxQQ?oc=5",
-   "source": "한국경제",
-   "date": "2026-10-27",
-   "datetime": "2026-10-27 13:46 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 앤스로픽 사상 최대 IPO.. '강세'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkgzUy1NQ1JXTnNQREh5SUdKYzcxTE5FQ0JkRThVYVV6R0FuenZrS0xCaVRBYXR1UlhiZUM1dTg1UG1fRGptc0ZFeF9mZjNwT0w0X0RGZE5ic3Fna2h4T3luOUtKanRMbHU0VmNTOEk3cFJUdEZfMFQ4TDVoR0hXRjA3bzFpanBq?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-10-27",
-   "datetime": "2026-10-27 13:21 KST",
+   "datetime": "2026-10-27 14:32 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
