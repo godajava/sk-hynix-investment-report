@@ -269,6 +269,11 @@ def _strip_resolved_negatives(title, neg_hits):
     return resolved
 
 
+# "영업익 83조", "영업이익 76.9조"처럼 조 단위 영업이익을 제목에 내건 기사는 수치 자체가
+# 호재(SK하이닉스 분기 영업이익이 수십 조 단위인 국면)이므로 악재 키워드가 없으면 호재로 본다.
+BIG_PROFIT = re.compile(r"(영업익|영업이익)\s*\d+(\.\d+)?\s*조")
+
+
 def classify(title):
     """제목을 신호등(호재/악재/중립)으로 자동 분류한다. PHRASE_RULES 우선,
     그 다음 해소 표현 반영 키워드 카운트 순으로 판정한다."""
@@ -284,6 +289,8 @@ def classify(title):
     pos = len(pos_hits)
     neg = len(neg_hits) - _strip_resolved_negatives(title, neg_hits)
 
+    if neg <= 0 and BIG_PROFIT.search(title):
+        return {"cls": "up", "label": "호재", "emoji": "🟢"}
     if pos > neg:
         return {"cls": "up", "label": "호재", "emoji": "🟢"}
     if neg > pos:
