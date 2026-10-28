@@ -27,47 +27,81 @@ MARKERS = {
 TECH_CHARTS = ["candle_volume", "macd", "kdj", "adx_atr", "atr"]
 
 
+SENT = {
+    "up": ("pos", "긍정", 1),
+    "flat": ("neu", "중립", 0),
+    "down": ("neg", "부정", -1),
+}
+
+
+def _sent(it):
+    return SENT.get((it.get("signal") or {}).get("cls", "flat"), SENT["flat"])
+
+
 def render_news(news_path="docs/news.json"):
-    """docs/news.json을 읽어 '최신 뉴스 Top 10'의 정적 <li> 스냅샷을 만든다.
+    """docs/news.json을 읽어 '최신 뉴스 Top 10'의 감성 요약 카드와 뉴스 카드 <li>의
+    정적 스냅샷을 만든다.
 
     웹 페이지는 loadNews() JS로 실시간 갱신되지만, Artifact(fetch 차단)에서는
     이 빌드 시점 스냅샷이 그대로 노출된다. loadNews()와 동일한 마크업을 생성한다.
-    반환: (li들의 HTML, fetchedAt 문자열)
+    반환: (li들의 HTML, 감성 카드 HTML, fetchedAt 문자열)
     """
     if not os.path.exists(news_path):
-        return "", ""
+        return "", "", ""
     try:
         data = json.load(open(news_path, encoding="utf-8"))
     except Exception:
-        return "", ""
+        return "", "", ""
     items = data.get("items") or []
     e = html.escape
     lis = []
+    for i, it in enumerate(items):
+        cls, label, score = _sent(it)
+        dt = (it.get("datetime") or it.get("date") or "").replace(" KST", "")
+        src = f' <span class="nsrc">- {e(it["source"])}</span>' if it.get("source") else ""
+        lis.append(
+            f'<li><span class="nnum">{i + 1}</span><div>'
+            f'<h3 class="ntitle">{e(it.get("title", ""))}{src} '
+            f'<span class="pill {cls}">{label} ({score:+.1f})</span></h3>'
+            + (f'<div class="ndate">{e(dt)}</div>' if dt else "")
+            + (f'<p class="nsum">{e(it["summary"])}</p>' if it.get("summary") else "")
+            + (f'<a class="nlink" href="{e(it["url"])}" target="_blank" rel="noopener">기사 전문 보기 →</a>'
+               if it.get("url") else "")
+            + "</div></li>")
+
+    n = len(items)
+    cnt = {"pos": 0, "neu": 0, "neg": 0}
+    total = 0
     for it in items:
-        sig = it.get("signal") or {"cls": "flat", "label": "중립", "emoji": "⚪"}
-        chip = (f'<span class="chip {e(sig.get("cls", "flat"))}">'
-                f'{e(sig.get("emoji", "⚪"))} {e(sig.get("label", "중립"))}</span> ')
-        date = (f'<span class="chip flat" style="font-variant-numeric:tabular-nums">'
-                f'{e(it.get("date", ""))}</span> ') if it.get("date") else ""
-        src = (f' <span style="color:var(--muted)">· {e(it.get("source", ""))}</span>'
-               if it.get("source") else "")
-        t = e(it.get("title", ""))
-        url = it.get("url", "")
-        title = (f'<a href="{e(url)}" target="_blank" rel="noopener">{t}</a>'
-                 if url else t)
-        lis.append(f"<li><div><h3>{chip}{date}{title}{src}</h3></div></li>")
-    return "".join(lis), data.get("fetchedAt", "")
+        cls, _, score = _sent(it)
+        cnt[cls] += 1
+        total += score
+    avg = total / n if n else 0.0
+    tot = "pos" if avg >= 0.3 else "neg" if avg <= -0.3 else "neu"
+    tot_label = {"pos": "긍정", "neu": "중립", "neg": "부정"}[tot]
+    seg = "".join(f'<span class="{k}" style="width:{100 * cnt[k] / n}%"></span>'
+                  for k in ("pos", "neu", "neg") if cnt[k])
+    legend = "".join(
+        f'<span class="{k}"><i></i>{l} {cnt[k]}건 ({round(100 * cnt[k] / n) if n else 0}%)</span>'
+        for k, l in (("pos", "긍정"), ("neu", "중립"), ("neg", "부정")))
+    sent = (f'<p class="sent-title">뉴스 감성 분석 (최신 뉴스, TOP {n}건)</p>'
+            f'<div class="sent-row"><span class="sent-label">종합 감성:</span>'
+            f'<span class="sent-score {tot}">{tot_label} ({avg:+.2f})</span>'
+            f'<div class="sent-bar">{seg}</div></div>'
+            f'<div class="sent-legend">{legend}</div>') if n else ""
+    return "".join(lis), sent, data.get("fetchedAt", "")
 
 
 def build(date):
     tpl = open("scripts/report_template.html").read()
 
     # 최신 뉴스 Top 10: 빌드 시점 스냅샷을 새겨 넣는다(Artifact fetch 차단 대비).
-    news_html, news_when = render_news()
+    news_html, news_sent, news_when = render_news()
     if "__NEWS_TOP10__" in tpl:
-        placeholder = ('<li><div><h3><span class="chip flat">뉴스 로딩 중…</span> '
+        placeholder = ('<li><span class="nnum">·</span><div><h3 class="ntitle">뉴스 로딩 중… '
                        '구글 뉴스에서 SK하이닉스 최신 기사를 불러옵니다.</h3></div></li>')
         tpl = tpl.replace("__NEWS_TOP10__", news_html or placeholder)
+    tpl = tpl.replace("__NEWS_SENT__", news_sent)
     if news_when:
         tpl = tpl.replace(
             '<span id="news-feed-when"></span>',

@@ -22,6 +22,12 @@
   --news-pos-bg: rgba(31,157,99,0.12);
   --news-neg: #d64545;
   --news-neg-bg: rgba(214,69,69,0.10);
+  /* 뉴스 감성 카드(긍정/중립/부정) */
+  --sent-pos: #52ab68;
+  --sent-neu: #94a3b8;
+  --sent-neg: #d9534a;
+  --sent-num: #3b5bdb;
+  --sent-card-shadow: 0 2px 10px rgba(22,24,29,0.07);
   /* 차트 SVG는 자체 배경색을 그려 넣으므로 카드 배경도 같은 톤으로 맞춘다 */
   --chart-card: #fcfcfb;
   --chart-filter: none;
@@ -47,6 +53,11 @@
     --news-pos-bg: rgba(74,211,147,0.14);
     --news-neg: #ff6b6b;
     --news-neg-bg: rgba(255,107,107,0.14);
+    --sent-pos: #4aa862;
+    --sent-neu: #7c8aa5;
+    --sent-neg: #e0605a;
+    --sent-num: #4f6ef0;
+    --sent-card-shadow: none;
     /* 차트는 별도 다크 자산 없이 필터로 반전 — 흰 배경↔어두운 배경, 색상 톤은 대체로 보존 */
     --chart-card: #1b1d23;
     --chart-filter: invert(0.93) hue-rotate(180deg);
@@ -72,6 +83,11 @@
   --news-pos-bg: rgba(74,211,147,0.14);
   --news-neg: #ff6b6b;
   --news-neg-bg: rgba(255,107,107,0.14);
+  --sent-pos: #4aa862;
+  --sent-neu: #7c8aa5;
+  --sent-neg: #e0605a;
+  --sent-num: #4f6ef0;
+  --sent-card-shadow: none;
   --chart-card: #1b1d23;
   --chart-filter: invert(0.93) hue-rotate(180deg);
 }
@@ -198,19 +214,64 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
   .tech-indicators td.num { white-space: normal; word-break: keep-all; }
 }
 
-/* ── 뉴스 리스트 ── */
-ol.news { list-style: none; margin: 0; padding: 0; counter-reset: n; }
+/* ── 뉴스 감성 카드 + 뉴스 카드 리스트 ── */
+.sent-card {
+  background: var(--paper); border: 1px solid var(--hairline); border-radius: 20px;
+  box-shadow: var(--sent-card-shadow); padding: 22px 24px; margin: 0 0 20px;
+}
+.sent-card .sent-title { font-size: 14px; font-weight: 700; color: var(--ink-2); margin: 0 0 16px; }
+.sent-card .sent-row { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+.sent-card .sent-label { font-size: 15px; color: var(--ink); }
+.sent-card .sent-score { font-size: 28px; font-weight: 800; letter-spacing: -0.5px; white-space: nowrap; }
+.sent-card .sent-score.pos { color: var(--sent-pos); }
+.sent-card .sent-score.neu { color: var(--sent-neu); }
+.sent-card .sent-score.neg { color: var(--sent-neg); }
+.sent-bar {
+  display: flex; flex: 1 1 200px; min-width: 160px; height: 18px; border-radius: 999px; overflow: hidden;
+  background: var(--hairline);
+}
+.sent-bar span { display: block; height: 100%; }
+.sent-bar .pos { background: var(--sent-pos); }
+.sent-bar .neu { background: var(--sent-neu); }
+.sent-bar .neg { background: var(--sent-neg); }
+.sent-legend { display: flex; gap: 8px 22px; flex-wrap: wrap; margin-top: 16px; font-size: 14px; color: var(--ink-2); }
+.sent-legend i { display: inline-block; width: 16px; height: 16px; border-radius: 50%; vertical-align: -3px; margin-right: 8px; }
+.sent-legend .pos i { background: var(--sent-pos); }
+.sent-legend .neu i { background: var(--sent-neu); }
+.sent-legend .neg i { background: var(--sent-neg); }
+
+ol.news { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 14px; }
 ol.news li {
-  counter-increment: n; display: grid; grid-template-columns: 28px 1fr;
-  gap: 12px; padding: 14px 0; border-bottom: 1px solid var(--hairline); margin: 0;
+  display: grid; grid-template-columns: 34px 1fr; gap: 14px; margin: 0;
+  background: var(--paper); border: 1px solid var(--hairline); border-radius: 20px;
+  box-shadow: var(--sent-card-shadow); padding: 20px 22px;
+  transition: transform .15s ease, box-shadow .15s ease;
 }
-ol.news li::before {
-  content: counter(n, decimal-leading-zero);
-  font-size: 12px; font-weight: 700; color: var(--accent);
-  font-variant-numeric: tabular-nums; padding-top: 3px;
+ol.news li:hover { transform: translateY(-1px); box-shadow: 0 6px 18px rgba(22,24,29,0.10); }
+.news .nnum {
+  width: 34px; height: 34px; border-radius: 50%; background: var(--sent-num); color: #fff;
+  font-size: 15px; font-weight: 700; display: flex; align-items: center; justify-content: center;
+  font-variant-numeric: tabular-nums;
 }
-.news h3 { font-size: 15px; font-weight: 700; margin: 0 0 4px; display: flex; gap: 8px; align-items: baseline; flex-wrap: wrap; }
-.news p { font-size: 14px; color: var(--ink-2); margin: 0; }
+.news .ntitle { font-size: 16px; font-weight: 700; line-height: 1.5; margin: 0; color: var(--ink); }
+.news .ntitle .nsrc { font-weight: 700; }
+.news .pill {
+  display: inline-block; font-size: 12px; font-weight: 600; line-height: 1; padding: 5px 11px; margin-left: 6px;
+  border-radius: 999px; color: #fff; white-space: nowrap; vertical-align: 2px;
+}
+.news .pill.pos { background: var(--sent-pos); }
+.news .pill.neu { background: var(--sent-neu); }
+.news .pill.neg { background: var(--sent-neg); }
+.news .ndate { font-size: 13px; color: var(--muted); margin-top: 6px; font-variant-numeric: tabular-nums; }
+.news .nsum { font-size: 13.5px; color: var(--ink-2); margin: 10px 0 0; line-height: 1.55; word-break: keep-all; }
+.news .nlink { display: inline-block; font-size: 13.5px; margin-top: 8px; color: var(--accent); text-decoration: none; }
+.news .nlink:hover { text-decoration: underline; }
+@media (max-width: 560px) {
+  .sent-card { padding: 18px 16px; border-radius: 16px; }
+  ol.news li { grid-template-columns: 30px 1fr; gap: 10px; padding: 16px 14px; border-radius: 16px; }
+  .news .nnum { width: 30px; height: 30px; font-size: 14px; }
+  .news .ntitle { font-size: 15px; }
+}
 .chip {
   font-size: 11px; font-weight: 700; padding: 2px 8px; border-radius: 3px; white-space: nowrap;
 }
@@ -396,8 +457,9 @@ __TECH_CHARTS__
 
 <section>
 <h2><span class="no">03</span>최신 뉴스 Top 10 <small style="font-size:12px;font-weight:500;color:var(--muted)">SK하이닉스 실시간 뉴스 · 구글 뉴스 자동 수집 · <span id="news-feed-when"></span></small></h2>
+<div class="sent-card" id="news-sentiment">__NEWS_SENT__</div>
 <ol class="news" id="news-feed">__NEWS_TOP10__</ol>
-<p style="color:var(--muted);font-size:12px;margin-top:6px">※ 구글 뉴스에서 'SK하이닉스' 최신 기사를 자동 수집해 날짜순으로 표시합니다. 신호등(🟢 호재 / 🔴 악재 / ⚪ 중립)은 제목 키워드 기반 자동 분류로 참고용입니다. 웹 페이지에서는 실시간 갱신됩니다.</p>
+<p style="color:var(--muted);font-size:12px;margin-top:6px">※ 구글 뉴스에서 'SK하이닉스' 최신 기사를 자동 수집해 날짜순으로 표시합니다. 감성(긍정 +1.0 / 중립 +0.0 / 부정 -1.0)은 제목 키워드 기반 자동 분류로 참고용이며, 종합 감성은 Top 10 점수의 평균입니다(+0.30 이상 긍정, -0.30 이하 부정, 그 사이 중립). 웹 페이지에서는 실시간 갱신됩니다.</p>
 </section>
 
 <section>
@@ -631,6 +693,42 @@ __TECH_CHARTS__
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
     });
   }
+  var SENT = {
+    up:   { cls: "pos", label: "긍정", score: 1 },
+    flat: { cls: "neu", label: "중립", score: 0 },
+    down: { cls: "neg", label: "부정", score: -1 }
+  };
+  function fmtScore(v) { return (v >= 0 ? "+" : "-") + Math.abs(v).toFixed(1); }
+  function sentimentHtml(items) {
+    var n = items.length, c = { pos: 0, neu: 0, neg: 0 }, sum = 0;
+    items.forEach(function (it) {
+      var s = SENT[(it.signal && it.signal.cls) || "flat"] || SENT.flat;
+      c[s.cls]++; sum += s.score;
+    });
+    var avg = n ? sum / n : 0;
+    var tot = avg >= 0.3 ? "pos" : avg <= -0.3 ? "neg" : "neu";
+    var totLabel = { pos: "긍정", neu: "중립", neg: "부정" }[tot];
+    function pct(k) { return n ? Math.round(100 * c[k] / n) : 0; }
+    function seg(k) { return c[k] ? '<span class="' + k + '" style="width:' + (100 * c[k] / n) + '%"></span>' : ""; }
+    function leg(k, l) { return '<span class="' + k + '"><i></i>' + l + " " + c[k] + "건 (" + pct(k) + "%)</span>"; }
+    var sg = (avg >= 0 ? "+" : "-") + Math.abs(avg).toFixed(2);
+    return '<p class="sent-title">뉴스 감성 분석 (최신 뉴스, TOP ' + n + '건)</p>' +
+      '<div class="sent-row"><span class="sent-label">종합 감성:</span>' +
+      '<span class="sent-score ' + tot + '">' + totLabel + " (" + sg + ")</span>" +
+      '<div class="sent-bar">' + seg("pos") + seg("neu") + seg("neg") + "</div></div>" +
+      '<div class="sent-legend">' + leg("pos", "긍정") + leg("neu", "중립") + leg("neg", "부정") + "</div>";
+  }
+  function newsCardHtml(it, i) {
+    var s = SENT[(it.signal && it.signal.cls) || "flat"] || SENT.flat;
+    var dt = (it.datetime || it.date || "").replace(" KST", "");
+    var title = esc(it.title) + (it.source ? ' <span class="nsrc">- ' + esc(it.source) + "</span>" : "");
+    return '<li><span class="nnum">' + (i + 1) + '</span><div><h3 class="ntitle">' + title +
+      ' <span class="pill ' + s.cls + '">' + s.label + " (" + fmtScore(s.score) + ")</span></h3>" +
+      (dt ? '<div class="ndate">' + esc(dt) + "</div>" : "") +
+      (it.summary ? '<p class="nsum">' + esc(it.summary) + "</p>" : "") +
+      (it.url ? '<a class="nlink" href="' + esc(it.url) + '" target="_blank" rel="noopener">기사 전문 보기 →</a>' : "") +
+      "</div></li>";
+  }
   async function loadNews() {
     try {
       var r = await fetch("news.json?ts=" + Date.now(), { cache: "no-store" });
@@ -640,17 +738,9 @@ __TECH_CHARTS__
       if (!items.length) return false;
       var ol = document.getElementById("news-feed");
       if (!ol) return false;
-      ol.innerHTML = items.map(function (it) {
-        var s = it.signal || { cls: "flat", label: "중립", emoji: "⚪" };
-        var sig = '<span class="chip ' + esc(s.cls) + '">' + esc(s.emoji) + " " + esc(s.label) + "</span> ";
-        var date = it.date ? '<span class="chip flat" style="font-variant-numeric:tabular-nums">' + esc(it.date) + "</span> " : "";
-        var src = it.source ? ' <span style="color:var(--muted)">· ' + esc(it.source) + "</span>" : "";
-        var t = esc(it.title);
-        var title = it.url
-          ? '<a href="' + esc(it.url) + '" target="_blank" rel="noopener">' + t + "</a>"
-          : t;
-        return "<li><div><h3>" + sig + date + title + src + "</h3></div></li>";
-      }).join("");
+      ol.innerHTML = items.map(newsCardHtml).join("");
+      var sc = document.getElementById("news-sentiment");
+      if (sc) sc.innerHTML = sentimentHtml(items);
       var w = document.getElementById("news-feed-when");
       if (w && d.fetchedAt) w.textContent = "수집 " + d.fetchedAt;
       return true;

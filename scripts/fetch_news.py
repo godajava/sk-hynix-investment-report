@@ -48,6 +48,15 @@ def clean_title(title):
     return title, src.strip()
 
 
+def clean_summary(desc, limit=160):
+    """RSS <description>(HTML, 관련 기사 제목 나열)에서 태그·엔티티를 걷어낸 요약문."""
+    import html as _html
+    s = re.sub(r"</(li|p|div)>|<br\s*/?>", " ", desc or "")
+    s = _html.unescape(re.sub(r"<[^>]+>", "", s)).replace("\xa0", " ")
+    s = re.sub(r"\s+", " ", s).strip()
+    return s if len(s) <= limit else s[:limit].rstrip() + "…"
+
+
 def parse_rss(xml_bytes):
     root = ET.fromstring(xml_bytes)
     ns = {"": ""}  # 기본 네임스페이스 없음(RSS 2.0)
@@ -83,6 +92,7 @@ def parse_rss(xml_bytes):
             "source": source,
             "date": date_str,
             "datetime": dt_str,
+            "summary": clean_summary(it.findtext("description")),
             "signal": classify(title),
             "_sort": sort_key,
         })
@@ -312,6 +322,7 @@ def merge_previous(items, out_path, keep_days=7):
         merged.append({
             "title": title, "url": url, "source": o.get("source", ""),
             "date": o.get("date", ""), "datetime": dt_str,
+            "summary": o.get("summary", ""),
             "signal": classify(title), "_sort": dt.isoformat(),
         })
     return merged
