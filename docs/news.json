@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-10-29 09:08 KST",
+ "fetchedAt": "2026-10-29 15:53 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스, 3분기 영업이익 83조 원 '역대 최대'‥주주환원은 통 크게",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oeldsOFZsTHRzSE9MZG5yUzBNUkdOd1p6THl3REk0NktMRWFuX25Zb0x1ckVFYTFOd1FGUllCTThXMkllNDJIb0pIdnp1S3RvNEZ0TlpvWC1aRTNDNU1UcExPX0FYdmhvOFJtWlZvNzJlYjVNaEFnZdIBeEFVX3lxTFBRYW5tLXdrSmpDVVdna05DUFM1b2N6OFd2ZWxwY3BlekdtbnZ5c1Z3UlNvODRtYWxNZW5jUWg1Qi1jRGlnMzVGanh0cGg1SE00akhLX1h0V21EdnRJLWhSYWc2d3piaF93V05xUTktTG5IZDc0VHZhNA?oc=5",
+   "source": "MBC 뉴스",
+   "date": "2026-10-29",
+   "datetime": "2026-10-29 14:18 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "크레이머 \"SK하이닉스 실적, AI주 반등 해법 보여줘\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUW84OWF1bnlsZEJjcDhDeUhrUHBwNGdpWHVHcUV4YWlfZUhNeGdzRFNDMDhWQjRUcTEweWw2UU5TTUotRVRzd1Rmc2tCWDVWTU1Pd0FFaTc0YnpwZWpwQ3V5UmtEdTlhQzBDZjM3SGk?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-29",
+   "datetime": "2026-10-29 09:51 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
   {
    "title": "HBM 12단서 8단으로…SK하이닉스 수익성 셈법 달라지나",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KRWFSSGFoTUtzbHFMdVlWck1rQ0VxV0tyQlFBS3VLNm13Mno5RFhEcGtnWDdVN2I1NzlYVWhjYlZob0hvbnlnYVdkOWwwdnJiQW1WQnMwOHJidWhKNHhQbndoNGp1bFBHa2czZ1l4M3M?oc=5",
@@ -18,10 +42,10 @@
   },
   {
    "title": "카운터포인트 \"D램 가격 2달러 시대…SK하이닉스 실적 더 뛴다\"",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0LUk1bmhxcVhLNWdfWC01TUR4ak43M0RKV2pmRkhpWDRiMU9pNFhRR0twUEZFRE9na2VTb2pPcmJEMjV0Z2t3LXBTbUZVdVlVcThPSEJfZVAzNnBUeVNkVE9tNU9pcS1PMFBNWlVkYlM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95V3BFVnJRbEp0WkpCaEhJT01BOWV5aVdtRU1uX0diUGRSb0pNd3ZmWFA1RXpfRDlSS0VxNWlSdk43RDJlT0dhbUlJbzBrMXZqbldvOFlVUy1nRTlpdUhHak16azBMaWNDT0ZkSWw5ZWo4VDl5?oc=5",
    "source": "연합인포맥스",
    "date": "2026-10-29",
-   "datetime": "2026-10-29 08:00 KST",
+   "datetime": "2026-10-29 08:05 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -41,19 +65,6 @@
     "emoji": "🟢"
    },
    "summary": "SK하이닉스의 100조원 주주환원 발표가 코스피 6천 회복으로 이어졌다며 삼성전자도 주주환원에 나설지 주목한다는 보도(헤드라인 기준)."
-  },
-  {
-   "title": "SK하이닉스 3분기 영업익 83조…60조 추가 주주환원",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZYnpZNnVoR0x6MDAydWFrZ2ZIZXRMZkY2NjRlUTFTMS1GQkFZcW5UT20xcVdpQXlOTVJlZU9Ub0hlSlZtaE9sazBYOWtFM2RhOTVjVGJZS0lkRUt1bFVReTlzSUxQQjA?oc=5",
-   "source": "연합뉴스TV",
-   "date": "2026-10-29",
-   "datetime": "2026-10-29 05:16 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   },
-   "summary": "3분기 영업이익 83조원과 함께 60조원 규모의 추가 주주환원을 발표했다는 보도."
   },
   {
    "title": "코스피 6천 탈환, SK하이닉스 폭등...염승환 \"150만 원도 싸다\"는 이유 [몇층이세요]",
@@ -119,19 +130,6 @@
     "emoji": "🟢"
    },
    "summary": "실적 발표 당일 주가가 급등한 이유를 짚은 기사(본문 미확인, 3Q 실적·주주환원 재료가 배경으로 보임)."
-  },
-  {
-   "title": "[단독] \"SK하이닉스 강남사옥?\"…서울시, 르메르디앙 부지 사전협상 재시동 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaGhrbGlSdVBFXzJJWXFoQVhyWUlUZmlvQl9CZFJBMV9Wemx0VUVXSkptelVLNEFsMTRuX2dhX3FXNTRTQkIzSHo4SWk2Nm5TeXZULXJQWXNpczAxQ3lXdlBqMWtxa2dGbUHSAW9BVV95cUxOTl95R3FERTZIQ0haZExwckduZHJsdmFqVmUwTzItMjBxTkVMbVlvNGh3azRyWXBkVkxmaW9VeUhSZ19JM2Z2S3I3T3JOZnZkOExBV1RXY3RpV0JLX2FXTnhCWDFxR1dtN3hlM2tVSlk?oc=5",
-   "source": "머니투데이",
-   "date": "2026-10-28",
-   "datetime": "2026-10-28 17:09 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스 강남 사옥 가능성과 관련해 서울시가 르메르디앙 부지 사전협상을 다시 추진한다는 단독 보도(헤드라인 기준, 세부 내용 확인 불가)."
   }
  ]
 }
