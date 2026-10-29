@@ -1,21 +1,13 @@
 {
  "symbol": "000660.KS",
- "price": 1487000.0,
- "previousClose": 1341000.0,
+ "price": 1526000.0,
+ "previousClose": 1487000.0,
  "previousCloseSource": "yahoo-daily+tradingview-ok",
- "change": 146000,
- "changePercent": 10.89,
- "marketTime": "2026-10-28 15:30 KST",
- "fetchedAt": "2026-10-29 09:08 KST",
+ "change": 39000,
+ "changePercent": 2.62,
+ "marketTime": "2026-10-29 13:20 KST",
+ "fetchedAt": "2026-10-29 13:40 KST",
  "days": [
-  {
-   "date": "2026-10-27",
-   "open": 1346000.0,
-   "high": 1381000.0,
-   "low": 1336000.0,
-   "close": 1341000.0,
-   "volume": 3136495
-  },
   {
    "date": "2026-10-28",
    "open": 1390000.0,
@@ -23,40 +15,45 @@
    "low": 1358000.0,
    "close": 1487000.0,
    "volume": 4244800
+  },
+  {
+   "date": "2026-10-29",
+   "open": 1511000.0,
+   "high": 1587000.0,
+   "low": 1479000.0,
+   "close": 1526000.0,
+   "volume": 3373292
   }
  ],
  "indicators": {
   "macd": {
-   "macd": -107923,
-   "signal": -110217,
-   "hist": 2294,
+   "macd": -88405,
+   "signal": -105855,
+   "hist": 17449,
    "read": "상승 모멘텀 (MACD > 시그널)"
   },
   "atr": {
-   "value": 98059,
-   "pct": 6.6,
-   "read": "일 평균 변동폭 6.6% — 변동성 매우 큼"
+   "value": 98769,
+   "pct": 6.5,
+   "read": "일 평균 변동폭 6.5% — 변동성 매우 큼"
   },
   "adx": {
-   "adx": 29.1,
-   "pdi": 25.8,
-   "ndi": 33.1,
+   "adx": 27.0,
+   "pdi": 30.4,
+   "ndi": 30.5,
    "read": "추세 강함 · -DI 우위(하락)"
   },
   "kdj": {
-   "k": 60.0,
-   "d": 35.9,
-   "j": 108.3,
+   "k": 68.5,
+   "d": 46.7,
+   "j": 111.9,
    "read": "중립 구간 · K > D (단기 상승 우위)"
   },
   "volume": {
-   "today": 4244800,
-   "ma20": 3459619,
-   "ratio": 1.23,
-   "read": "20일 평균 대비 1.2배 — 평균 수준"
+   "today": 3373292,
+   "ma20": 3506722,
+   "ratio": 0.96,
+   "read": "20일 평균 대비 1.0배 — 평균 수준"
   }
- },
- "warnings": [
-  "야후 일봉 종가 None 건너뜀: 2026-10-29"
- ]
+ }
 }
