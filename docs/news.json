@@ -1,14 +1,50 @@
 {
- "fetchedAt": "2026-10-28 22:58 KST",
+ "fetchedAt": "2026-10-29 09:08 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스 3분기 영업이익 83조…“3년 치 완판”",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlN0piMThPcEZscWF5ZFpWRHBwM3BUTmg0emxVTjZiNUxHNTRXU3p6bVU1VTFwOG4ydHFIa2txdFF0ZTU3Nm45ZTc2YU5HLVRiT0U0ZWd6TmpQUkk?oc=5",
-   "source": "KBS 뉴스",
-   "date": "2026-10-28",
-   "datetime": "2026-10-28 21:07 KST",
+   "title": "HBM 12단서 8단으로…SK하이닉스 수익성 셈법 달라지나",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KRWFSSGFoTUtzbHFMdVlWck1rQ0VxV0tyQlFBS3VLNm13Mno5RFhEcGtnWDdVN2I1NzlYVWhjYlZob0hvbnlnYVdkOWwwdnJiQW1WQnMwOHJidWhKNHhQbndoNGp1bFBHa2czZ1l4M3M?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-29",
+   "datetime": "2026-10-29 08:26 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "카운터포인트 \"D램 가격 2달러 시대…SK하이닉스 실적 더 뛴다\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0LUk1bmhxcVhLNWdfWC01TUR4ak43M0RKV2pmRkhpWDRiMU9pNFhRR0twUEZFRE9na2VTb2pPcmJEMjV0Z2t3LXBTbUZVdVlVcThPSEJfZVAzNnBUeVNkVE9tNU9pcS1PMFBNWlVkYlM?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-10-29",
+   "datetime": "2026-10-29 08:00 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[스타트 경제] SK하이닉스 100조 주주환원에 '6천피'...삼성전자도 화답할까?",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91Zk5SZzBFekJrZjJEam5NeFM2MnFqVmFHN1ZBX0oycUE3bGdFMDloUlJvSnd6R2gwYmYxemVRYklhMlk4aEVlVlFlSUpiaEZLcG0zSXJIU1JKQXVVZVE?oc=5",
+   "source": "YTN",
+   "date": "2026-10-29",
+   "datetime": "2026-10-29 07:21 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 3분기 영업익 83조…60조 추가 주주환원",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZYnpZNnVoR0x6MDAydWFrZ2ZIZXRMZkY2NjRlUTFTMS1GQkFZcW5UT20xcVdpQXlOTVJlZU9Ub0hlSlZtaE9sazBYOWtFM2RhOTVjVGJZS0lkRUt1bFVReTlzSUxQQjA?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-10-29",
+   "datetime": "2026-10-29 05:16 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
@@ -76,18 +112,6 @@
    }
   },
   {
-   "title": "SK하이닉스 올해 100조 푼다…삼성전자 주주환원도 주목",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rQlFObWhFck9Ra3dvaGlNSFo3cjNoV0Q1SVBVSTdMcHpsbTFZX0NMZGczVW1vck03dHdLNUU4c1FwSGZWMDFsZndhRVBWV0EzMVZnbGdjbHRlYmtNZmF4eWZTN0gyTmM?oc=5",
-   "source": "연합뉴스TV",
-   "date": "2026-10-28",
-   "datetime": "2026-10-28 17:17 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   }
-  },
-  {
    "title": "[단독] \"SK하이닉스 강남사옥?\"…서울시, 르메르디앙 부지 사전협상 재시동 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQaGhrbGlSdVBFXzJJWXFoQVhyWUlUZmlvQl9CZFJBMV9Wemx0VUVXSkptelVLNEFsMTRuX2dhX3FXNTRTQkIzSHo4SWk2Nm5TeXZULXJQWXNpczAxQ3lXdlBqMWtxa2dGbUHSAW9BVV95cUxOTl95R3FERTZIQ0haZExwckduZHJsdmFqVmUwTzItMjBxTkVMbVlvNGh3azRyWXBkVkxmaW9VeUhSZ19JM2Z2S3I3T3JOZnZkOExBV1RXY3RpV0JLX2FXTnhCWDFxR1dtN3hlM2tVSlk?oc=5",
    "source": "머니투데이",
@@ -97,30 +121,6 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   }
-  },
-  {
-   "title": "[사설] SK하이닉스, 기술력·주주가치로 날다",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE83d1d1dS1wZG1UZjI0b0ZOT2lFNUg0UnEwazVXZUJhdEhPOWQ1cW5zZEFWRURvblk0UWUtX05KVko4V21iZmxfbTQyaVpodw?oc=5",
-   "source": "전자신문",
-   "date": "2026-10-28",
-   "datetime": "2026-10-28 17:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   }
-  },
-  {
-   "title": "SK하이닉스 “3년간 HBM 완판”…메모리 ‘피크아웃’ 일축",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQ3FhaWg4Zzh1eWstQ3Q3Q0I3aHhldjlWdWhjclY2eDBVREhMYTZ5QWlFLVRRZDlOTUs3NTE5VmpvUlFic3ZXZkxrT2wweVdwb0R5c2RGNGtkQdIBX0FVX3lxTE9VT0xFSGxGY0VNSWhUNU43SlVvU0hrSm92OFhVdFBhLWVBZkpfXzAxZkd4SC1SNmEtOTJvZllXaVFEeHNmd3VSOHFNX3hONmo2MXY1ZTVXNmY5V0ZIU0w0?oc=5",
-   "source": "경향신문",
-   "date": "2026-10-28",
-   "datetime": "2026-10-28 16:59 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
    }
   }
  ]
