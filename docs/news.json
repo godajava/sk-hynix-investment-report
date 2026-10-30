@@ -1,40 +1,86 @@
 {
- "fetchedAt": "2026-10-30 15:53 KST",
+ "fetchedAt": "2026-10-30 23:04 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스, 일본서 첫 '파트너스데이' 열었다…협력사와 방향성 공유",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84N2F5OWtjc3hxUGlITnByZVg0eVhiMUVsanQzZHBMaVRtT0JPVy1WR1E1cTc5dGRKMGEwOGdkNG5VSjdlNnFNbWZTRWUzWjlFM2NuWjMwS2w0N202RURBSnFOeFBkc3pyX1BfQkFmbnA?oc=5",
-   "source": "연합인포맥스",
+   "title": "SK하이닉스, 日서 첫 '파트너스데이'…소부장 협력 강화",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxUHY1cFFVYnNnVGw5a2ZPYXNKRWhiV2NwcUNBZ1dwcDFkeGd2RmRGa0ZHSk9ZSFlTV1BiWXJKay1TWnc2R25CZC0zTkJOMklKTWxvb1BR?oc=5",
+   "source": "지디넷코리아",
    "date": "2026-10-30",
-   "datetime": "2026-10-30 15:23 KST",
+   "datetime": "2026-10-30 19:52 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 일본에서 처음으로 협력사 대상 ‘파트너스데이’를 열어 협력사와 사업 방향성을 공유했다는 보도(제목 기준, 세부 내용 확인 불가)."
+   }
   },
   {
-   "title": "SK하이닉스, ‘HBM 개발 주역’ 안현 美 전진 배치…미주총괄 신설",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ibWkxT1pRWFR5MEFGckk2Y3FaMm12QmhUcGt5MDRJWnJCbTF5VzY0MkRZMll6cHNyRXpNLWNIRDgwRHVrd3dxZDB5a2QxckktUkpNdlVLaVV1WlhmbmRYcXV3OA?oc=5",
-   "source": "에너지경제신문",
+   "title": "[기업] SK하이닉스, 일본 협력사와 반도체 공급망 협력 논의",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0ZFY3emhzTzlxN0wwdTV3RFBUaVJJMFBRUkx3MVRoSEVrM3l4bDZvWVBLUF9sU3FCOXE3czJFTGlEWXBRbTR2U3c0aUZLM1AwMW5sdUFxV1h4aDltbXc?oc=5",
+   "source": "YTN",
    "date": "2026-10-30",
-   "datetime": "2026-10-30 11:26 KST",
+   "datetime": "2026-10-30 17:37 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "HBM 개발을 이끈 안현을 미국에 전진 배치하고 미주총괄 조직을 새로 만들었다는 보도(제목 기준, 직책·조직 세부는 확인 불가)."
+   }
+  },
+  {
+   "title": "SK하이닉스, 이틀째 자사주 25만주 매입…증시 하단 지지",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01azVJMWphazBQNFFiU180OEhPUDM4dEVLcTY4TmdtamVGaVJNN3FvWWhuRzBabnZYUEJCTGJfQ3lmak1TOE9SVkRtczFyTTdPWFZ5TTM2WVF6VmRu?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-10-30",
+   "datetime": "2026-10-30 16:56 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "이천시장 SK하이닉스 방류수 규제에 '신중 접근' 필요성 제기",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zNnl6UDNldjhHbEVqSGkyc1Y0MTNod1dJY0p3UUtRNlliU0JZUnVNOFF5X093QkxtSmJrbzdGSkVCZEZqMG5UTGZwbFNFTFZwRkZZaDhYV2ZUZHfSAWBBVV95cUxPa1F4T0FKOHB5a2tiUk43TDRIekl1N3MxbW9TcnhHeGd0VS02MFcxdFhXWENBRl8zemwxTjRPRk5XaFdiZjdVWHY4SEpia0V5RGpGWFNUTExxb29GUWhNODI?oc=5",
+   "source": "연합뉴스",
+   "date": "2026-10-30",
+   "datetime": "2026-10-30 16:45 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "비아트론, SK하이닉스와 3D D램 적층 장비 개발",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nYzU4MEdLWFFubVRacUdoWTh4azQ0TldDN3gtdXVZMGFxSUdjS2JYYVVINVBKdkp2cmpRRmdUdXR5Y292SnR1QmZjQzdYbmJoRWg0YWFmM1JEZ2dneUlHN2N2UlZ0dw?oc=5",
+   "source": "디일렉",
+   "date": "2026-10-30",
+   "datetime": "2026-10-30 16:03 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "코스피 4%대 급락에 매도 사이드카 발동…삼성전자·SK하이닉스 '휘청'",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aWk9IOEJhZUdiZ1kwb0RmbENra2N2cHdKeUYwUks1eWZ1eWFVcVpWdmlULW5SeGNuVFVzV0pBZlZQY190WTFKOTVkTjh3UUoyaWNUMlZab2VnTmJrcDhOWHFUdGZSNnZsUXc?oc=5",
+   "source": "주간조선",
+   "date": "2026-10-30",
+   "datetime": "2026-10-30 12:10 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
   },
   {
    "title": "SK하이닉스, 성과급 시기 맞춰 예담CP 조 단위 자금집행",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwVDMwdmZyYUx2OUw3Q01kVDBmbWhoZ3RvZFF0WjN4eWtQRjZENEN1UWs4WnEtMGtlOVJCTnU3NkFDdXhvZDh0Tkt2OGQ2ejhYQVhhMWVGcXJId0s0X29KcDY3M1NEZW15d2NCbHlPbDA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XYkt3RkZYUXdtbVNNakhJWTBkZ2h5Q3V2VWVWTGVZZVFsWXYtWkJiaWVmQ21iVUlMMTRpQUtrdWYzMWlaR05RVU55OVJhOW5QM0xhV2N3RXYwcWF0U3l5UXZzb2RuZDdDTTlKVDR3ZnljOVpV?oc=5",
    "source": "연합인포맥스",
    "date": "2026-10-30",
-   "datetime": "2026-10-30 10:21 KST",
+   "datetime": "2026-10-30 10:25 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -56,24 +102,11 @@
    "summary": "SK하이닉스 인사 소식을 전한 연합뉴스 안내(제목 기준, 세부 내용 확인 불가)."
   },
   {
-   "title": "코스피 4%대 급락에 매도 사이드카 발동…삼성전자·SK하이닉스 동반 약세",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdTBCZnVBdDVTcXNLQ0dJUFd3QkZtaTd0YVBySEJFd2hOWXBWd05leFp5cm9GZl9aN2xfTXdqLV95ZVR2RDVlNUJXVVIzcHJ3S1VHUzVsVUJ0RGhSYlVfSFBwQ2s4TFdVWU55Vkx3YXhabHV6emx3SEYwa2VhNTVmNk1rRmVvR1AtTm1V?oc=5",
-   "source": "조선일보",
-   "date": "2026-10-30",
-   "datetime": "2026-10-30 10:09 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   },
-   "summary": "코스피가 4%대 급락해 매도 사이드카가 발동됐고 삼성전자·SK하이닉스도 함께 약세였다는 보도로, 종목 고유 악재가 아니라 시장 전체 급락 기사(제목 기준)."
-  },
-  {
    "title": "미국 기술주 덮친 AI 투자 우려… 삼성전자·SK하이닉스 반등에도 걸림돌",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSS1MemdtTkx4eDkyR2NNMW9qTHFJQzhMVVg2YUNNQmNoQ0Z1LWZxYkQxM3JYV3BpaHU2ZHFnVmF1ZHgyV1dSc2xrV0pwNHhkYzJmNWs2YXczdk9COG5aVkgzMWhuRWlDc3FCSWlnczg2ZmE1QzlHdHFRMDFhSThWSGFMdnJ5MGxqVzBF?oc=5",
    "source": "조선일보",
    "date": "2026-10-30",
-   "datetime": "2026-10-30 08:39 KST",
+   "datetime": "2026-10-30 08:45 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
@@ -93,45 +126,6 @@
     "emoji": "🟢"
    },
    "summary": "SK하이닉스 목표 주가 370만원 전망과 내년 영업이익 600조원 추정을 다룬 기사(제목 기준, 주체·근거 확인 불가)."
-  },
-  {
-   "title": "[단독] SK ‘전략통’ 윤풍영 수펙스 사장, 하이닉스로… 곽노정과 글로벌 확장 이끈다",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVppWGk2UGpQODctVjRvSnBIOWlCRW80U1FpTm1oampUMG80WDB2OEQxR1J6cDNkVmllSmVfZEpLbUZOT2R5MV9GYUdRbk83Um54TDdCOTh1ejQ1Y2ZvZXI2aDB4bGU2ajNQNHk2VUVkY0tISmVEYzFNejFKOXlqWUpMZ0PSAZgBQVVfeXFMUGJ4eG96czlaZmFLVXE5QWRkY0pQWE5SWUFkTU9HYTU0MjBqQS10S2JSb1AtVHdHU19xbWJTczl0WnBweHgtc1VJWFNXQWxOTm1DbTV0VGp5Q28zeFNXZDhTSTN3X0Y1bEY2S3N4TmxSSUdZZGhIZU5sYnp5RnBtd19ZelBNTzZfVTgzNXV0SGV6c09RQkRsdTk?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-10-29",
-   "datetime": "2026-10-29 17:27 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK 수펙스추구협의회 소속 윤풍영 사장이 SK하이닉스로 이동해 곽노정 대표와 글로벌 확장을 이끈다는 단독 보도(제목 기준, 인사 확정 여부는 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스, 20조 자사주 매입 첫날부터 25만주···이번에도 조기 종료?",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RbHJ6d2t6VS1SUTFZN1VINDNGYnR2M1FTU18zOWFTRWRLRmc4aEcydjByWWhLUHBzR01HekFtanlLY2pWVXNUbVd6ajctQTljc0U3dWMxc0NBTTNpTDB2Ty1zbGtzRkpYVkpjS1JIdkdfdmNobHfSAXZBVV95cUxOUWxyendrelUtUlExWTdVSDQzRmJ0djNRU1NfMzlhU0VkS0ZnOGhHMnYwclloS1Bwc0dNR3pBbWp5S2NqVlVzVG1Xemo3LUE5Y3NFN3VjMXNDQU0zaUwwdk8tc2xrc0ZKWFZKY0tSSHZHX3ZjaGx3?oc=5",
-   "source": "시사저널e",
-   "date": "2026-10-29",
-   "datetime": "2026-10-29 16:53 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   },
-   "summary": "20조원 규모 자사주 매입이 첫날 25만주로 시작됐고 이번에도 조기 종료될지 짚은 기사(제목 기준, 세부 내용 확인 불가)."
-  },
-  {
-   "title": "CXMT, 수율 20%에도 HBM3E 양산 추진…SK하이닉스는 70%",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xa1owaFhmdWN5MmpvbXFyRU9QSGxMWGhjQ2hXbUNKckNfVF8yTlF5VDdicFlGcE5tOVV1bW1HV3VJZHBsX2I5M3NtS0FWTjB6X1FoRnFFVUpNTFBLdm9LWTlDOVB6OWIybWc?oc=5",
-   "source": "AI타임스",
-   "date": "2026-10-29",
-   "datetime": "2026-10-29 16:26 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   },
-   "summary": "중국 CXMT가 수율 20% 수준에서도 HBM3E 양산을 추진하며 SK하이닉스는 수율 70%라는 비교를 전한 기사(제목 기준, 수율 출처·기준 확인 불가)."
   }
  ]
 }
