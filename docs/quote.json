@@ -1,12 +1,12 @@
 {
  "symbol": "000660.KS",
- "price": 1449000.0,
+ "price": 1478000.0,
  "previousClose": 1418000.0,
  "previousCloseSource": "yahoo-daily+tradingview-ok",
- "change": 31000,
- "changePercent": 2.19,
- "marketTime": "2026-11-02 11:25 KST",
- "fetchedAt": "2026-11-02 11:45 KST",
+ "change": 60000,
+ "changePercent": 4.23,
+ "marketTime": "2026-11-02 12:24 KST",
+ "fetchedAt": "2026-11-02 12:44 KST",
  "days": [
   {
    "date": "2026-10-30",
@@ -19,41 +19,41 @@
   {
    "date": "2026-11-02",
    "open": 1402000.0,
-   "high": 1464000.0,
+   "high": 1479000.0,
    "low": 1389000.0,
-   "close": 1449000.0,
-   "volume": 1208887
+   "close": 1478000.0,
+   "volume": 1436611
   }
  ],
  "indicators": {
   "macd": {
-   "macd": -71323,
-   "signal": -94943,
-   "hist": 23621,
+   "macd": -69009,
+   "signal": -94481,
+   "hist": 25472,
    "read": "상승 모멘텀 (MACD > 시그널)"
   },
   "atr": {
-   "value": 102074,
-   "pct": 7.2,
-   "read": "일 평균 변동폭 7.2% — 변동성 매우 큼"
+   "value": 101211,
+   "pct": 6.8,
+   "read": "일 평균 변동폭 6.8% — 변동성 매우 큼"
   },
   "adx": {
-   "adx": 25.9,
-   "pdi": 27.3,
-   "ndi": 34.2,
+   "adx": 24.6,
+   "pdi": 27.7,
+   "ndi": 32.1,
    "read": "추세 강함 · -DI 우위(하락)"
   },
   "kdj": {
-   "k": 65.9,
-   "d": 57.3,
-   "j": 83.1,
+   "k": 68.2,
+   "d": 58.0,
+   "j": 88.6,
    "read": "중립 구간 · K > D (단기 상승 우위)"
   },
   "volume": {
-   "today": 1208887,
+   "today": 1436611,
    "ma20": 3587221,
-   "ratio": 0.33,
-   "read": "20일 평균 대비 0.3배 — 감소"
+   "ratio": 0.4,
+   "read": "20일 평균 대비 0.4배 — 감소"
   }
  }
 }
