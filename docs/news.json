@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-11-03 02:00 KST",
+ "fetchedAt": "2026-11-03 15:53 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "\"SK하이닉스, 4분기 영업익 112조 전망…목표가 320만원\"-한투",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9yUE0wdGxLWFNiN1VjZmlXVmFIS29icXZKZnJuYWtvRG43Yzl2R0g1LVVtNHdxUTFVdk85NWZ0WHZ0QnJmaWNqSFhMbjJpaVVsZUpWVTZYSnFnUQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-11-03",
+   "datetime": "2026-11-03 07:47 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, 여전채 이어 예금담보 ABCP까지…자금 운용 기민해졌다",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQckc0UHNzdjlfM0V0ZHFwQkdJeEJUQ2E3empvZ0xsSGdZSHlQNi1GZEtEZHpZNGl4R0dpTzhYWDZrWkw3b0hFTHRkZnlUaXZaZUhYN0FQbUdUSlgzNDMtRDMydVY2ZTl4ZWk5YnZHVncyS1FyNENISmRQVi05WWJoZm1Ibw?oc=5",
+   "source": "인베스트조선",
+   "date": "2026-11-03",
+   "datetime": "2026-11-03 07:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "SK하이닉스 주가, 오늘 상승하는 이유는?",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15WEhCYmdqc2lTWDNFNnp2NGZRSkhyN0JScE13TFZrWmY0V2pyTE05RjN5d0RXRUwtSDVPQnlrbFVEN1M1dmJ5TEFnX0tnSm5MdGdjem5LaHJid0FPYi1wWGJ0WG41Qnl3ckJZN0h1ek1oQ25HYzRj?oc=5",
@@ -95,19 +119,6 @@
    "summary": "삼성전자·SK하이닉스가 미국 반도체주 급락에도 선방했다는 특징주 기사로, 제목의 ‘급락’ 때문에 악재로 분류됐지만 실제 내용은 선방했다는 시황(제목 기준, 세부 수치 확인 불가)."
   },
   {
-   "title": "“SK하이닉스, 목표주가 350만원”…‘역사적 저평가’ 해소될 거라는데",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ESE44NlNhYTdiY1c4aWtDeUdCTE80aGhabDA4WHNkS3hVWDFaUk5KYVJETU1Oc2ZVVlkzOWRZVGpvdW80cFRHbllWZF9HRFRCOVE?oc=5",
-   "source": "매일경제",
-   "date": "2026-11-02",
-   "datetime": "2026-11-02 08:15 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "“SK하이닉스 목표주가 350만원”과 ‘역사적 저평가’ 해소 전망을 다룬 기사(제목 기준, 목표가를 낸 기관·근거 확인 불가)."
-  },
-  {
    "title": "美 중간선거에 삼성·SK하이닉스 촉각…아시아 증시 업종별 희비 전망",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdWF6VTNrR1VvZFlwTUdkeThOVC1oYlphNUtkbU44N2FOMTVuR1NvSGlLdnlTRE44U3ZkMDZUdVFVME5TU2t2ZHlaRWhPRzNKLU5GMXM5OVhURmpjb2VGVTVmdEdOcDNURmQ2ZThPLXNPU21wSGp4Vk1fem1GYno0M2dLYW93SWJV?oc=5",
    "source": "글로벌이코노믹",
@@ -119,19 +130,6 @@
     "emoji": "⚪"
    },
    "summary": "미국 중간선거를 앞두고 삼성전자·SK하이닉스가 촉각을 곤두세우며 아시아 증시 업종별로 희비가 갈릴 것이라는 전망 기사(제목 기준, 세부 내용 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스 채용연계 AI 해커톤, 접속 오류로 예선 차질…재응시 기회 검토",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa3JBTVRHMlJSTF9lVE8tZkJUVjctOEVmMmIyMHJjR1JyNjZpcGFOTElydVFtX1MtTjA2QmdoMTJiNTN2R0FLTm53YmpLUDNlWS03UVllSDlWcklmSTVPOExRTlMtOUtCUTB1OTJqN1dCbktUYzNPYUxTNC1IQmNXMzhB0gGWAUFVX3lxTFB0dGpGVVprbllOVzM3MnZPSF9fSzk0QUx3Qjk4cUdXQnR2QnVOWV9aclR0M0RCNk1samhTeENjNUNySjR6MXp4SDJKeW4wcHAzaVF3bkstV0Z0NTVSeXo3VFVCNHFRMVlaMUpJMGpmVlRwNFdSWm42djZ5Sk5zd2o1enBOTXJXc2R4VkNQa2hGNU0xTUhoZw?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-11-01",
-   "datetime": "2026-11-01 16:22 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   },
-   "summary": "채용연계 AI 해커톤에서 접속 오류가 발생해 예선에 차질이 생겼고 재응시 기회를 검토 중이라는 보도로, 주가·실적과 무관한 채용 행사 운영 이슈(제목 기준)."
   }
  ]
 }
