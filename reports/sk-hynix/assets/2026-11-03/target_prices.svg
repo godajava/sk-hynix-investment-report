@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="348" viewBox="0 0 760 348" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
-<rect width="760" height="348" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="424" viewBox="0 0 760 424" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
+<rect width="760" height="424" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
 <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">증권사 목표주가 vs 현재가</text>
-<text x="24" y="54" font-size="12" fill="#52514e">현재가는 11/3 14:24 지연 시세(장중 잠정). 차트·평균은 보도일 기준 최근 1개월(10/4~) 이내 목표가를 낸 5곳의 단순 평균(370.0만). DS투자증권 264만원(9/29)은 기준 창 이동으로 제외.</text>
+<text x="24" y="54" font-size="12" fill="#52514e">현재가=11/3 확정 종가. 최근 1개월(10/4~) 7곳 단순 평균 360.0만(KB·한투는 헤드라인 기준)</text>
 <text x="120" y="101.0" font-size="12" fill="#0b0b0b" text-anchor="end">SK증권</text>
 <path d="M130,84 h499.7735849056603 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-499.7735849056603 z" fill="#2a78d6" opacity="1.0"/>
 <text x="641.8" y="101.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">400만 (10/12 유지)</text>
@@ -14,13 +14,19 @@
 <text x="120" y="215.0" font-size="12" fill="#0b0b0b" text-anchor="end">하나증권</text>
 <path d="M130,198 h449.39622641509436 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-449.39622641509436 z" fill="#2a78d6" opacity="1.0"/>
 <text x="591.4" y="215.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">360만 (10/13)</text>
-<text x="120" y="253.0" font-size="12" fill="#0b0b0b" text-anchor="end">메리츠증권</text>
-<path d="M130,236 h399.0188679245283 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-399.0188679245283 z" fill="#2a78d6" opacity="1.0"/>
-<text x="541.0" y="253.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">320만 (10/12 상향)</text>
-<line x1="130" y1="78" x2="130" y2="272" stroke="#c3c2b7" stroke-width="1"/>
-<line x1="305.4" y1="78" x2="305.4" y2="272" stroke="#0b0b0b" stroke-width="1.5" stroke-dasharray="4 3"/>
-<text x="305.4" y="290" font-size="11" font-weight="600" fill="#0b0b0b" text-anchor="middle">현재가 139만</text>
-<line x1="596.0" y1="78" x2="596.0" y2="272" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
-<text x="596.0" y="290" font-size="11" font-weight="600" fill="#898781" text-anchor="middle">평균(5곳) 370만</text>
-<text x="24" y="334" font-size="10.5" fill="#898781">출처: 뉴스핌(SK증권·하나·유진·메리츠 리포트 브리핑)·조선비즈·Investing.com 보도 종합 (갱신일 2026-11-03 09:10 재확인, 1개월 초과 보도 제외)</text>
+<text x="120" y="253.0" font-size="12" fill="#0b0b0b" text-anchor="end">KB증권</text>
+<path d="M130,236 h436.8018867924528 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-436.8018867924528 z" fill="#2a78d6" opacity="1.0"/>
+<text x="578.8" y="253.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">350만 (11/2 헤드라인)</text>
+<text x="120" y="291.0" font-size="12" fill="#0b0b0b" text-anchor="end">메리츠증권</text>
+<path d="M130,274 h399.0188679245283 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-399.0188679245283 z" fill="#2a78d6" opacity="1.0"/>
+<text x="541.0" y="291.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">320만 (10/12 상향)</text>
+<text x="120" y="329.0" font-size="12" fill="#0b0b0b" text-anchor="end">한국투자증권</text>
+<path d="M130,312 h399.0188679245283 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-399.0188679245283 z" fill="#2a78d6" opacity="1.0"/>
+<text x="541.0" y="329.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">320만 (11/3 헤드라인)</text>
+<line x1="130" y1="78" x2="130" y2="348" stroke="#c3c2b7" stroke-width="1"/>
+<line x1="306.1" y1="78" x2="306.1" y2="348" stroke="#0b0b0b" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="306.1" y="366" font-size="11" font-weight="600" fill="#0b0b0b" text-anchor="middle">현재가 140만</text>
+<line x1="583.4" y1="78" x2="583.4" y2="348" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="583.4" y="366" font-size="11" font-weight="600" fill="#898781" text-anchor="middle">평균(7곳) 360만</text>
+<text x="24" y="410" font-size="10.5" fill="#898781">출처: 뉴스핌(SK증권·하나·유진·메리츠 리포트 브리핑)·조선비즈·Investing.com·한국경제 헤드라인 종합 (갱신일 2026-11-03 15:58 마감 재조사)</text>
 </svg>
