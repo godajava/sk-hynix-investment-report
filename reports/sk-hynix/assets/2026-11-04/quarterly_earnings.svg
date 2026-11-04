@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="420" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
 <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">분기 실적 추이</text>
-<text x="24" y="54" font-size="12" fill="#52514e">조 원. 26.4Q(E)=증권사 13곳 영업이익 평균, 매출은 2곳 평균(참고용)</text>
+<text x="24" y="54" font-size="12" fill="#52514e">조 원. 26.4Q(E)=증권사 15곳 영업이익 평균, 매출은 2곳 평균(참고용)</text>
 <line x1="64" y1="340.0" x2="724" y2="340.0" stroke="#e1e0d9" stroke-width="1"/>
 <text x="56" y="344.0" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">0조</text>
 <line x1="64" y1="307.1" x2="724" y2="307.1" stroke="#e1e0d9" stroke-width="1"/>
@@ -51,9 +51,9 @@
 <path d="M625.0,340.0 v-213.85714285714283 a4,4 0 0 1 4,-4 h35.0 a4,4 0 0 1 4,4 v213.85714285714283 z" fill="#2a78d6" opacity="0.5"/>
 <path d="M625.0,340.0 v-213.85714285714283 a4,4 0 0 1 4,-4 h35.0 a4,4 0 0 1 4,4 v213.85714285714283 z" fill="none" stroke="#2a78d6" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="646.5" y="115.1" font-size="11" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">132.6</text>
-<path d="M670.0,340.0 v-169.33279465632407 a4,4 0 0 1 4,-4 h35.0 a4,4 0 0 1 4,4 v169.33279465632407 z" fill="#008300" opacity="0.5"/>
-<path d="M670.0,340.0 v-169.33279465632407 a4,4 0 0 1 4,-4 h35.0 a4,4 0 0 1 4,4 v169.33279465632407 z" fill="none" stroke="#008300" stroke-width="1.5" stroke-dasharray="4 3"/>
-<text x="691.5" y="159.7" font-size="11" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">105.5</text>
+<path d="M670.0,340.0 v-168.83990519284637 a4,4 0 0 1 4,-4 h35.0 a4,4 0 0 1 4,4 v168.83990519284637 z" fill="#008300" opacity="0.5"/>
+<path d="M670.0,340.0 v-168.83990519284637 a4,4 0 0 1 4,-4 h35.0 a4,4 0 0 1 4,4 v168.83990519284637 z" fill="none" stroke="#008300" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="691.5" y="160.2" font-size="11" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">105.2</text>
 <text x="669.0" y="362" font-size="12" fill="#0b0b0b" text-anchor="middle">26.4Q(E)</text>
 <text x="669.0" y="380" font-size="11" fill="#898781" text-anchor="middle">이익률 —</text>
 <line x1="64" y1="340" x2="724" y2="340" stroke="#c3c2b7" stroke-width="1"/>
@@ -61,5 +61,5 @@
 <text x="512" y="70" font-size="11" fill="#52514e">매출(조 원)</text>
 <rect x="586" y="60" width="12" height="12" rx="3" fill="#008300"/>
 <text x="604" y="70" font-size="11" fill="#52514e">영업이익 · 점선=전망</text>
-<text x="24" y="406" font-size="10.5" fill="#898781">출처: SK하이닉스 실적(10/28 보도, 검색 요약)·증권사 4Q 추정(13곳, 11/4 집계)</text>
+<text x="24" y="406" font-size="10.5" fill="#898781">출처: SK하이닉스 실적(10/28 보도, 검색 요약)·증권사 4Q 추정(15곳, 11/4 집계)</text>
 </svg>
