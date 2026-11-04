@@ -1,34 +1,34 @@
 {
-  "fetchedAt": "2026-11-04 10:18 KST",
+  "fetchedAt": "2026-11-04 12:12 KST",
   "note": "night_futures=KRX:K2I1!(트레이딩뷰, 20분 지연). 야간 세션(18:00~익일 06:00) 종료 후에는 야간 종가에 해당. 근사 지표이며 투자 판단은 종가 기준.",
   "night_futures": {
     "symbol": "KRX:K2I1!",
     "name": "KOSPI 200 Futures",
-    "last": 900.5,
-    "changePct": 1.73,
-    "change": 15.35,
+    "last": 854.6,
+    "changePct": -3.45,
+    "change": -30.55,
     "open": 885.5,
     "high": 917.35,
-    "low": 884.0,
-    "volume": 59242,
+    "low": 852.95,
+    "volume": 122734,
     "mode": "delayed_streaming_1200",
-    "updateTime": 1793755116,
-    "updateTimeKST": "11-04 10:18:36"
+    "updateTime": 1793761947,
+    "updateTimeKST": "11-04 12:12:27"
   },
   "night_futures_next": null,
   "kospi200_cash": {
     "symbol": "KRX:KOSPI200",
     "name": "KOSPI 200 Index",
-    "last": 881.86,
-    "changePct": -0.43,
-    "change": -3.81,
+    "last": 852.49,
+    "changePct": -3.75,
+    "change": -33.18,
     "open": 910.04,
     "high": 916.67,
-    "low": 878.13,
+    "low": 850.66,
     "volume": null,
     "mode": "streaming",
-    "updateTime": 1793755116,
-    "updateTimeKST": "11-04 10:18:36"
+    "updateTime": 1793761946,
+    "updateTimeKST": "11-04 12:12:26"
   },
   "sox": {
     "symbol": "NASDAQ:SOX",
@@ -53,10 +53,10 @@
     "open": 25246.63,
     "high": 25474.46,
     "low": 25246.63,
-    "volume": 7659630091,
+    "volume": 7659639684,
     "mode": "delayed_streaming_900",
-    "updateTime": 1793754000,
-    "updateTimeKST": "11-04 10:00:00"
+    "updateTime": 1793755932,
+    "updateTimeKST": "11-04 10:32:12"
   },
   "sp500": {
     "symbol": "SP:SPX",
@@ -117,44 +117,44 @@
   "usdkrw": {
     "symbol": "FX_IDC:USDKRW",
     "name": "U.S. DOLLAR / SOUTH KOREAN WON",
-    "last": 1342.18,
-    "changePct": -0.17,
-    "change": -2.32,
+    "last": 1337.68,
+    "changePct": -0.51,
+    "change": -6.82,
     "open": 1344.55,
     "high": 1346.98,
-    "low": 1342.18,
+    "low": 1336.78,
     "volume": 0,
     "mode": "streaming",
-    "updateTime": 1793755103,
-    "updateTimeKST": "11-04 10:18:23"
+    "updateTime": 1793761945,
+    "updateTimeKST": "11-04 12:12:25"
   },
   "sk_hynix": {
     "symbol": "KRX:000660",
     "name": "SK hynix Inc.",
-    "last": 1436000.0,
-    "changePct": 2.72,
-    "change": 38000.0,
+    "last": 1321000.0,
+    "changePct": -5.51,
+    "change": -77000.0,
     "open": 1458000.0,
     "high": 1476000.0,
-    "low": 1423000.0,
-    "volume": 689306,
+    "low": 1315000.0,
+    "volume": 2380193,
     "mode": "delayed_streaming_1200",
-    "updateTime": 1793755117,
-    "updateTimeKST": "11-04 10:18:37"
+    "updateTime": 1793761947,
+    "updateTimeKST": "11-04 12:12:27"
   },
   "samsung": {
     "symbol": "KRX:005930",
     "name": "Samsung Electronics Co., Ltd.",
-    "last": 222500.0,
-    "changePct": 1.37,
-    "change": 3000.0,
+    "last": 211000.0,
+    "changePct": -3.87,
+    "change": -8500.0,
     "open": 226500.0,
     "high": 228000.0,
-    "low": 221000.0,
-    "volume": 3020363,
+    "low": 210500.0,
+    "volume": 9489867,
     "mode": "delayed_streaming_1200",
-    "updateTime": 1793755117,
-    "updateTimeKST": "11-04 10:18:37"
+    "updateTime": 1793761947,
+    "updateTimeKST": "11-04 12:12:27"
   },
   "hynix_adr": {
     "symbol": "NASDAQ:SKHY",
@@ -172,10 +172,10 @@
   },
   "day_futures_naver": {
     "month": "26.12.",
-    "last": "900.30",
-    "changePct": "1.71",
+    "last": "853.85",
+    "changePct": "-3.54",
     "status": "OPEN",
-    "tradedAt": "2026-11-04T09:57:57+09:00"
+    "tradedAt": "2026-11-04T11:52:58+09:00"
   },
   "sox_naver": {
     "last": "10,600.40",
