@@ -1,137 +1,127 @@
 {
- "fetchedAt": "2026-11-04 00:03 KST",
+ "fetchedAt": "2026-11-04 15:53 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "삼성·SK하이닉스 HBM 질주 뒤편의 그늘… 中 \"한국, 반도체 외끌이 충격 대비해야\"",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa1RJc2c4Ri1sTllNZmZvdlF3STBSakpxMlcxS28tYVNHRkdXY3p4UmpUUGFxb3cwTG9SbUxHczNpMUtSb1R6ZXRqN3hDTkJ2aGh4TElxZXpzbHhnY3BOZHNSNjlJQ1RyY1NoMkxsVzg1LUtNcUN3V0dRS3hhTzVybFZsY1FTR09P?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-11-03",
-   "datetime": "2026-11-03 17:52 KST",
+   "title": "SK하이닉스, 中 다롄 공장 증설 허가 난항…美 뉴욕 투자에도 변수",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1kV1pKOHF4Y2E5anUzYnJlUUlnRnpiYWtzZGliakJvVXVPeUpYNnRIaEE1aDI5eWpud19jbWRveEQwU1RpVkRvWFhuQVllYy1EbW1Ic1BiMmNVRlJuTU5JbFBxMFN0dUNq?oc=5",
+   "source": "녹색경제신문",
+   "date": "2026-11-04",
+   "datetime": "2026-11-04 15:11 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "美, 다롄 공장 장비 허가 보류…SK하이닉스 \"정상 반입 중\"",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oOHZpZElXeVhIcm9ISFUtNjJvaThXVDBuN2s3WWZPUUdONlRUM29oOUFJX21vYU1xU0Y0T2hqdWd3cE55YVY1WkF1dW5lVWgxUWNkT0pBd3FFNDQx?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-04",
+   "datetime": "2026-11-04 14:59 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자 이어 SK하이닉스도...증권사 '주식보상 계좌' 유치전",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oakVFYVV2S0QzRUZhSlZ1MXNvOU9ZbUFSOFY4cmcwYWgtZzdLVExGRnZtMDBPbS1pX1NUMWdFdE4zRUs0RmVpZ3o1ZEdVQmJNZUdacHJIWVdfQUNpeGJKX1NpYzhac3dCTFE?oc=5",
+   "source": "비즈워치",
+   "date": "2026-11-04",
+   "datetime": "2026-11-04 14:42 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "美에 133조 투자하려는 SK하이닉스…발목 잡은 건 '中 공장'",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80eXctZUU2enRMeWlfcFlCSllWTDhOX0VEbk5HQVJwSnE2bThWVHRCaXpzZ2lEVmhIcHJHNjFabWxJcVRwcGxnZGtjcWRtNmZJN3dUaVdoMjZWLUEweFFZ?oc=5",
+   "source": "조세일보",
+   "date": "2026-11-04",
+   "datetime": "2026-11-04 14:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "美, SK하이닉스 중국 공장 업그레이드 지연…“뉴욕 투자 차질 불가피”",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sYXpCWjdCal95d1RMSjhyS3BSV0U3ejAtSm9mVUtHVS1MSGxtNjJpV2duVkZvNmxFT1BLZkdWWGlJbVY3T1NsWVlnUmE4MHJXUFVpdnFtRzVHNzE4b2w4RDg2Wi1TM2NJZE40emNMRGjSAXRBVV95cUxPSzN5Y0h5T3RaakhUMnd6Tk1lTDU4MGxNNWpCX25DRDVHWDY2Zm9IbmVzSjBTMlFhbDNoX2R4ZTA1YlpjdlFvUFhSVVlLb0xsOFkxQy1xcGc2ZHdmbUI1M0dmeU95UUNFOTI0YWNYVkZwN0FZNQ?oc=5",
+   "source": "주간한국",
+   "date": "2026-11-04",
+   "datetime": "2026-11-04 11:31 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "삼성전자 저가매수 나선 초고수…SK하이닉스는 이익 확정 [주식 초고수는 지금]",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uY1dQRTgwT09IYWwxVENVSDBSU1dRYjk3cHpqOVd3RmVXWndLN2lEMUFMNTJnN0pqRWQyQkEyZmMtNGhvcEVVSmlYeGRlV25DWkE?oc=5",
+   "source": "매일경제",
+   "date": "2026-11-04",
+   "datetime": "2026-11-04 11:03 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   },
-   "summary": "삼성·SK하이닉스의 HBM 호황 뒤편에서 중국이 “한국은 반도체 외끌이 충격에 대비해야 한다”고 지적했다는 기사로, 제목의 ‘질주’ 때문에 호재로 분류됐지만 내용은 반도체 의존 리스크 경고(제목 기준, 세부 내용 확인 불가)."
+   }
   },
   {
-   "title": "미국行 SK하이닉스 안현 사장 과제는…빅테크 기업과 ‘기술’로 소통",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTaUNKdzNfYU1UcTZFN0FfYVRYUFdVb3ZxakRBTDlUYVdudVI0NzJlaF9TSlM4OWhGYk05clZBelpJTWYtcE1BUDRRckl5c0ZQU01YTkowT0ZYY3hrblU2NlF3R21LMUNSYU9rTW5n?oc=5",
-   "source": "아시아투데이",
-   "date": "2026-11-03",
-   "datetime": "2026-11-03 17:23 KST",
+   "title": "이천시의회, SK하이닉스·반도체융복합교육센터 현장 견학",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85dndsZHY3WXhGZExpNkRoZmdBbWlHQTNqQ29qTmVvbk5lVXR6cGxDNEt1ZFpjMDZPSmxXajZEVW9xUGNwb2VleW1zbjJWYXRESlZta180UTg5Mkd4cWZJUHktY0Z1N2sxNUVPWDR3aTg?oc=5",
+   "source": "인천일보",
+   "date": "2026-11-04",
+   "datetime": "2026-11-04 10:55 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "안현 SK하이닉스 사장이 미국 출장에서 빅테크 기업과 기술로 소통하는 것이 과제라는 보도(제목 기준, 세부 일정·내용 확인 불가)."
+   }
   },
   {
-   "title": "코스피 3.59% 내린 5648 마감...삼성전자 4.2%, SK하이닉스 5% 급락",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNlFUUjRjZkRYaUpuWTlqbW5TdnliNDdsM19NN0FTSGM0U0dmSE5UbnNKWGFQSVhkakc3Sy1JRXRJWEJLS210UFI2X0ZBdXkyV0dlNUZDRVc1TWg1U3B5ZW1FMjJwSmkyQnJhb0szUU1zdUFIa0Z3OVI2NF9pUmZ0dA?oc=5",
-   "source": "조선일보",
-   "date": "2026-11-03",
-   "datetime": "2026-11-03 16:21 KST",
+   "title": "美 ‘러브콜’ 받고도 발목 잡힌 SK하이닉스 뉴욕 공장",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42eTFtaVQ4ZEE2ZVBhV1dmMF9ReFFnY19YWDhjR2JpN3d5THpISzFGZjRsX010LXlYTHBkZHc1TGlKLXdnV1ZCUmNOWDlPSzNiOGdNMmJZNTBQN2c?oc=5",
+   "source": "에너지경제신문",
+   "date": "2026-11-04",
+   "datetime": "2026-11-04 10:47 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "애플의 ’전례 없는’ 메모리 경고, 마이크론 테크놀로지·SK하이닉스 투자심리 흔들어",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTTHl4TFMzZlgwNTF0R2x4RzRCVlVHck9FT3ZPOHZLY0JaT0doNzJQOUpBYVY1RDMzblJsb3N3UnRGSVAyTnBjQmEtVVFRR3NMN0hLR3dxVnE0eWZ0RV9STWdyVmd5cDlBZEppUWZybHY?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-11-04",
+   "datetime": "2026-11-04 10:40 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   },
-   "summary": "11/3 코스피가 3.59% 하락한 5,648에 마감하고 삼성전자 4.2%·SK하이닉스 5% 급락했다는 마감 시황 기사(제목 기준, 원인은 확인 불가)."
+   }
   },
   {
-   "title": "“삼성·SK하이닉스 HBM, 서버칩에 실려 中에 밀수…화웨이에도 팔린다\"",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQc0M0Ym5oQnNqekNMaEVIMGpsb25pejYtdDAwM2ZGNGkzZE5ZM3NramppODQ4V180cVl6ODVaSEZwbHpMNmtwQ09qbUdzUnZrWXcxZC1nRlc2NWZ0MUw2SmlsV0ZrbTFrei1jT2ltaHRDdGRyVFZqdTNPdHZZOEZWMXZ30gGWAUFVX3lxTFBJeWdGT2hHeEFBSl9JRkJReXU1dF84Z0ZvSzhzT1RGSGpHTjRfZkg0U0gtQkkxOVJ6N2o3eWhVSXhOZWhGOGE0Ql9EcFpXNjZQVGVCaXM2QmdDV2Z0Vmw3dEZkYmZlNTY3a2htUXVxSzBVX2VwVkN6bjlNWEtIS0trVVZUSHdCMUR5RDBHdFVrS0NaVFIzUQ?oc=5",
-   "source": "Chosunbiz",
-   "date": "2026-11-03",
-   "datetime": "2026-11-03 16:21 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "Chosunbiz가 삼성전자·SK하이닉스의 HBM이 서버 칩에 실려 중국으로 밀수돼 화웨이에도 팔린다고 보도(제목 기준, 경로·규모·회사 관련성 확인 불가)."
-  },
-  {
-   "title": "\"삼성전자 19만원·SK하이닉스 90만원\"…반도체 조정장 속 하방 시나리오 제시한 전문가",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yOFV3ZTFfRThkZmtjcUw2eVVMb2lUMzZzNDBWQUYycmI2Ykw0N2dhbE4zS0Rkd1hNbVA4N0RvSllXMWNVeWQ3dTU2MndTamJoNDNaaGR5SVlBMnZmRXNsRg?oc=5",
-   "source": "아시아경제",
-   "date": "2026-11-03",
-   "datetime": "2026-11-03 15:47 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "아시아경제가 반도체 조정장에서 한 전문가가 삼성전자 19만원·SK하이닉스 90만원이라는 하방 시나리오를 제시했다고 보도(제목 기준, 제시 근거·기관 확인 불가)."
-  },
-  {
-   "title": "또다시 덮친 AI 거품론…수익성 우려 속 삼성·SK하이닉스 영향은?",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaW54LTIxajVab253WjNOcEwtSVZBUldETmpITlZPblhoeTUyZ1lxYUFTSm1lM0NSVWxnMDM3SnNDdnV6T1lFU1V4UHNvN1V4QTVFYVRvS045bzdIdjF5NC1fVE5FZ1ktMGdGam9saDd4ejB4ekNGVC00a29TdGg2R09HeG1LQQ?oc=5",
+   "title": "[특징주] 삼성전자·SK하이닉스, 나란히 상승하다 '하락세' 전환",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMjFYVlN5Zjd6NXdBdzFUdnVrRkdGVkFGcGFHNXZpX1BNODBYeU9zQ2cyTVVEekhtMEx4SHVJdlFOb1UtUFJvVDJzaERtU2s2YUhCdVpvc3UwUEd4d0RsRWM0Sjg4TjZ3aC13UWdzUWxpOG1Wa1oyNWNPRTV0bUtjZ0hUcTlEVDQ?oc=5",
    "source": "글로벌이코노믹",
-   "date": "2026-11-03",
-   "datetime": "2026-11-03 14:38 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   },
-   "summary": "AI 수익성 우려로 거품론이 다시 불거지는 가운데 삼성·SK하이닉스에 미칠 영향을 다룬 기사로, 제목의 ‘거품론’ 때문에 악재로 분류됨(제목 기준, 세부 내용 확인 불가)."
-  },
-  {
-   "title": "HBM 쏠림에 멈춰 선 성숙 공정…매크로닉스·SK하이닉스, 플래시로 활로 찾는다",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1RXaHFjN3ZHV1JLcmExZGlUMnd6X05TdUN4MDN1cWtSLTJrQkQzQ1hTRnkxSHgxb2VwSUk0UDBUcGVpQXVISVh6RGtNeXhiUXY1VnpOOXVuaGNpQy1fNGkyRk1HMDlHZWFjSThPek9HalU3b29US2VNMk5ULUZLUVJjN0R4b2M?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-11-03",
-   "datetime": "2026-11-03 13:37 KST",
+   "date": "2026-11-04",
+   "datetime": "2026-11-04 10:20 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "HBM 쏠림으로 성숙 공정 투자가 정체된 가운데 매크로닉스와 SK하이닉스가 플래시 메모리에서 활로를 찾는다는 분석 기사(제목 기준, 세부 내용 확인 불가)."
-  },
-  {
-   "title": "채권 끊고 예금 가더니…SK하이닉스, 예금담보 ABCP로 돌아왔다",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqcmt1WTExNHdvWnF6NEFfVGU2cE1KcloyVnVKTEQ3b05XSGdUMUp0LVJudkNsZ2MxVkZtR2NERU4xOVJ0Z0dqT3BpcUZ3RXBLMDFqcmtyN0Flb3hfVmhzYW0wOWJSME9FVjRuMHBrX0lmdw?oc=5",
-   "source": "마켓인",
-   "date": "2026-11-03",
-   "datetime": "2026-11-03 11:04 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 채권 발행 대신 예금 담보 ABCP로 자금을 조달·운용한다는 마켓인 보도(제목 기준, 규모 등 세부 내용 확인 불가)."
-  },
-  {
-   "title": "청주시, SK하이닉스 신규 공장 공업용수 공급 추진…894억 투입",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tOERsZlVNNmE3N1F4T1k3Tnc2aFBBOG5sTUw3eXdieXpWV0s2ZFFOeGhNaFFONlh6ZlhTT0NNNURHODM2RFlmWGE2MG91UVdEeUstR0laZWctSEZu?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-11-03",
-   "datetime": "2026-11-03 10:02 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "청주시가 SK하이닉스 신규 공장에 공업용수를 공급하기 위해 894억원을 투입해 추진한다는 뉴스핌 보도(제목 기준, 세부 일정 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스의 솔리다임 상장 검토 중단…'포기' 문구가 없다",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jOVFieTk0SEE3T1lOWkdRNDRsWmxPNm1udnZkdTd2NDNtMUJyeE9zdW1vSkphS3l6dTNtcmoxdVlOeWZIX19CMzdmaF82eVJVS1dYa2I5cDdyNnRfbkZqb1JKaHJYRjdEWlJB?oc=5",
-   "source": "넘버스",
-   "date": "2026-11-03",
-   "datetime": "2026-11-03 08:51 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   },
-   "summary": "넘버스가 SK하이닉스의 솔리다임 상장 검토 중단 발표에 ‘포기’라는 문구가 없다고 짚은 분석 기사로, 제목의 ‘중단’ 때문에 악재로 분류됐지만 재추진 여지를 시사하는 내용(제목 기준, 세부 내용 확인 불가)."
+   }
   }
  ]
 }
