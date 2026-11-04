@@ -242,15 +242,15 @@ td.num { font-variant-numeric: tabular-nums; white-space: nowrap; }
 
 ol.news { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 14px; }
 ol.news li {
-  display: grid; grid-template-columns: 34px 1fr; gap: 14px; margin: 0;
+  display: grid; grid-template-columns: 26px 1fr; gap: 12px; margin: 0;
   background: var(--paper); border: 1px solid var(--hairline); border-radius: 20px;
   box-shadow: var(--sent-card-shadow); padding: 20px 22px;
   transition: transform .15s ease, box-shadow .15s ease;
 }
 ol.news li:hover { transform: translateY(-1px); box-shadow: 0 6px 18px rgba(22,24,29,0.10); }
 .news .nnum {
-  width: 34px; height: 34px; border-radius: 50%; background: var(--sent-num); color: #fff;
-  font-size: 15px; font-weight: 700; display: flex; align-items: center; justify-content: center;
+  width: 26px; height: 26px; border-radius: 50%; background: var(--sent-num); color: #fff;
+  font-size: 13px; font-weight: 700; display: flex; align-items: center; justify-content: center;
   font-variant-numeric: tabular-nums;
 }
 .news .ntitle { font-size: 16px; font-weight: 700; line-height: 1.5; margin: 0; color: var(--ink); }
@@ -268,8 +268,8 @@ ol.news li:hover { transform: translateY(-1px); box-shadow: 0 6px 18px rgba(22,2
 .news .nlink:hover { text-decoration: underline; }
 @media (max-width: 560px) {
   .sent-card { padding: 18px 16px; border-radius: 16px; }
-  ol.news li { grid-template-columns: 30px 1fr; gap: 10px; padding: 16px 14px; border-radius: 16px; }
-  .news .nnum { width: 30px; height: 30px; font-size: 14px; }
+  ol.news li { grid-template-columns: 24px 1fr; gap: 10px; padding: 16px 14px; border-radius: 16px; }
+  .news .nnum { width: 24px; height: 24px; font-size: 12px; }
   .news .ntitle { font-size: 15px; }
 }
 .chip {
@@ -379,7 +379,7 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 </div>
 
 <section>
-<h2><span class="no">CHART</span>기술적 분석 차트 <small style="font-size:12px;font-weight:500;color:var(--muted)">11/2 종가 확정 quote.json 기준</small></h2>
+<h2><span class="no">CHART</span>기술적 분석 차트 <small style="font-size:12px;font-weight:500;color:var(--muted)">11/3 종가 확정 + 11/4 장중(지연 시세) quote.json 기준</small></h2>
 <div class="chart"><svg xmlns="http://www.w3.org/2000/svg" width="760" height="560" viewBox="0 0 760 560" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="560" fill="#fcfcfb"/>
 <text x="20" y="28" font-size="14.5" font-weight="700" fill="#0b0b0b">일봉 차트 (최근 3개월)</text>
@@ -808,7 +808,6 @@ button.theme-toggle:focus-visible { outline: 2px solid var(--accent); outline-of
 <h2><span class="no">01</span>투자 요약</h2>
 <ul>
   <li><strong>투자의견: 장중 판정 매수 유지(잠정)</strong> — 14:47 데이터(14:24 지연 시세)로 같은 표를 적용했습니다(확정 판정은 11/3 종가 기준 매수 유지). 방향성 4요소는 긍정 3개(②③④)·부정 0개·중립 1개(①)로 매수 유지 조건(긍정 3개 이상·부정 1개 이하)을 충족합니다. ①은 MACD 히스토그램이 +2.03만으로 시그널 위(13:24 +1.60만)이고 KDJ K&lt;D 격차가 -0.4로 줄었지만(13:24 -3.9) DMI 격차는 -8.2(-DI 31.9 &gt; +DI 23.7)로 하락 우위가 이어지고 MACD가 0선 아래라 중립(악화 후 일부 회복)입니다. 14:24 지연 시세 138.2만(-1.18%)은 시가 145.8만(+4.29% 갭업)·고가 147.6만(+5.58%)·저가 130.3만(-6.80%) 범위로, 13:24(131.5만)보다 약 6.7만원 급반등해 저가 대비 +6.0%이지만 고가 대비 -6.4%이고 11/3 종가(139.8만) 아래입니다. 거래량은 개장 324분 누적 374.6만주(1.03배)로 11/3 하루 거래량(230.4만주)의 1.6배입니다. ②③④의 방향은 바뀌지 않았고 11/2 종가(147.2만) 대비 -6.2%이며, 급반등이 종가까지 이어질지는 종가에서 확인합니다. ①이 종가에서 부정이 돼도 긍정 3·부정 1로 매수가 유지되지만 ③ 또는 ④가 약해지면 이탈 조건에 해당합니다.</li>
-  <li><strong>11/2 확정 종가 147.2만(+3.81%)</strong> — 시가 140.2만(-1.13% 갭다운)·고가 149.8만(+5.64%)·저가 138.9만(-2.05%), 거래량 252.5만주(트레이딩뷰 11/2 20:08 시점, 20일 평균의 0.70배; 거래량은 시점마다 달라져 야후 합성 봉은 195.3만주, 트레이딩뷰 15:50 시점은 243.8만주). 시가·고가·저가·종가는 트레이딩뷰와 일치합니다(종가 1,472,000원). 고가 대비 -1.7%에서 마감했고 같은 날 삼성전자는 229,000원(+1.78%), 코스피200 12월물 주간 선물은 918.65(마감 기준)였습니다. 금요일 미국장 급락(SOX -7.20%) 신호와 달리 시가 -1.13% 갭다운 후 반등했으며 원인은 확인 불가입니다(한국경제 “코스피, 장중 상승 전환해 1%대 오름세…하이닉스 반등”, 헤드라인만 확인).</li>
   <li><strong>11/3 확정 종가 139.8만(-5.03%)</strong> — 시가 141.0만(11/2 종가 대비 -4.21% 갭다운)·고가 143.3만(-2.65%)·저가 137.9만(-6.32%), 종가 -7.4만원, 거래량 221.6만주(20일 평균의 0.61배; 야후 quote.json 15:30 확정이며 트레이딩뷰 KRX 피드의 시가·고가·저가·종가·거래량(2,216,189주)과 일치하지만 거래량은 마감 후 정정될 수 있음). 시가 대비 -0.85%, 고가 대비 -2.4%, 저가 대비 +1.4%에서 마감했고 14:24 지연 시세(139.3만)보다 0.5만원 높습니다. 간밤 SOX -3.37%·마이크론 -5.78%·야간선물 -3.84%의 약세 신호가 갭다운으로 이어졌고 10:24 반등 후 되밀렸습니다. 같은 날 삼성전자는 219,500원(-4.15%, 15:52 지연 시세), 코스피200 12월물 주간 선물은 885.50(-3.61%, 15:33 네이버)으로 SK하이닉스(-5.03%)가 상대적으로 더 약했습니다. 10/2 종가(184.1만) 대비 -24.1%, 11/2 확정 종가(147.2만) 상승분(+5.4만원)을 하루 만에 반납했습니다. 하락 원인과 외국인 수급은 확인 불가입니다.</li>
   <li><strong>11/4 장중(14:24 지연 시세)</strong> — 시가 145.8만(+4.29% 갭업)·고가 147.6만(+5.58%)·저가 130.3만(-6.80%), 현재 138.2만(<strong>-1.18%</strong>, -1.65만원), 거래량 374.6만주(20일 평균의 1.03배, 개장 324분 누적). 13:24 지연 시세(131.5만, -5.94%)에서 약 6.7만원 급반등해 11/3 저가(137.9만)·10/30 저가(138.1만)를 되찾았고 저가(130.3만) 대비 +6.0%이지만 고가 대비 -6.4%입니다. 반등 원인은 확인 불가이며 하락 때와 마찬가지로 뚜렷한 재료가 확인되지 않습니다. 외국인은 11/3에 SK하이닉스를 6,376억원 순매도한 것으로 보도됐고(CBC뉴스, 검색 요약·원문 미확인) 11/4 장중 수급은 확인 불가입니다.</li>
   <li><strong>간밤 변수·개장 전 헤드라인</strong>: 미국장(11/3 화)은 반도체 중심으로 반등했습니다. SOX +2.63%(10,600.40)·나스닥 +0.83%(25,372.01)·S&amp;P500 +0.36%(7,568.92), 마이크론 +2.58%(855.10달러), 엔비디아 +2.29%(206.69달러), SK하이닉스 ADR 150.79달러(+2.09%), EWY +2.27%였고 원/달러는 1,343.1원(-0.10%)입니다(night.yml 2026-11-04 08:03 스냅샷). 코스피200 야간선물은 900.2로 주간 종가(885.15) 대비 +1.70%(11/4 06:00, 20분 지연, 야간 세션 값인지 첫 실측 검증 진행 중)입니다. 갭업 출발 가능성이 높아 보이지만 11/3에는 간밤 약세 신호에도 장중 반등과 되밀림이 반복돼 상승 폭과 유지 여부는 불확실합니다(반등 원인은 확인 불가). 11/3 헤드라인은 조선일보 “코스피 3.59% 내린 5648 마감...삼성전자 4.2%, SK하이닉스 5% 급락”(16:21), 글로벌이코노믹 “또다시 덮친 AI 거품론…수익성 우려 속 삼성·SK하이닉스 영향은?”(14:38), Chosunbiz “삼성·SK하이닉스 HBM, 서버칩에 실려 中에 밀수…화웨이에도 팔린다”(16:21)이며 헤드라인만 확인해 세부 내용은 확인 불가입니다.</li>
