@@ -1,20 +1,79 @@
 {
- "fetchedAt": "2026-11-05 15:53 KST",
+ "fetchedAt": "2026-11-06 00:24 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "속보 삼성전자, 장중 한때 20만 원 붕괴...SK하이닉스도 10% 가까이 급락",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ZZVJXc1FhYWNpNE9wWE1oT2NBWmxyYUJENmVuSE1ERlpnU0tWWFI0aTdtVlAyVWZKR1k0V3p3Mm5scElCdE9uNFo3ZGdEb0RzTkg1YkFjc1NGX2VZOVE?oc=5",
-   "source": "YTN",
+   "title": "삼성, D램 3분기 점유율 38% 1위…SK하이닉스 29%로 반등",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yaHRrdXYyQlVTeDctZFVVWXNuY19oNS10V216eTUtaDg1b3lOM1hET245LV9VT1RHVFM0aHhVVTNrNzFkZzBQdkg0UllWSkE1eGYzcVlYUlh4SHJFdGRudm8zeF9NRU0?oc=5",
+   "source": "연합뉴스TV",
    "date": "2026-11-05",
-   "datetime": "2026-11-05 15:02 KST",
+   "datetime": "2026-11-05 17:29 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스, '턱밑 추격' 마이크론 따돌렸다...1위 삼성전자",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92UkZ6cmRhN2hBZ0dTV1hCSW9ZaXpsdmhkejhRaWdUeC1iSmRnTnBxUXBMUm5PeVoxWXprNU5DUW1jejhyV2IyVjE3bmRVQW9qYlFJa2NJUk1iTk1UVTRjQjJn?oc=5",
+   "source": "이코노미스트",
+   "date": "2026-11-05",
+   "datetime": "2026-11-05 17:23 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "'블루웨이브'에 반도체 급락…삼성전자 7%·SK하이닉스 9%↓마감",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oZlk3Q2RiZmwyQTdHWkZhS2VsdkQ0TzJ1Ylh0V1dqNThwdU1ramZIaDF6WDFRQ2lOSVJWUU85RHg4c09QUHNGUkU5NWRITFd6dF9Kb2pUS1JJczlIazlkTllNQkF1QmVuRVHSAW5BVV95cUxOM3gybFhOX28ySmU3Q1did1ZLTTk4Z1A4X0tDR3ltQzBMTHBiTVVWU2Q2UzZNVG1KbVNQRTEzdGRkUUk3Zkp2d2xNaHk1cmQ4RFBPTmo2aVVpSFFEOEJldXA3MmR3U0N2SnNWOTNPZw?oc=5",
+   "source": "주간조선",
+   "date": "2026-11-05",
+   "datetime": "2026-11-05 16:42 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   },
-   "summary": "삼성전자가 장중 한때 20만원 아래로 내려가고 SK하이닉스도 10% 가까이 급락했다는 11/5 속보로, 반도체 대형주 동반 급락 사실을 전하는 기사(제목 기준, 원인·수급 세부 내용 확인 불가)."
+   }
+  },
+  {
+   "title": "SK㈜ 완전자회사 되는 SK에코플랜트···SK하이닉스發 현금이동 신항로?",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9GeXpCcWVDS2FZd1BheUdhaU4yaG5RR0J1eDRUeldScHZGcFFNVXdyd1cyOFJjdnRHMkhzVTBwM2kxT3NLb0EzZGVMU29jU0RjN2dhVFdVOWpYSS1FU0IzSnJpdXZiLTBrZlV5QVNZRmNKZ9IBdkFVX3lxTE1SUHpCRndnWE1FVEh2TW1FQnJNMER1MGNHZXBCSTFZbktMcUhONjRPa2ZuenVUd3ZKWHNNalJOT01LTzZVYU44b3hGX2IzdF9TZWZXVUphWWExQzRTZEpzdnBCR1llOHktMDZTU0lvRGdWYk5TSGc?oc=5",
+   "source": "시사저널e",
+   "date": "2026-11-05",
+   "datetime": "2026-11-05 16:37 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "최태원, SK하이닉스 美 AI 투자법인 이사회 의장 맡아",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zMF9ZbVMtamlDUElDc3h2Z1E1SVNmVnU2ZEQzLXBDTHpTR1psTGU1TWFVOWUydWtMN2JPY0hLNEswakpVZVlkSFRubzA5NkZ4TGF1WjZHLVc1VnlLaXpLag?oc=5",
+   "source": "메트로신문",
+   "date": "2026-11-05",
+   "datetime": "2026-11-05 16:26 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·하이닉스 주가 흔들…지금 ’줍줍’할까, 좀 더 후에 들어가야? 셈법 복잡 By FinancialPost",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GSW1HVG5UYzZndDFsSlNEUWtXUUlCM25pNTBEcGlLSDA4RGJsM2RKVFl0OWlCaGI4VnpWQUhodzdzMkFiVE9heHdzbW1PdGZGaUp4Y3R1bDlia2xwZW5kUy00d1E2ellQYTZVLS1BU1g?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-11-05",
+   "datetime": "2026-11-05 15:40 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
   },
   {
    "title": "美 민주당 의회 장악…삼성·SK하이닉스, 반도체 35% 세액공제 연장 주목",
@@ -28,19 +87,6 @@
     "emoji": "⚪"
    },
    "summary": "미국 의회 구도 변화(민주당 장악)를 계기로 삼성전자·SK하이닉스가 미국 반도체 투자 세액공제(35%) 연장 여부에 주목한다는 기사(제목 기준, 세부 내용 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스, 美 AI 투자법인 ‘하이코’ 확정",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TRDdXUjlIRFEyUVo1ODE1UXVHOWxRZVB2MWJWUlJiUzhDakZKQjlSQUF6Mk9BbXNSbTlfbVJlZ056Z2ZhcUhXQXk0QTdYeW9uZHdMeUptNVZFTDlqXzQ1NW9GT2toSVFaWTZoeUFITUrSAXRBVV95cUxPNER1ODJWOEZfSU93U0FBRm8yMmRfMlkzR2JoelQ1dmN5cllpMHRRRTNGSzF1bmpuMGtzNEZ5N1NqYlNaVVlja3JkUy1uRTdQdHplZ05MXzdSdmtveU40OTFlZ0tBUXFfcUs0Mldxa2hYWXMxUg?oc=5",
-   "source": "IT조선",
-   "date": "2026-11-05",
-   "datetime": "2026-11-05 11:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 미국 AI 투자법인의 명칭을 ‘하이코’로 확정했다는 보도(제목 기준, 법인 규모·일정 확인 불가)."
   },
   {
    "title": "삼성·SK하이닉스, HBM 가격 협상력 확인…AMD \"인상분 고객과 나눠 부담\"",
@@ -80,58 +126,6 @@
     "emoji": "⚪"
    },
    "summary": "SK하이닉스가 솔리다임 IPO를 접고 미국 투자 재원 조달 방식을 다시 설계한다는 IB토마토 기사(제목 기준, 대체 재원·규모 확인 불가)."
-  },
-  {
-   "title": "[종목상담 주식민원처리반] SK하이닉스에 반도체 제조장비 공급 진행 '워트'",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nZGp6OXRqT0lrN1RGRmx5eUp6OUZ5QUFsQlFBNEVpNE1FdDQ2bnhpQVNhbWdBenhrZlJJOVd2dnJSQ2Z6M1o1RW1ZbTNXMmZ3Y0VqNlptTTZiOGlMMnJn?oc=5",
-   "source": "MTN 머니투데이방송",
-   "date": "2026-11-04",
-   "datetime": "2026-11-04 19:01 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스에 반도체 제조장비를 공급 중인 ‘워트’ 종목을 다룬 MTN 종목상담 기사(제목 기준, 공급 규모 등 세부 내용 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스 1주도 100개로 쪼개 24시간 거래…“자산 토큰화, 투자자 문턱 낮춰”",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9sMEgzR0hvRkk0Q1dMNUtwNFZURFlnTURNZllpTDZoaE00WVhWRjVZTVRSWEJUNTZNbDhKY0lVN0NxNVZLQ1pNUzF1WE5VZw?oc=5",
-   "source": "전자신문",
-   "date": "2026-11-04",
-   "datetime": "2026-11-04 17:59 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스 주식 1주를 100개로 쪼개 24시간 거래하는 자산 토큰화 서비스를 다룬 기사(제목 기준, 사업 주체·시행 시점 확인 불가)."
-  },
-  {
-   "title": "[단독] 최태원 회장, SK하이닉스 美 AI 컴퍼니 이사회 의장으로",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RRWNuQlBpdDJGWTZXMWV5SkpPQnc1bHgwWC0xVmxjYzRCNFdxcmNyRURwTDZZNjFJZzAxblR1WGIxREFKemh5Y25SaEZTOENBajlNekJ3anFkSnlTX3pFQjB6UEpGcmt20gFsQVVfeXFMUHJJM3Q4Y1hUeHd5ZHYtMXlSLUdrTm9FRTVqbmJ6RkRoWUxPUjhnbWdocmowbG9FMWR4Z3Q4Vk4tcjF4Z1JLSGktS0lWSml2MWJGcHVuYnFwMzFkY05QMjNxR2dyaU9kWHlHOUlX?oc=5",
-   "source": "블로터",
-   "date": "2026-11-04",
-   "datetime": "2026-11-04 17:43 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "최태원 회장이 SK하이닉스 미국 AI 컴퍼니의 이사회 의장을 맡는다는 단독 보도(제목 기준, 세부 내용 확인 불가)."
-  },
-  {
-   "title": "美 대중 반도체 규제에 SK하이닉스 60조원 뉴욕 공장 투자 ‘빨간불’",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zdnJpYUlvWEZrR3VUd1V3ZnVCdU5Vc3FOSC1RYmMwQ1JJODM5czcxR2p4TzNuTi1DSjQ3eTVkbnBqMUU5YUx5N3RFWmxIU0NQMlUxbDl3?oc=5",
-   "source": "중앙일보",
-   "date": "2026-11-04",
-   "datetime": "2026-11-04 17:06 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   },
-   "summary": "미국의 대중 반도체 규제로 SK하이닉스의 60조원 규모 뉴욕 공장 투자에 빨간불이 켜졌다는 보도로, 제목 기준 악재로 분류됨(규제 내용·SK하이닉스 입장은 확인 불가)."
   }
  ]
 }
