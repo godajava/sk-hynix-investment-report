@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="400" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
 <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">SK하이닉스 주가 흐름 (7/10 ~ 10/14)</text>
-<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 11/5 종가 126.4만(-9.46%). 11/6은 09:03 장중 잠정 111.6만(-11.71%, 11/5 종가 대비·시가 108.9만·고가 111.7만·저가 108.9만, 야후 지연 시세). 지표는 11/6 09:03 잠정.</text>
+<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 11/5 종가 126.4만(-9.46%). 11/6은 10:24 장중 잠정 111.6만(-11.71%, 11/5 종가 대비·시가 108.9만·고가 118.1만·저가 108.9만, 야후 지연 시세). 지표는 11/6 10:24 잠정.</text>
 <line x1="88" y1="332.2" x2="724" y2="332.2" stroke="#e1e0d9" stroke-width="1"/>
 <text x="80" y="336.2" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">110만</text>
 <line x1="88" y1="310.5" x2="724" y2="310.5" stroke="#e1e0d9" stroke-width="1"/>

@@ -5,8 +5,8 @@
  "previousCloseSource": "yahoo-daily+tradingview-ok",
  "change": -148000,
  "changePercent": -11.71,
- "marketTime": "2026-11-06 09:03 KST",
- "fetchedAt": "2026-11-06 09:44 KST",
+ "marketTime": "2026-11-06 10:24 KST",
+ "fetchedAt": "2026-11-06 10:44 KST",
  "days": [
   {
    "date": "2026-11-05",
@@ -19,10 +19,10 @@
   {
    "date": "2026-11-06",
    "open": 1089000.0,
-   "high": 1117000.0,
+   "high": 1181000.0,
    "low": 1089000.0,
    "close": 1116000.0,
-   "volume": 347258
+   "volume": 1913741
   }
  ],
  "indicators": {
@@ -50,10 +50,10 @@
    "read": "중립 구간 · K < D (단기 하락 우위)"
   },
   "volume": {
-   "today": 347258,
+   "today": 1913741,
    "ma20": 3821370,
-   "ratio": 0.09,
-   "read": "20일 평균 대비 0.1배 — 감소"
+   "ratio": 0.5,
+   "read": "20일 평균 대비 0.5배 — 감소"
   }
  },
  "repairedDays": [
