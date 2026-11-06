@@ -1,192 +1,196 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="400" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
 <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">SK하이닉스 주가 흐름 (7/10 ~ 10/14)</text>
-<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 11/4 종가 139.6만(-0.14%). 11/5 종가 126.4만(-9.46%, 시가 132.0만·고가 132.0만·저가 125.0만, 야후 quote.json 15:30 확정·트레이딩뷰 일치). 지표는 11/5 종가 확정.</text>
-<line x1="88" y1="332.7" x2="724" y2="332.7" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="336.7" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">120만</text>
-<line x1="88" y1="308.9" x2="724" y2="308.9" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="312.9" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">130만</text>
-<line x1="88" y1="285.2" x2="724" y2="285.2" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="289.2" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">140만</text>
-<line x1="88" y1="261.4" x2="724" y2="261.4" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="265.4" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">150만</text>
-<line x1="88" y1="237.6" x2="724" y2="237.6" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="241.6" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">160만</text>
-<line x1="88" y1="213.8" x2="724" y2="213.8" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="217.8" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">170만</text>
-<line x1="88" y1="190.0" x2="724" y2="190.0" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="194.0" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">180만</text>
-<line x1="88" y1="166.2" x2="724" y2="166.2" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="170.2" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">190만</text>
-<line x1="88" y1="142.4" x2="724" y2="142.4" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="146.4" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">200만</text>
-<line x1="88" y1="118.6" x2="724" y2="118.6" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="122.6" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">210만</text>
-<line x1="88" y1="94.8" x2="724" y2="94.8" stroke="#e1e0d9" stroke-width="1"/>
-<text x="80" y="98.8" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">220만</text>
+<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 11/5 종가 126.4만(-9.46%). 11/6은 09:03 장중 잠정 111.6만(-11.71%, 11/5 종가 대비·시가 108.9만·고가 111.7만·저가 108.9만, 야후 지연 시세). 지표는 11/6 09:03 잠정.</text>
+<line x1="88" y1="332.2" x2="724" y2="332.2" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="336.2" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">110만</text>
+<line x1="88" y1="310.5" x2="724" y2="310.5" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="314.5" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">120만</text>
+<line x1="88" y1="288.9" x2="724" y2="288.9" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="292.9" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">130만</text>
+<line x1="88" y1="267.2" x2="724" y2="267.2" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="271.2" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">140만</text>
+<line x1="88" y1="245.5" x2="724" y2="245.5" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="249.5" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">150만</text>
+<line x1="88" y1="223.9" x2="724" y2="223.9" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="227.9" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">160만</text>
+<line x1="88" y1="202.2" x2="724" y2="202.2" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="206.2" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">170만</text>
+<line x1="88" y1="180.5" x2="724" y2="180.5" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="184.5" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">180만</text>
+<line x1="88" y1="158.8" x2="724" y2="158.8" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="162.8" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">190만</text>
+<line x1="88" y1="137.2" x2="724" y2="137.2" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="141.2" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">200만</text>
+<line x1="88" y1="115.5" x2="724" y2="115.5" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="119.5" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">210만</text>
+<line x1="88" y1="93.8" x2="724" y2="93.8" stroke="#e1e0d9" stroke-width="1"/>
+<text x="80" y="97.8" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">220만</text>
 <line x1="88" y1="336" x2="724" y2="336" stroke="#c3c2b7" stroke-width="1"/>
-<path d="M88.0,99.6 L96.2,179.3 L104.3,163.1 L112.5,122.9 L120.6,180.0 L128.8,198.5 L136.9,181.4 L145.1,182.8 L153.2,161.7 L161.4,199.7 L169.5,186.2 L177.7,249.5 L185.8,284.9 L194.0,303.7 L202.2,209.5 L210.3,245.4 L218.5,243.0 L226.6,221.4 L234.8,262.6 L242.9,279.9 L251.1,280.4 L259.2,279.2 L267.4,260.4 L275.5,239.2 L283.7,226.9 L291.8,222.8 L300.0,261.4 L308.2,215.9 L316.3,206.6 L324.5,220.7 L332.6,219.0 L340.8,216.6 L348.9,206.6 L357.1,225.0 L365.2,220.0 L373.4,215.4 L381.5,234.5 L389.7,238.5 L397.8,226.4 L406.0,194.3 L414.2,191.6 L422.3,176.7 L430.5,177.4 L438.6,187.1 L446.8,214.5 L454.9,216.2 L463.1,199.7 L471.2,203.1 L479.4,176.4 L487.5,173.8 L495.7,180.5 L503.8,175.2 L512.0,197.6 L520.2,198.3 L528.3,195.7 L536.5,182.1 L544.6,180.2 L552.8,196.4 L560.9,208.3 L569.1,218.3 L577.2,236.4 L585.4,274.9 L593.5,280.6 L601.7,318.0 L609.8,315.6 L618.0,314.4 L626.2,327.3 L634.3,310.4 L642.5,327.3 L650.6,314.4 L658.8,314.9 L666.9,299.2 L675.1,264.5 L683.2,255.2 L691.4,280.9 L699.5,268.0 L707.7,285.6 L715.8,286.1 L724.0,317.5" fill="none" stroke="#2a78d6" stroke-width="2"/>
-<circle cx="88.0" cy="99.6" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
+<path d="M88.0,98.2 L96.1,170.8 L104.1,156.0 L112.2,119.4 L120.2,171.4 L128.3,188.3 L136.3,172.7 L144.4,174.0 L152.4,154.7 L160.5,189.4 L168.5,177.1 L176.6,234.7 L184.6,267.0 L192.7,284.1 L200.7,198.3 L208.8,231.0 L216.8,228.8 L224.9,209.1 L232.9,246.6 L241.0,262.4 L249.0,262.9 L257.1,261.8 L265.1,244.7 L273.2,225.4 L281.2,214.1 L289.3,210.4 L297.3,245.5 L305.4,204.1 L313.4,195.7 L321.5,208.5 L329.5,207.0 L337.6,204.8 L345.6,195.7 L353.7,212.4 L361.7,207.8 L369.8,203.7 L377.8,221.0 L385.9,224.7 L393.9,213.7 L402.0,184.4 L410.0,182.0 L418.1,168.4 L426.1,169.0 L434.2,177.9 L442.2,202.8 L450.3,204.4 L458.3,189.4 L466.4,192.4 L474.4,168.2 L482.5,165.8 L490.5,171.9 L498.6,167.1 L506.6,187.5 L514.7,188.1 L522.7,185.7 L530.8,173.4 L538.8,171.6 L546.9,186.4 L554.9,197.2 L563.0,206.3 L571.0,222.8 L579.1,257.9 L587.1,263.1 L595.2,297.1 L603.2,294.9 L611.3,293.9 L619.3,305.6 L627.4,290.2 L635.4,305.6 L643.5,293.9 L651.5,294.3 L659.6,280.0 L667.6,248.3 L675.7,239.9 L683.7,263.3 L691.8,251.6 L699.8,267.6 L707.9,268.1 L715.9,296.7" fill="none" stroke="#2a78d6" stroke-width="2"/>
+<path d="M715.9,296.7 L724.0,328.7" fill="none" stroke="#2a78d6" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="88.0" cy="98.2" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="88.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/10</text>
-<text x="88.0" y="87.6" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">218만</text>
-<circle cx="96.2" cy="179.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="96.2" y="356" font-size="11" fill="#898781" text-anchor="middle">7/13</text>
-<circle cx="104.3" cy="163.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="104.3" y="356" font-size="11" fill="#898781" text-anchor="middle">7/14</text>
-<circle cx="112.5" cy="122.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="112.5" y="356" font-size="11" fill="#898781" text-anchor="middle">7/15</text>
-<circle cx="120.6" cy="180.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="120.6" y="356" font-size="11" fill="#898781" text-anchor="middle">7/16</text>
-<circle cx="128.8" cy="198.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="128.8" y="356" font-size="11" fill="#898781" text-anchor="middle">7/20</text>
-<circle cx="136.9" cy="181.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="136.9" y="356" font-size="11" fill="#898781" text-anchor="middle">7/21</text>
-<circle cx="145.1" cy="182.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="145.1" y="356" font-size="11" fill="#898781" text-anchor="middle">7/22</text>
-<circle cx="153.2" cy="161.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="153.2" y="356" font-size="11" fill="#898781" text-anchor="middle">7/23</text>
-<circle cx="161.4" cy="199.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="161.4" y="356" font-size="11" fill="#898781" text-anchor="middle">7/24</text>
-<circle cx="169.5" cy="186.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="169.5" y="356" font-size="11" fill="#898781" text-anchor="middle">7/27</text>
-<circle cx="177.7" cy="249.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="177.7" y="356" font-size="11" fill="#898781" text-anchor="middle">7/28</text>
-<circle cx="185.8" cy="284.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="185.8" y="356" font-size="11" fill="#898781" text-anchor="middle">7/29</text>
-<circle cx="194.0" cy="303.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="194.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/30</text>
-<circle cx="202.2" cy="209.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="202.2" y="356" font-size="11" fill="#898781" text-anchor="middle">7/31</text>
-<circle cx="210.3" cy="245.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="210.3" y="356" font-size="11" fill="#898781" text-anchor="middle">8/3</text>
-<circle cx="218.5" cy="243.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="218.5" y="356" font-size="11" fill="#898781" text-anchor="middle">8/4</text>
-<circle cx="226.6" cy="221.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="226.6" y="356" font-size="11" fill="#898781" text-anchor="middle">8/5</text>
-<circle cx="234.8" cy="262.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="234.8" y="356" font-size="11" fill="#898781" text-anchor="middle">8/6</text>
-<circle cx="242.9" cy="279.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="242.9" y="356" font-size="11" fill="#898781" text-anchor="middle">8/7</text>
-<circle cx="251.1" cy="280.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="251.1" y="356" font-size="11" fill="#898781" text-anchor="middle">8/10</text>
-<circle cx="259.2" cy="279.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="259.2" y="356" font-size="11" fill="#898781" text-anchor="middle">8/11</text>
-<circle cx="267.4" cy="260.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="267.4" y="356" font-size="11" fill="#898781" text-anchor="middle">8/12</text>
-<circle cx="275.5" cy="239.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="275.5" y="356" font-size="11" fill="#898781" text-anchor="middle">8/13</text>
-<circle cx="283.7" cy="226.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="283.7" y="356" font-size="11" fill="#898781" text-anchor="middle">8/14</text>
-<circle cx="291.8" cy="222.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="291.8" y="356" font-size="11" fill="#898781" text-anchor="middle">8/18</text>
-<circle cx="300.0" cy="261.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="300.0" y="356" font-size="11" fill="#898781" text-anchor="middle">8/19</text>
-<circle cx="308.2" cy="215.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="308.2" y="356" font-size="11" fill="#898781" text-anchor="middle">8/20</text>
-<circle cx="316.3" cy="206.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="316.3" y="356" font-size="11" fill="#898781" text-anchor="middle">8/21</text>
-<circle cx="324.5" cy="220.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="324.5" y="356" font-size="11" fill="#898781" text-anchor="middle">8/24</text>
-<circle cx="332.6" cy="219.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="332.6" y="356" font-size="11" fill="#898781" text-anchor="middle">8/25</text>
-<circle cx="340.8" cy="216.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="340.8" y="356" font-size="11" fill="#898781" text-anchor="middle">8/26</text>
-<circle cx="348.9" cy="206.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="348.9" y="356" font-size="11" fill="#898781" text-anchor="middle">8/27</text>
-<circle cx="357.1" cy="225.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="357.1" y="356" font-size="11" fill="#898781" text-anchor="middle">8/28</text>
-<circle cx="365.2" cy="220.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="365.2" y="356" font-size="11" fill="#898781" text-anchor="middle">8/31</text>
-<circle cx="373.4" cy="215.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="373.4" y="356" font-size="11" fill="#898781" text-anchor="middle">9/1</text>
-<circle cx="381.5" cy="234.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="381.5" y="356" font-size="11" fill="#898781" text-anchor="middle">9/2</text>
-<circle cx="389.7" cy="238.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="389.7" y="356" font-size="11" fill="#898781" text-anchor="middle">9/3</text>
-<circle cx="397.8" cy="226.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="397.8" y="356" font-size="11" fill="#898781" text-anchor="middle">9/4</text>
-<circle cx="406.0" cy="194.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="406.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/7</text>
-<circle cx="414.2" cy="191.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="414.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/8</text>
-<circle cx="422.3" cy="176.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="422.3" y="356" font-size="11" fill="#898781" text-anchor="middle">9/9</text>
-<circle cx="430.5" cy="177.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="430.5" y="356" font-size="11" fill="#898781" text-anchor="middle">9/10</text>
-<circle cx="438.6" cy="187.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="438.6" y="356" font-size="11" fill="#898781" text-anchor="middle">9/11</text>
-<circle cx="446.8" cy="214.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="446.8" y="356" font-size="11" fill="#898781" text-anchor="middle">9/14</text>
-<circle cx="454.9" cy="216.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="454.9" y="356" font-size="11" fill="#898781" text-anchor="middle">9/15</text>
-<circle cx="463.1" cy="199.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="463.1" y="356" font-size="11" fill="#898781" text-anchor="middle">9/16</text>
-<circle cx="471.2" cy="203.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="471.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/17</text>
-<circle cx="479.4" cy="176.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="479.4" y="356" font-size="11" fill="#898781" text-anchor="middle">9/18</text>
-<circle cx="487.5" cy="173.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="487.5" y="356" font-size="11" fill="#898781" text-anchor="middle">9/21</text>
-<circle cx="495.7" cy="180.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="495.7" y="356" font-size="11" fill="#898781" text-anchor="middle">9/22</text>
-<circle cx="503.8" cy="175.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="503.8" y="356" font-size="11" fill="#898781" text-anchor="middle">9/23</text>
-<circle cx="512.0" cy="197.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="512.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/28</text>
-<circle cx="520.2" cy="198.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="520.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/29</text>
-<circle cx="528.3" cy="195.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="528.3" y="356" font-size="11" fill="#898781" text-anchor="middle">9/30</text>
-<circle cx="536.5" cy="182.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="536.5" y="356" font-size="11" fill="#898781" text-anchor="middle">10/1</text>
-<circle cx="544.6" cy="180.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="544.6" y="356" font-size="11" fill="#898781" text-anchor="middle">10/2</text>
-<circle cx="552.8" cy="196.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="552.8" y="356" font-size="11" fill="#898781" text-anchor="middle">10/6</text>
-<circle cx="560.9" cy="208.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="560.9" y="356" font-size="11" fill="#898781" text-anchor="middle">10/7</text>
-<circle cx="569.1" cy="218.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="569.1" y="356" font-size="11" fill="#898781" text-anchor="middle">10/8</text>
-<circle cx="577.2" cy="236.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="577.2" y="356" font-size="11" fill="#898781" text-anchor="middle">10/12</text>
-<circle cx="585.4" cy="274.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="585.4" y="356" font-size="11" fill="#898781" text-anchor="middle">10/13</text>
-<circle cx="593.5" cy="280.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="593.5" y="356" font-size="11" fill="#898781" text-anchor="middle">10/14</text>
-<circle cx="601.7" cy="318.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="601.7" y="356" font-size="11" fill="#898781" text-anchor="middle">10/15</text>
-<circle cx="609.8" cy="315.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="609.8" y="356" font-size="11" fill="#898781" text-anchor="middle">10/16</text>
-<circle cx="618.0" cy="314.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="618.0" y="356" font-size="11" fill="#898781" text-anchor="middle">10/19</text>
-<circle cx="626.2" cy="327.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="626.2" y="356" font-size="11" fill="#898781" text-anchor="middle">10/20</text>
-<text x="626.2" y="349.3" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">122만</text>
-<circle cx="634.3" cy="310.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="634.3" y="356" font-size="11" fill="#898781" text-anchor="middle">10/21</text>
-<circle cx="642.5" cy="327.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="642.5" y="356" font-size="11" fill="#898781" text-anchor="middle">10/22</text>
-<circle cx="650.6" cy="314.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="650.6" y="356" font-size="11" fill="#898781" text-anchor="middle">10/23</text>
-<circle cx="658.8" cy="314.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="658.8" y="356" font-size="11" fill="#898781" text-anchor="middle">10/26</text>
-<circle cx="666.9" cy="299.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="666.9" y="356" font-size="11" fill="#898781" text-anchor="middle">10/27</text>
-<circle cx="675.1" cy="264.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="675.1" y="356" font-size="11" fill="#898781" text-anchor="middle">10/28</text>
-<circle cx="683.2" cy="255.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="683.2" y="356" font-size="11" fill="#898781" text-anchor="middle">10/29</text>
-<circle cx="691.4" cy="280.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="691.4" y="356" font-size="11" fill="#898781" text-anchor="middle">10/30</text>
-<circle cx="699.5" cy="268.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="699.5" y="356" font-size="11" fill="#898781" text-anchor="middle">11/2</text>
-<circle cx="707.7" cy="285.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="707.7" y="356" font-size="11" fill="#898781" text-anchor="middle">11/3</text>
-<circle cx="715.8" cy="286.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="715.8" y="356" font-size="11" fill="#898781" text-anchor="middle">11/4</text>
-<circle cx="724.0" cy="317.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
-<text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">11/5</text>
-<text x="724.0" y="305.5" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">126만</text>
+<text x="88.0" y="86.2" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">218만</text>
+<circle cx="96.1" cy="170.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="96.1" y="356" font-size="11" fill="#898781" text-anchor="middle">7/13</text>
+<circle cx="104.1" cy="156.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="104.1" y="356" font-size="11" fill="#898781" text-anchor="middle">7/14</text>
+<circle cx="112.2" cy="119.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="112.2" y="356" font-size="11" fill="#898781" text-anchor="middle">7/15</text>
+<circle cx="120.2" cy="171.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="120.2" y="356" font-size="11" fill="#898781" text-anchor="middle">7/16</text>
+<circle cx="128.3" cy="188.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="128.3" y="356" font-size="11" fill="#898781" text-anchor="middle">7/20</text>
+<circle cx="136.3" cy="172.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="136.3" y="356" font-size="11" fill="#898781" text-anchor="middle">7/21</text>
+<circle cx="144.4" cy="174.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="144.4" y="356" font-size="11" fill="#898781" text-anchor="middle">7/22</text>
+<circle cx="152.4" cy="154.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="152.4" y="356" font-size="11" fill="#898781" text-anchor="middle">7/23</text>
+<circle cx="160.5" cy="189.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="160.5" y="356" font-size="11" fill="#898781" text-anchor="middle">7/24</text>
+<circle cx="168.5" cy="177.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="168.5" y="356" font-size="11" fill="#898781" text-anchor="middle">7/27</text>
+<circle cx="176.6" cy="234.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="176.6" y="356" font-size="11" fill="#898781" text-anchor="middle">7/28</text>
+<circle cx="184.6" cy="267.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="184.6" y="356" font-size="11" fill="#898781" text-anchor="middle">7/29</text>
+<circle cx="192.7" cy="284.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="192.7" y="356" font-size="11" fill="#898781" text-anchor="middle">7/30</text>
+<circle cx="200.7" cy="198.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="200.7" y="356" font-size="11" fill="#898781" text-anchor="middle">7/31</text>
+<circle cx="208.8" cy="231.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="208.8" y="356" font-size="11" fill="#898781" text-anchor="middle">8/3</text>
+<circle cx="216.8" cy="228.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="216.8" y="356" font-size="11" fill="#898781" text-anchor="middle">8/4</text>
+<circle cx="224.9" cy="209.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="224.9" y="356" font-size="11" fill="#898781" text-anchor="middle">8/5</text>
+<circle cx="232.9" cy="246.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="232.9" y="356" font-size="11" fill="#898781" text-anchor="middle">8/6</text>
+<circle cx="241.0" cy="262.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="241.0" y="356" font-size="11" fill="#898781" text-anchor="middle">8/7</text>
+<circle cx="249.0" cy="262.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="249.0" y="356" font-size="11" fill="#898781" text-anchor="middle">8/10</text>
+<circle cx="257.1" cy="261.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="257.1" y="356" font-size="11" fill="#898781" text-anchor="middle">8/11</text>
+<circle cx="265.1" cy="244.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="265.1" y="356" font-size="11" fill="#898781" text-anchor="middle">8/12</text>
+<circle cx="273.2" cy="225.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="273.2" y="356" font-size="11" fill="#898781" text-anchor="middle">8/13</text>
+<circle cx="281.2" cy="214.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="281.2" y="356" font-size="11" fill="#898781" text-anchor="middle">8/14</text>
+<circle cx="289.3" cy="210.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="289.3" y="356" font-size="11" fill="#898781" text-anchor="middle">8/18</text>
+<circle cx="297.3" cy="245.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="297.3" y="356" font-size="11" fill="#898781" text-anchor="middle">8/19</text>
+<circle cx="305.4" cy="204.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="305.4" y="356" font-size="11" fill="#898781" text-anchor="middle">8/20</text>
+<circle cx="313.4" cy="195.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="313.4" y="356" font-size="11" fill="#898781" text-anchor="middle">8/21</text>
+<circle cx="321.5" cy="208.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="321.5" y="356" font-size="11" fill="#898781" text-anchor="middle">8/24</text>
+<circle cx="329.5" cy="207.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="329.5" y="356" font-size="11" fill="#898781" text-anchor="middle">8/25</text>
+<circle cx="337.6" cy="204.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="337.6" y="356" font-size="11" fill="#898781" text-anchor="middle">8/26</text>
+<circle cx="345.6" cy="195.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="345.6" y="356" font-size="11" fill="#898781" text-anchor="middle">8/27</text>
+<circle cx="353.7" cy="212.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="353.7" y="356" font-size="11" fill="#898781" text-anchor="middle">8/28</text>
+<circle cx="361.7" cy="207.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="361.7" y="356" font-size="11" fill="#898781" text-anchor="middle">8/31</text>
+<circle cx="369.8" cy="203.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="369.8" y="356" font-size="11" fill="#898781" text-anchor="middle">9/1</text>
+<circle cx="377.8" cy="221.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="377.8" y="356" font-size="11" fill="#898781" text-anchor="middle">9/2</text>
+<circle cx="385.9" cy="224.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="385.9" y="356" font-size="11" fill="#898781" text-anchor="middle">9/3</text>
+<circle cx="393.9" cy="213.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="393.9" y="356" font-size="11" fill="#898781" text-anchor="middle">9/4</text>
+<circle cx="402.0" cy="184.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="402.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/7</text>
+<circle cx="410.0" cy="182.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="410.0" y="356" font-size="11" fill="#898781" text-anchor="middle">9/8</text>
+<circle cx="418.1" cy="168.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="418.1" y="356" font-size="11" fill="#898781" text-anchor="middle">9/9</text>
+<circle cx="426.1" cy="169.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="426.1" y="356" font-size="11" fill="#898781" text-anchor="middle">9/10</text>
+<circle cx="434.2" cy="177.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="434.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/11</text>
+<circle cx="442.2" cy="202.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="442.2" y="356" font-size="11" fill="#898781" text-anchor="middle">9/14</text>
+<circle cx="450.3" cy="204.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="450.3" y="356" font-size="11" fill="#898781" text-anchor="middle">9/15</text>
+<circle cx="458.3" cy="189.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="458.3" y="356" font-size="11" fill="#898781" text-anchor="middle">9/16</text>
+<circle cx="466.4" cy="192.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="466.4" y="356" font-size="11" fill="#898781" text-anchor="middle">9/17</text>
+<circle cx="474.4" cy="168.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="474.4" y="356" font-size="11" fill="#898781" text-anchor="middle">9/18</text>
+<circle cx="482.5" cy="165.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="482.5" y="356" font-size="11" fill="#898781" text-anchor="middle">9/21</text>
+<circle cx="490.5" cy="171.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="490.5" y="356" font-size="11" fill="#898781" text-anchor="middle">9/22</text>
+<circle cx="498.6" cy="167.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="498.6" y="356" font-size="11" fill="#898781" text-anchor="middle">9/23</text>
+<circle cx="506.6" cy="187.5" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="506.6" y="356" font-size="11" fill="#898781" text-anchor="middle">9/28</text>
+<circle cx="514.7" cy="188.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="514.7" y="356" font-size="11" fill="#898781" text-anchor="middle">9/29</text>
+<circle cx="522.7" cy="185.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="522.7" y="356" font-size="11" fill="#898781" text-anchor="middle">9/30</text>
+<circle cx="530.8" cy="173.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="530.8" y="356" font-size="11" fill="#898781" text-anchor="middle">10/1</text>
+<circle cx="538.8" cy="171.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="538.8" y="356" font-size="11" fill="#898781" text-anchor="middle">10/2</text>
+<circle cx="546.9" cy="186.4" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="546.9" y="356" font-size="11" fill="#898781" text-anchor="middle">10/6</text>
+<circle cx="554.9" cy="197.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="554.9" y="356" font-size="11" fill="#898781" text-anchor="middle">10/7</text>
+<circle cx="563.0" cy="206.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="563.0" y="356" font-size="11" fill="#898781" text-anchor="middle">10/8</text>
+<circle cx="571.0" cy="222.8" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="571.0" y="356" font-size="11" fill="#898781" text-anchor="middle">10/12</text>
+<circle cx="579.1" cy="257.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="579.1" y="356" font-size="11" fill="#898781" text-anchor="middle">10/13</text>
+<circle cx="587.1" cy="263.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="587.1" y="356" font-size="11" fill="#898781" text-anchor="middle">10/14</text>
+<circle cx="595.2" cy="297.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="595.2" y="356" font-size="11" fill="#898781" text-anchor="middle">10/15</text>
+<circle cx="603.2" cy="294.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="603.2" y="356" font-size="11" fill="#898781" text-anchor="middle">10/16</text>
+<circle cx="611.3" cy="293.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="611.3" y="356" font-size="11" fill="#898781" text-anchor="middle">10/19</text>
+<circle cx="619.3" cy="305.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="619.3" y="356" font-size="11" fill="#898781" text-anchor="middle">10/20</text>
+<circle cx="627.4" cy="290.2" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="627.4" y="356" font-size="11" fill="#898781" text-anchor="middle">10/21</text>
+<circle cx="635.4" cy="305.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="635.4" y="356" font-size="11" fill="#898781" text-anchor="middle">10/22</text>
+<circle cx="643.5" cy="293.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="643.5" y="356" font-size="11" fill="#898781" text-anchor="middle">10/23</text>
+<circle cx="651.5" cy="294.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="651.5" y="356" font-size="11" fill="#898781" text-anchor="middle">10/26</text>
+<circle cx="659.6" cy="280.0" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="659.6" y="356" font-size="11" fill="#898781" text-anchor="middle">10/27</text>
+<circle cx="667.6" cy="248.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="667.6" y="356" font-size="11" fill="#898781" text-anchor="middle">10/28</text>
+<circle cx="675.7" cy="239.9" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="675.7" y="356" font-size="11" fill="#898781" text-anchor="middle">10/29</text>
+<circle cx="683.7" cy="263.3" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="683.7" y="356" font-size="11" fill="#898781" text-anchor="middle">10/30</text>
+<circle cx="691.8" cy="251.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="691.8" y="356" font-size="11" fill="#898781" text-anchor="middle">11/2</text>
+<circle cx="699.8" cy="267.6" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="699.8" y="356" font-size="11" fill="#898781" text-anchor="middle">11/3</text>
+<circle cx="707.9" cy="268.1" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="707.9" y="356" font-size="11" fill="#898781" text-anchor="middle">11/4</text>
+<circle cx="715.9" cy="296.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
+<text x="715.9" y="356" font-size="11" fill="#898781" text-anchor="middle">11/5</text>
+<circle cx="724.0" cy="328.7" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
+<text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">11/6</text>
+<text x="724.0" y="350.7" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">112만</text>
 <circle cx="484" cy="66" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="494" y="70" font-size="11" fill="#52514e">확인 종가</text>
 <circle cx="564" cy="66" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
