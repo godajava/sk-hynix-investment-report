@@ -9,6 +9,7 @@
     night_futures_valid=false. 06:00~08:44 사이 수집분만 야간선물로 본다(첫 실측으로 검증 필요)
   - 코스피200 주간 선물 종가(네이버 FUT) · 코스피200 현물지수
   - 미국 지수/반도체(트레이딩뷰·네이버): SOX, 나스닥, S&P500, 마이크론, 엔비디아, EWY, 원/달러
+  - 주간 변동 원인 분석용: 코스피/코스닥, VIX, 미국 빅테크(AAPL·MSFT·GOOGL·AMZN·META·TSLA·AVGO·AMD·QCOM)와 주간 등락률(perfWPct)
 GitHub Actions(night.yml)가 평일 아침에 실행해 docs/night_futures.json을 커밋하고,
 프리마켓 브리핑은 git pull 후 이 파일을 읽는다(파일 수정 없음).
 소스 하나가 실패해도 나머지는 저장하고, 필드별 오류는 errors에 남긴다.
@@ -19,7 +20,7 @@ UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, 
       "Accept": "application/json,*/*", "Accept-Language": "ko-KR,ko;q=0.9,en;q=0.8"}
 KST = datetime.timezone(datetime.timedelta(hours=9))
 COLS = ["name", "description", "close", "change", "change_abs", "open", "high", "low", "volume", "update_mode"]
-EXTRA_COLS = ["update_time", "last_bar_update_time"]  # 있을 때만 (실패해도 무시)
+EXTRA_COLS = ["update_time", "last_bar_update_time", "Perf.W", "Perf.1M"]  # 있을 때만 (실패해도 무시). Perf.W=주간 등락률(%)
 
 
 def http(url, data=None, headers=None, tries=3):
@@ -62,6 +63,8 @@ def pack(d, nd=2):
         "change": num(d.get("change_abs"), nd), "open": num(d.get("open"), nd),
         "high": num(d.get("high"), nd), "low": num(d.get("low"), nd),
         "volume": d.get("volume"), "mode": d.get("update_mode"),
+        **({"perfWPct": num(d.get("Perf.W"), 2)} if d.get("Perf.W") is not None else {}),
+        **({"perf1MPct": num(d.get("Perf.1M"), 2)} if d.get("Perf.1M") is not None else {}),
         **({"updateTime": d["update_time"],
             "updateTimeKST": datetime.datetime.fromtimestamp(d["update_time"], KST).strftime("%m-%d %H:%M:%S")}
            if d.get("update_time") else {}),
@@ -82,6 +85,12 @@ SLOTS = {
     "usdkrw": ["FX_IDC:USDKRW", "FX:USDKRW"],
     "sk_hynix": ["KRX:000660"],
     "samsung": ["KRX:005930"],
+    # 주간 변동 원인 분석용: 코스피/코스닥, VIX, 미국 빅테크(매그니피센트7+반도체)
+    "kospi": ["KRX:KOSPI"],
+    "kosdaq": ["KRX:KOSDAQ"],
+    "vix": ["CBOE:VIX", "TVC:VIX"],
+    "aapl": ["NASDAQ:AAPL"], "msft": ["NASDAQ:MSFT"], "googl": ["NASDAQ:GOOGL"], "amzn": ["NASDAQ:AMZN"],
+    "meta": ["NASDAQ:META"], "tsla": ["NASDAQ:TSLA"], "avgo": ["NASDAQ:AVGO"], "amd": ["NASDAQ:AMD"], "qcom": ["NASDAQ:QCOM"],
     "hynix_adr": ["NASDAQ:SKHY", "NYSE:SKHY", "AMEX:SKHY", "NYSEARCA:SKHY", "NASDAQ:SKHYV", "NYSE:SKHYV"],
 }
 
