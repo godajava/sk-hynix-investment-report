@@ -33,7 +33,7 @@ def render_html(d):
          f'<p style="color:var(--muted);font-size:12px">{e(d["method_note"])}</p>',
          '<p><strong>① 시장 현황 — 한국·미국 지수와 빅테크</strong></p>',
          '<div class="tablewrap"><table class="kv why"><colgroup><col style="width:34%"><col style="width:24%"><col style="width:20%"><col style="width:22%"></colgroup>',
-         '<tr><th>종목·지수</th><th>11/5(목)</th><th>11/6(금)</th><th>주간</th></tr>']
+         '<tr><th>종목·지수</th>' + ''.join(f'<th>{e(c)}</th>' for c in d.get('cols',['11/5(목)','11/6(금)','주간'])) + '</tr>']
     for g in d["table"]:
         o.append(f'<tr><th colspan="4" style="text-align:left">{e(g["group"])}</th></tr>')
         for r in g["rows"]:
@@ -62,9 +62,9 @@ def render_html(d):
 
 
 def render_md(d):
-    o = [S, f'## 주간 변动 원인 분석 — 국내·해외·미국 빅테크 ({d["week"]}, 기준 {d["asof"]})'.replace("变动", "변동"), "",
+    o = [S, f'## 주간 변동 원인 분석 — 국내·해외·미국 빅테크 ({d["week"]}, 기준 {d["asof"]})', "",
          f'**한 줄 결론** — {d["headline"]}', "", f'> {d["method_note"]}', "",
-         "**① 시장 현황**", "", "| 종목·지수 | 11/5(목) | 11/6(금) | 주간 |", "|---|---|---|---|"]
+         "**① 시장 현황**", "", "| 종목·지수 | " + " | ".join(d.get("cols",["11/5(목)","11/6(금)","주간"])) + " |", "|---|---|---|---|"]
     for g in d["table"]:
         o.append(f'| **{g["group"]}** | | | |')
         for r in g["rows"]:
