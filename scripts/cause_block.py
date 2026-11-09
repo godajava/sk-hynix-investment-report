@@ -32,15 +32,15 @@ def render_html(d):
          f'<p><strong>한 줄 결론</strong> — {e(d["headline"])}</p>',
          f'<p style="color:var(--muted);font-size:12px">{e(d["method_note"])}</p>',
          '<p><strong>① 시장 현황 — 한국·미국 지수와 빅테크</strong></p>',
-         '<div class="tablewrap"><table class="kv why"><colgroup><col style="width:34%"><col style="width:24%"><col style="width:20%"><col style="width:22%"></colgroup>',
+         f'<div class="tablewrap"><table class="kv why"><colgroup><col style="width:{30 if len(d.get("cols",[1,2,3]))>3 else 34}%">' + ''.join(f'<col style="width:{(70 if len(d.get("cols",[1,2,3]))>3 else 66)/len(d.get("cols",[1,2,3])):.1f}%">' for _ in d.get("cols",[1,2,3])) + '</colgroup>',
          '<tr><th>종목·지수</th>' + ''.join(f'<th>{e(c)}</th>' for c in d.get('cols',['11/5(목)','11/6(금)','주간'])) + '</tr>']
+    ncol=len(d.get('cols',[1,2,3]))
     for g in d["table"]:
-        o.append(f'<tr><th colspan="4" style="text-align:left">{e(g["group"])}</th></tr>')
+        o.append(f'<tr><th colspan="{ncol+1}" style="text-align:left">{e(g["group"])}</th></tr>')
         for r in g["rows"]:
-            nm, d5, d6, wk = r[0], r[1], r[2], r[3]
-            d5s = e(d5) if isinstance(d5, str) else cnum(d5)
-            c5 = '<td style="text-align:right;font-size:11px">' + d5s + '</td>' if isinstance(d5, str) else '<td class="num">' + d5s + '</td>'
-            o.append(f'<tr><td>{e(nm)}</td>{c5}<td class="num">{cnum(d6)}</td><td class="num">{cnum(wk)}</td></tr>')
+            vals=list(r[1:])+[None]*(ncol-len(r[1:]))
+            cells=''.join(('<td style="text-align:right;font-size:11px">'+e(v)+'</td>') if isinstance(v,str) else '<td class="num">'+cnum(v)+'</td>' for v in vals[:ncol])
+            o.append(f'<tr><td>{e(r[0])}</td>{cells}</tr>')
     o += ['</table></div>', f'<p style="color:var(--muted);font-size:12px">{e(d["table_note"])}</p>',
           '<p><strong>② 원인 사슬 — 시간순</strong></p>',
           '<div class="tablewrap"><table class="kv why"><colgroup><col style="width:21%"><col style="width:49%"><col style="width:30%"></colgroup><tr><th>시점</th><th>사건·수치</th><th>확신·출처</th></tr>']
@@ -62,14 +62,15 @@ def render_html(d):
 
 
 def render_md(d):
+    ncol=len(d.get('cols',[1,2,3]))
     o = [S, f'## 주간 변동 원인 분석 — 국내·해외·미국 빅테크 ({d["week"]}, 기준 {d["asof"]})', "",
          f'**한 줄 결론** — {d["headline"]}', "", f'> {d["method_note"]}', "",
-         "**① 시장 현황**", "", "| 종목·지수 | " + " | ".join(d.get("cols",["11/5(목)","11/6(금)","주간"])) + " |", "|---|---|---|---|"]
+         "**① 시장 현황**", "", "| 종목·지수 | " + " | ".join(d.get("cols",["11/5(목)","11/6(금)","주간"])) + " |", "|---|" + "---|" * len(d.get("cols",[1,2,3]))]
     for g in d["table"]:
-        o.append(f'| **{g["group"]}** | | | |')
+        o.append(f'| **{g["group"]}** |' + ' |' * ncol)
         for r in g["rows"]:
-            d5 = r[1] if isinstance(r[1], str) else fnum(r[1])
-            o.append(f'| {r[0]} | {d5} | {fnum(r[2])} | {fnum(r[3])} |')
+            vals=list(r[1:])+[None]*(ncol-len(r[1:]))
+            o.append(f'| {r[0]} | ' + ' | '.join(v if isinstance(v,str) else fnum(v) for v in vals[:ncol]) + ' |')
     o += ["", f'> {d["table_note"]}', "", "**② 원인 사슬 (시간순)**", "", "| 시점 | 사건·수치 | 확신·출처 |", "|---|---|---|"]
     o += [f'| {c["when"]} | {c["fact"]} | {c["conf"]} |' for c in d["chain"]]
     o += ["", "**③ 원인 순위**", "", "| 순위 | 원인 | 근거 | 확신 |", "|---|---|---|---|"]
