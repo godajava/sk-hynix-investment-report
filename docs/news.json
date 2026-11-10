@@ -1,137 +1,127 @@
 {
- "fetchedAt": "2026-11-10 02:25 KST",
+ "fetchedAt": "2026-11-10 15:53 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "\"주식 열공하는데 왜 나만 잃을까\"…SK하이닉스 250층 물린 8년 차 개미의 '눈물'",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LeHdyZlhJWG9ob0dfSy1xb2tkaEtBUFU5M0lnRndjN3NTUmRFUjdnMUxfTTR2WE9DMHBIY25LTWZfeVVlLTlJdnc1b0pGUEMyb0RVZWI5aF82QjQ2elV0QtIBeEFVX3lxTE94em1MZndsdkhXMHR3QmN1Y21WZm5MV2Q2dXV0cWIwcGVBY0d4UFhFSVVQNnJCUEpxVGV3YmxYeFFSMk5pVXRqRlR6SjB6Yk9BSTNMY0VGaHZwS2UwYlpqMlBJVG8wU09qNXlIcTNIQ2hQME5hVDZFbQ?oc=5",
-   "source": "뉴시스",
+   "title": "청주 SK하이닉스 세수 1조 활용 놓고 공론화 요구 잇따라",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HSHMtM0JwQWl3cnJZWHdpSG00eFBxc0hhdjVyc0d5c0xmUDhwNFhLN29jSGVCSXIxMFdhSHRxMFk3clNISHY2bGxJQXY4WkRra2tBbjNPVGJBeFXSAWBBVV95cUxNVGJKd2FtckNPX0drdkljdVRkdE5QWmRRc3NFUlhBVGpKZjNqbXNHeldueHBxam1IblJMMk56VTA5V0VYV3JGbXFYanRZcnBaRnhEdjVfV0MzWm1yV3hrQkw?oc=5",
+   "source": "연합뉴스",
    "date": "2026-11-10",
-   "datetime": "2026-11-10 00:00 KST",
+   "datetime": "2026-11-10 15:36 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "SK하이닉스 주식을 8년 차 개인투자자가 높은 가격에 사 물려 손실을 겪는 사연을 다룬 뉴시스 기사(제목 기준, 매수 시점·손실률 확인 불가)."
+   }
   },
   {
-   "title": "[삼성전자·SK하이닉스] 나란히 내렸다… SK하이닉스 10.44%",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zOGFtM3N3YnoyVG1heGZyZzV0MHY5dmNwNEd5eEZlbi1EYWJsLWxTNF9UR2RVZnBtelRTUFNpNC1Nd0xTUzA0TV84TGxXSktnVUhiNk5tNUQ1aXU0WWhPQ09WR2QzSW1DdEpVMw?oc=5",
-   "source": "CEO경제신문",
-   "date": "2026-11-09",
-   "datetime": "2026-11-09 23:11 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "삼성전자·SK하이닉스가 나란히 내렸다며 SK하이닉스 -10.44%를 전한 CEO경제신문 기사(제목 기준; -10.44%는 11/6 낙폭과 같은 수치이며 11/9 마감 +0.35%와 달라 작성 기준일 확인 불가)."
-  },
-  {
-   "title": "[엔비디아 AI 데이] 엔비디아 기술 업은 반도체 시뮬레이션…삼성·SK하이닉스 열·기계 해석 가속",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4YTRxaHhRejUwZ0FPOF9XS0txZjZaLTlCTE9CZ3NYOV9TNFN0NzdtMXVENU5aRW5lVEMwTURvOWVwOF9qWFZNTEdhenREdlFfNWhqRFBXTmVMaVZBemw2S0lUb3FIOEE?oc=5",
-   "source": "팍스경제TV",
-   "date": "2026-11-09",
-   "datetime": "2026-11-09 21:27 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "엔비디아 AI 기술을 활용한 반도체 시뮬레이션이 삼성·SK하이닉스의 열·기계 해석을 가속한다는 팍스경제TV 보도(제목 기준, 가속 수치·적용 범위 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스, 반도체 공정 분석 30배 가속한 비결은 엔비디아 AI",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qZGdRazJHQzhmZXZzX2pucVA1ZHE5WDRrLUh4c2kyRWd2UFZELVR6UzlORDhoT3cwM0RvYjVnX3E3Zm5uSjFDbnczdw?oc=5",
-   "source": "아이뉴스24",
-   "date": "2026-11-09",
-   "datetime": "2026-11-09 17:52 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 엔비디아 AI로 반도체 공정 분석을 30배 가속했다는 아이뉴스24 보도(제목 기준, 적용 공정 확인 불가)."
-  },
-  {
-   "title": "시리즈",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBrMEhYanYtV3hFM0c2Q2QtVE9kd0VZNTNuTllfamxYai04MFFkZ3hpMXkyQzEwU2FyS3NkcG5FeXBSQXJwLWxtOWsyY0Q4LThXVlljdWJ1ZGctVUVHeGlsNF9RUk13NE1wS1pXZ3ZoY2pMWG5sVlk5cQ?oc=5",
-   "source": "SK hynix",
-   "date": "2026-11-09",
-   "datetime": "2026-11-09 17:23 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK hynix 시리즈 연재 콘텐츠로 보이는 게시물(제목만 확인, 내용 확인 불가)."
-  },
-  {
-   "title": "[블루웨이브 청구서②] 삼성전자·SK하이닉스, 미국 AI 데이터센터 규제 변수에 메모리 수요 셈법 복잡해지나",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MUWlMUmotNjlrUkg0bDFTVVVfRGNseHo5WnV6eW1TWWtHbzhwUngxS3oxTnNLNzZRNzMxdXZORU80ZFNTZFhHNzBnYmVsaGRrTmszcDZWYUUzQlB6YzF1YlU0Q0p5aThGckx6Y2pJQklSY2M?oc=5",
-   "source": "비즈니스포스트",
-   "date": "2026-11-09",
-   "datetime": "2026-11-09 16:57 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   },
-   "summary": "삼성전자·SK하이닉스가 미국 AI 데이터센터 규제 변수로 메모리 수요 셈법이 복잡해질 수 있다는 비즈니스포스트 시리즈 기사(제목 기준이며 🔴는 ‘규제’ 키워드에 따른 자동 분류; 실제 수요·계약가 변화는 확인 불가)."
-  },
-  {
-   "title": "뉴욕 반도체지수 4.21% 급등에도…삼성전자·SK하이닉스 상승폭 제한",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0OEJJRTFkelNQQm9rcXgxQjFWdkx5SWloQnlKU2xnNlo0dVZpWFQzTlpIR0hGY01VOTNFYVhWUkdHOXNVRDg0ekxySjhwQmItUlhxT3Btb0k1bFNWVzRCb1Fnb254b0I4QUIw?oc=5",
-   "source": "뉴스인",
-   "date": "2026-11-09",
-   "datetime": "2026-11-09 16:31 KST",
+   "title": "[속보] 코스피 4.39% 오른 5239.13 마감...삼성전자 4.7%, SK하이닉스 6.7% 강세",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaElmdVRXUV9ERVNoT3BtZnljWk1nYUdmdnh1UlZtN0VISzFISndXOWNyM25hY2NmX0JSTlFYVXZHUzJTaDhjZmx0SjIxcWtWejVLSEJLNjJ1a1dZRlVyRmwxV3ljczZ3RkNUNXdMN3ctVkZyTFREeGpkVi0yN2pNdEpTT2ZuMTBh0gGcAUFVX3lxTFBNQzd6WXlHZVBTYzFPMDNyLVNJT1BONkpYTTF0ZDlHaUlydXJYOE5vVjhRd2VBVGZtNjVjVl9hb2F2MElQOWFsdzFNeWRCREpIRTl2U2t6S2hfQm9kMTdSYVhyYUlaVjAxekozcElJbUE0MlJMOW1ERDRCamtGVE82V1ZHS2JYenVON1k5bEU2QUNET0pGd21icDVSMg?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-11-10",
+   "datetime": "2026-11-10 15:34 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   },
-   "summary": "뉴욕 반도체지수가 4.21% 급등했는데도 삼성전자·SK하이닉스 상승폭은 제한됐다는 뉴스인 11/9 시황 기사(제목 기준; 11/9 SK하이닉스 마감은 +0.35%)."
+   }
   },
   {
-   "title": "‘반도체 깐부’ 젠슨 황 공작 의혹…삼성·SK하이닉스 협력 영향 우려",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vWlRMUWxINWQ0MDNCaExzTk05OHFKUFVVdWYxZUl6WklyQXgxazNmUE5wMVd2Z011elhPX1R3TWxFRmNacDRwcmxSTDdYZTAtS29ZbE9YUnZfQnZYVDRxSzg1MzhhR2s?oc=5",
-   "source": "강원도민일보",
-   "date": "2026-11-09",
-   "datetime": "2026-11-09 16:25 KST",
+   "title": "中아위닉, 'SK하이닉스 투자' 전력관리칩 기업 지분 인수 추진",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjVmpJbGstX3djTTNpdlFzOTIxSncxMUwyVkdLYWlzNnNabHJ2djlES0JFbXAyLWUyc2x2dVBoekNucjVQZjhxNFBKVW1HM1J4Q2s1cG9Qb3RiOUZfU3RhY3ZlOA?oc=5",
+   "source": "더구루",
+   "date": "2026-11-10",
+   "datetime": "2026-11-10 14:27 KST",
    "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   },
-   "summary": "엔비디아 젠슨 황을 둘러싼 공작 의혹이 삼성·SK하이닉스 협력에 영향을 줄 수 있다는 강원도민일보 보도(제목 기준이며 🔴는 자동 분류; 의혹의 사실관계는 확인 불가)."
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
   },
   {
-   "title": "소부장은 매수 SK하이닉스는 매도 [주식 초고수는 지금]",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ydkMtVE1rTWhXeXoyZE80eUw3d1hpUUY1ZmdndEM0RjRmNi1OcTZPYmszN2dCcE9ES3JtTmxWdnBTaXBCQXVnWmRBMXU3N2h1dmc?oc=5",
-   "source": "매일경제",
-   "date": "2026-11-09",
-   "datetime": "2026-11-09 15:29 KST",
+   "title": "케이씨텍, SK하이닉스와 211억 반도체 장비 공급계약 [공시pick]",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTThpSnA2M0VwYUdRdWVRRmFKeFl3cDd4SEdOQ0g4dlZzN01DVjZFckI5ODJRcTQzM0ZxZVRONTJQWkduWHJQSENEZk1FQlVVa180LUF6Z2xGLUtpSG5N?oc=5",
+   "source": "조세일보",
+   "date": "2026-11-10",
+   "datetime": "2026-11-10 14:21 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "주식 초고수들이 소부장(소재·부품·장비)은 매수하고 SK하이닉스는 매도했다는 매일경제 보도(제목 기준, 매매 규모·기간 확인 불가)."
+   }
   },
   {
-   "title": "삼성, 내년 HBM 1위 오르나…SK하이닉스와 주도권 경쟁 격화",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOcmVFb1M4OThIMzQ0ZWxwbERJSWtVLXE5UW1FNGhaM0ZNTVcxZ0pGczN3LWpGanpMWXhqMkI1MzVnWm02UGVsQ1BRTFcyeG5lYjhmUnM3Y0hvU25vbXlKOQ?oc=5",
-   "source": "메트로신문",
-   "date": "2026-11-09",
-   "datetime": "2026-11-09 15:25 KST",
+   "title": "테슬라 AI칩에 HBM 추진…삼성·SK하이닉스 납품 각축 예고",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81cmNPVTF6bUpzdnRqQUNRZ05DbWFOQjlkUk1FNEZVSmo0dzBySUhvem9YU0M5MjFUaGpldEw0b1RocXpwRkFFcFhNX3k1XzdBd2NYb1ZsWHZkOFlH?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-10",
+   "datetime": "2026-11-10 14:21 KST",
    "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   },
-   "summary": "삼성전자가 내년 HBM 1위에 오를지, SK하이닉스와 주도권 경쟁이 격화된다는 메트로신문 보도(제목 기준, 점유율 수치 확인 불가)."
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"반도체 가상 실험 하루→1분\" 삼성·SK하이닉스, 엔비디아와 AI 공동개발 성과",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1NXzJiT1RPS2c0TjFxNWhJUWZDWmVrZXNsUGlZQ2gzV1dhNXU3RVJJcVNyN0JuR2pGTl9WOHZJY3lKajVEeDhMemN2NmlrUmFwSzV5dFFmd3dCR3Va?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-10",
+   "datetime": "2026-11-10 14:19 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[리포트 브리핑]SK하이닉스, '고점 이후에도 2029년 290조원 전망' 목표가 2,640,000원 - DS투자증권",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CbzB6OF8zQjlIVGtYVkR0QUJhblJDdU1Gc0twdlY0eUxkZW9rdko0b3hUTFBnanllckRUV1FxNW55MFJwSEZYUkRBeHRrRnl2SEhtZnpyQUFfRU1M?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-10",
+   "datetime": "2026-11-10 14:01 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 세금만 2조 육박…이천시 곳간의 변화",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oWV9VRDl5dnRYcUoyN1lpX0ZwVWp0WkYwc05JZDRsdlNhMHJPYUQweUlTSm5qRXc0RkxhSXFVbS1EczlaUTFEQ1cwSE80Wjk4bHYyM09vc1N6R2hCYjk1RUdQTXdMWUNaMXRZVWpqQUs?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-11-10",
+   "datetime": "2026-11-10 12:21 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "KOSPI 5% 급등, 삼성 및 SK 하이닉스 주가 동반 상승",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQQmpkcDZLZnFROHJENXVhYVlaM0pIbVJ3emk2T1ZCTHBGM3dWNDlDck5OYnN6QmwyNmVUUlFCVURhREtoM1EwYXZMVDloSk1hMXN6WWF3Szgxdm5pYXNzb0FWMEpCWWp2dG82MXo5cHJPTmhqNDYyOWstQWxvcEtKajYwdHVnbVZVdmVydzNDRkFueFJKNzdxQ3ZQckRpSkdxcmEwSUxkZTdYNjZ5UjdVUldXV01pSUxJUGFENzJ3dWZZbzhmR1JCd0xPeHpfOVVtQ0R6cHhIbi1BdkxfNkRvQU5EOU84TEZQSzZqb0sxbURtNHE1azQ1OS03ellIRGp1UDFPMHZsRXN2eUladFBtcDhHTXhrREs5ekhPZ0pYZ1JEdw?oc=5",
+   "source": "IDNFinancials",
+   "date": "2026-11-10",
+   "datetime": "2026-11-10 12:20 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 팔았다…1% 초고수들이 집중 매수한 종목은",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LWWJTVldJRXhGU204d2t6N0NjdHJxYjFzMnd0RmN0UUViRHI2RVctQ0h2Y0Q1S25QUHM4R0lzXzJPNng0UENVZUlma3dqWXh6dlFSWXdqUTBoQQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-11-10",
+   "datetime": "2026-11-10 11:06 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
   }
  ]
 }
