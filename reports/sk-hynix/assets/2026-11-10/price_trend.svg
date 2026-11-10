@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="400" viewBox="0 0 760 400" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="400" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
 <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">SK하이닉스 주가 흐름 (7/10 ~ 10/14)</text>
-<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 11/9 종가 113.6만(+0.35%). 11/10는 13:28 장중 잠정 120.2만(+5.81%, 11/9 종가 대비·시가 121.4만·고가 124.2만·저가 119.0만, 야후 지연 시세). 지표는 11/10 13:28 잠정.</text>
+<text x="24" y="54" font-size="12" fill="#52514e">종가 기준, 원. 11/9 종가 113.6만(+0.35%). 11/10는 14:24 장중 잠정 121.4만(+6.87%, 11/9 종가 대비·시가 121.4만·고가 124.2만·저가 119.0만, 야후 지연 시세). 지표는 11/10 14:24 잠정.</text>
 <line x1="88" y1="335.6" x2="724" y2="335.6" stroke="#e1e0d9" stroke-width="1"/>
 <text x="80" y="339.6" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">110만</text>
 <line x1="88" y1="313.6" x2="724" y2="313.6" stroke="#e1e0d9" stroke-width="1"/>
@@ -28,7 +28,7 @@
 <text x="80" y="98.0" font-size="11" fill="#898781" text-anchor="end" style="font-variant-numeric:tabular-nums">220만</text>
 <line x1="88" y1="336" x2="724" y2="336" stroke="#c3c2b7" stroke-width="1"/>
 <path d="M88.0,98.4 L95.9,171.9 L103.7,157.0 L111.6,119.9 L119.4,172.6 L127.3,189.7 L135.1,173.9 L143.0,175.2 L150.8,155.7 L158.7,190.8 L166.5,178.3 L174.4,236.7 L182.2,269.5 L190.1,286.8 L197.9,199.8 L205.8,233.0 L213.6,230.8 L221.5,210.8 L229.3,248.8 L237.2,264.8 L245.0,265.3 L252.9,264.2 L260.7,246.8 L268.6,227.3 L276.4,215.9 L284.3,212.1 L292.1,247.7 L300.0,205.8 L307.9,197.2 L315.7,210.2 L323.6,208.6 L331.4,206.4 L339.3,197.2 L347.1,214.1 L355.0,209.5 L362.8,205.3 L370.7,222.9 L378.5,226.6 L386.4,215.4 L394.2,185.8 L402.1,183.4 L409.9,169.5 L417.8,170.2 L425.6,179.2 L433.5,204.4 L441.3,206.0 L449.2,190.8 L457.0,193.9 L464.9,169.3 L472.7,166.9 L480.6,173.0 L488.4,168.2 L496.3,188.9 L504.1,189.5 L512.0,187.1 L519.9,174.6 L527.7,172.8 L535.6,187.8 L543.4,198.7 L551.3,208.0 L559.1,224.7 L567.0,260.2 L574.8,265.5 L582.7,300.0 L590.5,297.8 L598.4,296.7 L606.2,308.6 L614.1,293.0 L621.9,308.6 L629.8,296.7 L637.6,297.1 L645.5,282.6 L653.3,250.6 L661.2,242.0 L669.0,265.7 L676.9,253.9 L684.7,270.1 L692.6,270.6 L700.4,299.5 L708.3,328.5 L716.1,327.7" fill="none" stroke="#2a78d6" stroke-width="2"/>
-<path d="M716.1,327.7 L724.0,313.2" fill="none" stroke="#2a78d6" stroke-width="2" stroke-dasharray="5 4"/>
+<path d="M716.1,327.7 L724.0,310.5" fill="none" stroke="#2a78d6" stroke-width="2" stroke-dasharray="5 4"/>
 <circle cx="88.0" cy="98.4" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="88.0" y="356" font-size="11" fill="#898781" text-anchor="middle">7/10</text>
 <text x="88.0" y="86.4" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">218만</text>
@@ -193,9 +193,9 @@
 <text x="708.3" y="350.5" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">113만</text>
 <circle cx="716.1" cy="327.7" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="716.1" y="356" font-size="11" fill="#898781" text-anchor="middle">11/9</text>
-<circle cx="724.0" cy="313.2" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="724.0" cy="310.5" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
 <text x="724.0" y="356" font-size="11" fill="#898781" text-anchor="middle">11/10</text>
-<text x="724.0" y="301.2" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">120만</text>
+<text x="724.0" y="298.5" font-size="11.5" font-weight="600" fill="#52514e" text-anchor="middle" style="font-variant-numeric:tabular-nums">121만</text>
 <circle cx="484" cy="66" r="4.5" fill="#2a78d6" stroke="#2a78d6" stroke-width="2"/>
 <text x="494" y="70" font-size="11" fill="#52514e">확인 종가</text>
 <circle cx="564" cy="66" r="4.5" fill="#fcfcfb" stroke="#2a78d6" stroke-width="2"/>
