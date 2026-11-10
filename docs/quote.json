@@ -1,60 +1,59 @@
 {
  "symbol": "000660.KS",
- "price": 1136000.0,
- "previousClose": 1132000.0,
+ "price": 1236000.0,
+ "previousClose": 1136000.0,
  "previousCloseSource": "yahoo-daily+tradingview-ok",
- "change": 4000,
- "changePercent": 0.35,
- "marketTime": "2026-11-09 15:30 KST",
- "fetchedAt": "2026-11-10 02:25 KST",
+ "change": 100000,
+ "changePercent": 8.8,
+ "marketTime": "2026-11-10 09:24 KST",
+ "fetchedAt": "2026-11-10 09:44 KST",
  "days": [
-  {
-   "date": "2026-11-06",
-   "open": 1089000.0,
-   "high": 1217000.0,
-   "low": 1089000.0,
-   "close": 1132000.0,
-   "volume": 7907029
-  },
   {
    "date": "2026-11-09",
    "open": 1130000.0,
    "high": 1193000.0,
    "low": 1116000.0,
    "close": 1136000.0,
-   "volume": 3224787,
-   "synthetic": true
+   "volume": 4380339
+  },
+  {
+   "date": "2026-11-10",
+   "open": 1214000.0,
+   "high": 1242000.0,
+   "low": 1208000.0,
+   "close": 1236000.0,
+   "volume": 670887
   }
  ],
  "indicators": {
   "macd": {
-   "macd": -95398,
-   "signal": -84306,
-   "hist": -11093,
+   "macd": -94712,
+   "signal": -86387,
+   "hist": -8325,
    "read": "하락 모멘텀 (MACD < 시그널)"
   },
   "atr": {
-   "value": 111740,
-   "pct": 9.8,
-   "read": "일 평균 변동폭 9.8% — 변동성 매우 큼"
+   "value": 111330,
+   "pct": 9.0,
+   "read": "일 평균 변동폭 9.0% — 변동성 매우 큼"
   },
   "adx": {
-   "adx": 24.0,
-   "pdi": 18.2,
-   "ndi": 36.9,
+   "adx": 24.1,
+   "pdi": 20.1,
+   "ndi": 34.4,
    "read": "추세 형성 중 · -DI 우위(하락)"
   },
   "kdj": {
-   "k": 23.5,
-   "d": 38.5,
-   "j": -6.5,
+   "k": 25.5,
+   "d": 34.2,
+   "j": 8.2,
    "read": "중립 구간 · K < D (단기 하락 우위)"
   },
   "volume": {
-   "today": 3224787,
-   "ma20": 4056560,
-   "ratio": 0.79,
-   "read": "20일 평균 대비 0.8배 — 평균 수준"
+   "today": 670887,
+   "ma20": 4119894,
+   "ratio": 0.16,
+   "read": "20일 평균 대비 0.2배"
   }
  },
  "repairedDays": [
