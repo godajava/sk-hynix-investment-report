@@ -1,137 +1,127 @@
 {
- "fetchedAt": "2026-11-11 00:32 KST",
+ "fetchedAt": "2026-11-11 15:53 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "SK하이닉스 주가, 오늘 급등한 이유는?",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IOEVyS0hOTVBNbGZLRFJQdmwwd2ZlM0RPZmlQV3EwLTduNlc1TmswZFkyZ1dRMjVZSFcwdzM5ZWtiZDJPWGFYbzJ1SlZjWDE3Mk9WS2piWS0zSEpROVlmaUNWZ0N4TnVUQ2VFcDljd0NmX1AyT1NJ?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-11-10",
-   "datetime": "2026-11-10 20:20 KST",
+   "title": "[리포트 브리핑]SK하이닉스, '재평가는 진행 중. 이제 ADR 괴리 축소가 등장할 시간' 목표가 3,200,000원 - 메리츠증권",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sQ004NXFDRVRBNHVIdjBkTGJFLVYyaVpzaUh6c2hZNjVKdm9nOS1aYjhWYmRnMWpBMFFqeEhtMlFXR08zVlpoT3NoM0x0VmNHa3NtajdRZXBrQTZH?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-11",
+   "datetime": "2026-11-11 15:44 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 LPDDR5X, 산업용 기능안전 인증 획득",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HN2xCNlNuem93ekdqZjIteklHZFJ0dEVHLXZkZ1JkaVlHS3pOaktxeUxVU2FMRUxPZUt1UUVfeEJWN3ZZQmdKaHRwTTE3WHRmdHphM0xFb3ZkUUZ2Z29CWEtpdHlaUQ?oc=5",
+   "source": "디일렉",
+   "date": "2026-11-11",
+   "datetime": "2026-11-11 15:33 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "메리츠證 \"SK하이닉스, 내년 국내 주식·ADR 가격차 축소 방안 기대\"",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kelhpREJSQTUyM2dwcmFIRjZ5cWdodEQzWm95VHdhX1k4TWRiRm1GUE9UdDRHNGdVR3pFbkZHbHdtRENBdkhqdTRZRjIyVlA5TDgxNHZfc2Y0UWJVTm03T1VQSGFRSldIcy1GYTM1NWo?oc=5",
+   "source": "연합인포맥스",
+   "date": "2026-11-11",
+   "datetime": "2026-11-11 15:16 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   },
-   "summary": "실적 발표 당일 주가가 급등한 이유를 짚은 기사(본문 미확인, 3Q 실적·주주환원 재료가 배경으로 보임)."
+   }
   },
   {
-   "title": "SK하이닉스 목표가 '천지 차이'…노무라 470만원 vs 모건스탠리 160만원",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBieFBPRGhBOGY0UUpTRlJSTXkzVzlHZk0zcjRWNDltbTk5SjYtaV9zNVJzQmVGdDBUWklhYzFUUnNDMUpRcDNCMk9ydmQ1U3gzVnc?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-11-10",
-   "datetime": "2026-11-10 17:39 KST",
+   "title": "SK하이닉스, LPDDR5X 안전·보안 인증 확대…로봇·자율주행 시장 공략",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12Zlh1Z01ULURHcDQzaTV6ZVFXSmV2SGhfU2hxQVExdzFOdWhwV2VJS0ZBbzZ0eEZEM1lFWmJQV0pVVlFFNmpiRGpFZDZUZlJld0ZPQ21seWc0SUlxQTZVQVllMW9XTmtU?oc=5",
+   "source": "녹색경제신문",
+   "date": "2026-11-11",
+   "datetime": "2026-11-11 15:06 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "SK하이닉스 목표가가 노무라 470만원과 모건스탠리 160만원으로 크게 갈린다는 매일경제 마켓 기사(제목 기준; 리포트 일자·근거를 확인하지 못해 이번 목표가 평균에는 넣지 않음)."
+   }
   },
   {
-   "title": "삼성전자 주주 800만명 육박…SK하이닉스 1년 반 새 4.4배 급증",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8tTXliSUxtT3VSaEx4TTI3NkkwWVFzS1hvQks2NUFRbTFuWGxULTkydjRBeWN6WlFIeUdOTTdTTFBEX3FJbGZaRTVEaw?oc=5",
-   "source": "아이뉴스24",
-   "date": "2026-11-10",
-   "datetime": "2026-11-10 16:39 KST",
+   "title": "'억대 성과급'…SK하이닉스, 하반기 생산직 채용 돌입",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qSk1DNUwyWkd4VVkxMkNtV0hkel9wYnY1UVJPZnVjQU0tQUZMLWxiYkVTcGVWaWU4Z09WalFvV0pPd05fc3drV2FkWXoyMFFIMklmY1F3eDN1S2h0Zl80LW9EYnY?oc=5",
+   "source": "매일일보",
+   "date": "2026-11-11",
+   "datetime": "2026-11-11 14:48 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "삼성전자 주주가 800만명에 육박하고 SK하이닉스 주주는 1년 반 새 4.4배로 늘었다는 아이뉴스24 기사(제목 기준, 집계 기관·기준일 확인 불가)."
+   }
   },
   {
-   "title": "코스피 4.39% 오른 5239.13 마감...삼성전자 4.7%, SK하이닉스 6.7% 강세",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWmFnMW8zVDJqY3hvMlJsdEhHMUM3RTcyLVRFek9JRzJrQUc3QmQwdUNURE9qT215RUh6RHFheDZHbkJVZ2FBeklpRkNMRHBqWmV3dkZkMWx3Y29oTzZjUHZrcDlHMTBhMUllcFNseUN1M19rOFozRS1TUUU1b0c1Ng?oc=5",
-   "source": "조선일보",
-   "date": "2026-11-10",
-   "datetime": "2026-11-10 16:37 KST",
+   "title": "SK하이닉스: 100조 원 벌고, 100조 원 주주환원해요",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SajEwTjlfQ0lkOE9QN0xGNlVLZ1MzckNPU1RLRTM0M0Y0dWlFbTMydWFQVHpnOUljcUNnN2tuRzhNakljcHZtMTZzQTVLZXRlcVd1TWtOU2M?oc=5",
+   "source": "네이버페이 머니스토리",
+   "date": "2026-11-11",
+   "datetime": "2026-11-11 14:35 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   },
-   "summary": "코스피가 4.39% 오른 5,239.13에 마감했고 삼성전자 +4.7%·SK하이닉스 +6.7%였다는 조선일보 마감 기사(제목 기준; 마감 수치는 quote.json·트레이딩뷰와 일치)."
+   }
   },
   {
-   "title": "김형년 두나무 부회장 \"삼성전자·SK하이닉스 해외 거래 가슴아파\"",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mU2ZORE5wY0MtSTJnTmFJa3poTGc3UFFST3IwU1Bzc01abDJ4UUtvaEhyZlhERXh3SUtKU2g5MWNjb3Jmb3F1bkFad3hYbkxx?oc=5",
-   "source": "톱데일리",
-   "date": "2026-11-10",
-   "datetime": "2026-11-10 16:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "김형년 두나무 부회장이 삼성전자·SK하이닉스의 해외 거래가 가슴 아프다고 말했다는 톱데일리 기사(제목 기준, 발언 맥락 확인 불가)."
-  },
-  {
-   "title": "안성시의회, 고삼새마을어업계 만나 SK하이닉스 처리수 방류 및 보상 난제 논의",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10bDg3MnRZaF9NbkdLUndGYjJkX2ZEQ0l1N2QxQkZTdDdxRDhwRTdMR3ptdXZDNVpUVVVkZVBCTFNNdWFjQ3ZhcDlJZU4tRmgzeDVRU1hOY21sTFhpUWtJemFjajlpcFJ6OVoxUXR4dkw?oc=5",
-   "source": "인천일보",
-   "date": "2026-11-10",
-   "datetime": "2026-11-10 16:11 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "안성시의회가 어업계와 SK하이닉스 처리수 방류 및 보상 문제를 논의했다는 인천일보 기사(제목 기준, 방류 규모·보상안 확인 불가)."
-  },
-  {
-   "title": "청주 SK하이닉스 세수 1조 활용 놓고 공론화 요구 잇따라",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UYkp3YW1yQ09fR2t2SWN1VGR0TlBaZFFzc0VSWEFUakpmM2ptc0d6V254cHFqbUhuUkwyTnpVMDlXRVhXckZtcVhqdFlycFpGeER2NV9XQzNabXJXeGtCTNIBYEFVX3lxTE1UYkp3YW1yQ09fR2t2SWN1VGR0TlBaZFFzc0VSWEFUakpmM2ptc0d6V254cHFqbUhuUkwyTnpVMDlXRVhXckZtcVhqdFlycFpGeER2NV9XQzNabXJXeGtCTA?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-11-10",
-   "datetime": "2026-11-10 15:36 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "청주 SK하이닉스 세수 1조원의 활용 방안을 두고 공론화 요구가 잇따른다는 연합뉴스 보도(제목 기준, 세수 산출 근거와 요구 주체 확인 불가)."
-  },
-  {
-   "title": "[연금] SK하이닉스 2차 자사주 15% 매입 진행... 매일 35만주씩 사는 중",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTNxZWZFMkU4MTRoZ2htdEJkakxMRGVYWXBFNk0yVzNMbGNYcjVCRzdqREV4UGZ1WDVFa3NQbnlSU19CLUVNaVZ1VThqNzZQOHp3MWt2VXpPdF81NlkzUXFwZjlta2Q3d1RSYURld201VGVjS0trTmtFZkJTQV96cVo1a0FGdw?oc=5",
-   "source": "네이버 프리미엄콘텐츠",
-   "date": "2026-11-10",
-   "datetime": "2026-11-10 14:41 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 2차 자사주 매입(15%)을 진행하며 매일 35만주씩 사들이고 있다는 네이버 프리미엄콘텐츠 제목(제목 기준, 공시·수량 근거는 확인 불가)."
-  },
-  {
-   "title": "中아위닉, 'SK하이닉스 투자' 전력관리칩 기업 지분 인수 추진",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBjVmpJbGstX3djTTNpdlFzOTIxSncxMUwyVkdLYWlzNnNabHJ2djlES0JFbXAyLWUyc2x2dVBoekNucjVQZjhxNFBKVW1HM1J4Q2s1cG9Qb3RiOUZfU3RhY3ZlOA?oc=5",
-   "source": "더구루",
-   "date": "2026-11-10",
-   "datetime": "2026-11-10 14:27 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   },
-   "summary": "중국 아위닉이 SK하이닉스가 투자한 전력관리칩 기업의 지분 인수를 추진한다는 더구루 보도(제목 기준, 인수 규모·조건 확인 불가)."
-  },
-  {
-   "title": "케이씨텍, SK하이닉스와 211억 반도체 장비 공급계약 [공시pick]",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QTThpSnA2M0VwYUdRdWVRRmFKeFl3cDd4SEdOQ0g4dlZzN01DVjZFckI5ODJRcTQzM0ZxZVRONTJQWkduWHJQSENEZk1FQlVVa180LUF6Z2xGLUtpSG5N?oc=5",
+   "title": "‘잘 돌아가는 칩’에서 ‘믿고 쓰는 칩’으로…SK하이닉스의 다음 승부",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16MGdJbjFqNkRuVHg5WktKdHZ0ODNEMDBTUnczMm16dUtZSUJYRVFwdk5PSWFhb08xRTdZZGZLZjE3Z09PdXF2aTN1R09QX0tGdGVER2ZCeTVsTWhCVFprenplRHkzWWRoSWdZU0xhNA?oc=5",
    "source": "조세일보",
-   "date": "2026-11-10",
-   "datetime": "2026-11-10 14:21 KST",
+   "date": "2026-11-11",
+   "datetime": "2026-11-11 14:29 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "케이씨텍이 SK하이닉스와 211억원 규모 반도체 장비 공급계약을 맺었다는 조세일보 공시 기사(제목 기준, 계약 기간 확인 불가)."
+   }
+  },
+  {
+   "title": "SK하이닉스, 피지컬 AI 메모리 보안인증 라인업 확대",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wc21HbWpOMm9rNXQ5aUFQQmFiN0Z2V1BQNWlQWktRVjBsb2g0MmhQS3pVbWRaeHVsMW5kOHdsbXBmN3B2UGtXYVRTNEJCVEg5STBYQTNB?oc=5",
+   "source": "지디넷코리아",
+   "date": "2026-11-11",
+   "datetime": "2026-11-11 11:59 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "“아침부터 찬물”…11주에 하한가 찍은 SK하이닉스, 무슨 일이",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51SVVfN2ZQUDN1bFY4MjEwWmNqTTRjUDNSRHMxVzltR21zNElqTUlqUHRBdktONDBPdXN5VFpUR3REZlVmVkNxdk5MZ1Y0RUFzdnk4YWlIel9vZEljejhVTmVGdw?oc=5",
+   "source": "쿠키뉴스",
+   "date": "2026-11-11",
+   "datetime": "2026-11-11 11:15 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 로봇·자율주행 메모리 오작동·해킹 대비 역량 강화",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9jTUVVV0NVXy1vUUlDVkVCUzZSS05CeUN1VlduY21YdDlGOXlkLXJrTXBIYmZfV2NCUXJKa2dQa2VKYUJaZjJVSzJhUlhwTXlWMlJxeDBDRXdRR1dp?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-11",
+   "datetime": "2026-11-11 11:11 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
   }
  ]
 }
