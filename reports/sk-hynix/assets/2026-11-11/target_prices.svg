@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="760" height="576" viewBox="0 0 760 576" font-family='system-ui,-apple-system,"Segoe UI","Malgun Gothic","Apple SD Gothic Neo",sans-serif'>
 <rect width="760" height="576" fill="#fcfcfb" stroke="rgba(11,11,11,0.10)"/>
 <text x="24" y="34" font-size="17" font-weight="700" fill="#0b0b0b">증권사 목표주가 vs 현재가</text>
-<text x="24" y="54" font-size="12" fill="#52514e">현재가=11/11 13:24 지연 시세(장중 잠정). 증권사별 최신 보도 11곳 단순 평균 330.8만(헤드라인·검색 요약 기준)</text>
+<text x="24" y="54" font-size="12" fill="#52514e">현재가=11/11 14:24 지연 시세(장중 잠정). 증권사별 최신 보도 11곳 단순 평균 330.8만(헤드라인·검색 요약 기준)</text>
 <text x="120" y="101.0" font-size="12" fill="#0b0b0b" text-anchor="end">SK증권</text>
 <path d="M130,84 h499.7735849056603 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-499.7735849056603 z" fill="#2a78d6" opacity="1.0"/>
 <text x="641.8" y="101.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">400만 (10/29 유지)</text>
@@ -36,8 +36,8 @@
 <path d="M130,464 h203.80660377358492 a4,4 0 0 1 4,4 v18 a4,4 0 0 1 -4,4 h-203.80660377358492 z" fill="#2a78d6" opacity="1.0"/>
 <text x="345.8" y="481.0" font-size="11.5" font-weight="600" fill="#52514e" style="font-variant-numeric:tabular-nums">165만 (10/29 상향(보유))</text>
 <line x1="130" y1="78" x2="130" y2="500" stroke="#c3c2b7" stroke-width="1"/>
-<line x1="291.2" y1="78" x2="291.2" y2="500" stroke="#0b0b0b" stroke-width="1.5" stroke-dasharray="4 3"/>
-<text x="291.2" y="518" font-size="11" font-weight="600" fill="#0b0b0b" text-anchor="middle">현재가 128만</text>
+<line x1="291.0" y1="78" x2="291.0" y2="500" stroke="#0b0b0b" stroke-width="1.5" stroke-dasharray="4 3"/>
+<text x="291.0" y="518" font-size="11" font-weight="600" fill="#0b0b0b" text-anchor="middle">현재가 128만</text>
 <line x1="546.6" y1="78" x2="546.6" y2="500" stroke="#898781" stroke-width="1.5" stroke-dasharray="4 3"/>
 <text x="546.6" y="518" font-size="11" font-weight="600" fill="#898781" text-anchor="middle">평균(11곳) 331만</text>
 <text x="24" y="562" font-size="10.5" fill="#898781">출처: 전자신문·세계일보·재경일보 10/29, 한국경제 11/2~11/3 헤드라인·뉴스핌 종합, 검색 요약 (기준일 2026-11-11 09:13)</text>
