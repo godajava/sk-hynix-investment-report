@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-11-13 15:53 KST",
+ "fetchedAt": "2026-11-14 00:19 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "SK하이닉스 주가, 오늘 왜 하락하나?",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBULXdLS0RXQXhzOWNYaHB4aGp1ejJlWDlsVVZYbDh0dlZkRnBiRHNRQTR0S1Y3QS1mTk5yVUZsazNsd3dWWHF3ejV4WmhOVzRIYTdDQjhfTi1hdWxZbEpFTExXNHM4Ym5VUVlTeWFXRVNEM0hpMlZr?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-11-14",
+   "datetime": "2026-11-14 00:11 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "[ETF 시황] AI 소부장 웃고 SK하이닉스 레버리지 울고…수익률 희비",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yQ0hUT3QyUzRPLUhwSzJJTGZCQTZDc0tKVnlnQkJKcGx5U0c2Z051a0k3d2ZuSkpjVWJadFpLVy1DakstUEhPbW11QWJ3ODlMcjFaQjlIcVg3aHpP?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-13",
+   "datetime": "2026-11-13 16:49 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "안성 농민들, SK하이닉스 처리수 방류 반대 삭발…“생존권 짓밟지 마라”",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpQ1llalg0bmNIek5SelhNc01oMFJGVGdpTGhtTmFGZFRnaWpOd2hWbWVOYlI3aDdGeWJkRkNJa01BUDNpTjZRVUMzZVozQ3dxYzZZekdRb05ObmM?oc=5",
@@ -30,17 +54,16 @@
    "summary": "퀄리타스반도체가 SK하이닉스에 공급하는 IP 규모가 총 39억원으로 확대됐다는 디일렉 기사(제목 기준, 세부 계약 내용 확인 불가)."
   },
   {
-   "title": "[특징주] 삼성전자·SK하이닉스, AMD·브로드컴 등 반사수혜 '강세'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGlOdzljdVV5ZkJaZWg3bUVVTWlnamZ4YWY5ZUtNNkQ3T0Y5MkhQRGJ2V2hLMU1NaHNac3d2QUF2RmpJUnVDZC1kTDEwWWdva09MRTAwdUw2QUNwSGM1dXE2Z2pJRDVQNGk2ay1rRjVJZnZnWWpSTXMzQ1UtWmxhUzYtdmsxaWJx?oc=5",
-   "source": "글로벌이코노믹",
+   "title": "엔비디아 새 CEO, HBM 가격 압박하나…SK하이닉스 수익성 변수",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xbmxoSHRZaDlaNTlRYlMtODRZRVJZRzZEeW9kR2J4dEFyUGZSXzhseUR0MXVVRzdLNG5MeDIxM0NRdDRKSVZJTnM3MzVvYnN5dnltTDU5SE16NTVoS1l5TDVFcnRLbDY5X2c?oc=5",
+   "source": "뉴스버스",
    "date": "2026-11-13",
-   "datetime": "2026-11-13 10:02 KST",
+   "datetime": "2026-11-13 06:19 KST",
    "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   },
-   "summary": "엔비디아 이슈 속에 AMD·브로드컴 등 대체 AI 칩 업체 강세의 반사수혜 기대로 삼성전자·SK하이닉스가 오전 강세였다는 글로벌이코노믹 특징주 기사(11/13 10:02 작성, 제목 기준; SK하이닉스는 이후 하락 마감)."
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
   },
   {
    "title": "SK하이닉스 8,700억 던진 외국인, 삼성전자는 9,200억 양매수 (11.12)",
@@ -106,32 +129,6 @@
     "emoji": "⚪"
    },
    "summary": "주영표 SK하이닉스 부사장이 AI 확장의 한계를 공유 메모리로 극복할 수 있다고 말했다는 디지털데일리 기사(제목 기준, 발언 맥락 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스 재무 버팀목으로…그룹 곳곳에 ’현금 낙수효과’ By EBN",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rdmwzbWxFRTNxQUd0a19SVUNKVlpaSHliUVJkRDlQNHNDdEdQaEtlS0dMRE84eXp1TUNJZTM5ekFFcDM3ZUVLR05xSGphdVFjNFctWXdrWlo3SVBVdDVmT1VDNnZhWmNCZWV2UkkxUkM?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-11-12",
-   "datetime": "2026-11-12 15:15 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스의 현금이 그룹 곳곳으로 낙수효과를 낸다는 Investing.com(EBN) 기사(제목 기준, 수치·대상 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스: 100조 원 벌고, 100조 원 주주환원해요",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SajEwTjlfQ0lkOE9QN0xGNlVLZ1MzckNPU1RLRTM0M0Y0dWlFbTMydWFQVHpnOUljcUNnN2tuRzhNakljcHZtMTZzQTVLZXRlcVd1TWtOU2M?oc=5",
-   "source": "네이버페이 머니스토리",
-   "date": "2026-11-12",
-   "datetime": "2026-11-12 14:57 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   },
-   "summary": "SK하이닉스가 100조원을 벌고 100조원을 주주환원한다는 내용을 풀어쓴 네이버페이 머니스토리 콘텐츠(제목 기준, 수치 근거 확인 불가)."
   }
  ]
 }
