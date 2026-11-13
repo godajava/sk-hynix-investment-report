@@ -1,12 +1,12 @@
 {
  "symbol": "000660.KS",
- "price": 1218000.0,
+ "price": 1214000.0,
  "previousClose": 1254000.0,
  "previousCloseSource": "yahoo-daily+tradingview-ok",
- "change": -36000,
- "changePercent": -2.87,
- "marketTime": "2026-11-13 13:24 KST",
- "fetchedAt": "2026-11-13 13:44 KST",
+ "change": -40000,
+ "changePercent": -3.19,
+ "marketTime": "2026-11-13 14:04 KST",
+ "fetchedAt": "2026-11-13 14:24 KST",
  "days": [
   {
    "date": "2026-11-12",
@@ -20,47 +20,40 @@
    "date": "2026-11-13",
    "open": 1292000.0,
    "high": 1317000.0,
-   "low": 1216000.0,
-   "close": 1218000.0,
-   "volume": 1895319
+   "low": 1210000.0,
+   "close": 1214000.0,
+   "volume": 2177572
   }
  ],
  "indicators": {
   "macd": {
-   "macd": -87156,
-   "signal": -87620,
-   "hist": 465,
+   "macd": -87475,
+   "signal": -87684,
+   "hist": 209,
    "read": "상승 모멘텀 (MACD > 시그널)"
   },
   "atr": {
-   "value": 106635,
+   "value": 107064,
    "pct": 8.8,
    "read": "일 평균 변동폭 8.8% — 변동성 매우 큼"
   },
   "adx": {
-   "adx": 22.9,
-   "pdi": 20.8,
-   "ndi": 30.7,
+   "adx": 23.0,
+   "pdi": 20.7,
+   "ndi": 31.0,
    "read": "추세 형성 중 · -DI 우위(하락)"
   },
   "kdj": {
-   "k": 34.0,
-   "d": 33.6,
-   "j": 34.8,
+   "k": 33.6,
+   "d": 33.4,
+   "j": 34.0,
    "read": "중립 구간 · K > D (단기 상승 우위)"
   },
   "volume": {
-   "today": 1895319,
+   "today": 2177572,
    "ma20": 3920141,
-   "ratio": 0.48,
-   "read": "20일 평균 대비 0.5배 — 감소"
+   "ratio": 0.56,
+   "read": "20일 평균 대비 0.6배 — 감소"
   }
- },
- "repairedDays": [
-  "2026-11-12"
- ],
- "warnings": [
-  "야후 일봉 종가 None 건너뜀: 2026-11-12",
-  "야후 일봉 누락일 복원(5분봉 집계): 2026-11-12"
- ]
+ }
 }
