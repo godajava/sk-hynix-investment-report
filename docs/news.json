@@ -1,8 +1,68 @@
 {
- "fetchedAt": "2026-11-13 00:57 KST",
+ "fetchedAt": "2026-11-13 15:53 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "안성 농민들, SK하이닉스 처리수 방류 반대 삭발…“생존권 짓밟지 마라”",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpQ1llalg0bmNIek5SelhNc01oMFJGVGdpTGhtTmFGZFRnaWpOd2hWbWVOYlI3aDdGeWJkRkNJa01BUDNpTjZRVUMzZVozQ3dxYzZZekdRb05ObmM?oc=5",
+   "source": "경기일보",
+   "date": "2026-11-13",
+   "datetime": "2026-11-13 13:44 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "퀄리타스반도체, SK하이닉스 공급 IP 규모 확대...총 39억",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tQzVTMGVjMlRPTDVSZ1RQTkRmNzlmSzl1RDY3WUxTU1pEVFVrTEdSYnRBUGtvN3c0LS1TbnZhaTFGb3BRaXFYUi1PLVgtbGt1NXVSUWFBVUFKZ29wZnRzWjZpUGhxZw?oc=5",
+   "source": "디일렉",
+   "date": "2026-11-13",
+   "datetime": "2026-11-13 13:19 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, AMD·브로드컴 등 반사수혜 '강세'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTGlOdzljdVV5ZkJaZWg3bUVVTWlnamZ4YWY5ZUtNNkQ3T0Y5MkhQRGJ2V2hLMU1NaHNac3d2QUF2RmpJUnVDZC1kTDEwWWdva09MRTAwdUw2QUNwSGM1dXE2Z2pJRDVQNGk2ay1rRjVJZnZnWWpSTXMzQ1UtWmxhUzYtdmsxaWJx?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-11-13",
+   "datetime": "2026-11-13 10:02 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "SK하이닉스 8,700억 던진 외국인, 삼성전자는 9,200억 양매수 (11.12)",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1ZoOEFyakxMZWxtVWxNaFN0bU9ORGJtd2VrSXJMaDBsalVzLXhfNDRqTGlsRzZhOFdFZWxLemZtMzZ4Y3NzdDNHZUU5OVF1RjN3Y0p3S0hhT0pqTTI0WlBVVlJLZ2laay14UFRUczl6R2R1OHNDT2k3d1Y2X2ZIekJ3cFp5LVNWVVE?oc=5",
+   "source": "네이버 프리미엄콘텐츠",
+   "date": "2026-11-12",
+   "datetime": "2026-11-12 19:10 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "젠슨 황 논란 확산일로…삼성전자·SK하이닉스, 실적 변수",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5YZEZEM0lnd3hQYmtKSk5Qd0gyYV9Nc0FaNHRfZTVzWnZ1dS1jRVFHUExOTFB4MVE2MXZxWWFsclNWb012bHltVk4xWGxDZU0xeGt6eWlPNGVkQnlx?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-12",
+   "datetime": "2026-11-12 18:34 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
   {
    "title": "SK하이닉스, 사내 챗GPT 도입 시험⋯반도체 업무 AI 활용 확대 검토",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1V1NKS0ZiQngwRll3WF9FcmNXVFhGQ1AwZHJ0YXQ3bW1qOE4ybGFfNURJQndxUkdkXy1IdUVRanZ1YzdjNjVaWjV0QQ?oc=5",
@@ -17,6 +77,18 @@
    "summary": "SK하이닉스가 사내 챗GPT 도입을 시험하며 반도체 업무에서 AI 활용 확대를 검토한다는 아이뉴스24 보도(제목 기준, 도입 범위 확인 불가)."
   },
   {
+   "title": "“SK하이닉스가 낼 1조원은 청주시민에 대한 배상금이다” - '태희'",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDVVdTT2JlUzBfNEtRVWV2dGNyVVJfM1I4RWlmSUE4TlNQN0R4OG9NLTFyOTA4TlJuSVBBQXBsM2tpcThocWphSDB0Vk96dGtEY08ySDFXNlR4UVRYenVlcUdfc2wtWnZjM0M2Mg?oc=5",
+   "source": "'태희' - TAEHEE",
+   "date": "2026-11-12",
+   "datetime": "2026-11-12 17:06 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
    "title": "주영표 SK하이닉스 부사장 \"AI 확장 한계, 공유 메모리로 극복\"",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CdFQ0R1ZfS0puQS1CWWpWZjNaZTFkWmQ1dExyMU5PU3FqWV8tMzhLMWhJVzFBNmcxOW0yZkR1VFpWZHZTU00yNWZ5R1M1TnZxXzVnWTdiUm96OXlSM2ljY0Jjakw?oc=5",
    "source": "디지털데일리",
@@ -28,19 +100,6 @@
     "emoji": "⚪"
    },
    "summary": "주영표 SK하이닉스 부사장이 AI 확장의 한계를 공유 메모리로 극복할 수 있다고 말했다는 디지털데일리 기사(제목 기준, 발언 맥락 확인 불가)."
-  },
-  {
-   "title": "외국인 삼전 사고, 하이닉스 팔고…삼전 0.9%↑·하닉 1.80%↓(종합)",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nOHZuRnR4VFRGdW5MY3NKOUxoYzBSRWNqV0h0Smp2VXJVbXlIcXdrNm8zTGl5dlZHQWRfOXR3ZUFTQnIybWpsU0J6eEJ6am9PamlqX2pNeXZ0OVHSAWBBVV95cUxPdXlDSmtCMi0yMllZNzBia3VKSGtyUXBKS3U4bmxGaDg0eTlLQTVoOE5ZMTh5QnJ5cklPUmZCM2w2bFBnX2FhYWxoaGpHUzN0YVZOLVpXcWM3LWxkd3o0QXA?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-11-12",
-   "datetime": "2026-11-12 15:53 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "외국인이 삼성전자를 사고 SK하이닉스를 팔아 삼성전자 +0.9%·SK하이닉스 -1.80%였다는 연합뉴스 마감 종합 기사(제목 기준; 마감 수치는 quote.json·트레이딩뷰와 일치, 외국인 순매매 금액 확인 불가)."
   },
   {
    "title": "SK하이닉스 재무 버팀목으로…그룹 곳곳에 ’현금 낙수효과’ By EBN",
@@ -67,71 +126,6 @@
     "emoji": "🟢"
    },
    "summary": "SK하이닉스가 100조원을 벌고 100조원을 주주환원한다는 내용을 풀어쓴 네이버페이 머니스토리 콘텐츠(제목 기준, 수치 근거 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스 \"에이전트 AI로 메모리 부담 커져\"…서버 옆 '메모리 랙' 제안",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnZybUlYTnUzaUFTNkthZmR4ZmpDdzZBMzlaekYzOTJaR3Rvb3lNSnlZanBXSkFmOEVlaktPUFNrWW8xejhRYld6V3BDQVZiRDNHUFpjYmplN3JDNllUNGtDbXJ0R2J1NHQtWk1yNU1RTjI3OG03R3BKWlJ3QmpUX3BHSTYxQQ?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-11-12",
-   "datetime": "2026-11-12 14:56 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 에이전트 AI로 메모리 부담이 커진다며 서버 옆 ‘메모리 랙’을 제안했다는 글로벌이코노믹 보도(제목 기준, 제안 구조와 시점 확인 불가)."
-  },
-  {
-   "title": "가스안전공사, SK하이닉스 청주공장 점검…동절기 가스사고 예방",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxNk8zak9XWDNsTzgxVFRyRXQwOGZqYXBlaGpPOFFkNWs0SzBHb08wU1FDdFNBdmFIb08wZ0gySDEybnZNMGs3WkV6THhqaVh4d213YVVaSkxqUk9iOEMxc3FBYTJLc1hBSU1KWHhnQ092UQ?oc=5",
-   "source": "에너지데일리",
-   "date": "2026-11-12",
-   "datetime": "2026-11-12 14:39 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "가스안전공사가 SK하이닉스 청주공장을 점검해 동절기 가스사고를 예방한다는 에너지데일리 보도(제목 기준, 점검 결과 확인 불가)."
-  },
-  {
-   "title": "차세대 메모리 '공동 설계' 범위 넓히는 SK하이닉스…하이퍼엑셀도 HBF 개발 참여",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QamVHVHJpMnZvci10aUR0ZkJnR3BLaXVsQU4wTlZ3VFNGa21rVGRxQVNkbWRMZlFhZGRXalJlbmhMV1kxbU85SmFsTzgzeGpMdEV4eFgzV2dCdWtWODZGQ1RfMVM0RHJzSWxHdGlYbw?oc=5",
-   "source": "마켓잉크",
-   "date": "2026-11-12",
-   "datetime": "2026-11-12 13:59 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 차세대 메모리 공동 설계 범위를 넓히고 하이퍼엑셀도 HBF 개발에 참여한다는 마켓잉크 기사(제목 기준, 개발 일정 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스, 메모리 장벽 해결책으로 '거대 메모리 풀' 제안",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iN3BlRFNMQkpBdVRQYjloYjByLWJxcnlmcEY3SFFabS0wQWdaR21sMUNiVGZaVGZYU3pYcDIyYUl0dGp1RVVSQ3ZIXzV0Qll3VWdQektIelhBd2Y3Q3NtNUdqNkdNNnZuX2hRYzBfUDE?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-11-12",
-   "datetime": "2026-11-12 13:36 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 메모리 장벽 해결책으로 ‘거대 메모리 풀’을 제안했다는 연합인포맥스 보도(제목 기준, 기술 세부 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스 주영표 \"AI 시스템 한가운데 메모리를…인텔과 긴밀히 협력\"",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE96Z0xDSnNlcTFJYTRwNWQ5Rms0WEk3VzctTDE5ZjFYbGd0WDZ2WnAwdGQ3ckdyRUZVa1BwVy1zZ3lUSjc0bjVsUnpGbw?oc=5",
-   "source": "아이뉴스24",
-   "date": "2026-11-12",
-   "datetime": "2026-11-12 12:51 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "주영표 SK하이닉스 부사장이 AI 시스템 한가운데에 메모리를 두며 인텔과 긴밀히 협력한다고 말했다는 아이뉴스24 기사(제목 기준, 협력 범위 확인 불가)."
   }
  ]
 }
