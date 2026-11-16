@@ -1,137 +1,127 @@
 {
- "fetchedAt": "2026-11-16 15:54 KST",
+ "fetchedAt": "2026-11-17 01:57 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "속보 코스피, 5100선 턱걸이 마감...SK하이닉스 7.9% 하락",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGcWdQUEV2MXQxckY0ZWZ3QWVrR2Z1S3dZNXlXZXNEZ1FhM0FLbVRGZzVzNDRNeTN3OU5HdWJBYkZIRndlQ3NSc2VBaXAwM2drV2lWRlNtcFNUbkxMcXc?oc=5",
-   "source": "YTN",
+   "title": "소부장에 내준 공장라인… SK하이닉스 ‘반도체 상생’",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RNnB6cUE4MGR1SDdrcUxDZzJpRndVZEJFRVJ1Xy1oNkg5QVVFaTd5VlBvc3pwRVFQWFpGNjI0OWktUVFpZm1kWWtRRjZYQk94RGtoZi1LNjlGNl9BYnE4NktMTjhzam4wbHZBd0pHcTQxOWs1SjM5TkpuWQ?oc=5",
+   "source": "서울신문",
    "date": "2026-11-16",
-   "datetime": "2026-11-16 15:40 KST",
+   "datetime": "2026-11-16 21:33 KST",
    "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   },
-   "summary": "11/16 장 마감 YTN 속보: 코스피가 5,100선을 간신히 지키고 마감했고 SK하이닉스는 7.9% 하락했다는 기사(제목 기준, 세부 수급·원인은 확인 불가)."
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
   },
   {
-   "title": "SK하이닉스, 양산라인 옆 협력사 실증공간…'트리니티팹' 첫 공개",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wV3lCZjYza2xOR29BejFFY0RvR2lRVUZETThXU29TQkQteHJCenVGbl83Y0pjLXhhc1hHTzltTVd1eFhRWU55Wm1mYWRuREw2VUJ1TVlndTNXRGNnVy0xU0FxTUMyQnE3MTk5NllCR1g?oc=5",
-   "source": "리드경제",
+   "title": "삼성·SK하이닉스, 역대 최대 시설투자…3분기 누적 88조원",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBQeVRwVk5USmt6MzRUSU16LXpVXzA3cW4wUDlRTEJzR1c5NEVIYmQ5WW96VnhBdHBPMGNOejNOR1F2NmtwOTZidUJSMlVwelk4ZndXNWxR?oc=5",
+   "source": "지디넷코리아",
    "date": "2026-11-16",
-   "datetime": "2026-11-16 15:09 KST",
+   "datetime": "2026-11-16 21:30 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   },
-   "summary": "SK하이닉스가 양산라인 옆 협력사 실증공간 ‘트리니티팹’을 처음 공개했다는 리드경제 기사(제목 기준, 세부 내용 확인 불가)."
+   }
   },
   {
-   "title": "[SK하이닉스 JOB리포트] 디지털 인프라로 AI 시대의 기반을 다지다, 전사적 혁신을 이끄는 ‘IT’",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lSWVHYmJZUEtySzB3cXRtZExJQUV2UXJCdDRkczlTOUpya2ZEWHR6cVNqRWZPV1JSa3hISnR6Zk1DNWFmcXFEanBJY1VrenVOSDk5MlZPUkF1d0NHdzZrSV9Odw?oc=5",
-   "source": "SK hynix",
-   "date": "2026-11-16",
-   "datetime": "2026-11-16 14:00 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK hynix 공식 채널의 JOB리포트로, 전사 IT 조직이 디지털 인프라와 혁신을 이끈다는 소개 콘텐츠(제목 기준, 투자 판단과는 무관)."
-  },
-  {
-   "title": "개발비 먼저, 실패도 나눈다…SK하이닉스의 소부장 동행",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zbjhjZERwZmlzbExveVViS0ExNWtHRlNpeW4tUnp5X2dhenVyN3Vsdnd6UDhRanZWRng0ejZhd0lMUy1jYVJVMjZyZE9nYzdkcURiLXRuSkxvdnBLT1RiUw?oc=5",
-   "source": "뉴스토마토",
-   "date": "2026-11-16",
-   "datetime": "2026-11-16 13:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 소부장 협력사와 개발비를 먼저 지원하고 실패도 함께 부담하는 동행 방식을 다뤘다는 뉴스토마토 기사(제목 기준, 세부 내용 확인 불가)."
-  },
-  {
-   "title": "110만원대까지 내려온 SK하이닉스…\"실적으로 증명해야\"",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15U1dlbGtiU3Q2cEpaY05uNmdnUU9TTUNnM0RxS2trd2NkRDVuY2xIUkMyQTktTGJJRk5pVlZ4WkZZUXdPYUZhbDQzeDhWcWpHV3NDbklrT2JzQQ?oc=5",
+   "title": "SK하이닉스, 美 매출 1년 새 102조원 증가…엔비디아 추정 매출 35조",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01Z2JFU25xNVB6SHJsbDRXVFdfc2c5WTNNcE8zNjFhWW1KRkpwR2V0M2J2akktYnh0NFlGdEJjRVRaSEZQdzk2MHV6N2JVVy1aY1JXX2I1T2lLUQ?oc=5",
    "source": "한국경제",
    "date": "2026-11-16",
-   "datetime": "2026-11-16 11:15 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스 주가가 110만원대까지 내려와 ‘실적으로 증명해야 한다’는 시각을 전한 한국경제 기사(11/16 11:15, 제목 기준, 세부 내용 확인 불가)."
-  },
-  {
-   "title": "초고수들 SK하이닉스 '사자', 삼성전자 '팔자'…엇갈린 이유는",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aZ3FCNk9JcWN4RVRuMXhxMnItSTg5aWw4SWdMZWNZU3BGUjMzTVRHV2hwbW9FempSajQ5TlI2ZnFwamdPYlJYeXd6eERNZzhiUzBKMGF5UmRQdw?oc=5",
-   "source": "한국경제",
-   "date": "2026-11-16",
-   "datetime": "2026-11-16 11:09 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "초고수 투자자들이 SK하이닉스는 사고 삼성전자는 팔았고 그 이유를 다룬 한국경제 기사(11/16, 제목 기준, 매매 규모·이유는 확인 불가)."
-  },
-  {
-   "title": "반도체 사업장도 'AI 안경' 경계령…SK하이닉스 반입 금지, 삼성전자도 검토",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtZXFBT3hBRDBuRFd2cFR1MVpjenJQaVBqeVl6amZrVFNmbUtuM09jZzVBVXdjY2hGOGZiWXlOSEdVb3ZSSFl4QXBHeU9oWXdDbWVTSk9qaFo4TWg2dFJaU9IBeEFVX3lxTE5yYm1ldUpoWEozcWJCUzdablJrdzdod3hENkpRQjkwb3drT3d1NGdXcFJDWGoyazZUSXBHOFpDUnUyV0MtZURmdTJQY25qaFpqRTdNYUhYMkRPcG1Xa0E0LUxYWjlDWklPTmlZSmp6Z3d3QVJwM0RtXw?oc=5",
-   "source": "뉴시스",
-   "date": "2026-11-16",
-   "datetime": "2026-11-16 11:06 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "반도체 사업장에서 AI 안경 반입을 막는 움직임으로 SK하이닉스는 반입을 금지했고 삼성전자도 검토 중이라는 뉴시스 기사(제목 기준, 투자 판단과는 무관)."
-  },
-  {
-   "title": "삼성전자, D램 점유율 38%…SK하이닉스 추격 속 메모리 경쟁 격화",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qQ0xDSGZVa2xSclFuUFpESWxWX3JCUGpTb2ZBS0FaZl9PeU92UFZ2ZEpETkhuWm1abEF2VjJVM1pacDNKeVhNNUJKZUI3MUg4Q3RFY0diOE1fRDZlSTZRZ3ZMV2dLWjJW?oc=5",
-   "source": "테크월드",
-   "date": "2026-11-16",
-   "datetime": "2026-11-16 11:00 KST",
+   "datetime": "2026-11-16 19:21 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   },
-   "summary": "삼성전자의 D램 점유율이 38%로 SK하이닉스를 추격해 메모리 경쟁이 격화된다는 테크월드 기사(제목 기준, 점유율 수치의 출처·기준일은 확인 불가)."
+   }
   },
   {
-   "title": "美법원, D램 담합 소송 허용…삼성·SK하이닉스 'HBM 생산' 영향주나",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KMnM0T212RDEzTWs4dzhCUHNEWkVXc0xUVHYyT1hTOVEwYkFxVHEyQ3JlelpTbmJZYnRZSDNldWZOOXFlRXlSNFlSNzBOc1gxWUgtaHJyWFFpUkpS?oc=5",
-   "source": "뉴스핌",
+   "title": "\"SK하이닉스 호황 타고\"…SK스퀘어, 3분기 영업익 7.9조",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtN1I5N3V6UnAxVGkzeHFCYTFJYlkycUpQZ1JFZGlIOTlvc0Z6MzU5SW9vcHdWT0Y0VUlveHFzZ3dBWWoxc255SnpFVDd0ZzBYeTNUeEVhUlRuc3lHVTJXeF96X00?oc=5",
+   "source": "디지털데일리",
    "date": "2026-11-16",
-   "datetime": "2026-11-16 09:42 KST",
+   "datetime": "2026-11-16 18:35 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   },
-   "summary": "美 법원이 삼성·SK하이닉스 등을 상대로 한 D램 담합 소송을 허용해 HBM 생산에 영향을 줄지 짚은 뉴스핌 기사(제목 기준; 소송 허용 결정은 검색에서 교차 확인하지 못함)."
+   }
   },
   {
-   "title": "골조 끝낸 SK하이닉스 용인 1기 팹, 내년 4분기 첫 양산…'트리니티팹'도 베일 벗었다",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OQURMZkNqVDRPY3JKYjBiZWZtM21HX3lEdzZBR2FBRTc4TnFyN3VNdDNyc2U2SXNvMzVjb19RVXFyZEx2cEdWeWNFTkdzQQ?oc=5",
+   "title": "SK하이닉스 설비투자 올해 3분기까지 31조원…사상 최대 규모",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE85Q2M2MjJiQVkzN25yZkt3MUptYTgtMlpFQjdxQ1gyZDZfRjluZEU4TVl2QkdDeXdOUWhIWlE1YnpqU1BpVEE1UWM4dXpBQQ?oc=5",
    "source": "전자신문",
    "date": "2026-11-16",
-   "datetime": "2026-11-16 09:15 KST",
+   "datetime": "2026-11-16 18:12 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   },
-   "summary": "SK하이닉스가 양산라인 옆 협력사 실증공간 ‘트리니티팹’을 처음 공개했다는 리드경제 기사(제목 기준, 세부 내용 확인 불가)."
+   }
+  },
+  {
+   "title": "美 법원, 삼성·SK하이닉스·마이크론 D램 담합 소송 기각 요청 거부",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMlBtbVdDZlpUMW1pRzVHd05McUtHajVScVo5ZFhYVDZjT3NNRjdoQUZmeUtuVGZDUDZfQ2RMRS0tOWhkZlBPQ3hGZ3VzQUY4Z05lekxjcTRuNEc1bk96SDRfNTI0eGxON28yMlZWZXdYSUVXakU5UE1aM0VwbHNWaUtB0gGWAUFVX3lxTE9jaFl0MHA2RVB1WmlmaW5SMnZnZTd5SEYzcHZidjNDcmlXRlBEM1ltdlpzVU9Qc3RKS2cydUttazhNSmREQ3BvVnNpY3paYkk0Z3dkbnNBcXhTaVBJZU9yWklsYjAwUjAtbWpOcno2M1lPT0xpWFpoU1NndTQzY2NrYWFlRkc5SkRPSUtuRm1hZXpvTmROUQ?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-11-16",
+   "datetime": "2026-11-16 18:12 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "‘20만전자’ 내주고…SK하이닉스도 7.89% 하락",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15RzhGRDlOTk8yclI5RzV4Q1lDMm5WSkJ5ME13QnZIYkRoeE9Wa1ZVSWFzajV1ZXkyRHdYUjNJY1poMzVPYzFKOGRQcFBfb1BQZDFkVHNfLU5acDF2QWRSMkFZcTBQaEE?oc=5",
+   "source": "강원도민일보",
+   "date": "2026-11-16",
+   "datetime": "2026-11-16 17:57 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "케이씨텍, SK하이닉스에 700억원 규모 세정장비 공급",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUdDg1ajFWU09CRE16QV9FdzdfRUxYMS1ZQ1lNUTdJcG4yZThSUDJfV2NtNUpzaG53VjV0VkZHQ0RESXF2WkFSVGIweEtOSm03WmljU3hvZ0NNUFdhZjM4RkllRzZRQQ?oc=5",
+   "source": "디일렉",
+   "date": "2026-11-16",
+   "datetime": "2026-11-16 17:45 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 목표 주가 38% 낮춘 모건스탠리, 이틀 뒤 보고서엔 \"코스피 이르면 3년 내 1만선\"",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYXM0N1U3LWV3RXY1MDJGU2FRYldYS0VLUUtkbnNqYW9DcmwwMVV6LTFqNG9IQ3BKa2FSaW5hLWZ3RDBsaV9Ob1BDMTU1ZTNYWjE3bWc5b1Nkc1ZsbkdlX1dRUVBjbDJRdHB5aVE3ZEZ4Y3NLYm80eG1FNXRHQk5pbg?oc=5",
+   "source": "조선일보",
+   "date": "2026-11-16",
+   "datetime": "2026-11-16 17:32 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "’젠슨황 쇼크’에 하이닉스 털썩…SK그룹 시총 장중 1천조원 깨지기도",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCdC1OanBiNXNJMXAyQ3BTV1hPMHNwczYxNThoU2RaV1k1RWpiYmtpWGI4SERWZjl1aUZiLTdUQ3F4R2UzbXFRSlZYemRwVVhBdzZqOERzVlJiMHJlU1BsenZjZVhNV28?oc=5",
+   "source": "연합뉴스TV",
+   "date": "2026-11-16",
+   "datetime": "2026-11-16 16:41 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
   }
  ]
 }
