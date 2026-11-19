@@ -1,12 +1,12 @@
 {
  "symbol": "000660.KS",
- "price": 1164000.0,
+ "price": 1154000.0,
  "previousClose": 1144000.0,
  "previousCloseSource": "yahoo-daily+tradingview-ok",
- "change": 20000,
- "changePercent": 1.75,
- "marketTime": "2026-11-19 13:24 KST",
- "fetchedAt": "2026-11-19 13:45 KST",
+ "change": 10000,
+ "changePercent": 0.87,
+ "marketTime": "2026-11-19 14:24 KST",
+ "fetchedAt": "2026-11-19 14:44 KST",
  "days": [
   {
    "date": "2026-11-18",
@@ -21,8 +21,8 @@
    "open": 1154000.0,
    "high": 1168000.0,
    "low": 1115000.0,
-   "close": 1164000.0,
-   "volume": 1591636
+   "close": 1154000.0,
+   "volume": 1818015
   }
  ],
  "indicators": {
