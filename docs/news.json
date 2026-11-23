@@ -1,20 +1,115 @@
 {
- "fetchedAt": "2026-11-23 15:53 KST",
+ "fetchedAt": "2026-11-24 04:11 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "윤풍영 SK하이닉스 사장, 자사주 1500주 매입…16억원 규모",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DQzlZckhUcEZURzNYOWkyblA3aDZyLUJNRExrR3FZWlFuQ3ZPN3hYQ3RWZkhSb2Y4WE8xMFRrV3JmT0JfWXB4cGg1N0dGXzVFTjh2eS1GanlyNGV6VWw4TGxBdU8?oc=5",
-   "source": "매일일보",
+   "title": "\"삼성전자 7만원, SK하이닉스 20만원\" 주장 … 팩트체크 해봤습니다",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQkZCOXZIRjlXbEtZNmZ6VGRCcGd5TW1xTTExT1NYN3ZQMWx5RUVOZEs5TzhJbnBIVHpiOUNpalhLeF9GSWNZUjlaYVdweHFKLU1Bb0w5MFAtM05uTXZXM2NPV1FYU2pUeDZLZWpJMi1hOGpRcVc3bEE5WVJrU3pSQzdYbnE?oc=5",
+   "source": "네이버 프리미엄콘텐츠",
    "date": "2026-11-23",
-   "datetime": "2026-11-23 15:43 KST",
+   "datetime": "2026-11-23 21:19 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "윤풍영 SK하이닉스 사장이 자사주 1,500주(약 16억원)를 매입했다는 매일일보 기사(11/23 15:43, 제목 기준, 매입 시점·공시 원문은 확인 불가이며 경영진 소규모 매입 사례로 방향 판단 근거는 아님)."
+   }
+  },
+  {
+   "title": "SK하이닉스가 보는 호남 반도체 성공 열쇠는?",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ORTFLZ2RtTTBBb1k0NTFrcUZjQmNXWGY5X1FOS29meVVHbU1uZHhGejlvYWxnMFptTGVzUDk1c1RaWkZDNlVSbU11d19HeXU5TnNGem1vemhGa0dreXI0Rw?oc=5",
+   "source": "KBC광주방송",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 21:16 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "골드만삭스 삼전·SK하이닉스 목표가 낮춰…2028년 업황 둔화 우려",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdktsdEx2VlN5TkxyWFIzMk13alFsNG5FMjB3S05FV25lcWt3dEpsVnVNQnZxWWtRZTgxYzlHREM3eTZzaURvbXQxcXpHcWJzVE9XYWNJLU92czlXX21yWFQ2NC1FajZaYjJxamhaWlJPTGp4dEs3UHRyQlZyMmJZZnFGLTNuMkkxS0N3?oc=5",
+   "source": "국제신문",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 21:10 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "손정의, SK하이닉스 ’1조달러 인수’ 타진설…현실성은 ’글쎄’ By FinancialPost",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tVWMxZjJPUVhSNjQ3TkNpMDlNcnZZQU9NcjUyRzQxcnBMdkQyeHNrTG1MZGVTSHBISC1IQm5HN3BDMzFuaFhxbHRJeEtuSmV2Y3RQNkMtOUdRSGw5VEFDRVg4dmRHXzg3WlRDMlloMFY?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 19:23 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "“300만닉스” 외칠 때 하락 경고한 연구원…SK하이닉스 또 ‘105만원’ 제시",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zR2JEbUszVTVpVWE1R2VvN3lGNnNTN1B5UDVLd0FwMGw2RWt6WUdMeVZWMnowTVhFempnUUZISEFqSGUwVzYxRlA3VjExSWx5dUNCWW9UVHVOMHc?oc=5",
+   "source": "경기일보",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 19:11 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "SK하이닉스 윤풍영 사장, 자사주 1500주 매입⋯16억원 규모",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9iRGc3bkthY3p5YnlXTndVN3VHN3dZOWc2VGdUN3Z5UmlpSDhsYVlzY1B5UFl6d1hLMnc0emVHazUyWEFGSDJVUlpmcw?oc=5",
+   "source": "아이뉴스24",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 18:18 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "단일종목 레버리지 또 최저가…SK하닉 ETF 2천원대까지 밀려",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jM2I5UnZRQ193OHkyb1ZaS0VKX2RFQ0xpTDNXdG1mMC05UEM4dWFwRms2cmZUUXNxZ3R1aFRMQkZnOFZkU2NXa2EtazQxblBqM0Zz?oc=5",
+   "source": "SBS Biz",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 16:47 KST",
+   "signal": {
+    "cls": "down",
+    "label": "악재",
+    "emoji": "🔴"
+   }
+  },
+  {
+   "title": "손정의, 한때 SK하이닉스 인수 타진…SK그룹 경영권 방어 시험대",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5alZsRWVJa2F6OWlULTJCbHgxcERnNXJ0TDJLcHlRMG5pOE1zVUFxZzN6anhldzVFTUtYVUlfZkZiN09FNm1KelNnY1ZtaHVqQTkwdjVXOUJCSWpuRWRGSHVwbEg4azFkY1VWNA?oc=5",
+   "source": "ESG경제",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 15:52 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "LG생건·SK하이닉스, 대기업 기부금 감소 1·2위",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ERHJfeVlTR1lQYmR5TEx0VHhLVGJYdDE4bi13ZUhSQm10bjFmY05iRC16U1JwUWd6UENnbTJVaWhxUEc3by1zV3hHSnJkQTRFUXJfU0Q2bjBNQmZpdFlvVkJhMFFPUGVLWHfSAW5BVV95cUxOUkpOM1NHbWxpTE0tQ3RJb1NDVDhvdnE1UDQtbFE3c19RM2p6UWJ4R1hIMWxpbGlMbUVpbC1RVVp0NmlyMlhQU2pmSmQ4Qm0wMjZjbzBaa0VpYmFyYlJUdXozaU9mM01xVC0yWjhqdw?oc=5",
+   "source": "중부매일",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 15:24 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
   },
   {
    "title": "SK하이닉스, 키옥시아 CB 8년 만에 주식 전환…사업 통제력 강화 포석",
@@ -28,110 +123,6 @@
     "emoji": "⚪"
    },
    "summary": "SK하이닉스가 키옥시아 전환사채(CB)를 8년 만에 주식으로 전환해 사업 통제력을 강화하려는 포석이라는 녹색경제신문 기사(11/23 15:06, 제목 기준, 지분율·규모는 확인 불가)."
-  },
-  {
-   "title": "손정의, 1조달러에 SK하이닉스 인수?...왜 멈췄나",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zM0MtZWJ3MERnamJDTGFrSDhZREoyTXAtWnhiSzFUQUUyRlY4ZTRLQlFMclF2VUdpSE4tRmwwSklkZnZ5RGxTM3dNYTZIUXljSThzMHNB?oc=5",
-   "source": "매일경제",
-   "date": "2026-11-23",
-   "datetime": "2026-11-23 14:07 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   },
-   "summary": "손정의가 1조달러에 SK하이닉스를 인수하려다 왜 멈췄는지 짚은 매일경제 기사(11/23 14:07, 제목 기준, 사실관계·시점은 확인 불가이며 투자 판단 근거로 쓰지 않음)."
-  },
-  {
-   "title": "‘40조’ 쓴 SK하이닉스…2,369만 주 전량 소각",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tclBvaGlsVU80WFJ4akVvN1dWanBaVzNLQ3Y1WlJETTB0eFhZTmdlajllRHN5ZGotVzVwUFUyTHNKdHRpVWJiNVJn?oc=5",
-   "source": "코인리더스",
-   "date": "2026-11-23",
-   "datetime": "2026-11-23 12:48 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 40조원을 들여 사들인 자사주 2,369만 주를 전량 소각한다는 코인리더스 기사(11/23 12:48, 제목 기준, 소각 시점·금액 근거는 확인 불가)."
-  },
-  {
-   "title": "[오늘의 삼전닉스] SK하이닉스 '105만vs280만' 극과 극, 어디를 믿어야 하나요?",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yX1ptY2hMS2lVMGJTRVNGNEI2cGRibDc0SkYzX3k5RW04bzl2WGRFbWlWRjlFdU9hbXE0VFRuSkl5c1pSVVM1T0RzVk9KbjBDM1F6UjFReGNKVmQ2aXpYS3Fn?oc=5",
-   "source": "이코노미스트",
-   "date": "2026-11-23",
-   "datetime": "2026-11-23 11:27 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "증권사 목표가 105만원과 280만원이 극과 극이라 어디를 믿어야 하는지 짚은 이코노미스트 ‘오늘의 삼전닉스’(11/23 11:27, 제목 기준, 각 숫자의 증권사·근거는 확인 불가)."
-  },
-  {
-   "title": "청년이 떠나던 도시에서 창업하는 도시로… SK하이닉스 청년창업파크 ‘SPARK’가 꿈꾸는 미래",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ib0VRS1JFbXNfb2h2cUZhRnBtS3Q0UlVyXzQzSFlHd1g2THUtS3U3Rndmc3JwcURNWWpoZjZMenJLSldSc1ZMTkxaN1ZnTWoxazVLSkswSQ?oc=5",
-   "source": "SK hynix",
-   "date": "2026-11-23",
-   "datetime": "2026-11-23 11:21 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스 청년창업파크 ‘SPARK’가 청년이 떠나던 도시를 창업하는 도시로 바꾸려 한다는 SK하이닉스 뉴스룸 기사(11/23 11:21, 제목 기준, 투자 판단과는 무관)."
-  },
-  {
-   "title": "[특징주] 삼성전자·SK하이닉스, 美 반도체주 폭락 여파.. '급락'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUN0eVlNY3lBQWFwQlpHZ0hUbTYydkczM2NiaklOUlZyTk5aS1QzQ1l0WXpIOUxITXdXRWtSanpQdEdEaWNCUUJmWlJwX0xtNnhKYVdKVXRuMk13dmNSNnExVzlfZC1vQ19xVmFJb0VDc2QyeUlncGdvYlZ4Ni1XZlpNN2xiaE9C?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-11-23",
-   "datetime": "2026-11-23 10:15 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   },
-   "summary": "美 반도체주 폭락 여파로 삼성전자·SK하이닉스가 급락했다는 글로벌이코노믹 특징주 기사(11/23 10:15, 제목 기준, 수치는 확인 불가이며 확정 종가 -2.52%와 구분)."
-  },
-  {
-   "title": "SK그룹 美 투자판 재편…SKT 자산 넘겨받은 하이닉스, 투자 허브로",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HNENvaXVTMHpMMFhweEtickxEeU13ald1U2JXMUpBOTNWZHBESFppb2xNQ1AzckVSZnREUlB4SGtXYTVvdHNiVjVpa1dTVE50VlplZUlBUEJkV3Vp?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-11-23",
-   "datetime": "2026-11-23 10:15 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK그룹의 美 투자판이 재편되며 SKT 자산을 넘겨받은 SK하이닉스가 투자 허브가 된다는 뉴스핌 기사(11/23 10:15, 제목 기준, 자산 규모·대상은 확인 불가)."
-  },
-  {
-   "title": "[리포트 브리핑]SK하이닉스, '저PER화 가속화가 주는 의미' 목표가 1,050,000원 - BNK투자증권",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5Z1VBaEFZWlRwY0xyQ0dLdW5FZGZqU0lIVkdDTE1vNHE4Y2xadkdDMkxkdy1ldzBkS3dCNHVxa0U2T20yaGQ3RThfY0JDeVVTTDVLVG9Ed0N5alkt?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-11-23",
-   "datetime": "2026-11-23 08:36 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "BNK투자증권이 ‘저PER화 가속화가 주는 의미’ 리포트에서 SK하이닉스 목표가를 105만원으로 제시했다는 뉴스핌 리포트 브리핑(11/23 08:36, 제목 기준, 기존 165만원에서 낮춘 것으로 보이나 원문 미확인이며 현재가(108.5만)보다 낮은 값)."
-  },
-  {
-   "title": "[개장 전 주요 공시] 카카오·SK하이닉스·HD한국조선해양·삼성바이오에피스·한화솔루션 등",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLXJiVU5kbF93WVYxXzRtMHF4aTBtbzZyUFp6UWllU1pId0lCZUk0MjJ2bTl0eEFuRFEzTjlPWVdDaW9aUlB4WkZvVWtTTEpXR056RFJYSGpNWjF0VHd4R0wtb1BTVjVpTmFQdHNiRGJ6MmxfUk9icDVWamZfX1pOUnJKaFRmS2U0?oc=5",
-   "source": "글로벌이코노믹",
-   "date": "2026-11-23",
-   "datetime": "2026-11-23 08:32 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "11/23 개장 전 공시 모음에 SK하이닉스가 포함됐다는 글로벌이코노믹 기사(11/23 08:32, 제목 기준, 공시 내용은 확인 불가)."
   }
  ]
 }
