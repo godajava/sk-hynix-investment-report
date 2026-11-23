@@ -1,24 +1,107 @@
 {
- "fetchedAt": "2026-11-23 09:09 KST",
+ "fetchedAt": "2026-11-23 15:53 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "하나증권 \"삼성전자·SK하이닉스, 악재 선반영.. 하락 대비\"",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzhoVWpaTkVrbGhJaXcwbk5HMllqSi1Zdlh5bUljRFpyWDV4a2R6Q3pGeGQtVTZMeERhT2JkWG5SVXZWTkxZZmtzVzBPNHlBclZzdWRZYnB1M002bno0MlBJRWVLbDA2MEs2SWlaajNndXBLd3dLNGh2UExqZHBNbTFwRzFIX1N0?oc=5",
+   "title": "윤풍영 SK하이닉스 사장, 자사주 1500주 매입…16억원 규모",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DQzlZckhUcEZURzNYOWkyblA3aDZyLUJNRExrR3FZWlFuQ3ZPN3hYQ3RWZkhSb2Y4WE8xMFRrV3JmT0JfWXB4cGg1N0dGXzVFTjh2eS1GanlyNGV6VWw4TGxBdU8?oc=5",
+   "source": "매일일보",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 15:43 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스, 키옥시아 CB 8년 만에 주식 전환…사업 통제력 강화 포석",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNm04RWF4WHViOHN3WVRPRlc4VDkxVDhCajRlMXpKbXJ2NkduREpFMS01R3M2YW91TnA0Q0FFNlpOU0Iwc1ZZV21jWlNnbDEtZ3FXYUROaXc0V003Z1doY0VweDI2dklk?oc=5",
+   "source": "녹색경제신문",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 15:06 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "손정의, 1조달러에 SK하이닉스 인수?...왜 멈췄나",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zM0MtZWJ3MERnamJDTGFrSDhZREoyTXAtWnhiSzFUQUUyRlY4ZTRLQlFMclF2VUdpSE4tRmwwSklkZnZ5RGxTM3dNYTZIUXljSThzMHNB?oc=5",
+   "source": "매일경제",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 14:07 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "‘40조’ 쓴 SK하이닉스…2,369만 주 전량 소각",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tclBvaGlsVU80WFJ4akVvN1dWanBaVzNLQ3Y1WlJETTB0eFhZTmdlajllRHN5ZGotVzVwUFUyTHNKdHRpVWJiNVJn?oc=5",
+   "source": "코인리더스",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 12:48 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[오늘의 삼전닉스] SK하이닉스 '105만vs280만' 극과 극, 어디를 믿어야 하나요?",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yX1ptY2hMS2lVMGJTRVNGNEI2cGRibDc0SkYzX3k5RW04bzl2WGRFbWlWRjlFdU9hbXE0VFRuSkl5c1pSVVM1T0RzVk9KbjBDM1F6UjFReGNKVmQ2aXpYS3Fn?oc=5",
+   "source": "이코노미스트",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 11:27 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "청년이 떠나던 도시에서 창업하는 도시로… SK하이닉스 청년창업파크 ‘SPARK’가 꿈꾸는 미래",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Ib0VRS1JFbXNfb2h2cUZhRnBtS3Q0UlVyXzQzSFlHd1g2THUtS3U3Rndmc3JwcURNWWpoZjZMenJLSldSc1ZMTkxaN1ZnTWoxazVLSkswSQ?oc=5",
+   "source": "SK hynix",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 11:21 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자·SK하이닉스, 美 반도체주 폭락 여파.. '급락'",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLUN0eVlNY3lBQWFwQlpHZ0hUbTYydkczM2NiaklOUlZyTk5aS1QzQ1l0WXpIOUxITXdXRWtSanpQdEdEaWNCUUJmWlJwX0xtNnhKYVdKVXRuMk13dmNSNnExVzlfZC1vQ19xVmFJb0VDc2QyeUlncGdvYlZ4Ni1XZlpNN2xiaE9C?oc=5",
    "source": "글로벌이코노믹",
    "date": "2026-11-23",
-   "datetime": "2026-11-23 08:49 KST",
+   "datetime": "2026-11-23 10:15 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   },
-   "summary": "하나증권이 삼성전자·SK하이닉스에 악재가 선반영됐다면서도 월요일 하락에 대비하라고 짚은 글로벌이코노믹 기사(11/23 08:49, 제목 기준, 근거·수치는 확인 불가)."
+   }
   },
   {
-   "title": "[리포트 브리핑]SK하이닉스, '2027년 전망' 목표가 2,800,000원 - 하나증권",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9zcWFuUzYxLVZubE9HeGxTTnhqQU1aQ3ZjS1BhRVJiRVUzbjk3YVhsLW91RklrVVJLTmFKNThTZnZrUlZaakRRb0FwbWh3ZzlHYm5LUllwMnhDMW5a?oc=5",
+   "title": "SK그룹 美 투자판 재편…SKT 자산 넘겨받은 하이닉스, 투자 허브로",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HNENvaXVTMHpMMFhweEtickxEeU13ald1U2JXMUpBOTNWZHBESFppb2xNQ1AzckVSZnREUlB4SGtXYTVvdHNiVjVpa1dTVE50VlplZUlBUEJkV3Vp?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-23",
+   "datetime": "2026-11-23 10:15 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[리포트 브리핑]SK하이닉스, '저PER화 가속화가 주는 의미' 목표가 1,050,000원 - BNK투자증권",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5Z1VBaEFZWlRwY0xyQ0dLdW5FZGZqU0lIVkdDTE1vNHE4Y2xadkdDMkxkdy1ldzBkS3dCNHVxa0U2T20yaGQ3RThfY0JDeVVTTDVLVG9Ed0N5alkt?oc=5",
    "source": "뉴스핌",
    "date": "2026-11-23",
    "datetime": "2026-11-23 08:36 KST",
@@ -26,8 +109,7 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "하나증권이 SK하이닉스 목표가를 280만원으로 제시한 뉴스핌 ‘리포트 브리핑’(11/23 08:36, 제목 기준, 기존 360만원에서 낮춘 것으로 보이나 원문 미확인)."
+   }
   },
   {
    "title": "[개장 전 주요 공시] 카카오·SK하이닉스·HD한국조선해양·삼성바이오에피스·한화솔루션 등",
@@ -41,97 +123,6 @@
     "emoji": "⚪"
    },
    "summary": "11/23 개장 전 공시 모음에 SK하이닉스가 포함됐다는 글로벌이코노믹 기사(11/23 08:32, 제목 기준, 공시 내용은 확인 불가)."
-  },
-  {
-   "title": "\"지금 손절하면 늦다\"…삼전 30만원·하닉 200만원 물린 개미들, 전문가 조언은",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZSmtlblJrSXJmQ2o3Qk01V0h6cWxrdnB6UkxnTWFBQXM1NWpOQXZiU0dLTE9KWFMxQkotTG5QRGxpbEl0S0VzeDdnaU9DT011ZUVrd2hUYi01Y0QzNFJFUnVB?oc=5",
-   "source": "매일신문",
-   "date": "2026-11-23",
-   "datetime": "2026-11-23 07:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "삼성전자 30만원·SK하이닉스 200만원대에 물린 개인투자자에게 전문가가 조언한다는 매일신문 기사(11/23 07:03, 제목 기준, 조언 내용은 확인 불가)."
-  },
-  {
-   "title": "[창간 7주년] 48MW 데이터센터 구축 ‘용인 SK하이닉스 지원시설’",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMdlVkNXVMMG83UEYyTWl1NG43Z0dsTzJKcm9uUkVGdXQ0V0tVcFRsd1pGbHZfYmFRWnZwUTJnV3J0c2NIY18xWWxOeW8tcDhlZDRaeVRDNnlUM3V0Zmg0MWZfaTBjaERUUXBOYg?oc=5",
-   "source": "기계설비신문",
-   "date": "2026-11-23",
-   "datetime": "2026-11-23 05:32 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "용인 SK하이닉스 지원시설에 48MW급 데이터센터를 구축한 사례를 소개한 기계설비신문 창간 7주년 기획기사(11/23 05:32, 제목 기준, 투자 판단과는 무관)."
-  },
-  {
-   "title": "코스피, ‘검은 금요일’ 충격 딛고 반등할까…삼성전자·SK하이닉스 시험대",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wZXFaTFgzV3RDbGhabzluekpLWkd4bml2c2ZYZUNuU3FLU0dqb0c5NmNvdm1aRXozY2FaZ2I0WlBOUHc5WEhBR1pIWkZHVTdrMXZWZFFEYkdSRDVxaG9Ud2pmQWc5aVpSRldLMUVIUQ?oc=5",
-   "source": "진일보 | 전남일보",
-   "date": "2026-11-23",
-   "datetime": "2026-11-23 03:00 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   },
-   "summary": "美 AI 투매로 ‘검은 금요일’을 맞은 코스피가 반등할지 삼성전자·SK하이닉스가 시험대라는 전남일보 기사(11/23 03:00, 제목 기준, 세부 수치는 확인 불가)."
-  },
-  {
-   "title": "대기업 영업익 230% 급증에도 기부금은 2%↓... SK하이닉스도 줄어",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41UXZWaERfb19MNUJqQ1dDSUxIVUl1eEoyUm43MXlPZnYwN0dlVDZ1MFFFdVVndnAzbWd6bGZKM28tTy1GUTZfTEJRXzlKcm1jUmc4a3JfY0xvQmVVaFdMZDFYdzVLcFQ3ZW5R?oc=5",
-   "source": "파이낸셜신문",
-   "date": "2026-11-22",
-   "datetime": "2026-11-22 20:36 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "대기업 영업이익이 230% 늘었는데도 기부금은 2% 줄었고 SK하이닉스도 줄었다는 파이낸셜신문 기사(11/22 20:36, 제목 기준, 세부 수치는 확인 불가)."
-  },
-  {
-   "title": "삼성전자·SK하이닉스 추천 인사도 공개모집 참여…전남광주시, 반도체실장 내정설 일축",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jcUY5Q0tlVTlIaV8tY1NvWm8zWEJMbTBXX2RaUEdCNHNZZ1JhbmdmNTR6dDJsRGVkTWg3TlJHa1laYjVfSURkQ0lwdF9xcWxIM2pPc1NYMzNkWGJjMklXMjFWZnlLWldiQmI2SFFXZw?oc=5",
-   "source": "진일보 | 전남일보",
-   "date": "2026-11-22",
-   "datetime": "2026-11-22 14:46 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "전남광주시가 삼성전자·SK하이닉스 추천 인사 공개모집 참여와 반도체실장 내정설을 일축했다는 전남일보 기사(11/22 14:46, 제목 기준, 투자 판단과는 무관)."
-  },
-  {
-   "title": "SK하이닉스 노렸던 손정의…천문학적인 몸값까지? [지금이뉴스]",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WaHJEOGpIYUluWlo1OTBUbUJNN3hZUUdZU1hucmhyTjlSczc3a0tHaHkwSEhrRllGZ3M4Y2RJdjBWeGRSbnRaOFowRUhlbElNSnRnSDZkcTlka20xdEpTaWFtUUY1Uktuc25kbF9JakpQbkdTQVE?oc=5",
-   "source": "YTN",
-   "date": "2026-11-22",
-   "datetime": "2026-11-22 12:30 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "손정의가 SK하이닉스를 노렸다는 YTN ‘지금이뉴스’ 기사(11/22 12:30, 제목 기준, 시점·규모 등 세부 내용은 확인 불가)."
-  },
-  {
-   "title": "삼성·SK하이닉스 D램 담합 소송, 美서 본재판 간다",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMUWN5RFZOVUZSdkV4Q0JyU3lDaGJIQkEzOGJoRVVEYnBraTBzbHpvaGl5ZE4wMmFiX1Vic09FbWw2LWRGT0dpQzY0cmxKNkhZSC1YNE5JR09fNFVLdEstOHk3Z0ZnXzA?oc=5",
-   "source": "자본시장뉴스",
-   "date": "2026-11-22",
-   "datetime": "2026-11-22 12:30 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   },
-   "summary": "삼성전자·SK하이닉스 D램 담합 소송이 美에서 본재판으로 간다는 자본시장뉴스 기사(11/22 12:30, 제목 기준, 일정·청구 규모는 확인 불가)."
   }
  ]
 }
