@@ -25,6 +25,39 @@ def cnum(v):
     return f'<span style="color:{col}">{v:+.2f}%</span>'
 
 
+CHAIN_N = 5          # 압축 표에 보이는 최근 사슬 항목 수
+DAILY_N = 2          # 압축 표에 보이는 최근 일별 원인 수
+_LBL = re.compile(r"(높음~중간|중간~높음|중간~낮음|낮음~중간|높음|중간|낮음)")
+
+
+def short_text(c, key, n=110):
+    if c.get("short"):
+        return c["short"]
+    t = c[key]
+    if len(t) <= n:
+        return t
+    cut = max(t.rfind(sep, 0, n) for sep in ("·", ",", " "))
+    return t[:cut if cut > 40 else n].rstrip(" ·,") + "…"
+
+
+def conf_label(c):
+    if c.get("conf_short"):
+        return c["conf_short"]
+    m = _LBL.search(c["conf"])
+    return m.group(1) if m else c["conf"][:20]
+
+
+def split_causes(causes):
+    daily = [c for c in causes if re.match(r"\(\d+/\d+ (결과|장중)\)|\(오늘", c["title"])]
+    struct = [c for c in causes if c not in daily]
+    return daily, struct
+
+
+def daily_tag(c):
+    m = re.match(r"\((\d+/\d+) 결과\)", c["title"])
+    return m.group(1) if m else "오늘"
+
+
 def render_html(d):
     o = [S, "<section>",
          f'<h2><span class="no">WHY</span>주간 변동 원인 분석 — 국내·해외·미국 빅테크 '
@@ -42,15 +75,33 @@ def render_html(d):
             cells=''.join(('<td style="text-align:right;font-size:11px">'+e(v)+'</td>') if isinstance(v,str) else '<td class="num">'+cnum(v)+'</td>' for v in vals[:ncol])
             o.append(f'<tr><td>{e(r[0])}</td>{cells}</tr>')
     o += ['</table></div>', f'<p style="color:var(--muted);font-size:12px">{e(d["table_note"])}</p>',
-          '<p><strong>② 원인 사슬 — 시간순</strong></p>',
-          '<div class="tablewrap"><table class="kv why"><colgroup><col style="width:21%"><col style="width:49%"><col style="width:30%"></colgroup><tr><th>시점</th><th>사건·수치</th><th>확신·출처</th></tr>']
-    for c in d["chain"]:
-        o.append(f'<tr><td>{e(c["when"])}</td><td>{e(c["fact"])}</td><td>{e(c["conf"])}</td></tr>')
-    o += ['</table></div>', '<p><strong>③ 원인 순위 — 무엇이 얼마나 확실한가</strong></p>',
-          '<div class="tablewrap"><table class="kv why"><colgroup><col style="width:8%"><col style="width:24%"><col style="width:46%"><col style="width:22%"></colgroup><tr><th>순위</th><th>원인</th><th>근거</th><th>확신</th></tr>']
+          f'<p><strong>② 원인 사슬 — 최근 {min(CHAIN_N, len(d["chain"]))}건 요약</strong></p>',
+          '<div class="tablewrap"><table class="kv why"><colgroup><col style="width:22%"><col style="width:58%"><col style="width:20%"></colgroup><tr><th>시점</th><th>핵심</th><th>확신</th></tr>']
+    recent, older = d["chain"][-CHAIN_N:], d["chain"][:-CHAIN_N]
+    for c in recent:
+        o.append(f'<tr><td>{e(c["when"])}</td><td>{e(short_text(c, "fact"))}</td><td>{e(conf_label(c))}</td></tr>')
+    o.append('</table></div>')
+    def full_chain(rows):
+        x = ['<div class="tablewrap"><table class="kv why"><colgroup><col style="width:21%"><col style="width:49%"><col style="width:30%"></colgroup><tr><th>시점</th><th>사건·수치</th><th>확신·출처</th></tr>']
+        x += [f'<tr><td>{e(c["when"])}</td><td>{e(c["fact"])}</td><td>{e(c["conf"])}</td></tr>' for c in rows]
+        return x + ['</table></div>']
+    o.append(f'<details style="margin:4px 0 12px"><summary style="cursor:pointer;color:var(--muted);font-size:12.5px">원인 사슬 전체 보기 — 최근 {len(recent)}건 상세 + 이전 {len(older)}건</summary>')
+    o += full_chain(older + recent)
+    o.append('</details>')
+    daily, struct = split_causes(d["causes"])
+    o += ['<p><strong>③ 원인 순위 — 최근 일별 원인과 주간 구조 원인</strong></p>',
+          '<div class="tablewrap"><table class="kv why"><colgroup><col style="width:12%"><col style="width:68%"><col style="width:20%"></colgroup><tr><th>구분</th><th>원인</th><th>확신</th></tr>']
+    for c in daily[:DAILY_N]:
+        o.append(f'<tr><td>{e(daily_tag(c))}</td><td>{e(short_text(c, "title", 120))}</td><td>{e(conf_label(c))}</td></tr>')
+    for i, c in enumerate(struct, 1):
+        o.append(f'<tr><td>구조 {i}</td><td>{e(c["title"])}</td><td>{e(conf_label(c))}</td></tr>')
+    o.append('</table></div>')
+    o.append(f'<details style="margin:4px 0 12px"><summary style="cursor:pointer;color:var(--muted);font-size:12.5px">원인 순위 근거 전체 보기 — 일별 {len(daily)}건 · 구조 {len(struct)}건</summary>')
+    o.append('<div class="tablewrap"><table class="kv why"><colgroup><col style="width:8%"><col style="width:24%"><col style="width:46%"><col style="width:22%"></colgroup><tr><th>순위</th><th>원인</th><th>근거</th><th>확신</th></tr>')
     for i, c in enumerate(d["causes"], 1):
         o.append(f'<tr><td class="num">{i}</td><td>{e(c["title"])}</td><td>{e(c["evidence"])}</td><td>{e(c["conf"])}</td></tr>')
-    o += ['</table></div>', '<p><strong>④ 분석 판단 (추정 포함)</strong></p><ul>']
+    o.append('</table></div></details>')
+    o += ['<p><strong>④ 분석 판단 (추정 포함)</strong></p><ul>']
     o += [f'<li>{e(x)}</li>' for x in d["judgement"]]
     o += ['</ul>', '<p><strong>⑤ 아직 모르는 것과 반증 조건</strong></p><ul>']
     o += [f'<li>{e(x)}</li>' for x in d["unknown"]]
@@ -71,10 +122,13 @@ def render_md(d):
         for r in g["rows"]:
             vals=list(r[1:])+[None]*(ncol-len(r[1:]))
             o.append(f'| {r[0]} | ' + ' | '.join(v if isinstance(v,str) else fnum(v) for v in vals[:ncol]) + ' |')
-    o += ["", f'> {d["table_note"]}', "", "**② 원인 사슬 (시간순)**", "", "| 시점 | 사건·수치 | 확신·출처 |", "|---|---|---|"]
-    o += [f'| {c["when"]} | {c["fact"]} | {c["conf"]} |' for c in d["chain"]]
-    o += ["", "**③ 원인 순위**", "", "| 순위 | 원인 | 근거 | 확신 |", "|---|---|---|---|"]
-    o += [f'| {i} | {c["title"]} | {c["evidence"]} | {c["conf"]} |' for i, c in enumerate(d["causes"], 1)]
+    o += ["", f'> {d["table_note"]}', "", f"**② 원인 사슬 — 최근 {min(CHAIN_N, len(d['chain']))}건 요약**", "", "| 시점 | 핵심 | 확신 |", "|---|---|---|"]
+    o += [f'| {c["when"]} | {short_text(c, "fact")} | {conf_label(c)} |' for c in d["chain"][-CHAIN_N:]]
+    daily, struct = split_causes(d["causes"])
+    o += ["", f'_이전 사슬 {max(len(d["chain"]) - CHAIN_N, 0)}건과 항목별 상세 근거는 웹페이지의 펼치기 또는 docs/cause_analysis.json 참조._', "",
+          "**③ 원인 순위 — 최근 일별 원인과 주간 구조 원인**", "", "| 구분 | 원인 | 확신 |", "|---|---|---|"]
+    o += [f'| {daily_tag(c)} | {short_text(c, "title", 120)} | {conf_label(c)} |' for c in daily[:DAILY_N]]
+    o += [f'| 구조 {i} | {c["title"]} | {conf_label(c)} |' for i, c in enumerate(struct, 1)]
     o += ["", "**④ 분석 판단 (추정 포함)**", ""] + [f'- {x}' for x in d["judgement"]]
     o += ["", "**⑤ 아직 모르는 것과 반증 조건**", ""] + [f'- {x}' for x in d["unknown"]]
     o += ["", f'**⑥ 다음 거래일 시사점** — {d["outlook"]}', "",
