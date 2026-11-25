@@ -27,6 +27,7 @@ def cnum(v):
 
 CHAIN_N = 5          # 압축 표에 보이는 최근 사슬 항목 수
 DAILY_N = 2          # 압축 표에 보이는 최근 일별 원인 수
+JUDGE_N = 3          # ④ 분석 판단에 보이는 최근 항목 수(나머지는 펼치기)
 _LBL = re.compile(r"(높음~중간|중간~높음|중간~낮음|낮음~중간|높음|중간|낮음)")
 
 
@@ -101,9 +102,15 @@ def render_html(d):
     for i, c in enumerate(d["causes"], 1):
         o.append(f'<tr><td class="num">{i}</td><td>{e(c["title"])}</td><td>{e(c["evidence"])}</td><td>{e(c["conf"])}</td></tr>')
     o.append('</table></div></details>')
-    o += ['<p><strong>④ 분석 판단 (추정 포함)</strong></p><ul>']
-    o += [f'<li>{e(x)}</li>' for x in d["judgement"]]
-    o += ['</ul>', '<p><strong>⑤ 아직 모르는 것과 반증 조건</strong></p><ul>']
+    jr, jo = d["judgement"][-JUDGE_N:], d["judgement"][:-JUDGE_N]
+    o += [f'<p><strong>④ 분석 판단 (추정 포함) — 최근 {len(jr)}건</strong></p><ul>']
+    o += [f'<li>{e(x)}</li>' for x in reversed(jr)]
+    o += ['</ul>']
+    if jo:
+        o.append(f'<details style="margin:4px 0 12px"><summary style="cursor:pointer;color:var(--muted);font-size:12.5px">이전 분석 판단 {len(jo)}건 보기</summary><ul>')
+        o += [f'<li>{e(x)}</li>' for x in reversed(jo)]
+        o.append('</ul></details>')
+    o += ['<p><strong>⑤ 아직 모르는 것과 반증 조건</strong></p><ul>']
     o += [f'<li>{e(x)}</li>' for x in d["unknown"]]
     o += ['</ul>', f'<p><strong>⑥ 다음 거래일 시사점</strong> — {e(d["outlook"])}</p>',
           '<p style="color:var(--muted);font-size:12px">출처(검색 요약 기준, 일부 원문 미열람): ' +
@@ -129,7 +136,10 @@ def render_md(d):
           "**③ 원인 순위 — 최근 일별 원인과 주간 구조 원인**", "", "| 구분 | 원인 | 확신 |", "|---|---|---|"]
     o += [f'| {daily_tag(c)} | {short_text(c, "title", 120)} | {conf_label(c)} |' for c in daily[:DAILY_N]]
     o += [f'| 구조 {i} | {c["title"]} | {conf_label(c)} |' for i, c in enumerate(struct, 1)]
-    o += ["", "**④ 분석 판단 (추정 포함)**", ""] + [f'- {x}' for x in d["judgement"]]
+    jr, jo = d["judgement"][-JUDGE_N:], d["judgement"][:-JUDGE_N]
+    o += ["", f"**④ 분석 판단 (추정 포함) — 최근 {len(jr)}건**", ""] + [f'- {x}' for x in reversed(jr)]
+    if jo:
+        o += ["", f'_이전 분석 판단 {len(jo)}건은 웹페이지의 펼치기 또는 docs/cause_analysis.json 참조._']
     o += ["", "**⑤ 아직 모르는 것과 반증 조건**", ""] + [f'- {x}' for x in d["unknown"]]
     o += ["", f'**⑥ 다음 거래일 시사점** — {d["outlook"]}', "",
           "출처: " + " · ".join(f'[{s["title"]}]({s["url"]})' for s in d["sources"]), "", E]
