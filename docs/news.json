@@ -1,8 +1,32 @@
 {
- "fetchedAt": "2026-11-25 03:51 KST",
+ "fetchedAt": "2026-11-25 09:08 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "\"SK하이닉스 Y1 발주 시작…반도체 소부장 '새 성장 사이클'\"-한화",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iR3BVR1dlRjFFeVo4ci04TC1QTEpyV0NhSXhKUFpFTF9JUklmLWt5M09iS2F5SzVYZEdhQjNhRXZ5bEVfU0FFQ1h0QXp5dUQxeUJuM2pwdmRSQQ?oc=5",
+   "source": "한국경제",
+   "date": "2026-11-25",
+   "datetime": "2026-11-25 07:45 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스. 美 광 인터커넥트 기업 '아비세나' 투자",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96V1pMTkJuV3EzeGUtdnBQRkRmUVVpM19xNTI3YWJiZGRIbnJfNGJ6WUluUVI0VDRsQnBTNDlXS1lZUVEwOEJRYk5xYnpnZFZXNVVGVzBrQkk?oc=5",
+   "source": "더트래커",
+   "date": "2026-11-25",
+   "datetime": "2026-11-25 07:03 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "윤풍영 SK하이닉스 사장 자사주 1500주 매입…16억 규모 - 머니투데이",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xOVZFUlhHWXlmT3hkb2N2N0FwLXJtai1GMjJnM0FrMDRTYXpNUGxQblBCN1Q1VzhLRDBRYWxWWjdMbDJSME02SnhXVW9NRHlXMEg1Ql9tX2hsazREZ040LXg0RkVNeXJZbHZDX9IBckFVX3lxTE9nMTR0ZGE5Y3h3YlZlQThtRnZ4ZE1FVGhHbnpKUldzdFhyd2VlelpBZVZhZVNGVk4zb0otMnBpcExZd3duVGt3b0F6OU82LTJxRFFYS3h5RFRkc0JRdUdiVnlUczBkYkpucjhqUmpCRVJkdw?oc=5",
@@ -53,7 +77,7 @@
   },
   {
    "title": "\"SK하이닉스 세수 늘었지만…청주시, 세입 감소 대비해야\"",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvQ1YwczBBVjYyOVdfZWVveTkycngwZ0h5TlVxa1FtV3JTT1Z0YWhFZ3o0eHBBQ0lhNDBlLURhT0RKSk9PX3ppUHQxdEVkbUNnNG53RFVxX3RqMGvSAWBBVV95cUxOanRWSGItczBKQ1lfSWJLamF0NjZqejdyWTA3Vl95RkdkX3ltSVNqbU1iUUpnVHZMTGg5V0lHelVITE5UMW9QZ2tjUGFOaG4yZEZQOUtzbTE1MTAzT25ZaWc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qdFZIYi1zMEpDWV9JYktqYXQ2Nmp6N3JZMDdWX3lGR2RfeW1JU2ptTWJRSmdUdkxMaDlXSUd6VUhMTlQxb1Bna2NQYU5objJkRlA5S3NtMTUxMDNPbllpZ9IBYEFVX3lxTE5qdFZIYi1zMEpDWV9JYktqYXQ2Nmp6N3JZMDdWX3lGR2RfeW1JU2ptTWJRSmdUdkxMaDlXSUd6VUhMTlQxb1Bna2NQYU5objJkRlA5S3NtMTUxMDNPbllpZw?oc=5",
    "source": "연합뉴스",
    "date": "2026-11-24",
    "datetime": "2026-11-24 17:11 KST",
@@ -74,19 +98,6 @@
     "label": "호재",
     "emoji": "🟢"
    }
-  },
-  {
-   "title": "소부장 키운 SK하이닉스, 협력사 매출 8000억",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xNW9ieTZFbGsyMVhhZFJlWmJQcnZBN3dCZkt4dmVqb1FYVmp1Mm5kYlVPWFdmcC1hbHNCOFpXenZpcEk1ejVzelA5RmVHX2g1?oc=5",
-   "source": "문화일보",
-   "date": "2026-11-24",
-   "datetime": "2026-11-24 11:55 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 소부장 협력사를 키워 협력사 매출이 8,000억원에 이르렀다는 문화일보 기사(11/24 11:55, 제목 기준, 집계 대상·기간은 확인 불가이며 투자 판단과는 무관)."
   },
   {
    "title": "[리포트 브리핑]SK하이닉스, '기업 가치 제고를 위한 선택' 목표가 2,000,000원 - 다올투자증권",
@@ -113,19 +124,6 @@
     "emoji": "🟢"
    },
    "summary": "젠슨 황 복귀로 K반도체가 한숨 돌렸으며 SK하이닉스는 공급 안정 기대, 삼성은 고객 다변화 지속이라는 조선일보 기사(11/24 10:28, 제목 기준, 세부 근거는 확인 불가이며 🟢는 제목 키워드 기준 분류)."
-  },
-  {
-   "title": "중국發 낸드 공급과잉 경고···삼성전자·SK하이닉스 신규 증설 ‘신중’",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2YVpIc3pYWFZQTGx1NE14VnNGbjl4QkplQUFvb3Jja0RQR2dtMzhqU19KVlphTGhQVktpUXN5MWp5YWVoSDJpSFNsVUk0OXNuYWpVcVVMaTJMZ3dTeEgzOFJ1RldWZXZMMDlaa0cyTVVyN0VIX0HSAXZBVV95cUxQNmFaSHN6WFhWUExsdTRNeFZzRm45eEJKZUFBb29yY2tEUEdnbTM4alNfSlZaYUxoUFZLaVFzeTFqeWFlaEgyaUhTbFVJNDlzbmFqVXFVTGkyTGd3U3hIMzhSdUZXVmV2TDA5WmtHMk1VcjdFSF9B?oc=5",
-   "source": "시사저널e",
-   "date": "2026-11-24",
-   "datetime": "2026-11-24 10:23 KST",
-   "signal": {
-    "cls": "down",
-    "label": "악재",
-    "emoji": "🔴"
-   },
-   "summary": "중국발 낸드 공급과잉 경고 속에 삼성전자·SK하이닉스가 신규 증설에 신중하다는 시사저널e 기사(11/24 10:10, 제목 기준, 공급과잉 수치·시점은 확인 불가이며 TrendForce 11/19의 NAND 가격 전망 하향과 같은 방향의 NAND 쪽 부정 신호)."
   }
  ]
 }
