@@ -1,8 +1,80 @@
 {
- "fetchedAt": "2026-11-25 09:08 KST",
+ "fetchedAt": "2026-11-25 15:53 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
+  {
+   "title": "삼성전자·SK하이닉스 '애플發 장기계약' 시그널…메모리 공급 불확실성 덜까",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WZmoxcVI4NnJOS2RtcGViUFk0eDdYYjB5MlhBcmtuX2lYXzVmZUZfZnNzRXYwaTl6aUpCQk1iaWR0cEpQeW40LUh1Y3k2Y2N6Q3lRRjY1ZE1ZdVplQ241M1J5Ml9JeHhLMzl6VGwzbHRHdw?oc=5",
+   "source": "오피니언뉴스",
+   "date": "2026-11-25",
+   "datetime": "2026-11-25 15:22 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "SK하이닉스 용인 공사장서 노동자 추락해 숨져",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vclJraVZSQVhGdDBXU1VHUy1IenFsS1RrcmZIMXk3SWREZFREVXpjTHJ1dGtUdTljSHQwWUJTVlNJZXo3RFlaalhHWGs4N19GQ2lSU2Ruam1RUlNySGZveWNNWWRJcUFXOFRJTzh6UXI?oc=5",
+   "source": "인천일보",
+   "date": "2026-11-25",
+   "datetime": "2026-11-25 14:49 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "500대 기업 이익잉여금 1862조원…삼성전자·SK하이닉스가 37% 차지",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6UGM2UDZVMmNXcGxxckdGeEFodTFFRnM4bnUyWUlpWm16YXV5by11c0dacEl1dDdtNlJhLUw2bVNZSExDNFp3c0VfSHJ0anpSOUh2M2o5aXNYczd3YWpNaVZUN0lTZlhGSnM5TQ?oc=5",
+   "source": "뉴시안",
+   "date": "2026-11-25",
+   "datetime": "2026-11-25 13:54 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "'젠슨 황 복귀'에도 엇갈린 외국인 수급…'삼성전자' 사고 'SK하이닉스' 팔았다",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoczZIZEhkUEdKTl9TNy1IZTVyRzdPbkNGZjdacDh5NWZRdlY4dGZ2bms1SmowVE9nbnhSR3ZmSGlmbXZzdkhEc2RDX0FlOHFVNWcycGhaTTdSdXZ3?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-25",
+   "datetime": "2026-11-25 11:24 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "2년 새 이익잉여금 가장 많이 증가한 기업 'SK하이닉스 4.5배'",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NZjMyVlRJVnJtVWNOakFaZGYyc1IxWmpwd2NzTGFUc2NRVTF4NzNBR1Rnc3czNUlCQlZKUTh1Nmp3LW55X2p3cWp1N1BJb2tEQUxJMGhFd3ZwaXAwSVNXTkhB?oc=5",
+   "source": "이코노미스트",
+   "date": "2026-11-25",
+   "datetime": "2026-11-25 09:47 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "코스피, 하루 만에 5000선 반납…삼전·하닉 6%대 뚝",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LeEVWdHVVNXN5a18yOHZRMTV0c0VNdFVYVmZyUGEweFctMXJkVy0wN2FrZ2ZVNEZTcDU1aGVheXh3ODZIdGkxVlpKTHc3UQ?oc=5",
+   "source": "전자신문",
+   "date": "2026-11-25",
+   "datetime": "2026-11-25 09:21 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
   {
    "title": "\"SK하이닉스 Y1 발주 시작…반도체 소부장 '새 성장 사이클'\"-한화",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5iR3BVR1dlRjFFeVo4ci04TC1QTEpyV0NhSXhKUFpFTF9JUklmLWt5M09iS2F5SzVYZEdhQjNhRXZ5bEVfU0FFQ1h0QXp5dUQxeUJuM2pwdmRSQQ?oc=5",
@@ -17,7 +89,7 @@
    "summary": "한화투자증권이 SK하이닉스의 Y1 발주가 시작돼 반도체 소부장 업종에 ‘새 성장 사이클’이 온다고 본 한국경제 기사(11/25 07:45, 제목 기준, Y1이 가리키는 팹과 발주 규모는 확인 불가이며 🟢는 제목 키워드 기준 분류)."
   },
   {
-   "title": "삼성전자·SK하이닉스. 美 광 인터커넥트 기업 '아비세나' 투자",
+   "title": "삼성전자·SK하이닉스. 美 광 인터커넥트 기업 '아비세나' 추가 투자",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96V1pMTkJuV3EzeGUtdnBQRkRmUVVpM19xNTI3YWJiZGRIbnJfNGJ6WUluUVI0VDRsQnBTNDlXS1lZUVEwOEJRYk5xYnpnZFZXNVVGVzBrQkk?oc=5",
    "source": "더트래커",
    "date": "2026-11-25",
@@ -26,21 +98,19 @@
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "삼성전자와 SK하이닉스가 미국 광 인터커넥트 기업 아비세나에 투자했다는 더트래커 기사(11/25 07:03, 제목 기준, 투자 규모·지분은 확인 불가)."
+   }
   },
   {
-   "title": "윤풍영 SK하이닉스 사장 자사주 1500주 매입…16억 규모 - 머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xOVZFUlhHWXlmT3hkb2N2N0FwLXJtai1GMjJnM0FrMDRTYXpNUGxQblBCN1Q1VzhLRDBRYWxWWjdMbDJSME02SnhXVW9NRHlXMEg1Ql9tX2hsazREZ040LXg0RkVNeXJZbHZDX9IBckFVX3lxTE9nMTR0ZGE5Y3h3YlZlQThtRnZ4ZE1FVGhHbnpKUldzdFhyd2VlelpBZVZhZVNGVk4zb0otMnBpcExZd3duVGt3b0F6OU82LTJxRFFYS3h5RFRkc0JRdUdiVnlUczBkYkpucjhqUmpCRVJkdw?oc=5",
-   "source": "머니투데이",
-   "date": "2026-11-24",
-   "datetime": "2026-11-24 21:34 KST",
+   "title": "내년 몸값 2배 넘게 뛴다...빅테크 참전에 요동치는 HBM 패권",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm8yWTlndDVXd3daV3JpQlR3WWhlOGNtSmZvOTd5YzdJeE9STzRfR3prdUJOR1V5Sm16aGcteHZhck1OSTNYdUVaYUxVNktzZWpUOVh1d19DSDFzcmFJUkYwd0dER1dWZlZFZGJzRFJ5SGZXOU5lVXN1VUNaMTBfUmRvNA?oc=5",
+   "source": "조선일보",
+   "date": "2026-11-25",
+   "datetime": "2026-11-25 06:07 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "윤풍영 SK하이닉스 사장이 16억원 규모 자사주 1,500주를 매입했다는 머니투데이 기사(11/24 21:34, 제목 기준, 공시 원문은 확인 불가이며 경영진 소규모 매입으로 방향 판단 근거는 아님)."
+   }
   },
   {
    "title": "SK하이닉스, 협력사 R&D에 1000억원 지원…실패해도 보상",
@@ -54,84 +124,6 @@
     "emoji": "⚪"
    },
    "summary": "SK하이닉스가 협력사 R&D에 1,000억원을 지원하고 실패해도 보상하는 제도를 운영한다는 아이뉴스24 기사(11/24 18:26, 제목 기준, 투자 판단과는 무관)."
-  },
-  {
-   "title": "젠슨 황 돌아오자 삼성전자·SK하이닉스 시총 123조원 껑충",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42d2swT1dGajNILTU2NUhieEhYSmxlb0R2bXNZcWdHUF9wSW4yZy1ZM21odzhlZWZIbXBmbnBsSkctMDVPUDBTbXZEbw?oc=5",
-   "source": "아이뉴스24",
-   "date": "2026-11-24",
-   "datetime": "2026-11-24 18:26 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "젠슨 황 복귀 후 삼성전자·SK하이닉스 시가총액이 합쳐 123조원 늘었다는 아이뉴스24 기사(11/24 18:26, 제목 기준, 11/24 확정 종가 기준 계산인지는 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스, HBM·HBF 경력채용…첨단칩 설계 인력 확보",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tWVU5S0JuSm95QmhyRlAxQ04zSFJPMU9pRjl5cEhpQ2pRRjNhUmcyNjI3MmJ6aGI1MFdsTzNzaDEtTVhSUGU0STU3SQ?oc=5",
-   "source": "아이뉴스24",
-   "date": "2026-11-24",
-   "datetime": "2026-11-24 17:40 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 HBM·HBF 분야 경력직을 채용해 첨단칩 설계 인력을 확보한다는 아이뉴스24 기사(11/24 17:40, 제목 기준, 채용 규모는 확인 불가)."
-  },
-  {
-   "title": "\"SK하이닉스 세수 늘었지만…청주시, 세입 감소 대비해야\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qdFZIYi1zMEpDWV9JYktqYXQ2Nmp6N3JZMDdWX3lGR2RfeW1JU2ptTWJRSmdUdkxMaDlXSUd6VUhMTlQxb1Bna2NQYU5objJkRlA5S3NtMTUxMDNPbllpZ9IBYEFVX3lxTE5qdFZIYi1zMEpDWV9JYktqYXQ2Nmp6N3JZMDdWX3lGR2RfeW1JU2ptTWJRSmdUdkxMaDlXSUd6VUhMTlQxb1Bna2NQYU5objJkRlA5S3NtMTUxMDNPbllpZw?oc=5",
-   "source": "연합뉴스",
-   "date": "2026-11-24",
-   "datetime": "2026-11-24 17:11 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스 덕분에 세수가 늘었지만 청주시가 세입 감소에 대비해야 한다는 연합뉴스 기사(11/24 17:11, 제목 기준, 투자 판단과는 무관)."
-  },
-  {
-   "title": "코스피, 젠슨 황 복귀에 5000선 안착...삼성전자·SK하이닉스 8~9% 상승세",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdDBaQnIyQ183NHZwN0laLVNFamo5OWo1Q3o3TG90SlI0amVCX1hiaHVtZ2I4Nm1tTm1hNF82YnZpTWt3cjRUaVR0Qjk0aFQwa05ia2NoZU1FbXlvQkdZa2w5Vi14MHF1d3pPNVFZMll4Si1TRU81NW5yZ09PZUhBZA?oc=5",
-   "source": "조선일보",
-   "date": "2026-11-24",
-   "datetime": "2026-11-24 14:13 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   },
-   "summary": "코스피가 젠슨 황 복귀에 5,000선에 안착하고 삼성전자·SK하이닉스가 8~9% 상승세라는 조선일보 기사(11/24 14:13, 제목 기준, 장중 시점 수치로 확정 종가 코스피 5,006.03(+6.32%)·SK하이닉스 +6.73%와 구분)."
-  },
-  {
-   "title": "[리포트 브리핑]SK하이닉스, '기업 가치 제고를 위한 선택' 목표가 2,000,000원 - 다올투자증권",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pVFRCR3dBZGlpQlBnOXJ5VEtGZW00d045R0J6ajdOb0hkX2I3WV9hdXFQaHBjak1QTU5veHhPV0JjZU15Q1pDc2ZLT3dhZE5nWUF0dWxabnVoN3RS?oc=5",
-   "source": "뉴스핌",
-   "date": "2026-11-24",
-   "datetime": "2026-11-24 11:31 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "다올투자증권이 ‘기업 가치 제고를 위한 선택’ 리포트에서 SK하이닉스 목표가를 200만원으로 제시했다는 뉴스핌 리포트 브리핑(11/24 11:31, 제목 기준, 기존 목표가와 투자의견은 원문 미확인이며 확정 종가(115.8만)보다 높은 값)."
-  },
-  {
-   "title": "젠슨 황 복귀에 한숨 돌린 K반도체…SK하이닉스 공급 안정 기대, 삼성 고객 다변화 지속",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObzN5LVRZVG9FM2NmOGFITHkzUzIxRmk2ekRDSFdLd2dhcW5wZjkycS0xN1YtcXdoUlNmd3ZkVGtrWHB4NDl1dEQ0NDdVZFFxQUZjU2hKalA2a1hwMjNNenpqZkxCYW1seGNnNzJfbVd2WUZPLU5zMGhZbXZuSzRLZDM0UQ?oc=5",
-   "source": "조선일보",
-   "date": "2026-11-24",
-   "datetime": "2026-11-24 10:36 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   },
-   "summary": "젠슨 황 복귀로 K반도체가 한숨 돌렸으며 SK하이닉스는 공급 안정 기대, 삼성은 고객 다변화 지속이라는 조선일보 기사(11/24 10:28, 제목 기준, 세부 근거는 확인 불가이며 🟢는 제목 키워드 기준 분류)."
   }
  ]
 }
