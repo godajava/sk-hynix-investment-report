@@ -1,137 +1,127 @@
 {
- "fetchedAt": "2026-11-26 02:56 KST",
+ "fetchedAt": "2026-11-26 15:53 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "“하이닉스 2028년 이익 급감”…반도체 저승사자의 섬뜩한 예측[머니닥터 시장진단]",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oM25HNEt2ZndDMFJPNFVQOU5USEVmaEdoZWE1eWp5dnR2LUlIbDJOcmRQZmJrMU9VMEkzbjhaUFlUZVRTS2RlcFdMazZTdnhTVnc?oc=5",
-   "source": "매일경제 마켓",
-   "date": "2026-11-25",
-   "datetime": "2026-11-25 20:06 KST",
+   "title": "中 화웨이·창신, 첨단 메모리 개발 급피치, 삼성·SK하이닉스에 도전장",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43aW9wa3NaWFl0ZjBOSTNKZm1LbWpZd2FuUS1nVHNLZTE1QXBwR2lSa3REM0NJSVJ5azNZZjhzNXloVmFCQnhRZVl4TGNXMFRaNEwtR1poVFB0WGlY?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-26",
+   "datetime": "2026-11-26 15:29 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "‘반도체 저승사자’로 불리는 분석가가 SK하이닉스 이익이 2028년에 급감할 수 있다고 예측했다는 매일경제 시장진단(11/25 20:06, 제목 기준, 예측 주체·근거 수치는 원문 미확인이며 4Q26 추정치 변경이 아닌 장기 사이클 전망)."
+   }
   },
   {
-   "title": "SK하이닉스, 밸류업 이행 현황 공시…100조 주주환원 재확인",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwT0xZVWpNSktvR0c0c0NMUFlEb09FdkNRV3NFX2NsNDZ5T2pYOGx2Wkd6X01YU3o4OFk0TjFlWXpTQm9rWHJtUl96c0RmUzFMRkhXODYxeDl6U1BUbF96dlZwT3dzQVgzNFV3cmZ1QmM?oc=5",
+   "title": "[데스크칼럼] 삼성전자와 SK하이닉스의 주주라면 By FinancialPost",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aT1phUHlPS2hTWF9iaUdENVE0Vk5ZQnduNFpTa3dtOGVBLXVrODhuNHg5Y0VQQ0N5QmU3Y1B3T3BsSktqcFVHcXoxYWN5WFlHMzlRVDRPQW0wUXhzWVQ4cEFSQ1hVSDIwS1pUd0k1dmc?oc=5",
+   "source": "Investing.com 한국어",
+   "date": "2026-11-26",
+   "datetime": "2026-11-26 14:38 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "삼성전자·SK하이닉스 장기공급계약 '물음표'…장부에 받은 돈이 없다",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NT1hlbmtET1VLb3pxMUtHZ0xUR0VZNjZsajFSSGFJTnFkZ05YMGlJQ2V1Q3RGTHFBX2ZGRGNSUDZQd1U5WW5oTXBaeVQ3bjR3Mnh5U25ET3NSbFh2SzRyLXZGNG9QSnYzT1ktdWctLXU?oc=5",
    "source": "연합인포맥스",
-   "date": "2026-11-25",
-   "datetime": "2026-11-25 18:29 KST",
-   "signal": {
-    "cls": "up",
-    "label": "호재",
-    "emoji": "🟢"
-   },
-   "summary": "SK하이닉스가 밸류업 이행 현황을 공시하며 100조원 주주환원 계획을 재확인했다는 연합인포맥스 기사(11/25 18:29, 제목 기준, 10/28 발표한 2026 회계연도 약 100조원(배당 30조+자사주 60조 이상) 계획의 재확인으로 신규 환원 확대는 아님)."
-  },
-  {
-   "title": "SK하이닉스, 반도체 전문 인재 확보…HBM 설계부터 신규 팹 구축까지",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwVnc4T042bnVGMEs2NVMtajVQNkg0RXZxNllhWjJITXh5a1JXVFpPajBJbnpPWWJ5ZTlya0dqRlVVVDNUTjZxS0FvTG1OMjBaTjhlYVYwRmdWZ0d2UmJ5Z2NzUTk?oc=5",
-   "source": "뉴스1",
-   "date": "2026-11-25",
-   "datetime": "2026-11-25 18:27 KST",
+   "date": "2026-11-26",
+   "datetime": "2026-11-26 14:09 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "SK하이닉스가 HBM 설계부터 신규 팹 구축까지 반도체 전문 인재를 확보한다는 뉴스1 기사(11/25 18:27, 제목 기준, 채용 규모는 확인 불가)."
+   }
   },
   {
-   "title": "삼전 9.87%·SK하이닉스 11.05%급락에 코스피 4600대로 추락",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52M3lkNUZtM3RSeFlmajhRaHBFV2pGMHJSMG53eEtkWWlBazFCdGdKdnlpQkxWRW9MWjBBTzZVcmFNQnZ3a3l6SmQzbDNOZTBPSnFhSHVaS3N6OTEyYkR0VnFaLVBBNGgyZmRkMTNzOGtKWjlLNFNN?oc=5",
-   "source": "CNews",
-   "date": "2026-11-25",
-   "datetime": "2026-11-25 18:16 KST",
+   "title": "‘빚 축소’보다 컸던 자본 확충…SK하이닉스 부채비율 하락한 배경은",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoM0dFbmNIZVV0aXhXMjdiY0tBQkJFM0dRVkJxUzJvcGRQMnQ4Uk5NSk53Y3VHMTlSVm9tWGlpc1RtY0duVmxjb3NUWUduWERi?oc=5",
+   "source": "톱데일리",
+   "date": "2026-11-26",
+   "datetime": "2026-11-26 12:07 KST",
    "signal": {
     "cls": "down",
     "label": "악재",
     "emoji": "🔴"
-   },
-   "summary": "삼성전자 -9.87%·SK하이닉스 -11.05% 급락에 코스피가 4600대로 추락했다는 CNews 기사(11/25 18:16, 확정 종가 등락률은 일치하나 코스피 종가는 4,697.51로 제목의 ‘4600대’는 장중 저가 4,672.55 기준 표현)."
+   }
   },
   {
-   "title": "SK하이닉스 \"3D D램 첫 제품은 100층부터, 4~5년 내 양산 목표\"",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zV2VEUFIzMU5NMHFQeEMxWUpXWktMWnZjRTlrclNuQmMtQzE5dl90dGRlc2ZZOW9FQmRFbnE5YkV3TE4wVU5wSl9SalJQa2VRN2ZZU0szMW1JaHBWYkloS1RJdVNTdw?oc=5",
-   "source": "디일렉",
-   "date": "2026-11-25",
-   "datetime": "2026-11-25 17:44 KST",
+   "title": "美 \"삼성·SK하이닉스 D램 지배력, 정부 지원 결과\"…호남 반도체 증설 정조준",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vRjRoUjJGcjI2d3F2NUFKUkxZV0VoNkMyZlBUbmRVTTI2cFpzNElYdFV5TU5lN3hjMUNNblNoUFlwQV9BcXhYVGRKNlNOYS1sNHlLQ2xNWFE3N2FT?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-26",
+   "datetime": "2026-11-26 10:37 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[장중수급포착] SK하이닉스, 외국인/기관 동시 순매수… 주가 +5.63%",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzVm1nZDU5NXQtOU44Q3FfbnRtMWNvWnEzNkJVY0RQbl9fNXZWZXlWeEFUbjZaemRFQmRCbFp3SU5YVHVCSUJqVnluQUF2eFo3WDgtQW5yenFiSkZK?oc=5",
+   "source": "뉴스핌",
+   "date": "2026-11-26",
+   "datetime": "2026-11-26 10:25 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   },
-   "summary": "SK하이닉스가 3D D램 첫 제품을 100층부터 시작해 4~5년 내 양산을 목표로 한다는 디일렉 기사(11/25 17:44, 제목 기준, 장기 기술 로드맵으로 단기 실적과는 무관)."
+   }
   },
   {
-   "title": "\"삼성·SK하이닉스, 中YMTC 낸드 적층기술 일부 도입\"",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5ZXhMZm0tTEZlNXdpZy1kQnBDaExhYXFyMDgyZUxnSGotblRCVURCa2NTQm1iY09hSzd5VnkyVVJQUzN3UDl4ai0yZXFhamp6X0lCRWk4Zzc2N1A2V0owSGpVREQ1RFpJUERKLUs0V0I?oc=5",
-   "source": "연합인포맥스",
-   "date": "2026-11-25",
-   "datetime": "2026-11-25 16:53 KST",
+   "title": "SK하이닉스, 올해 100조 규모 주주환원...주가 5.3%대 상승 중",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sUmVJUURUbl8zQmtpR185UWZReU12V0M3SjRmTFZvTEo4c1VldFFpZ0FWRjB2WVB5TU9EWHFTSFpMSjVrZXBYdmJPekJmWDd1UTdEVlpBWks1d0FKeFFtUk9JT1lXcUkwV1hDX3hZY1Zsd01aTGo4?oc=5",
+   "source": "CNews",
+   "date": "2026-11-26",
+   "datetime": "2026-11-26 09:44 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "[개장 전 주요 공시] SK하이닉스·삼성전기·한국전력공사·아시아나항공 등",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHhoQkxPUW9xM2c3WU0wOHdreGdfVkJtV2xkVHhaNk55VGJsTENzRDU0b01CbXNvRUJBVVpuSXE5SW9OMFRuTE5sY3J1NTBLRzdfV01NUzBoa252OVFxcFUwR1o1ZUlneXItYWo2VnJyNEtSenV2ZW5mc2FvSndpQmdsQ3c4eWw0?oc=5",
+   "source": "글로벌이코노믹",
+   "date": "2026-11-26",
+   "datetime": "2026-11-26 08:21 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "삼성전자·SK하이닉스가 중국 YMTC의 낸드 적층(하이브리드 본딩) 기술 일부를 도입한다는 연합인포맥스 보도(11/25 16:53, 제목 기준, 라이선스 범위·조건은 원문 미확인)."
+   }
   },
   {
-   "title": "삼성전자 보통주·우선주 담은 초고수들…SK하이닉스는 순매수 2위서 5시간 만에 순매도 2위로 [주식 초고수는 지금]",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBMlNLSlBDd0pWZjgwQlpIZnJ2MUtmcDAxaFRZb3lVT0lublJJU2gtcHVTMkE3QTRfLTc2N2Y3WHA0d0xvMFdKaGs4eV8xdDF1RUE?oc=5",
-   "source": "매일경제",
-   "date": "2026-11-25",
-   "datetime": "2026-11-25 15:49 KST",
+   "title": "SK하이닉스, 2031년 100층 3D D램 양산…물리 한계 넘는다",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhck95ZUR2OXU1MGdkQlppWnZZVThBUW80eGg5dHptSUFzM0ZMR1BMc3lNS0NfbTZoS1FZMFdxei1mWTdGNGxwcGplRHF4VWdTTWJzRHVDRlJrWjJTeGRTVDgtbU1udUpiYTFjTExYVlQ?oc=5",
+   "source": "리드경제",
+   "date": "2026-11-26",
+   "datetime": "2026-11-26 06:30 KST",
+   "signal": {
+    "cls": "up",
+    "label": "호재",
+    "emoji": "🟢"
+   }
+  },
+  {
+   "title": "D램 미세화 걸림돌 ‘캐패시터’… 삼성전자는 ‘쌓고’ SK하이닉스는 ‘뺀다’",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVDdYbmtIeFZZcEVCOEtsU3V5U1NwU2Etd2dWYXV3aHl2dmV2N1IzOVkwRDc1bXZJM0xDNnhHOUtrb1B2R05lMHFBS1FOM3pjaEdSd1kyc3k4V1V5VnRjV1BRUmJOLUU0aFJ3ZklWSWVXSnZaVlc0cEx5VlcyVHMxOW5R0gGWAUFVX3lxTE80QXBIYVZNUFdPX19mMGJhOFdScWdpcXlwdEtkVTVnSk1Ga21YbTB0Vy03NlRRQndLbGU2UzZ2RzN4VmdlbzRDODM2NkNvNW8tTDZrajJuV1lVemhKTUZnVXR4VWtyQ2pEb3J0XzRORXRodTlNYm1GMmlBTEQ5aGprSTBkQUNwdUNmV2tWbEp1SVRHTlpUdw?oc=5",
+   "source": "Chosunbiz",
+   "date": "2026-11-26",
+   "datetime": "2026-11-26 06:08 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "주식 초고수들이 삼성전자 보통주·우선주를 담은 반면 SK하이닉스는 순매수 2위에서 5시간 만에 순매도 2위로 바뀌었다는 매일경제 기사(11/25 15:49, 제목 기준, 특정 증권사 고객 집계로 시장 전체 수급과 다름)."
-  },
-  {
-   "title": "삼성전자·SK하이닉스 '애플發 장기계약' 시그널…메모리 공급 불확실성 덜까",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WZmoxcVI4NnJOS2RtcGViUFk0eDdYYjB5MlhBcmtuX2lYXzVmZUZfZnNzRXYwaTl6aUpCQk1iaWR0cEpQeW40LUh1Y3k2Y2N6Q3lRRjY1ZE1ZdVplQ241M1J5Ml9JeHhLMzl6VGwzbHRHdw?oc=5",
-   "source": "오피니언뉴스",
-   "date": "2026-11-25",
-   "datetime": "2026-11-25 15:22 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "애플발 메모리 장기계약 신호가 삼성전자·SK하이닉스의 메모리 공급 불확실성을 덜 수 있는지 짚은 오피니언뉴스 기사(11/25 15:22, 제목 기준, 계약 규모·기간은 확인 불가)."
-  },
-  {
-   "title": "SK하이닉스 용인 반도체 클러스터서 협력사 근로자 사망 \"현장 작업 중지\"",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RV2hZNnh2VTJPTDhJR3VDTjJ3VG8xUGxjMUVzc3dndDFlRkxDZ0tMZnpmeVBKQURkS1hYaHBDXzdxYnZsRHVMdEszMmRxVXFhbGNESGxtbjhnRGV6NWRRQnBlVXpCUWxG?oc=5",
-   "source": "FETV",
-   "date": "2026-11-25",
-   "datetime": "2026-11-25 15:07 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "SK하이닉스 용인 반도체 클러스터에서 협력사 근로자가 숨져 현장 작업이 중지됐다는 FETV 기사(11/25 15:07, 제목 기준, 중지 범위·기간은 확인 불가이며 공정 일정 영향은 미확인)."
-  },
-  {
-   "title": "500대 기업 이익잉여금 1862조원…삼성전자·SK하이닉스가 37% 차지",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6UGM2UDZVMmNXcGxxckdGeEFodTFFRnM4bnUyWUlpWm16YXV5by11c0dacEl1dDdtNlJhLUw2bVNZSExDNFp3c0VfSHJ0anpSOUh2M2o5aXNYczd3YWpNaVZUN0lTZlhGSnM5TQ?oc=5",
-   "source": "뉴시안",
-   "date": "2026-11-25",
-   "datetime": "2026-11-25 13:54 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "500대 기업 이익잉여금이 1,862조원이며 삼성전자·SK하이닉스가 37%를 차지한다는 뉴시안 기사(11/25 13:54, 제목 기준, 집계 기준일은 확인 불가)."
+   }
   }
  ]
 }
