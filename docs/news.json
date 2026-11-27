@@ -1,20 +1,55 @@
 {
- "fetchedAt": "2026-11-27 15:53 KST",
+ "fetchedAt": "2026-11-28 02:25 KST",
  "query": "SK하이닉스 when:7d",
  "source": "Google News RSS",
  "items": [
   {
-   "title": "삼성전자, 역대 최대 30조원 배당…SK하이닉스도 14조원 지급 예고",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vbXEwZDBDaHRmdWRBc1QyY0tqMkd4cFhDT2tzZFdXc01Ec1I2Q0hNZkt0SG5Sb3VGd3ZHcFp2ZHhzVk8xS3B4bm1nejJ4RTRqSTRZRE1ZSkNoRnAxM09VbjZkdDZLVzNMZEZ1Ng?oc=5",
-   "source": "ESG경제",
+   "title": "주가 하락에 SK하이닉스, 자사주 매수 주문량 2배로…\"주주 가치 제고\"",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHclJPMlBubnk4WnNfQlRYbnQ1R2V2eGloUThoZTQxQ3h1MFNHTjhjRklweXNzVEl0XzlhQzU3d0tyVEZadHlHWUxFMjhFQlZJSVZhZVJZMXZOYlh5bUV5SQ?oc=5",
+   "source": "KBC광주방송",
    "date": "2026-11-27",
-   "datetime": "2026-11-27 14:51 KST",
+   "datetime": "2026-11-27 22:41 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "\"난 마이너스인데…\" SK하이닉스, 인당 7억여원 성과급 전망",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zaE9pNG1NMFRLZzZfQUxTWDJxOEJyeVRXS2lKN0czeHhqQ0dZSDdzQktDTzJMMzQzV19yLWY5TGpyR0JiREVFME04c0s5UEZ2bkltVHUtanNUZHpHX1lva1hn?oc=5",
+   "source": "매일신문",
+   "date": "2026-11-27",
+   "datetime": "2026-11-27 22:09 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
+  },
+  {
+   "title": "[특징주] 삼성전자 4.6%·SK하이닉스 5.4% 급등 마감(종합)",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yUHpLSTVzNThPTjF3alIwUjdtcEwyb29CRU1UbmkwbmkxbkdMQUlmYmJaREFWdmhEQ3h5XzFQNVhabkV3TzlRcGJ2SEp1SEdSd2c?oc=5",
+   "source": "매일경제 마켓",
+   "date": "2026-11-27",
+   "datetime": "2026-11-27 15:53 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   },
-   "summary": "삼성전자가 역대 최대 30조원 배당을, SK하이닉스도 14조원 지급을 예고했다는 ESG경제 기사(11/27 14:51, 제목 기준, SK하이닉스 배당 기준일·주당 금액은 원문 미확인이며 10/28 발표 주주환원 계획의 일부로 보임)."
+   }
+  },
+  {
+   "title": "5% 뛴 SK하이닉스 담고 4.7% 오른 삼성전자 던졌다…초고수, 삼전닉스 정반대 매매[주식 초고수는 지금]",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oTTU0TmlHLTN6eUw3dWRtcnhCX0Mxb2VPa3ZnMWExZXV2V1dBdnVaYTd1dndnVHFUSUVRNzRtMl9NV0ZNaWZFVi1YY0xNbjJUbkE?oc=5",
+   "source": "매일경제",
+   "date": "2026-11-27",
+   "datetime": "2026-11-27 15:42 KST",
+   "signal": {
+    "cls": "flat",
+    "label": "중립",
+    "emoji": "⚪"
+   }
   },
   {
    "title": "[분석] SK하이닉스 해외 보증 95%가 ’인디애나’…북미 패키징 거점 힘 싣는다 By FinancialPost",
@@ -43,43 +78,28 @@
    "summary": "삼성전자 DS부문이 기술 개발 체계를 간소화한 가운데 SK하이닉스도 글로벌 조직을 손볼지 주목된다는 서울파이낸스 기사(11/27 14:30, 제목 기준, SK하이닉스 조직 개편은 확정 보도 아님)."
   },
   {
-   "title": "[데스크칼럼] 삼성전자와 SK하이닉스의 주주라면 By FinancialPost",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aT1phUHlPS2hTWF9iaUdENVE0Vk5ZQnduNFpTa3dtOGVBLXVrODhuNHg5Y0VQQ0N5QmU3Y1B3T3BsSktqcFVHcXoxYWN5WFlHMzlRVDRPQW0wUXhzWVQ4cEFSQ1hVSDIwS1pUd0k1dmc?oc=5",
-   "source": "Investing.com 한국어",
-   "date": "2026-11-27",
-   "datetime": "2026-11-27 12:03 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "Investing.com 한국어에 실린 FinancialPost 데스크칼럼으로 삼성전자·SK하이닉스 주주가 지금 따져볼 점을 다룬 글(11/26 14:38, 제목 기준, 칼럼 논지는 원문 미확인)."
-  },
-  {
-   "title": "SK하이닉스 하루 만에 매수 1위로 돌렸다…초고수, 삼성전자은 매도[주식 초고수는 지금]",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15ZFJ3eG1EZ0ZyN2xiZlBwOXUtaWFMYkVtNmhPc2U5aTBPOFRDRzg1eWpFODBWdUpqd2hfTlkxMXdnclpid3gwMlJBaG05VzJkbkE?oc=5",
+   "title": "“133% 올라야 본전”…하이닉스 투자자 평균 160층, 10%는 247층",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9SV0o0a21Mc0F6dXg5MmpXMUdrRkd3Qi1FVS1CS0NSMVo4WmpNRzNpOUV0VlhUZU9UT1ExQ21vbTJFS1J3VHprV3Z0ekU4OG0yN2NZYg?oc=5",
    "source": "매일경제",
    "date": "2026-11-27",
-   "datetime": "2026-11-27 11:12 KST",
+   "datetime": "2026-11-27 11:23 KST",
    "signal": {
     "cls": "flat",
     "label": "중립",
     "emoji": "⚪"
-   },
-   "summary": "주식 초고수들이 SK하이닉스를 하루 만에 순매수 1위로 돌려 담고 삼성전자는 매도했다는 매일경제 기사(11/27 11:12, 특정 증권사 고객 집계로 시장 전체 수급과 다름)."
+   }
   },
   {
-   "title": "[특징주] 삼성전자·SK하이닉스, AI 불확실성.. 반등 '주춤'",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTFDeGxxUEpKNlN3aFU0LUU2NldwQktHQ1RWM1dvV1ZNNlJ2d0doZS04a2dWdmdwaWxjcUFLR2pHdGtaS1BRc3Q2ckxwV1lJWVBLT0Y4VmZIMnM0X3hUVGhuOXFJV2dJc3d4OGV4QV90RVNCX0VrZ19KM01Ud1daZHgwUjVMTFZm?oc=5",
-   "source": "글로벌이코노믹",
+   "title": "하루 만에 SK하이닉스 매수한 초고수들…바이오·로봇 '팔자'",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnbndtXzlBdVdFQlk1aUVxb3kzX3F6bzZPRUFiRC1ETTFMMjFOYUtKR0JiMFVBTmg2VUIxZkJRVG1xcUljWkppT1lHUlRnVkZhRzZDVVM2Z3Qzdw?oc=5",
+   "source": "한국경제",
    "date": "2026-11-27",
-   "datetime": "2026-11-27 10:21 KST",
+   "datetime": "2026-11-27 11:02 KST",
    "signal": {
     "cls": "up",
     "label": "호재",
     "emoji": "🟢"
-   },
-   "summary": "AI 불확실성에 삼성전자·SK하이닉스 반등이 장 초반 주춤했다는 글로벌이코노믹 특징주 기사(11/27 10:21, 장중 시점 기사이며 SK하이닉스는 이후 반등해 +5.41% 고가 마감)."
+   }
   },
   {
    "title": "삼성전자 오르고 SK하이닉스는 보합",
@@ -106,32 +126,6 @@
     "emoji": "⚪"
    },
    "summary": "Nikkei Asia를 인용해 삼성전자·SK하이닉스가 중국 YMTC의 메모리(낸드 적층) 기술 일부를 도입한다는 Investing.com 한국어 기사(11/27 09:15, 제목 기준, 라이선스 범위는 원문 미확인)."
-  },
-  {
-   "title": "中 반도체, 삼성전자·SK하이닉스 추격 가속…HBM·낸드 진전",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1XTHlhZVNlSkY4WTl5U0dyay1kUVFSQllRMF93bFhOcG1wWXZ6dEFlRFh2NlJxMnJxZno0Ml96ZVJvVkFRZHR4bVhyZUZUaWdOeWU4RDZOUVl1cUxpUUxjZGRqYUw?oc=5",
-   "source": "서울경제TV",
-   "date": "2026-11-27",
-   "datetime": "2026-11-27 08:48 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "중국 반도체가 HBM·낸드에서 진전을 보이며 삼성전자·SK하이닉스 추격을 가속한다는 서울경제TV 기사(11/27 08:48, 제목 기준, 구체 수율·양산 일정은 원문 미확인)."
-  },
-  {
-   "title": "삼성전자·SK하이닉스 특별배당, 커버드콜 ETF에 반영",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EcGxDVl9kSVVyTWl2eUVYN205ZmhiX0luSDFDVlpXOTF3R3BGOVBaRVFjOERBWGV5endOaTVyaTN4YlNPRHVjR2pUM2QtYmhJa1pqNXp2WWNyaV9TeU9kNTBkdVAtc084cWhHQmV3R1A?oc=5",
-   "source": "코리아리포트",
-   "date": "2026-11-26",
-   "datetime": "2026-11-26 23:53 KST",
-   "signal": {
-    "cls": "flat",
-    "label": "중립",
-    "emoji": "⚪"
-   },
-   "summary": "삼성전자·SK하이닉스 특별배당이 커버드콜 ETF 분배에 반영된다는 코리아리포트 기사(11/26 23:53, 제목 기준, 반영 규모는 확인 불가)."
   }
  ]
 }
